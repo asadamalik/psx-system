@@ -377,8 +377,8 @@ footer.disclaimer{color:var(--text-4); font-size:11.5px; text-align:center; padd
       <div class="scr-controls">
         <div class="seg" id="scrMin">
           <button data-min="0" class="active">All</button>
-          <button data-min="6">Overall &ge;6</button>
-          <button data-min="7">&ge;7</button>
+          <button data-min="65">Overall &ge;65</button>
+          <button data-min="80">&ge;80</button>
         </div>
         <button class="scr-toggle" id="scrShariah"><span class="s-badge">S</span> Shariah only</button>
       </div>
@@ -1902,21 +1902,36 @@ document.getElementById('dtLinks').addEventListener('click', e=>{
 // ===== Screener =====
 let _scrData=null, _scrSort={key:'overall',dir:-1}, _scrMin=0, _scrShariahOnly=false;
 function _computeScreener(){
+  // Scores are on a 0-100 scale so they match each stock's detail page exactly.
+  // For engine stocks (those with an export) we surface the SAME engine scores the
+  // detail page shows (Fund-70/Tech-30 from real financials); otherwise we fall back
+  // to the technical-led blend used by the non-engine detail page.
   const rows=[];
   for(const sym of Object.keys(DATA.charts||{})){
     const ch=DATA.charts[sym];
     if(!ch||!ch.c||ch.c.length<30) continue;
     let A; try{ A=TA.analyze(ch); }catch(e){ continue; }
-    const f100=computeFundScore(DATA.companies&&DATA.companies[sym]);
-    const tech=A.score;                       // 0-10
-    const fund=f100!=null?+(f100/10).toFixed(1):null;
-    const overall=fund!=null?+(0.55*tech+0.45*fund).toFixed(1):+tech.toFixed(1);
-    rows.push({sym,tech:+tech.toFixed(1),fund,overall,outlook:A.outlook,px:A.px,
+    const es=DATA.external&&DATA.external[sym]&&DATA.external[sym].scores;
+    let tech,fund,overall,engine;
+    if(es&&es.overall_score!=null){
+      engine=true;
+      tech = es.technical_score!=null?+es.technical_score.toFixed(1):null;
+      fund = es.fundamental_score!=null?+es.fundamental_score.toFixed(1):null;
+      overall = +es.overall_score.toFixed(1);
+    } else {
+      engine=false;
+      const f100=computeFundScore(DATA.companies&&DATA.companies[sym]);
+      const tech100=+(A.score*10).toFixed(1);   // TA.analyze score is 0-10 -> 0-100
+      tech=tech100;
+      fund=f100!=null?+f100.toFixed(1):null;
+      overall=fund!=null?+(0.55*tech100+0.45*fund).toFixed(1):tech100;
+    }
+    rows.push({sym,tech,fund,overall,outlook:A.outlook,px:A.px,engine,
       shariah:!!(DATA.shariah&&DATA.shariah[sym]), hasF:fund!=null});
   }
   return rows;
 }
-function _scol(v){return v==null?'var(--text-4)':v>=6.5?'var(--up)':v>=4.5?'var(--accent)':'var(--down)';}
+function _scol(v){return v==null?'var(--text-4)':v>=65?'var(--up)':v>=45?'var(--accent)':'var(--down)';}
 function renderScreener(){
   const body=document.getElementById('scrBody');
   if(!_scrData){ body.innerHTML='<div class="scr-empty">Scanning your universe\u2026</div>';
@@ -1944,7 +1959,7 @@ function _paintScreener(){
     +'<th data-k="outlook" class="hide-sm">Outlook</th>'
     +'<th data-k="px" class="hide-sm">Price'+arrow('px')+'</th></tr></thead><tbody>';
   rows.forEach((r,i)=>{
-    const strong=r.tech>=6.5&&r.fund!=null&&r.fund>=6.5;
+    const strong=r.tech!=null&&r.tech>=65&&r.fund!=null&&r.fund>=65;
     const badge=r.shariah?'<span class="sh-mini" title="Shariah-compliant"><span class="s-badge">S</span></span>':'';
     const sc=(v)=>'<span class="scr-score" style="color:'+_scol(v)+';background:'+_scol(v)+'1a">'+(v==null?'\u2014':v.toFixed(1))+'</span>';
     html+='<tr data-sym="'+r.sym+'"'+(strong?' class="strong"':'')+'>'
