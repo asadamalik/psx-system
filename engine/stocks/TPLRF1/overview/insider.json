@@ -1,0 +1,393 @@
+{
+  "source": "sarmaaya.pk (insider transactions, #insider-transactions table)",
+  "as_of": "2026-06-28",
+  "transactions": [
+    {
+      "date": "2026-06-24",
+      "person": "TPL Properties Limited",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 13700517,
+      "price": 9.9,
+      "value": 135635118
+    },
+    {
+      "date": "2026-06-16",
+      "person": "TPL Properties Limited",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 17294500,
+      "price": 9.57,
+      "value": 165508365
+    },
+    {
+      "date": "2026-06-12",
+      "person": "TPL Properties Limited",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 10810196,
+      "price": 8.1,
+      "value": 87562588
+    },
+    {
+      "date": "2026-06-11",
+      "person": "Mohammad Ali Jameel",
+      "role": "Non-Executive Director",
+      "action": "Sell",
+      "shares": 5415000,
+      "price": 7.9,
+      "value": 42778500
+    },
+    {
+      "date": "2026-06-11",
+      "person": "Mohammad Ali Jameel",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 5415000,
+      "price": 7.9,
+      "value": 42778500
+    },
+    {
+      "date": "2026-06-11",
+      "person": "Mohammad Ali Jameel",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 5415000,
+      "price": 8.13,
+      "value": 44023950
+    },
+    {
+      "date": "2026-05-29",
+      "person": "Muhammad Ali Jameel",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 18189000,
+      "price": 8.35,
+      "value": 151878150
+    },
+    {
+      "date": "2026-05-29",
+      "person": "Mohammad Ali Jameel",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 43011581,
+      "price": 8.12,
+      "value": 349254038
+    },
+    {
+      "date": "2026-05-18",
+      "person": "Mohammad Ali Jameel",
+      "role": "Non-Executive Director",
+      "action": "Sell",
+      "shares": 9915000,
+      "price": 7.98,
+      "value": 79121700
+    },
+    {
+      "date": "2026-05-18",
+      "person": "Mohammad Ali Jameel",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 9915000,
+      "price": 7.91,
+      "value": 78427650
+    },
+    {
+      "date": "2026-05-13",
+      "person": "Mohammad Ali",
+      "role": "Non Executive Director",
+      "action": "Sell",
+      "shares": 12435999,
+      "price": 7.81,
+      "value": 97125152
+    },
+    {
+      "date": "2026-05-13",
+      "person": "Mohammad Ali",
+      "role": "Non Executive Director",
+      "action": "Buy",
+      "shares": 9915000,
+      "price": 7.96,
+      "value": 78923400
+    },
+    {
+      "date": "2026-05-13",
+      "person": "TPL Properties Limited",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 1500000,
+      "price": 7.86,
+      "value": 11790000
+    },
+    {
+      "date": "2026-05-08",
+      "person": "TPL Properties Limited",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 32150000,
+      "price": 8.24,
+      "value": 264916000
+    },
+    {
+      "date": "2026-05-08",
+      "person": "TPL Properties Limited",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 17890000,
+      "price": 8.28,
+      "value": 148129200
+    },
+    {
+      "date": "2026-04-23",
+      "person": "TPL Properties Limited",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 4981128,
+      "price": 7.88,
+      "value": 39251289
+    },
+    {
+      "date": "2026-04-16",
+      "person": "TPL Properties Limited",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 3673892,
+      "price": 7.96,
+      "value": 29244180
+    },
+    {
+      "date": "2026-03-31",
+      "person": "TPL Properties Limited",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 6500000,
+      "price": 8.31,
+      "value": 54015000
+    },
+    {
+      "date": "2026-03-31",
+      "person": "TPL Properties Limited",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 6500000,
+      "price": 8.3,
+      "value": 53950000
+    },
+    {
+      "date": "2026-03-11",
+      "person": "TPL Properties Limited",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 1475000,
+      "price": 9.0,
+      "value": 13275000
+    },
+    {
+      "date": "2026-03-04",
+      "person": "TPL Properties Limited",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 3494700,
+      "price": 9.99,
+      "value": 34912053
+    },
+    {
+      "date": "2026-03-04",
+      "person": "TPL Properties Limited",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 3500000,
+      "price": 9.92,
+      "value": 34720000
+    },
+    {
+      "date": "2026-02-27",
+      "person": "TPL Properties Limited",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 1600000,
+      "price": 10.27,
+      "value": 16432000
+    },
+    {
+      "date": "2026-01-05",
+      "person": "TPL Properties Limited",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 2400000,
+      "price": 10.5,
+      "value": 25200000
+    },
+    {
+      "date": "2025-12-29",
+      "person": "TPL Properties LImited",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 10000000,
+      "price": 10.5,
+      "value": 105000000
+    },
+    {
+      "date": "2025-12-29",
+      "person": "TPL Properties LImited",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 4350000,
+      "price": 10.39,
+      "value": 45196500
+    },
+    {
+      "date": "2025-10-01",
+      "person": "TPL Properties Limited",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 1000000,
+      "price": 15.52,
+      "value": 15520000
+    },
+    {
+      "date": "2025-09-19",
+      "person": "TPL Properties Limited",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 35000000,
+      "price": 12.85,
+      "value": 449750000
+    },
+    {
+      "date": "2025-09-19",
+      "person": "Muhammad Ali Jameel",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 35000000,
+      "price": 12.85,
+      "value": 449750000
+    },
+    {
+      "date": "2025-09-18",
+      "person": "Mohammad Ali Jameel",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 6451613,
+      "price": 7.91,
+      "value": 51032259
+    },
+    {
+      "date": "2025-09-18",
+      "person": "Mohammad Ali Jameel",
+      "role": "Non-Executive Director",
+      "action": "Sell",
+      "shares": 6451613,
+      "price": 7.75,
+      "value": 50000001
+    },
+    {
+      "date": "2025-09-11",
+      "person": "Muhammad Ali Jameel",
+      "role": "Non-Executive Director",
+      "action": "Sell",
+      "shares": 6451613,
+      "price": 7.75,
+      "value": 50000001
+    },
+    {
+      "date": "2025-09-11",
+      "person": "Muhammad Ali Jameel",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 6451613,
+      "price": 7.91,
+      "value": 51032259
+    },
+    {
+      "date": "2025-09-05",
+      "person": "TPL Properties Limited",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 1500000,
+      "price": 14.5,
+      "value": 21750000
+    },
+    {
+      "date": "2025-08-12",
+      "person": "Mohammad Ali Jameel",
+      "role": "Non-Executive Director",
+      "action": "Sell",
+      "shares": 6451613,
+      "price": 6.61,
+      "value": 42645162
+    },
+    {
+      "date": "2025-08-12",
+      "person": "Mohammad Ali Jameel",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 6451613,
+      "price": 7.91,
+      "value": 51032259
+    },
+    {
+      "date": "2025-08-12",
+      "person": "Mohammad Ali Jameel",
+      "role": "Non-Executive Director",
+      "action": "Sell",
+      "shares": 6451613,
+      "price": 7.75,
+      "value": 50000001
+    },
+    {
+      "date": "2025-08-12",
+      "person": "Mohammad Ali Jameel",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 6451613,
+      "price": 7.75,
+      "value": 50000001
+    },
+    {
+      "date": "2025-08-12",
+      "person": "TPL Properties Limited",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 6451613,
+      "price": 7.75,
+      "value": 50000001
+    },
+    {
+      "date": "2025-07-18",
+      "person": "Mohammad Ali Jameel",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 3850000,
+      "price": 13.25,
+      "value": 51012500
+    },
+    {
+      "date": "2025-04-25",
+      "person": "Mohammad Ali Jameel",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 1132,
+      "price": 13.9,
+      "value": 15735
+    },
+    {
+      "date": "2025-03-27",
+      "person": "Mohammad Ali Jameel",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 10998868,
+      "price": 13.54,
+      "value": 148924673
+    },
+    {
+      "date": "2025-03-27",
+      "person": "TPL Properties Limited",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 110000000,
+      "price": 13.5,
+      "value": 1485000000
+    }
+  ]
+}

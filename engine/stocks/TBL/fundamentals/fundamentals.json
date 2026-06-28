@@ -1,0 +1,472 @@
+{
+  "symbol": "TBL",
+  "income_statement_annual": {
+    "revenue": {
+      "2025": 8843.791,
+      "2024": 8733.322
+    },
+    "net_income": {
+      "2025": 40.426,
+      "2024": -376.717
+    },
+    "eps": {
+      "2025": 0.05,
+      "2024": -0.43
+    }
+  },
+  "balance_sheet_annual": {},
+  "cashflow_annual": {},
+  "income_statement_quarterly": {
+    "revenue": {
+      "2026-09": 1490.971,
+      "2026-06": 1650.489,
+      "2026-03": 1870.804,
+      "2025-09": 1430.699
+    },
+    "net_income": {
+      "2026-09": -64.988,
+      "2026-06": 137.448,
+      "2026-03": -117.982,
+      "2025-09": -38.389
+    },
+    "eps": {
+      "2026-09": -0.06,
+      "2026-06": 0.13,
+      "2026-03": -0.05,
+      "2025-09": -0.04
+    }
+  },
+  "balance_sheet_quarterly": {},
+  "cashflow_quarterly": {},
+  "ratios": {
+    "pe_ratio": 40.52,
+    "price_to_book": null,
+    "roe": null,
+    "roa": null,
+    "gross_margin": null,
+    "industry_pe": 20.05,
+    "industry_pb": 11.1
+  },
+  "earnings": {
+    "source": "stockanalysis.com (statistics + quarterly)",
+    "as_of": "2026-06-28",
+    "latest_eps": -0.06,
+    "eps_ttm": -0.02,
+    "next_earnings_date": null,
+    "history": [
+      {
+        "period_end": "Sep 2026",
+        "eps": -0.06,
+        "eps_forecast": null,
+        "eps_surprise_pct": null
+      },
+      {
+        "period_end": "Jun 2026",
+        "eps": 0.13,
+        "eps_forecast": null,
+        "eps_surprise_pct": null
+      },
+      {
+        "period_end": "Mar 2026",
+        "eps": -0.05,
+        "eps_forecast": null,
+        "eps_surprise_pct": null
+      },
+      {
+        "period_end": "Sep 2025",
+        "eps": -0.04,
+        "eps_forecast": null,
+        "eps_surprise_pct": null
+      }
+    ]
+  },
+  "dividends": {
+    "source": "stockanalysis.com (statistics + dividend page)",
+    "as_of": "2026-06-28",
+    "yield": null,
+    "per_share_ttm": null,
+    "payout_ratio": null,
+    "history": []
+  },
+  "overview": {
+    "company_name": "Treet Battery Limited.",
+    "sector": "Automobile Parts & Accessories",
+    "industry": "Automobile Parts & Accessories",
+    "market_cap": 11843.6,
+    "shares_outstanding": 1082.59,
+    "current_price": 10.94,
+    "currency": "PKR"
+  },
+  "profile": {},
+  "ownership": {},
+  "announcements": {},
+  "insider": {
+    "source": "sarmaaya.pk (insider transactions, #insider-transactions table)",
+    "as_of": "2026-06-28",
+    "transactions": [
+      {
+        "date": "2026-05-14",
+        "person": "Haroon Latif Khan",
+        "role": "Independent Director",
+        "action": "Buy",
+        "shares": 1,
+        "price": 9.61,
+        "value": 10
+      },
+      {
+        "date": "2026-05-08",
+        "person": "Ahmad shahid Hussain",
+        "role": "Independent Director",
+        "action": "Buy",
+        "shares": 1,
+        "price": 9.26,
+        "value": 9
+      },
+      {
+        "date": "2026-05-08",
+        "person": "Muhammad Majid Munir",
+        "role": "Non-Executive Director",
+        "action": "Buy",
+        "shares": 1,
+        "price": 9.26,
+        "value": 9
+      },
+      {
+        "date": "2026-05-08",
+        "person": "Zunaira Dar",
+        "role": "Non-Executive Director",
+        "action": "Buy",
+        "shares": 1,
+        "price": 9.29,
+        "value": 9
+      },
+      {
+        "date": "2026-04-21",
+        "person": "Treet Corporation Limited",
+        "role": "Substantial Shareholder",
+        "action": "Sell",
+        "shares": 56325000,
+        "price": 10.0,
+        "value": 563250000
+      },
+      {
+        "date": "2026-04-14",
+        "person": "Treet Corporation Limited",
+        "role": "Substantial Shareholder",
+        "action": "Sell",
+        "shares": 2267347,
+        "price": 10.12,
+        "value": 22945552
+      },
+      {
+        "date": "2025-10-03",
+        "person": "Treet Corporation Limited",
+        "role": "Substantial Shareholder",
+        "action": "Sell",
+        "shares": 5154188,
+        "price": 14.09,
+        "value": 72622509
+      },
+      {
+        "date": "2025-09-25",
+        "person": "Treet Corporation Limited",
+        "role": "Substantial Shareholder",
+        "action": "Sell",
+        "shares": 9402815,
+        "price": 13.85,
+        "value": 130228988
+      },
+      {
+        "date": "2025-09-22",
+        "person": "Treet Corporation Limited",
+        "role": "Substantial Shareholder",
+        "action": "Sell",
+        "shares": 7098374,
+        "price": 13.8,
+        "value": 97957561
+      },
+      {
+        "date": "2025-09-16",
+        "person": "Treet Corporation Limited",
+        "role": "Substantial Shareholder",
+        "action": "Sell",
+        "shares": 7468433,
+        "price": 14.06,
+        "value": 105006168
+      },
+      {
+        "date": "2025-09-16",
+        "person": "Treet Corporation Limited",
+        "role": "Substantial Shareholder",
+        "action": "Sell",
+        "shares": 14327904,
+        "price": 13.95,
+        "value": 199874261
+      },
+      {
+        "date": "2025-04-22",
+        "person": "Treet Corporation Limited",
+        "role": "Substantial Shareholder",
+        "action": "Sell",
+        "shares": 2040219,
+        "price": 12.72,
+        "value": 25951586
+      },
+      {
+        "date": "2025-04-17",
+        "person": "Treet Corporation Limited",
+        "role": "Substantial Shareholder",
+        "action": "Sell",
+        "shares": 172829,
+        "price": 12.77,
+        "value": 2207026
+      },
+      {
+        "date": "2025-04-11",
+        "person": "Treet Corporation Limited",
+        "role": "Substantial Shareholder",
+        "action": "Sell",
+        "shares": 113285,
+        "price": 12.23,
+        "value": 1385476
+      },
+      {
+        "date": "2025-04-07",
+        "person": "Treet Corporation Limited",
+        "role": "Substantial Shareholder",
+        "action": "Sell",
+        "shares": 947304,
+        "price": 13.24,
+        "value": 12542305
+      },
+      {
+        "date": "2025-04-03",
+        "person": "Treet Corporation Limited",
+        "role": "Substantial Shareholder",
+        "action": "Sell",
+        "shares": 725000,
+        "price": 13.32,
+        "value": 9657000
+      },
+      {
+        "date": "2025-03-25",
+        "person": "Treet Corporation Limited",
+        "role": "Substantial Shareholder",
+        "action": "Sell",
+        "shares": 11140329,
+        "price": 13.58,
+        "value": 151285668
+      },
+      {
+        "date": "2025-03-19",
+        "person": "Treet Corporation Limited",
+        "role": "Substantial Shareholder",
+        "action": "Buy",
+        "shares": 2898929,
+        "price": 13.5,
+        "value": 39135542
+      },
+      {
+        "date": "2025-03-17",
+        "person": "Treet Corporation Limited",
+        "role": "Substantial Shareholder",
+        "action": "Sell",
+        "shares": 795149,
+        "price": 13.69,
+        "value": 10885590
+      },
+      {
+        "date": "2025-03-11",
+        "person": "Treet Corporation Limited",
+        "role": "Substantial Shareholder",
+        "action": "Sell",
+        "shares": 479580,
+        "price": 13.75,
+        "value": 6594225
+      },
+      {
+        "date": "2025-03-07",
+        "person": "Treet Corporation Limited",
+        "role": "Substantial Shareholder",
+        "action": "Sell",
+        "shares": 474721,
+        "price": 13.91,
+        "value": 6603369
+      },
+      {
+        "date": "2025-03-03",
+        "person": "Treet Corporation Limited",
+        "role": "Substantial Shareholder",
+        "action": "Sell",
+        "shares": 1464204,
+        "price": 85.34,
+        "value": 124955169
+      },
+      {
+        "date": "2024-11-22",
+        "person": "Treet Corporation Limited",
+        "role": "Substantial Shareholder",
+        "action": "Sell",
+        "shares": 1461959,
+        "price": 15.38,
+        "value": 22484929
+      },
+      {
+        "date": "2024-09-12",
+        "person": "Treet Corporation Limited",
+        "role": "Substantial Shareholder",
+        "action": "Sell",
+        "shares": 2299028,
+        "price": 17.03,
+        "value": 39152447
+      },
+      {
+        "date": "2024-08-27",
+        "person": "Treet Corporation Limited",
+        "role": "Substantial Shareholder",
+        "action": "Sell",
+        "shares": 1919644,
+        "price": 18.54,
+        "value": 35590200
+      },
+      {
+        "date": "2024-08-21",
+        "person": "Treet Corporation Limited",
+        "role": "Substantial Shareholder",
+        "action": "Sell",
+        "shares": 2053890,
+        "price": 19.09,
+        "value": 39208760
+      },
+      {
+        "date": "2024-08-20",
+        "person": "Treet Corporation Limited",
+        "role": "Substantial Shareholder",
+        "action": "Sell",
+        "shares": 797965,
+        "price": 18.6,
+        "value": 14842149
+      },
+      {
+        "date": "2024-08-13",
+        "person": "Treet Corporation Limited",
+        "role": "Substantial Shareholder",
+        "action": "Sell",
+        "shares": 955000,
+        "price": 18.84,
+        "value": 17992200
+      },
+      {
+        "date": "2024-08-08",
+        "person": "Treet Corporation Limited",
+        "role": "Substantial Shareholder",
+        "action": "Sell",
+        "shares": 291484,
+        "price": 18.9,
+        "value": 5509048
+      },
+      {
+        "date": "2024-07-25",
+        "person": "Treet Corporation Limited",
+        "role": "Substantial Shareholder",
+        "action": "Sell",
+        "shares": 436530,
+        "price": 21.91,
+        "value": 9564372
+      },
+      {
+        "date": "2024-07-25",
+        "person": "Treet Corporation Limited",
+        "role": "Substantial Shareholder",
+        "action": "Sell",
+        "shares": 436530,
+        "price": 21.91,
+        "value": 9564372
+      },
+      {
+        "date": "2024-07-24",
+        "person": "Treet Corporation Limited",
+        "role": "Substantial Shareholder",
+        "action": "Sell",
+        "shares": 104218,
+        "price": 22.94,
+        "value": 2390761
+      },
+      {
+        "date": "2024-07-15",
+        "person": "Treet Corporation Limited",
+        "role": "Substantial Shareholder",
+        "action": "Sell",
+        "shares": 3886589,
+        "price": 23.53,
+        "value": 91451439
+      },
+      {
+        "date": "2024-07-10",
+        "person": "Treet Corporation Limited",
+        "role": "Substantial Shareholder",
+        "action": "Sell",
+        "shares": 1601598,
+        "price": 24.22,
+        "value": 38790704
+      },
+      {
+        "date": "2024-07-03",
+        "person": "Treet Corporation Limited",
+        "role": "Substantial Shareholder",
+        "action": "Sell",
+        "shares": 143005,
+        "price": 19.73,
+        "value": 2821489
+      },
+      {
+        "date": "2024-06-25",
+        "person": "Treet Corporation Limited",
+        "role": "Substantial Shareholder",
+        "action": "Sell",
+        "shares": 740078,
+        "price": 20.59,
+        "value": 15238206
+      },
+      {
+        "date": "2024-06-14",
+        "person": "Treet Corporation Limited",
+        "role": "Substantial Shareholder",
+        "action": "Sell",
+        "shares": 257070,
+        "price": 20.98,
+        "value": 5393329
+      },
+      {
+        "date": "2024-05-30",
+        "person": "Treet Corporation Limited",
+        "role": "Substantial Shareholder",
+        "action": "Sell",
+        "shares": 300000,
+        "price": 23.46,
+        "value": 7038000
+      },
+      {
+        "date": "2024-05-24",
+        "person": "Treet Corporation Limited",
+        "role": "Substantial Shareholder",
+        "action": "Sell",
+        "shares": 177500,
+        "price": 25.44,
+        "value": 4515600
+      },
+      {
+        "date": "2024-05-10",
+        "person": "Treet Corporation Limited",
+        "role": "Substantial Shareholder",
+        "action": "Sell",
+        "shares": 2453000,
+        "price": 27.07,
+        "value": 66402710
+      }
+    ]
+  },
+  "shareholding": {},
+  "fipi": {},
+  "monthly_sales": {}
+}

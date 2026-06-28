@@ -1,0 +1,63 @@
+{
+  "symbol": "ITANZ",
+  "growth": {
+    "revenue_growth_5y": 0.302794604945958,
+    "net_income_growth_5y": null,
+    "equity_growth_5y": null,
+    "debt_change_5y": null
+  },
+  "latest": {
+    "revenue": 441.521,
+    "net_income": null,
+    "equity": null,
+    "total_assets": null,
+    "total_debt": null,
+    "operating_cash_flow": null,
+    "capex": null
+  },
+  "metrics": {
+    "revenue_growth_5y": 0.302794604945958,
+    "net_income_growth_5y": null,
+    "eps_growth": null,
+    "sales_growth": 0.302794604945958,
+    "roe": null,
+    "roa": null,
+    "gross_margin": null,
+    "operating_margin": null,
+    "net_margin": null,
+    "debt_to_equity": null,
+    "current_ratio": null,
+    "interest_coverage": null,
+    "fcf_margin": null,
+    "pe_ratio": 6.22,
+    "price_to_book": null,
+    "peg": null
+  },
+  "extended": {
+    "effective_tax_rate": 0.29,
+    "roic": null,
+    "quick_ratio": null,
+    "ps_ratio": 9.607184046033057,
+    "ev_ebitda": null,
+    "peg": null,
+    "revenue_cagr_3y": 0.302794604945958,
+    "net_income_cagr_3y": null,
+    "eps_cagr_3y": 1.038208117395628,
+    "revenue_qoq": 1.0191008982102658,
+    "revenue_yoy": null,
+    "eps_qoq": 1.0363636363636364,
+    "eps_yoy": null,
+    "ocf_cagr_5y": null,
+    "fcf_cagr_5y": null,
+    "cash_conversion": null,
+    "ttm_revenue": 487.30199999999996,
+    "ttm_net_income": null,
+    "dividend_last_year": null,
+    "dividend_latest_annual": null
+  },
+  "derived": {
+    "free_cash_flow": null,
+    "market_cap": 4681.6,
+    "current_price": 43.42
+  }
+}

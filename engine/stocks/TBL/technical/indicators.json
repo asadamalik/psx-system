@@ -1,0 +1,63 @@
+{
+  "as_of": "2026-06-24",
+  "bars": 624,
+  "close": 10.94,
+  "sma_20": 10.595,
+  "sma_50": 10.0062,
+  "sma_200": 11.439250000000001,
+  "ema_20": 10.567578078499507,
+  "ema_50": 10.263110243663972,
+  "ema_100": 10.448747690944034,
+  "ema_200": 11.213839809605137,
+  "obv": 138977705.0,
+  "weekly_trend": "Up",
+  "monthly_trend": "Up",
+  "support_resistance": {
+    "price": 10.94,
+    "nearest_resistance": 11.16,
+    "nearest_support": 9.41,
+    "resistance_levels": [
+      11.16,
+      13.01,
+      13.8
+    ],
+    "support_levels": [
+      9.41,
+      8.84,
+      8.05
+    ]
+  },
+  "rsi_14": 59.84107224594662,
+  "macd": 0.25099186655679695,
+  "macd_signal": 0.26348629244179417,
+  "macd_hist": -0.012494425884997218,
+  "adx_14": 20.600007780615552,
+  "plus_di": 33.167029676679036,
+  "minus_di": 22.318222293056245,
+  "atr_14": 0.25914026007624635,
+  "bb_upper": 11.274190694866844,
+  "bb_lower": 9.915809305133157,
+  "week52_high": 14.95,
+  "week52_low": 8.05,
+  "rsi_divergence": {
+    "type": "bearish",
+    "label": "Bearish RSI divergence",
+    "note": "Price made a higher high (10.82\u219211.09) while RSI made a lower high (66.6\u219265.0) \u2014 upward momentum is fading; watch for a pullback.",
+    "price_from": 10.82,
+    "price_to": 11.09,
+    "rsi_from": 66.6,
+    "rsi_to": 65.0,
+    "bars_ago": 6
+  },
+  "patterns": [
+    {
+      "name": "Bull Flag",
+      "type": "bullish",
+      "confidence": 0.53,
+      "status": "forming",
+      "neckline": 11.09,
+      "target": 12.21,
+      "note": "Strong pole then tight consolidation; bullish continuation bias."
+    }
+  ]
+}

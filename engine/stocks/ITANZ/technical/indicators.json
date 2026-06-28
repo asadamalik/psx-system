@@ -1,0 +1,45 @@
+{
+  "as_of": "2026-06-24",
+  "bars": 86,
+  "close": 43.42,
+  "sma_20": 46.2455,
+  "sma_50": 37.922200000000004,
+  "sma_200": null,
+  "ema_20": 44.74459134975693,
+  "ema_50": 39.2951639787152,
+  "ema_100": null,
+  "ema_200": null,
+  "obv": 34258725.0,
+  "weekly_trend": "Up",
+  "monthly_trend": "n/a",
+  "support_resistance": {
+    "price": 43.42,
+    "nearest_resistance": 44.48,
+    "nearest_support": 31.94,
+    "resistance_levels": [
+      44.48,
+      53.5
+    ],
+    "support_levels": [
+      31.94,
+      29.93,
+      28.88
+    ]
+  },
+  "rsi_14": 50.15933631828461,
+  "macd": 2.4301702994370373,
+  "macd_signal": 3.394020389974191,
+  "macd_hist": -0.9638500905371536,
+  "adx_14": 33.98539250951551,
+  "plus_di": 40.541815668884134,
+  "minus_di": 31.26064061640447,
+  "atr_14": 2.156291626479841,
+  "bb_upper": 52.36801410778286,
+  "bb_lower": 40.12298589221714,
+  "week52_high": 53.5,
+  "week52_low": 9.49,
+  "rsi_divergence": {
+    "type": null
+  },
+  "patterns": []
+}

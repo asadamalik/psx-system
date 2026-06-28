@@ -1,0 +1,167 @@
+{
+  "symbol": "ITANZ",
+  "income_statement_annual": {
+    "revenue": {
+      "2025": 441.521,
+      "2024": 338.903
+    },
+    "eps": {
+      "2025": 34.97,
+      "2024": 16.06,
+      "2023": -0.08,
+      "2022": 4.13
+    }
+  },
+  "balance_sheet_annual": {},
+  "cashflow_annual": {},
+  "income_statement_quarterly": {
+    "revenue": {
+      "2026-09": 181.182,
+      "2026-06": 89.734,
+      "2026-03": 89.734,
+      "2025-09": 126.652
+    },
+    "eps": {
+      "2026-09": 1.12,
+      "2026-06": 0.55,
+      "2026-03": 0.55,
+      "2025-09": 2.78
+    }
+  },
+  "balance_sheet_quarterly": {},
+  "cashflow_quarterly": {},
+  "ratios": {
+    "pe_ratio": 6.22,
+    "price_to_book": null,
+    "roe": null,
+    "roa": null,
+    "gross_margin": null,
+    "industry_pe": 6.04,
+    "industry_pb": 1.01
+  },
+  "earnings": {
+    "source": "stockanalysis.com (statistics + quarterly)",
+    "as_of": "2026-06-28",
+    "latest_eps": 1.12,
+    "eps_ttm": 5.0,
+    "next_earnings_date": null,
+    "history": [
+      {
+        "period_end": "Sep 2026",
+        "eps": 1.12,
+        "eps_forecast": null,
+        "eps_surprise_pct": null
+      },
+      {
+        "period_end": "Jun 2026",
+        "eps": 0.55,
+        "eps_forecast": null,
+        "eps_surprise_pct": null
+      },
+      {
+        "period_end": "Mar 2026",
+        "eps": 0.55,
+        "eps_forecast": null,
+        "eps_surprise_pct": null
+      },
+      {
+        "period_end": "Sep 2025",
+        "eps": 2.78,
+        "eps_forecast": null,
+        "eps_surprise_pct": null
+      }
+    ]
+  },
+  "dividends": {
+    "source": "stockanalysis.com (statistics + dividend page)",
+    "as_of": "2026-06-28",
+    "yield": null,
+    "per_share_ttm": null,
+    "payout_ratio": null,
+    "history": []
+  },
+  "overview": {
+    "company_name": "Itanz Technologies Limited",
+    "sector": "Technology & Communication",
+    "industry": "Technology & Communication",
+    "market_cap": 4681.6,
+    "shares_outstanding": 107.82,
+    "current_price": 43.42,
+    "currency": "PKR"
+  },
+  "profile": {},
+  "ownership": {},
+  "announcements": {},
+  "insider": {
+    "source": "sarmaaya.pk (insider transactions, #insider-transactions table)",
+    "as_of": "2026-06-28",
+    "transactions": [
+      {
+        "date": "2026-06-24",
+        "person": "Muhammad Ismail Ajmal",
+        "role": "Substantial Shareholder",
+        "action": "Sell",
+        "shares": 400000,
+        "price": 49.59,
+        "value": 19836000
+      },
+      {
+        "date": "2026-06-19",
+        "person": "Muhammad Ismail Ajmal",
+        "role": "Substantial Shareholder",
+        "action": "Sell",
+        "shares": 200000,
+        "price": 52.0,
+        "value": 10400000
+      },
+      {
+        "date": "2026-03-24",
+        "person": "Iram Masood",
+        "role": "Substantial Shareholder",
+        "action": "Sell",
+        "shares": 700000,
+        "price": 26.0,
+        "value": 18200000
+      },
+      {
+        "date": "2026-03-19",
+        "person": "Iram Masood",
+        "role": "Substantial Shareholder",
+        "action": "Sell",
+        "shares": 1000000,
+        "price": 26.0,
+        "value": 26000000
+      },
+      {
+        "date": "2026-03-19",
+        "person": "Iram Masood",
+        "role": "Substantial Shareholder",
+        "action": "Sell",
+        "shares": 4410793,
+        "price": 26.53,
+        "value": 117018338
+      },
+      {
+        "date": "2026-03-18",
+        "person": "Iram Masood",
+        "role": "Substantial Shareholder",
+        "action": "Sell",
+        "shares": 4410793,
+        "price": 26.53,
+        "value": 117018338
+      },
+      {
+        "date": "2026-03-10",
+        "person": "Iram Masood",
+        "role": "Substantial Shareholder",
+        "action": "Sell",
+        "shares": 1000000,
+        "price": 25.57,
+        "value": 25570000
+      }
+    ]
+  },
+  "shareholding": {},
+  "fipi": {},
+  "monthly_sales": {}
+}

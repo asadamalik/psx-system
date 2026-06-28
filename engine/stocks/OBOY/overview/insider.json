@@ -1,0 +1,78 @@
+{
+  "source": "sarmaaya.pk (insider transactions, #insider-transactions table)",
+  "as_of": "2026-06-28",
+  "transactions": [
+    {
+      "date": "2026-01-14",
+      "person": "Inam ullah",
+      "role": "Senior Management",
+      "action": "Sell",
+      "shares": 4500,
+      "price": 13.31,
+      "value": 59895
+    },
+    {
+      "date": "2025-12-10",
+      "person": "Khawaja Usman Arif",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 468000,
+      "price": 9.89,
+      "value": 4628520
+    },
+    {
+      "date": "2025-09-30",
+      "person": "Khawaja Usman Arif",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 196544,
+      "price": 9.02,
+      "value": 1772827
+    },
+    {
+      "date": "2024-03-12",
+      "person": "Inam Ullah",
+      "role": "Senior management",
+      "action": "Sell",
+      "shares": 1000,
+      "price": 5.65,
+      "value": 5650
+    },
+    {
+      "date": "2022-02-10",
+      "person": "Amir Zia",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 200,
+      "price": 22.85,
+      "value": 4570
+    },
+    {
+      "date": "2022-01-14",
+      "person": "Khalid Waheed",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 1000,
+      "price": 19.66,
+      "value": 19660
+    },
+    {
+      "date": "2014-06-22",
+      "person": "Inam Ullah",
+      "role": "Senior Management",
+      "action": "Sell",
+      "shares": 250,
+      "price": 1.69,
+      "value": 422
+    },
+    {
+      "date": "2014-06-22",
+      "person": "Inam Ullah",
+      "role": "Senior Management",
+      "action": "Sell",
+      "shares": 8000,
+      "price": 1.76,
+      "value": 14080
+    }
+  ]
+}

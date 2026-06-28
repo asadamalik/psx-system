@@ -1,0 +1,80 @@
+# Big Bird Foods Limited (BBFL) — Analysis Report
+*Generated 2026-06-28 17:25* · Sector: Food & Personal Care Products  
+*Decision-support only — not financial advice.*
+
+## Verdict
+
+| | |
+|---|---|
+| **Overall score** | **73.4 / 100** |
+| **Rating** | **Buy** |
+| Risk | Low |
+| Fundamental score | 88.7 (70% weight) |
+| Technical score | 37.8 (30% weight) |
+| Trend / Momentum | Sideways / Neutral |
+
+## Fundamental Analysis
+
+### Pillar Scores
+
+| Pillar | Score | Weight |
+|---|---|---|
+| Growth | 100 | 30% |
+| Profitability | — | 30% |
+| Financial Strength | — | 25% |
+| Valuation | 66 | 15% |
+
+### Key Metrics
+
+| Metric | Value |
+|---|---|
+| Revenue growth (5Y CAGR) | 57.6% |
+| Net income growth (5Y CAGR) | — |
+| Equity growth (5Y CAGR) | — |
+| ROE | — |
+| ROA | — |
+| Gross margin | — |
+| Operating margin | — |
+| Net margin | — |
+| Debt / Equity | —× |
+| Current ratio | —× |
+| Interest coverage | —× |
+| FCF margin | — |
+| P/E | 10.73× |
+| Price / Book | —× |
+| PEG | — |
+
+### Latest Reported
+
+*Figures in millions of PKR.*
+
+| Item | Value |
+|---|---|
+| Revenue | 11,365 |
+| Net income | — |
+| Total equity | — |
+| Total debt | — |
+| Operating cash flow | — |
+| Free cash flow | — |
+
+## Technical Analysis
+
+As of **2026-06-24** (472 bars). Trend **Sideways**, momentum **Neutral**, technical score **37.8/100**.
+
+| Indicator | Value |
+|---|---|
+| Close | 45.38 |
+| SMA 20 / 50 / 200 | 45.63 / 44.09 / 46.87 |
+| EMA 20 / 50 | 45.51 / 44.29 |
+| RSI (14) | 51.47 |
+| MACD / signal | 0.59 / 0.80 |
+| ADX (14) | 15.51 |
+| DI+ / DI− | 31.47 / 30.65 |
+| ATR (14) | 0.79 |
+| 52-week high / low | 56.25 / 34.08 |
+
+Signals: Trend: Sideways; EMA20 > EMA50; ADX 15.5 (Weak); DI + dominant; RSI 51.5 (Neutral); MACD below signal; ⚠ Bearish RSI divergence (5 bars ago): Price made a higher high (46.03→47.32) while RSI made a lower high (65.1→65.0) — upward momentum is fading; watch for a pullback.
+
+## Notes
+
+> Scores are mechanical functions of the extracted data and the thresholds in `engine/config.py`. They ignore qualitative factors (management, sector cycle, news, guidance) and are not a recommendation to trade. Verify against primary filings.

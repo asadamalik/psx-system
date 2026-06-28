@@ -1,0 +1,244 @@
+{
+  "symbol": "GCIL",
+  "income_statement_annual": {
+    "revenue": {
+      "2025": 7435.42,
+      "2024": 5437.387,
+      "2023": 4332.196,
+      "2022": 4214.089
+    },
+    "net_income": {
+      "2025": 2016.195,
+      "2024": 785.807,
+      "2023": 507.891,
+      "2022": 870.449
+    },
+    "eps": {
+      "2025": 3.92,
+      "2024": 1.58,
+      "2023": 1.06,
+      "2022": 2.05
+    }
+  },
+  "balance_sheet_annual": {},
+  "cashflow_annual": {},
+  "income_statement_quarterly": {
+    "revenue": {
+      "2026-09": 2136.697,
+      "2026-06": 2012.242,
+      "2026-03": 1838.404,
+      "2025-09": 1668.32
+    },
+    "net_income": {
+      "2026-09": 703.854,
+      "2026-06": 694.551,
+      "2026-03": 528.448,
+      "2025-09": 514.237
+    },
+    "eps": {
+      "2026-09": 1.23,
+      "2026-06": 1.22,
+      "2026-03": 0.93,
+      "2025-09": 1.03
+    }
+  },
+  "balance_sheet_quarterly": {},
+  "cashflow_quarterly": {},
+  "ratios": {
+    "pe_ratio": 7.19,
+    "price_to_book": null,
+    "roe": null,
+    "roa": null,
+    "gross_margin": null,
+    "industry_pe": 8.88,
+    "industry_pb": 2.18
+  },
+  "earnings": {
+    "source": "stockanalysis.com (statistics + quarterly)",
+    "as_of": "2026-06-28",
+    "latest_eps": 1.23,
+    "eps_ttm": 4.41,
+    "next_earnings_date": null,
+    "history": [
+      {
+        "period_end": "Sep 2026",
+        "eps": 1.23,
+        "eps_forecast": null,
+        "eps_surprise_pct": null
+      },
+      {
+        "period_end": "Jun 2026",
+        "eps": 1.22,
+        "eps_forecast": null,
+        "eps_surprise_pct": null
+      },
+      {
+        "period_end": "Mar 2026",
+        "eps": 0.93,
+        "eps_forecast": null,
+        "eps_surprise_pct": null
+      },
+      {
+        "period_end": "Sep 2025",
+        "eps": 1.03,
+        "eps_forecast": null,
+        "eps_surprise_pct": null
+      }
+    ]
+  },
+  "dividends": {
+    "source": "stockanalysis.com (statistics + dividend page)",
+    "as_of": "2026-06-28",
+    "yield": null,
+    "per_share_ttm": null,
+    "payout_ratio": null,
+    "history": []
+  },
+  "overview": {
+    "company_name": "Ghani Chemical Industries Limited",
+    "sector": "Chemical",
+    "industry": "Chemical",
+    "market_cap": 19846.0,
+    "shares_outstanding": 570.45,
+    "current_price": 34.79,
+    "currency": "PKR"
+  },
+  "profile": {},
+  "ownership": {},
+  "announcements": {},
+  "insider": {
+    "source": "sarmaaya.pk (insider transactions, #insider-transactions table)",
+    "as_of": "2026-06-28",
+    "transactions": [
+      {
+        "date": "2026-02-17",
+        "person": "Shahnawaz Zafar",
+        "role": "Senior Management",
+        "action": "Sell",
+        "shares": 131180,
+        "price": 31.5,
+        "value": 4132170
+      },
+      {
+        "date": "2025-06-30",
+        "person": "Muhammad Hanif",
+        "role": "Non-Executive Director",
+        "action": "Sell",
+        "shares": 10000,
+        "price": 25.5,
+        "value": 255000
+      },
+      {
+        "date": "2025-05-26",
+        "person": "Shahnawaz Zafar",
+        "role": "Senior Management",
+        "action": "Sell",
+        "shares": 20000,
+        "price": 21.65,
+        "value": 433000
+      },
+      {
+        "date": "2025-05-16",
+        "person": "Muhammad Hanif",
+        "role": "Non-Executive Director",
+        "action": "Sell",
+        "shares": 46000,
+        "price": 19.15,
+        "value": 880900
+      },
+      {
+        "date": "2025-05-16",
+        "person": "Shahnawaz Zafar",
+        "role": "Senior Management",
+        "action": "Sell",
+        "shares": 170000,
+        "price": 19.04,
+        "value": 3236800
+      },
+      {
+        "date": "2024-04-22",
+        "person": "Bilal Butt",
+        "role": "Executive",
+        "action": "Sell",
+        "shares": 60000,
+        "price": 10.26,
+        "value": 615600
+      },
+      {
+        "date": "2024-04-18",
+        "person": "Bilal Butt",
+        "role": "Senior Management",
+        "action": "Sell",
+        "shares": 40000,
+        "price": 10.49,
+        "value": 419600
+      },
+      {
+        "date": "2024-04-08",
+        "person": "Bilal Butt",
+        "role": "Senior Management",
+        "action": "Sell",
+        "shares": 40000,
+        "price": 10.8,
+        "value": 432000
+      },
+      {
+        "date": "2024-03-15",
+        "person": "Bilal Butt",
+        "role": "Senior management",
+        "action": "Sell",
+        "shares": 20000,
+        "price": 10.5,
+        "value": 210000
+      },
+      {
+        "date": "2024-03-11",
+        "person": "Bilal Butt",
+        "role": "Senior management",
+        "action": "Sell",
+        "shares": 20000,
+        "price": 10.43,
+        "value": 208600
+      },
+      {
+        "date": "2024-03-07",
+        "person": "Bilal Butt",
+        "role": "Senior management",
+        "action": "Sell",
+        "shares": 35000,
+        "price": 10.35,
+        "value": 362250
+      },
+      {
+        "date": "2024-01-05",
+        "person": "Bilal Butt",
+        "role": "Senior Management",
+        "action": "Sell",
+        "shares": 110000,
+        "price": 12.75,
+        "value": 1402500
+      },
+      {
+        "date": "2022-12-16",
+        "person": "Hafiz Imran Lateef",
+        "role": "Non-Executive Director",
+        "action": "Sell",
+        "shares": 1879,
+        "price": 17.33,
+        "value": 32563
+      },
+      {
+        "date": "2022-12-16",
+        "person": "Hafiz Imran Lateef",
+        "role": "Non-Executive Director",
+        "action": "Sell",
+        "shares": 237,
+        "price": 15.93,
+        "value": 3775
+      }
+    ]
+  },
+  "shareholding": {},
+  "fipi": {},
+  "monthly_sales": {}
+}

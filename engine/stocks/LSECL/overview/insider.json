@@ -1,0 +1,186 @@
+{
+  "source": "sarmaaya.pk (insider transactions, #insider-transactions table)",
+  "as_of": "2026-06-28",
+  "transactions": [
+    {
+      "date": "2026-05-21",
+      "person": "Danish Elahi",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 2763500,
+      "price": 6.0,
+      "value": 16581000
+    },
+    {
+      "date": "2026-04-01",
+      "person": "Zahid Latif Khan Securities Pvt limited",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 5000000,
+      "price": 6.0,
+      "value": 30000000
+    },
+    {
+      "date": "2026-04-01",
+      "person": "Zahid Latif Khan Securities Pvt limited",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 5000000,
+      "price": 6.0,
+      "value": 30000000
+    },
+    {
+      "date": "2026-02-18",
+      "person": "Aftab Ahmad",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 500000,
+      "price": 6.16,
+      "value": 3080000
+    },
+    {
+      "date": "2026-02-17",
+      "person": "Aftab Ahmad",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 500000,
+      "price": 6.34,
+      "value": 3170000
+    },
+    {
+      "date": "2026-02-16",
+      "person": "Aftab Ahmad",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 1000201,
+      "price": 6.34,
+      "value": 6341274
+    },
+    {
+      "date": "2026-02-13",
+      "person": "Aftab Ahmad",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 500000,
+      "price": 6.03,
+      "value": 3015000
+    },
+    {
+      "date": "2026-02-12",
+      "person": "Aftab Ahmad",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 1500000,
+      "price": 5.88,
+      "value": 8820000
+    },
+    {
+      "date": "2026-01-01",
+      "person": "Muhammad Usman",
+      "role": "Senior Management",
+      "action": "Buy",
+      "shares": 83,
+      "price": 8.23,
+      "value": 683
+    },
+    {
+      "date": "2025-12-19",
+      "person": "Danish Elahi",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 10944823,
+      "price": 23693.92,
+      "value": 259325760576
+    },
+    {
+      "date": "2025-12-11",
+      "person": "Zahid Latif Khan",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 598000,
+      "price": 7.75,
+      "value": 4634500
+    },
+    {
+      "date": "2025-10-20",
+      "person": "Zahid Latif Khan",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 385000,
+      "price": 6.2,
+      "value": 2387000
+    },
+    {
+      "date": "2025-09-19",
+      "person": "Aftab Ahmad",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 49515,
+      "price": 7.59,
+      "value": 375819
+    },
+    {
+      "date": "2025-07-17",
+      "person": "Aftab Ahmad",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 2359832,
+      "price": 4.5,
+      "value": 10619244
+    },
+    {
+      "date": "2025-07-15",
+      "person": "Aftab Ahmed",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 2000000,
+      "price": 4.5,
+      "value": 9000000
+    },
+    {
+      "date": "2025-07-09",
+      "person": "Aftab Ahmed",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 4682168,
+      "price": 4.5,
+      "value": 21069756
+    },
+    {
+      "date": "2025-07-08",
+      "person": "Aftab Ahmed",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 4000000,
+      "price": 4.5,
+      "value": 18000000
+    },
+    {
+      "date": "2025-07-07",
+      "person": "Aftab Ahmed",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 5000000,
+      "price": 4.25,
+      "value": 21250000
+    },
+    {
+      "date": "2025-05-06",
+      "person": "Aftab Ahmed",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 9443,
+      "price": 4.7,
+      "value": 44382
+    },
+    {
+      "date": "2025-03-17",
+      "person": "LSE VENTURES LIMITED",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 245000,
+      "price": 5.51,
+      "value": 1349950
+    }
+  ]
+}

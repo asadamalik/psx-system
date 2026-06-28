@@ -1,0 +1,132 @@
+{
+  "source": "sarmaaya.pk (insider transactions, #insider-transactions table)",
+  "as_of": "2026-06-28",
+  "transactions": [
+    {
+      "date": "2026-02-17",
+      "person": "Shahnawaz Zafar",
+      "role": "Senior Management",
+      "action": "Sell",
+      "shares": 131180,
+      "price": 31.5,
+      "value": 4132170
+    },
+    {
+      "date": "2025-06-30",
+      "person": "Muhammad Hanif",
+      "role": "Non-Executive Director",
+      "action": "Sell",
+      "shares": 10000,
+      "price": 25.5,
+      "value": 255000
+    },
+    {
+      "date": "2025-05-26",
+      "person": "Shahnawaz Zafar",
+      "role": "Senior Management",
+      "action": "Sell",
+      "shares": 20000,
+      "price": 21.65,
+      "value": 433000
+    },
+    {
+      "date": "2025-05-16",
+      "person": "Muhammad Hanif",
+      "role": "Non-Executive Director",
+      "action": "Sell",
+      "shares": 46000,
+      "price": 19.15,
+      "value": 880900
+    },
+    {
+      "date": "2025-05-16",
+      "person": "Shahnawaz Zafar",
+      "role": "Senior Management",
+      "action": "Sell",
+      "shares": 170000,
+      "price": 19.04,
+      "value": 3236800
+    },
+    {
+      "date": "2024-04-22",
+      "person": "Bilal Butt",
+      "role": "Executive",
+      "action": "Sell",
+      "shares": 60000,
+      "price": 10.26,
+      "value": 615600
+    },
+    {
+      "date": "2024-04-18",
+      "person": "Bilal Butt",
+      "role": "Senior Management",
+      "action": "Sell",
+      "shares": 40000,
+      "price": 10.49,
+      "value": 419600
+    },
+    {
+      "date": "2024-04-08",
+      "person": "Bilal Butt",
+      "role": "Senior Management",
+      "action": "Sell",
+      "shares": 40000,
+      "price": 10.8,
+      "value": 432000
+    },
+    {
+      "date": "2024-03-15",
+      "person": "Bilal Butt",
+      "role": "Senior management",
+      "action": "Sell",
+      "shares": 20000,
+      "price": 10.5,
+      "value": 210000
+    },
+    {
+      "date": "2024-03-11",
+      "person": "Bilal Butt",
+      "role": "Senior management",
+      "action": "Sell",
+      "shares": 20000,
+      "price": 10.43,
+      "value": 208600
+    },
+    {
+      "date": "2024-03-07",
+      "person": "Bilal Butt",
+      "role": "Senior management",
+      "action": "Sell",
+      "shares": 35000,
+      "price": 10.35,
+      "value": 362250
+    },
+    {
+      "date": "2024-01-05",
+      "person": "Bilal Butt",
+      "role": "Senior Management",
+      "action": "Sell",
+      "shares": 110000,
+      "price": 12.75,
+      "value": 1402500
+    },
+    {
+      "date": "2022-12-16",
+      "person": "Hafiz Imran Lateef",
+      "role": "Non-Executive Director",
+      "action": "Sell",
+      "shares": 1879,
+      "price": 17.33,
+      "value": 32563
+    },
+    {
+      "date": "2022-12-16",
+      "person": "Hafiz Imran Lateef",
+      "role": "Non-Executive Director",
+      "action": "Sell",
+      "shares": 237,
+      "price": 15.93,
+      "value": 3775
+    }
+  ]
+}

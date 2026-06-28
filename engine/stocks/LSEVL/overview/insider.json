@@ -1,0 +1,762 @@
+{
+  "source": "sarmaaya.pk (insider transactions, #insider-transactions table)",
+  "as_of": "2026-06-28",
+  "transactions": [
+    {
+      "date": "2026-06-19",
+      "person": "Aftab Ahmad",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 100000,
+      "price": 10.8,
+      "value": 1080000
+    },
+    {
+      "date": "2026-06-08",
+      "person": "Aftab Ahmad",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 200000,
+      "price": 9.4,
+      "value": 1880000
+    },
+    {
+      "date": "2026-06-04",
+      "person": "Aftab Ahmad",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 120000,
+      "price": 9.26,
+      "value": 1111200
+    },
+    {
+      "date": "2026-06-03",
+      "person": "Aftab Ahmad",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 1100000,
+      "price": 9.2,
+      "value": 10120000
+    },
+    {
+      "date": "2026-06-02",
+      "person": "Aftab Ahmad",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 114735,
+      "price": 9.16,
+      "value": 1050973
+    },
+    {
+      "date": "2026-06-01",
+      "person": "Aftab Ahmad",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 30000,
+      "price": 9.1,
+      "value": 273000
+    },
+    {
+      "date": "2026-05-18",
+      "person": "Aftab Ahmad",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 400000,
+      "price": 9.3,
+      "value": 3720000
+    },
+    {
+      "date": "2026-05-15",
+      "person": "Aftab Ahmad",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 1200000,
+      "price": 9.67,
+      "value": 11604000
+    },
+    {
+      "date": "2026-05-13",
+      "person": "Aftab Ahmad",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 200000,
+      "price": 9.1,
+      "value": 1820000
+    },
+    {
+      "date": "2026-05-12",
+      "person": "Aftab Ahmad",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 200000,
+      "price": 9.0,
+      "value": 1800000
+    },
+    {
+      "date": "2026-04-15",
+      "person": "Aftab Ahmad",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 100000,
+      "price": 8.9,
+      "value": 890000
+    },
+    {
+      "date": "2026-04-13",
+      "person": "Aftab Ahmad",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 100000,
+      "price": 8.82,
+      "value": 882000
+    },
+    {
+      "date": "2026-04-09",
+      "person": "Aftab Ahmad",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 100000,
+      "price": 8.79,
+      "value": 879000
+    },
+    {
+      "date": "2026-04-07",
+      "person": "Aftab Ahmad",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 100000,
+      "price": 8.53,
+      "value": 853000
+    },
+    {
+      "date": "2026-04-06",
+      "person": "Aftab Ahmad",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 100000,
+      "price": 8.48,
+      "value": 848000
+    },
+    {
+      "date": "2026-04-03",
+      "person": "Aftab Ahmad",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 100000,
+      "price": 8.67,
+      "value": 867000
+    },
+    {
+      "date": "2026-04-02",
+      "person": "Aftab Ahmad",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 100000,
+      "price": 8.5,
+      "value": 850000
+    },
+    {
+      "date": "2026-04-01",
+      "person": "Aftab Ahmad",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 100000,
+      "price": 8.51,
+      "value": 851000
+    },
+    {
+      "date": "2026-03-31",
+      "person": "Aftab Ahmad",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 100000,
+      "price": 8.22,
+      "value": 822000
+    },
+    {
+      "date": "2026-03-30",
+      "person": "Aftab Ahmad",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 13380,
+      "price": 7.17,
+      "value": 95935
+    },
+    {
+      "date": "2026-03-30",
+      "person": "Aftab Ahmad",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 100000,
+      "price": 8.4,
+      "value": 840000
+    },
+    {
+      "date": "2026-03-27",
+      "person": "Aftab Ahmad",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 100000,
+      "price": 8.59,
+      "value": 859000
+    },
+    {
+      "date": "2026-03-26",
+      "person": "Aftab Ahmad",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 100000,
+      "price": 8.3,
+      "value": 830000
+    },
+    {
+      "date": "2026-03-05",
+      "person": "Aftab Ahmad",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 57673,
+      "price": 7.89,
+      "value": 455040
+    },
+    {
+      "date": "2026-03-03",
+      "person": "Aftab Ahmad",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 18657,
+      "price": 8.0,
+      "value": 149256
+    },
+    {
+      "date": "2026-03-02",
+      "person": "Aftab Ahmad",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 67921,
+      "price": 8.78,
+      "value": 596346
+    },
+    {
+      "date": "2026-02-24",
+      "person": "Aftab Ahmad",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 52415,
+      "price": 8.33,
+      "value": 436617
+    },
+    {
+      "date": "2026-02-09",
+      "person": "Aftab Ahmad",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 106090,
+      "price": 10.65,
+      "value": 1129858
+    },
+    {
+      "date": "2026-02-09",
+      "person": "Aftab Ahmad",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 106090,
+      "price": 10.65,
+      "value": 1129858
+    },
+    {
+      "date": "2026-02-06",
+      "person": "Aftab Ahmad",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 106090,
+      "price": 10.65,
+      "value": 1129858
+    },
+    {
+      "date": "2026-02-04",
+      "person": "Aftab Ahmad",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 255871,
+      "price": 9.96,
+      "value": 2548475
+    },
+    {
+      "date": "2026-02-03",
+      "person": "Aftab Ahmad",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 111200,
+      "price": 9.98,
+      "value": 1109776
+    },
+    {
+      "date": "2026-02-02",
+      "person": "Aftab Ahmad",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 447474,
+      "price": 10.38,
+      "value": 4644780
+    },
+    {
+      "date": "2026-01-30",
+      "person": "Aftab Ahmad",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 3660,
+      "price": 10.23,
+      "value": 37442
+    },
+    {
+      "date": "2026-01-21",
+      "person": "Aftab Ahmad",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 335069,
+      "price": 7.05,
+      "value": 2362236
+    },
+    {
+      "date": "2025-09-02",
+      "person": "LSE Capital Limited",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 233206,
+      "price": 7.71,
+      "value": 1798018
+    },
+    {
+      "date": "2025-08-28",
+      "person": "Aftab Ahmad",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 60518,
+      "price": 16.12,
+      "value": 975550
+    },
+    {
+      "date": "2025-07-03",
+      "person": "Aftab Ahmed",
+      "role": "Executive",
+      "action": "Sell",
+      "shares": 1550000,
+      "price": 10.0,
+      "value": 15500000
+    },
+    {
+      "date": "2025-04-24",
+      "person": "Aftab Ahmed",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 50000,
+      "price": 10.1,
+      "value": 505000
+    },
+    {
+      "date": "2025-04-03",
+      "person": "LSE CAPITAL LIMITED",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 800000,
+      "price": 11.5,
+      "value": 9200000
+    },
+    {
+      "date": "2025-04-03",
+      "person": "Aftab Ahmed",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 5000,
+      "price": 10.6,
+      "value": 53000
+    },
+    {
+      "date": "2025-03-24",
+      "person": "Aftab Ahmed",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 19163,
+      "price": 10.55,
+      "value": 202170
+    },
+    {
+      "date": "2025-03-18",
+      "person": "Aftab Ahmed",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 73590,
+      "price": 11.0,
+      "value": 809490
+    },
+    {
+      "date": "2025-03-17",
+      "person": "LSE CAPITAL LIMITED",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 911811,
+      "price": 11.7,
+      "value": 10668189
+    },
+    {
+      "date": "2024-12-23",
+      "person": "Aftab Ahmad",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 20000,
+      "price": 10.03,
+      "value": 200600
+    },
+    {
+      "date": "2024-12-20",
+      "person": "Aftab Ahmad",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 17000,
+      "price": 10.24,
+      "value": 174080
+    },
+    {
+      "date": "2024-12-17",
+      "person": "Aftab Ahmad",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 7000,
+      "price": 9.87,
+      "value": 69090
+    },
+    {
+      "date": "2024-10-02",
+      "person": "Aftab Ahmad",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 25000,
+      "price": 7.9,
+      "value": 197500
+    },
+    {
+      "date": "2024-05-24",
+      "person": "Aftab Ahmad",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 15000,
+      "price": 5.65,
+      "value": 84750
+    },
+    {
+      "date": "2024-05-16",
+      "person": "Aftab Ahmad",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 194500,
+      "price": 5.77,
+      "value": 1122265
+    },
+    {
+      "date": "2024-05-13",
+      "person": "Aftab Ahmad",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 200000,
+      "price": 5.53,
+      "value": 1106000
+    },
+    {
+      "date": "2024-05-08",
+      "person": "Aftab Ahmad",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 95000,
+      "price": 4.89,
+      "value": 464550
+    },
+    {
+      "date": "2024-05-03",
+      "person": "Aftab Ahmad",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 37500,
+      "price": 4.61,
+      "value": 172875
+    },
+    {
+      "date": "2024-05-03",
+      "person": "Aftab Ahmad",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 3500,
+      "price": 4.61,
+      "value": 16135
+    },
+    {
+      "date": "2024-05-03",
+      "person": "Modaraba Ali-Mali",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 50000,
+      "price": 4.45,
+      "value": 222500
+    },
+    {
+      "date": "2024-04-04",
+      "person": "Aftab Ahmad",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 75000,
+      "price": 4.8,
+      "value": 360000
+    },
+    {
+      "date": "2024-03-25",
+      "person": "Amir Zia",
+      "role": "Senior management",
+      "action": "Sell",
+      "shares": 65000,
+      "price": 5.21,
+      "value": 338650
+    },
+    {
+      "date": "2024-03-21",
+      "person": "Modaraba Al Mali",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 50000,
+      "price": 4.46,
+      "value": 223000
+    },
+    {
+      "date": "2024-03-19",
+      "person": "Modaraba al Mali",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 350000,
+      "price": 4.46,
+      "value": 1561000
+    },
+    {
+      "date": "2024-03-08",
+      "person": "Amir Zia",
+      "role": "Senior management",
+      "action": "Sell",
+      "shares": 20000,
+      "price": 4.47,
+      "value": 89400
+    },
+    {
+      "date": "2023-11-01",
+      "person": "Amir Zia",
+      "role": "Senior Management",
+      "action": "Buy",
+      "shares": 85000,
+      "price": 6.98,
+      "value": 593300
+    },
+    {
+      "date": "2023-08-22",
+      "person": "Amir Zia",
+      "role": "Senior Management",
+      "action": "Sell",
+      "shares": 100000,
+      "price": 6.49,
+      "value": 649000
+    },
+    {
+      "date": "2023-08-22",
+      "person": "Amir Zia",
+      "role": "Senior Management",
+      "action": "Sell",
+      "shares": 73500,
+      "price": 6.49,
+      "value": 477015
+    },
+    {
+      "date": "2023-08-15",
+      "person": "Amir Zia",
+      "role": "Senior Management",
+      "action": "Buy",
+      "shares": 5000,
+      "price": 6.81,
+      "value": 34050
+    },
+    {
+      "date": "2023-08-10",
+      "person": "Amir Zia",
+      "role": "Senior Management",
+      "action": "Buy",
+      "shares": 100000,
+      "price": 6.4,
+      "value": 640000
+    },
+    {
+      "date": "2023-08-10",
+      "person": "Amir Zia",
+      "role": "Senior Management",
+      "action": "Buy",
+      "shares": 2000,
+      "price": 6.93,
+      "value": 13860
+    },
+    {
+      "date": "2023-08-10",
+      "person": "Amir Zia",
+      "role": "Senior Management",
+      "action": "Buy",
+      "shares": 10000,
+      "price": 6.9,
+      "value": 69000
+    },
+    {
+      "date": "2023-07-27",
+      "person": "Modaraba Ali-Mali",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 4000,
+      "price": 6.9,
+      "value": 27600
+    },
+    {
+      "date": "2023-07-25",
+      "person": "Amir Zia",
+      "role": "Senior Management",
+      "action": "Buy",
+      "shares": 11000,
+      "price": 7.24,
+      "value": 79640
+    },
+    {
+      "date": "2023-07-25",
+      "person": "Amir Zia",
+      "role": "Senior Management",
+      "action": "Buy",
+      "shares": 20000,
+      "price": 7.09,
+      "value": 141800
+    },
+    {
+      "date": "2023-07-25",
+      "person": "Amir Zia",
+      "role": "Senior Management",
+      "action": "Sell",
+      "shares": 40000,
+      "price": 7.01,
+      "value": 280400
+    },
+    {
+      "date": "2023-07-18",
+      "person": "Amir Zia",
+      "role": "Senior Management",
+      "action": "Buy",
+      "shares": 20000,
+      "price": 5.99,
+      "value": 119800
+    },
+    {
+      "date": "2023-07-18",
+      "person": "Modaraba Ali-Mali",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 123500,
+      "price": 7.4,
+      "value": 913900
+    },
+    {
+      "date": "2023-07-18",
+      "person": "Modaraba Ali-Mali",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 29000,
+      "price": 6.47,
+      "value": 187630
+    },
+    {
+      "date": "2023-07-18",
+      "person": "Amir Zia",
+      "role": "Senior Management",
+      "action": "Buy",
+      "shares": 30000,
+      "price": 6.86,
+      "value": 205800
+    },
+    {
+      "date": "2023-07-14",
+      "person": "Muhammad Tabassum Munir",
+      "role": "Independent Director",
+      "action": "Buy",
+      "shares": 1000,
+      "price": 6.0,
+      "value": 6000
+    },
+    {
+      "date": "2023-07-13",
+      "person": "Amir Zia",
+      "role": "Senior Management",
+      "action": "Buy",
+      "shares": 44000,
+      "price": 5.43,
+      "value": 238920
+    },
+    {
+      "date": "2023-07-13",
+      "person": "Amir Zia",
+      "role": "Senior Management",
+      "action": "Buy",
+      "shares": 1000,
+      "price": 5.52,
+      "value": 5520
+    },
+    {
+      "date": "2023-07-13",
+      "person": "Amir Zia",
+      "role": "Senior Management",
+      "action": "Buy",
+      "shares": 80000,
+      "price": 5.34,
+      "value": 427200
+    },
+    {
+      "date": "2023-07-12",
+      "person": "Amir Zia",
+      "role": "Senior Management",
+      "action": "Buy",
+      "shares": 1000,
+      "price": 7.03,
+      "value": 7030
+    },
+    {
+      "date": "2023-07-12",
+      "person": "Modaraba Ali-Mali",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 154500,
+      "price": 5.25,
+      "value": 811125
+    },
+    {
+      "date": "2023-07-12",
+      "person": "Modaraba Ali-Mali",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 55500,
+      "price": 4.86,
+      "value": 269730
+    },
+    {
+      "date": "2023-07-12",
+      "person": "Amir Zia",
+      "role": "Senior Management",
+      "action": "Buy",
+      "shares": 20000,
+      "price": 6.02,
+      "value": 120400
+    },
+    {
+      "date": "2023-07-12",
+      "person": "Amir Zia",
+      "role": "Senior Management",
+      "action": "Buy",
+      "shares": 55000,
+      "price": 8.06,
+      "value": 443300
+    }
+  ]
+}

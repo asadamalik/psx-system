@@ -1,0 +1,258 @@
+{
+  "source": "sarmaaya.pk (insider transactions, #insider-transactions table)",
+  "as_of": "2026-06-28",
+  "transactions": [
+    {
+      "date": "2026-01-06",
+      "person": "ANDLEEB KAUSAR",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 1000000,
+      "price": 5.3,
+      "value": 5300000
+    },
+    {
+      "date": "2025-03-27",
+      "person": "ANDLEEB KAUSAR",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 2700000,
+      "price": 3.8,
+      "value": 10260000
+    },
+    {
+      "date": "2024-07-04",
+      "person": "ANDLEEB KAUSAR",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 2100000,
+      "price": 2.5,
+      "value": 5250000
+    },
+    {
+      "date": "2024-04-22",
+      "person": "ANDLEEB KAUSAR",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 3000000,
+      "price": 2.5,
+      "value": 7500000
+    },
+    {
+      "date": "2024-03-12",
+      "person": "Andleeb Kausar",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 2500000,
+      "price": 2.1,
+      "value": 5250000
+    },
+    {
+      "date": "2023-09-15",
+      "person": "ANDLEEB KAUSAR",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 1217000,
+      "price": 2.79,
+      "value": 3395430
+    },
+    {
+      "date": "2023-01-23",
+      "person": "KHAWAJA MOHAMMAD NADEEM",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 500000,
+      "price": 3.41,
+      "value": 1705000
+    },
+    {
+      "date": "2023-01-23",
+      "person": "ANDLEEB KAUSAR",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 497000,
+      "price": 3.41,
+      "value": 1694770
+    },
+    {
+      "date": "2023-01-23",
+      "person": "ANDLEEB KAUSAR",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 206500,
+      "price": 3.5,
+      "value": 722750
+    },
+    {
+      "date": "2022-12-28",
+      "person": "ANDLEEB KAUSAR",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 525000,
+      "price": 4.8,
+      "value": 2520000
+    },
+    {
+      "date": "2022-12-22",
+      "person": "ANDLEEB KAUSAR",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 2621500,
+      "price": 4.28,
+      "value": 11220020
+    },
+    {
+      "date": "2008-03-22",
+      "person": "ANDLEEB KAUSAR",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 4500,
+      "price": 6.8,
+      "value": 30600
+    },
+    {
+      "date": "2008-03-22",
+      "person": "ANDLEEB KAUSAR",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 3000000,
+      "price": 6.62,
+      "value": 19860000
+    },
+    {
+      "date": "2008-03-22",
+      "person": "ANDLEEB KAUSAR",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 318000,
+      "price": 6.54,
+      "value": 2079720
+    },
+    {
+      "date": "2005-07-22",
+      "person": "ANDLEEB KAUSAR",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 1120000,
+      "price": 4.5,
+      "value": 5040000
+    },
+    {
+      "date": "2003-06-22",
+      "person": "ANDLEEB KAUSAR",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 170000,
+      "price": 5.0,
+      "value": 850000
+    },
+    {
+      "date": "2003-06-22",
+      "person": "ANDLEEB KAUSAR",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 685000,
+      "price": 5.04,
+      "value": 3452400
+    },
+    {
+      "date": "2001-03-22",
+      "person": "MOHAMMAD NAVEED",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 1000,
+      "price": 7.7,
+      "value": 7700
+    },
+    {
+      "date": "2001-03-22",
+      "person": "MOHAMMAD NAVEED",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 1000,
+      "price": 7.7,
+      "value": 7700
+    },
+    {
+      "date": "2001-03-22",
+      "person": "MOHAMMAD NAVEED",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 19500,
+      "price": 7.65,
+      "value": 149175
+    },
+    {
+      "date": "2001-03-22",
+      "person": "MOHAMMAD NAVEED",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 1000,
+      "price": 7.57,
+      "value": 7570
+    },
+    {
+      "date": "2001-03-22",
+      "person": "MOHAMMAD NAVEED",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 1000,
+      "price": 7.56,
+      "value": 7560
+    },
+    {
+      "date": "2001-03-22",
+      "person": "MOHAMMAD NAVEED",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 10000,
+      "price": 7.55,
+      "value": 75500
+    },
+    {
+      "date": "2001-03-22",
+      "person": "MOHAMMAD NAVEED",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 4000,
+      "price": 7.54,
+      "value": 30160
+    },
+    {
+      "date": "2001-03-22",
+      "person": "MOHAMMAD NAVEED",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 5000,
+      "price": 7.53,
+      "value": 37650
+    },
+    {
+      "date": "2001-03-22",
+      "person": "MOHAMMAD NAVEED",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 1000,
+      "price": 7.52,
+      "value": 7520
+    },
+    {
+      "date": "2001-03-22",
+      "person": "MOHAMMAD NAVEED",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 38000,
+      "price": 7.51,
+      "value": 285380
+    },
+    {
+      "date": "2001-03-22",
+      "person": "MOHAMMAD NAVEED",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 1718500,
+      "price": 7.5,
+      "value": 12888750
+    }
+  ]
+}

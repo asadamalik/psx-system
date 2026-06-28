@@ -1,0 +1,176 @@
+{
+  "symbol": "BBFL",
+  "generated": "2026-06-28 17:25",
+  "scores": {
+    "fundamental_score": 88.7,
+    "technical_score": 37.8,
+    "overall_score": 73.4,
+    "rating": "Buy",
+    "risk": "Low",
+    "risk_score": 100.0,
+    "weights": {
+      "fundamental": 0.7,
+      "technical": 0.3
+    },
+    "fundamental_detail": {
+      "fundamental_score": 88.7,
+      "pillars": {
+        "growth": 100.0,
+        "profitability": null,
+        "financial_strength": null,
+        "valuation": 66.0
+      },
+      "coverage": {
+        "growth": {
+          "used": [
+            "revenue_growth_5y",
+            "sales_growth"
+          ],
+          "missing": [
+            "net_income_growth_5y",
+            "eps_growth"
+          ]
+        },
+        "profitability": {
+          "used": [],
+          "missing": [
+            "roe",
+            "roa",
+            "gross_margin",
+            "operating_margin",
+            "net_margin"
+          ]
+        },
+        "financial_strength": {
+          "used": [],
+          "missing": [
+            "debt_to_equity",
+            "current_ratio",
+            "interest_coverage",
+            "fcf_margin"
+          ]
+        },
+        "valuation": {
+          "used": [
+            "pe_ratio"
+          ],
+          "missing": [
+            "price_to_book",
+            "peg"
+          ]
+        }
+      },
+      "weight_covered": 0.45
+    }
+  },
+  "technical": {
+    "technical_score": 37.8,
+    "trend": "Sideways",
+    "momentum": "Neutral",
+    "adx_strength": "Weak",
+    "rsi_divergence": {
+      "type": "bearish",
+      "label": "Bearish RSI divergence",
+      "note": "Price made a higher high (46.03\u219247.32) while RSI made a lower high (65.1\u219265.0) \u2014 upward momentum is fading; watch for a pullback.",
+      "price_from": 46.03,
+      "price_to": 47.32,
+      "rsi_from": 65.1,
+      "rsi_to": 65.0,
+      "bars_ago": 5
+    },
+    "notes": [
+      "Trend: Sideways",
+      "EMA20 > EMA50",
+      "ADX 15.5 (Weak); DI + dominant",
+      "RSI 51.5 (Neutral)",
+      "MACD below signal",
+      "\u26a0 Bearish RSI divergence (5 bars ago): Price made a higher high (46.03\u219247.32) while RSI made a lower high (65.1\u219265.0) \u2014 upward momentum is fading; watch for a pullback."
+    ]
+  },
+  "technical_snapshot": {
+    "as_of": "2026-06-24",
+    "bars": 472,
+    "close": 45.38,
+    "sma_20": 45.632,
+    "sma_50": 44.0932,
+    "sma_200": 46.868,
+    "ema_20": 45.50534387871061,
+    "ema_50": 44.28841945126105,
+    "ema_100": 44.2839948224893,
+    "ema_200": 45.93685297242896,
+    "obv": 240077278.0,
+    "weekly_trend": "Up",
+    "monthly_trend": "Up",
+    "support_resistance": {
+      "price": 45.38,
+      "nearest_resistance": 46.2,
+      "nearest_support": 43.92,
+      "resistance_levels": [
+        46.2,
+        47.6,
+        49.67
+      ],
+      "support_levels": [
+        43.92,
+        42.26,
+        41.03
+      ]
+    },
+    "rsi_14": 51.473668790334905,
+    "macd": 0.5852946945836948,
+    "macd_signal": 0.797775429159934,
+    "macd_hist": -0.21248073457623928,
+    "adx_14": 15.514065892111336,
+    "plus_di": 31.47166311351695,
+    "minus_di": 30.64632210456256,
+    "atr_14": 0.7892170776369075,
+    "bb_upper": 47.4872692526985,
+    "bb_lower": 43.77673074730149,
+    "week52_high": 56.25,
+    "week52_low": 34.08,
+    "rsi_divergence": {
+      "type": "bearish",
+      "label": "Bearish RSI divergence",
+      "note": "Price made a higher high (46.03\u219247.32) while RSI made a lower high (65.1\u219265.0) \u2014 upward momentum is fading; watch for a pullback.",
+      "price_from": 46.03,
+      "price_to": 47.32,
+      "rsi_from": 65.1,
+      "rsi_to": 65.0,
+      "bars_ago": 5
+    },
+    "patterns": []
+  },
+  "growth": {
+    "revenue_growth_5y": 0.5762883592320969,
+    "net_income_growth_5y": null,
+    "equity_growth_5y": null,
+    "debt_change_5y": null
+  },
+  "metrics": {
+    "revenue_growth_5y": 0.5762883592320969,
+    "net_income_growth_5y": null,
+    "eps_growth": null,
+    "sales_growth": 0.5762883592320969,
+    "roe": null,
+    "roa": null,
+    "gross_margin": null,
+    "operating_margin": null,
+    "net_margin": null,
+    "debt_to_equity": null,
+    "current_ratio": null,
+    "interest_coverage": null,
+    "fcf_margin": null,
+    "pe_ratio": 10.73,
+    "price_to_book": null,
+    "peg": null
+  },
+  "latest": {
+    "revenue": 11364.831,
+    "net_income": null,
+    "equity": null,
+    "total_assets": null,
+    "total_debt": null,
+    "operating_cash_flow": null,
+    "capex": null
+  }
+}

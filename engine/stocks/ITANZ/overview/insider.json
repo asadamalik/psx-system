@@ -1,0 +1,69 @@
+{
+  "source": "sarmaaya.pk (insider transactions, #insider-transactions table)",
+  "as_of": "2026-06-28",
+  "transactions": [
+    {
+      "date": "2026-06-24",
+      "person": "Muhammad Ismail Ajmal",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 400000,
+      "price": 49.59,
+      "value": 19836000
+    },
+    {
+      "date": "2026-06-19",
+      "person": "Muhammad Ismail Ajmal",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 200000,
+      "price": 52.0,
+      "value": 10400000
+    },
+    {
+      "date": "2026-03-24",
+      "person": "Iram Masood",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 700000,
+      "price": 26.0,
+      "value": 18200000
+    },
+    {
+      "date": "2026-03-19",
+      "person": "Iram Masood",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 1000000,
+      "price": 26.0,
+      "value": 26000000
+    },
+    {
+      "date": "2026-03-19",
+      "person": "Iram Masood",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 4410793,
+      "price": 26.53,
+      "value": 117018338
+    },
+    {
+      "date": "2026-03-18",
+      "person": "Iram Masood",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 4410793,
+      "price": 26.53,
+      "value": 117018338
+    },
+    {
+      "date": "2026-03-10",
+      "person": "Iram Masood",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 1000000,
+      "price": 25.57,
+      "value": 25570000
+    }
+  ]
+}
