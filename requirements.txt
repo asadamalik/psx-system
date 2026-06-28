@@ -3,6 +3,8 @@ playwright>=1.40      # headless chromium for JS-rendered sources (stockanalysis
 pandas>=2.0           # engine indicators / dataframes
 numpy>=1.24
 beautifulsoup4>=4.12  # DPS market-watch HTML parsing
+lxml>=4.9             # fast parser for BeautifulSoup (code falls back to stdlib html.parser if missing)
+openpyxl>=3.1         # first-run seed from the historical .xlsx (not needed after seeding)
 requests>=2.31        # direct HTTP rung (DPS JSON, fallbacks)
 # stdlib used elsewhere: urllib, json, datetime, csv, subprocess
 # After install:  python -m playwright install chromium

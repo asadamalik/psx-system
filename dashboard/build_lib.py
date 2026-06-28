@@ -13,6 +13,11 @@ from collections import defaultdict
 from concurrent.futures import ThreadPoolExecutor
 import pandas as pd, numpy as np
 from bs4 import BeautifulSoup
+try:
+    import lxml  # noqa: F401
+    _PARSER = "lxml"
+except ImportError:
+    _PARSER = "html.parser"
 
 WINDOW = 10        # trading days to follow each new entry
 CHART_DAYS = 180   # sessions of price history per symbol for the chart
@@ -51,7 +56,7 @@ def _fetch_company(sym, retries=3):
     if html is None:
         print(f"  [company] {sym}: FAILED after {retries} attempts ({last_err})")
         return None
-    soup = BeautifulSoup(html, "lxml")
+    soup = BeautifulSoup(html, _PARSER)
     T = re.sub(r"\s+", " ", soup.get_text(" ", strip=True))
 
     def grab(label, pat=r"\s*([-\(\d,\.\)]+)"):

@@ -23,6 +23,12 @@ import os, sys, json, datetime as dt, urllib.request
 import pandas as pd
 from bs4 import BeautifulSoup
 import build_lib
+# Prefer lxml (fast, lenient); fall back to the stdlib parser so a missing lib never breaks the scrape.
+try:
+    import lxml  # noqa: F401
+    _PARSER = "lxml"
+except ImportError:
+    _PARSER = "html.parser"
 import external_fundamentals
 import ohlc_store
 
@@ -41,7 +47,7 @@ def fetch_marketwatch():
     """Return list of dicts for every symbol: symbol, sector, o,h,l,c, chg(%), vol."""
     req = urllib.request.Request("https://dps.psx.com.pk/market-watch", headers=UA)
     html = urllib.request.urlopen(req, timeout=30).read().decode("utf-8", "ignore")
-    soup = BeautifulSoup(html, "lxml")
+    soup = BeautifulSoup(html, _PARSER)
 
     def num(t):
         try:
