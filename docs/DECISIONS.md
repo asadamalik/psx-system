@@ -602,11 +602,14 @@ All client features are **browser-local (localStorage)** — no backend, no acco
   TP-hit/SL-hit when the latest tracked price reaches the level but stays **open** until the user
   explicitly closes it (mirrors needing a real fill confirmation). Browser-only.
 - **Screener** — *built/working.* `_computeScreener()` scans every symbol in `DATA.charts` with
-  ≥30 bars, runs `TA.analyze`, and blends **overall = 0.55·tech + 0.45·fund** using
-  `computeFundScore(DATA.companies[sym])` (the **scraped/computed** fundamentals, 0–100 → /10).
-  Filters: min-score, Shariah-only; sortable. **Note the blend differs from the engine's
-  Fund-70/Tech-30** and uses scraped fundamentals, *not* the engine export — intentional (the
-  screener spans the whole universe, most of which has no engine export).
+  ≥30 bars. **Scores are 0–100 and match each stock's detail page** (fixed 2026-06-28): for engine
+  stocks it surfaces the **engine export's** `overall_score` / `technical_score` / `fundamental_score`
+  (the exact detail-page numbers, Fund-70/Tech-30); only stocks with **no engine export** fall back to
+  the technical-led blend `overall = 0.55·tech + 0.45·fund` via `computeFundScore(DATA.companies[sym])`
+  (scraped fundamentals). Color thresholds 65/45, "strong" ≥65 on both, min-overall filters 65/80.
+  Filters: min-score, Shariah-only; sortable. **Previously** the screener always used the 0.55/0.45
+  scraped blend on a 0–10 scale, which disagreed with the engine detail page for every engine stock —
+  that mismatch is what this fix removed.
 
 ## Onboarding a stock — canonical full-Investing recipe (do every step)
 This is the **complete per-stock checklist** (FFC/MLCF/SYS were all built this way). Every file
