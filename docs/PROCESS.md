@@ -70,6 +70,19 @@ It pulls from **four sources**, each authoritative for different things:
 | **Investing.com** | **Industry-average P/E** (the "cheaper/pricier than its sector" comparison) — the one thing stockanalysis doesn't have | Headless browser (search to find the page, then read it) |
 | **sarmaaya.pk** | **Insider transactions** (directors/sponsors buying or selling) | Headless browser |
 
+**Source priority & fallback order (check in this order when fetching new data):**
+1. **stockanalysis.com first** — the primary, fully-scriptable consolidated source. If it has the
+   stock, that's all you need.
+2. **If it doesn't, fall back** to: **Investing.com** (industry P/E always; full statements only for
+   well-covered large/mid caps — illiquid small caps have no statement rows there either),
+   **sarmaaya.pk** (insider), and **PSX DPS** (unconsolidated EPS/sales/PAT + price history; for small
+   caps with no stockanalysis/Investing statements, the DPS data in `data/companies.json` is turned
+   into an income-only record via `engine/make_dps_blob.py`).
+3. Stocks built purely from the fallback are **partial records** (income + price + ratios + insider; no
+   balance sheet / cash flow). These are flagged with a **"⚠ Limited data" badge** on the dashboard,
+   and their fundamental score should be read with caution (thin inputs). Full source order and
+   constraints live in `docs/DECISIONS.md` → "Data-source priority + FALLBACK ORDER".
+
 **Why two sources for financials?** PSX DPS gives the *standalone* (unconsolidated) company numbers;
 stockanalysis gives the *group* (consolidated) numbers. We keep **both** and surface the difference
 (the "earnings-basis divergence") rather than hiding it — a big gap between standalone and consolidated

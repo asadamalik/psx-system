@@ -91,6 +91,12 @@ def build_export(symbol: str, ts: int | None = None) -> dict:
     cfq = fundamentals.get("cashflow_quarterly", {})
     divd = fundamentals.get("dividends", {})
 
+    # "Limited data": no consolidated balance-sheet / cash-flow source exists for this stock
+    # (DPS-only small caps, plus insurers / takaful / REITs whose statements omit those rows).
+    # Income + price + valuation are still present, but the balance-sheet and cash-flow cards
+    # render "—" and the fundamental score runs on thin inputs — so the dashboard flags it.
+    limited_data = not bool(bsa) and not bool(cfa)
+
     # free-cash-flow series (per fiscal year) for the dashboard
     ocf_map = cfa.get("cash_from_operations", {})
     capex_map = cfa.get("capex", {})
@@ -116,6 +122,7 @@ def build_export(symbol: str, ts: int | None = None) -> dict:
         "as_of": (tech_snapshot or {}).get("as_of"),
         "generated_ts": ts or int(time.time()),
         "source": "stock-agent-claude (Investing.com + PSX DPS)",
+        "limited_data": limited_data,
 
         # ---- price (true OHLC, source of truth) ----
         "ohlc": ohlc,

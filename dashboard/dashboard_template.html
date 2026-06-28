@@ -261,6 +261,8 @@ footer.disclaimer{color:var(--text-4); font-size:11.5px; text-align:center; padd
 .dt-verdict .vscore span{font-size:14px; color:var(--text-3)}
 .dt-verdict .voutlook{font-family:var(--sans); font-size:22px; font-weight:700}
 .dt-verdict .vtext{flex:1; min-width:220px; font-size:12.5px; color:var(--text-3); line-height:1.55; border-left:1px solid var(--border); padding-left:16px}
+.ld-badge{display:inline-flex; align-items:center; gap:5px; font-family:var(--mono); font-size:9.5px; font-weight:700; letter-spacing:.05em; padding:3px 9px; border-radius:6px; background:var(--accent-dim); color:var(--accent); border:1px solid var(--accent); cursor:help; white-space:nowrap}
+.lb-ld{font-family:var(--mono); font-size:8.5px; font-weight:700; color:var(--accent); border:1px solid var(--accent); border-radius:4px; padding:0 4px; margin-left:6px; vertical-align:middle; cursor:help}
 .vsub-top{display:flex; align-items:center; gap:18px; flex-wrap:wrap}
 .vsub-row{display:flex; gap:18px; flex-wrap:wrap; margin-top:2px}
 .vsub{flex:1; min-width:90px; border-top:1px solid var(--border); padding-top:10px}
@@ -454,7 +456,7 @@ function renderLeaderboard(selectedSym){
   lbBodyEl.innerHTML = topN.map((r,i)=>
     '<tr data-sym="'+r.symbol+'" class="'+(r.symbol===selectedSym?'selected':'')+'">'
       +'<td class="lb-rank">'+(i+1)+'</td>'
-      +'<td><span class="lb-sym">'+r.symbol+(DATA.shariah&&DATA.shariah[r.symbol]?'<span class="sh-tag" title="Shariah-compliant (KMI index)">S</span>':'')+(newSet.has(r.symbol)?'<span class="new-dot">NEW</span>':'')+((DATA.external&&DATA.external[r.symbol]&&DATA.external[r.symbol].scores)?'<span title="Analysis-engine verdict" style="margin-left:6px;font-size:9px;font-weight:700;letter-spacing:.03em;padding:1px 5px;border-radius:4px;border:1px solid var(--border);color:var(--text-3);vertical-align:middle">'+(DATA.external[r.symbol].scores.rating||'ENGINE')+'</span>':'')+'</span></td>'
+      +'<td><span class="lb-sym">'+r.symbol+(DATA.shariah&&DATA.shariah[r.symbol]?'<span class="sh-tag" title="Shariah-compliant (KMI index)">S</span>':'')+(newSet.has(r.symbol)?'<span class="new-dot">NEW</span>':'')+((DATA.external&&DATA.external[r.symbol]&&DATA.external[r.symbol].scores)?'<span title="Analysis-engine verdict" style="margin-left:6px;font-size:9px;font-weight:700;letter-spacing:.03em;padding:1px 5px;border-radius:4px;border:1px solid var(--border);color:var(--text-3);vertical-align:middle">'+(DATA.external[r.symbol].scores.rating||'ENGINE')+'</span>':'')+((DATA.external&&DATA.external[r.symbol]&&DATA.external[r.symbol].limited_data)?'<span class="lb-ld" title="Limited data — income + price only, no balance sheet / cash flow">LD</span>':'')+'</span></td>'
       +'<td>'+r.close.toFixed(2)+'</td>'
       +'<td class="'+chgCls(r.change_pct)+'">'+sign(r.change_pct)+'%</td>'
       +'<td>'+fmtV(r.volume)+'</td>'
@@ -1227,11 +1229,17 @@ function renderEngineDetail(ext, sym, co, col, px, vol){
   const tw=Math.round((es.weights&&es.weights.technical||0.3)*100);
 
   const notes=(tr.notes||[]).slice(0,4).join(' · ');
-  const vtext='Engine verdict from full financials — P/E '+f2(ext.pe)+', P/B '+f2(ext.pb)+', ROE '+pf(ext.roe_pct)+', D/E '+xf(ext.debt_to_equity)+'. Technical: '+(tr.trend||'—')+' / '+(tr.momentum||'—')+(notes?' ('+esc(notes)+')':'')+'.'+(dv.flagged?' ⚠ earnings-basis divergence flagged.':'')+' Decision-support only, not financial advice.';
+  const limited=!!ext.limited_data;
+  const ldTitle='Limited data: no balance-sheet or cash-flow source exists for this stock (DPS-only small cap, or insurer/takaful/REIT whose statements omit those rows). Income, price and valuation are real, but leverage/liquidity are unassessed and the fundamental score runs on thin inputs — treat it with caution.';
+  const vtext=(limited
+      ? 'Engine verdict from <b>partial data</b> (income + price only — no balance sheet / cash flow). P/E '+f2(ext.pe)
+      : 'Engine verdict from full financials — P/E '+f2(ext.pe)+', P/B '+f2(ext.pb)+', ROE '+pf(ext.roe_pct)+', D/E '+xf(ext.debt_to_equity))
+    +'. Technical: '+(tr.trend||'—')+' / '+(tr.momentum||'—')+(notes?' ('+esc(notes)+')':'')+'.'+(dv.flagged?' ⚠ earnings-basis divergence flagged.':'')+(limited?' Fundamental score is computed on limited inputs — treat with caution.':'')+' Decision-support only, not financial advice.';
   const verdict='<div class="dt-verdict" style="border-color:'+oCol+'55">'
     +'<div class="vsub-top">'
       +'<div class="vcell"><div class="vlabel">Engine score · stock-agent</div><div class="vscore" style="color:'+oCol+'">'+(es.overall_score!=null?es.overall_score.toFixed(1):'—')+'<span>/100</span></div></div>'
       +'<div class="vcell"><div class="vlabel">Rating</div><div class="voutlook" style="color:'+oCol+'">'+esc(es.rating||'—')+'</div></div>'
+      +(limited?'<div class="vcell"><div class="vlabel">Data</div><span class="ld-badge" title="'+ldTitle+'">⚠ LIMITED DATA</span></div>':'')
       +'<div class="vtext">'+vtext+'</div>'
     +'</div>'
     +'<div class="vsub-row">'
@@ -2034,7 +2042,7 @@ function renderWatchlistPage(){
       : 'price unavailable';
     return '<div class="wl-card'+(r.triggered?' triggered':'')+'" data-sym="'+r.sym+'">'
       +'<div class="wl-top">'
-        +'<div><span class="wl-sym" data-act="open">'+r.sym+(DATA.shariah&&DATA.shariah[r.sym]?'<span class="sh-tag" title="Shariah-compliant">S</span>':'')+'</span>'+badge
+        +'<div><span class="wl-sym" data-act="detail" title="Open '+r.sym+' detail page">'+r.sym+(DATA.shariah&&DATA.shariah[r.sym]?'<span class="sh-tag" title="Shariah-compliant">S</span>':'')+'</span>'+badge
           +'<div class="wl-meta">Added '+dateStr+' · '+r.days+' day'+(r.days===1?'':'s')+' ago'+(w.addedPrice!=null?' at '+w.addedPrice.toFixed(2):'')+'</div></div>'
         +'<div class="wl-stat"><div class="px">'+(r.curPx!=null?r.curPx.toFixed(2):'—')+'</div><div class="pct">'+sinceTxt+'</div></div>'
       +'</div>'
@@ -2045,6 +2053,7 @@ function renderWatchlistPage(){
 
   Array.from(wlBodyEl.querySelectorAll('.wl-card')).forEach(card=>{
     const sym=card.dataset.sym;
+    Array.from(card.querySelectorAll('[data-act="detail"]')).forEach(el=>el.addEventListener('click',()=>openDetail(sym)));
     Array.from(card.querySelectorAll('[data-act="open"]')).forEach(el=>el.addEventListener('click',()=>{
       document.querySelector('#topnav button[data-page="overview"]').click();
       selectStock(sym);

@@ -24,6 +24,43 @@ One self-contained venv at the repo root: `./.venv/bin/python` (was two separate
 
 ---
 
+## 2026-06-28 — Data-source priority + FALLBACK ORDER (read before fetching any new stock)
+**Decision (canonical fetch order).** When onboarding/refreshing a stock, check sources in this order
+and stop at the first that has the data; everything else is a documented **fallback**:
+
+1. **stockanalysis.com — PRIMARY.** `engine/fetch_sa.py <SYM>` (headless Playwright). Consolidated
+   annual + quarterly income/balance/cashflow, stats (pe/pb/ps/eps_ttm), dividends, ~50 real H/L bars.
+   The automated `engine/batch_onboard.py` uses this. **If it has the data, you're done.**
+2. **If stockanalysis has NO page / no statements → FALL BACK to these (in this order):**
+   - **Investing.com** — consolidated statements for **well-covered (large/mid) caps only**
+     (illiquid small caps have a quote page but **no statement rows** — same gap as stockanalysis);
+     statements now render in **div-grids, not `<table>`s**. The `-ratios` page (company-vs-industry
+     P/E) is still public and scriptable: `engine/fetch_industry_pe.py <SYM>` (slug via the search
+     API, fresh browser per stock for Cloudflare). Use Investing for `industry_pe` always, and for
+     full statements when the cap is covered.
+   - **sarmaaya.pk** — **insider transactions** (always; `engine/fetch_insider.py <SYM>`, headless
+     Playwright, best-effort). Also ownership/peers.
+   - **PSX DPS** — **unconsolidated** annual/quarterly EPS·sales·PAT, free float, market cap, P/E,
+     plus the authoritative **EOD OHLCV price history**. For the dashboard this is pre-harvested into
+     `data/companies.json` (whole universe). For small caps with no stockanalysis/Investing statements,
+     `engine/make_dps_blob.py <SYM>` synthesizes a stockanalysis-shaped blob from `companies.json`
+     (income-only: revenue=sales/1000, net_income=PAT/1000, eps) so the normal
+     `assemble_sa → run → export` pipeline runs unchanged.
+
+**Records built from a fallback are PARTIAL** (income + price + ratios + insider; no balance-sheet /
+cash-flow source exists for them). `export_external.py` sets **`limited_data: true`** when no
+balance-sheet AND no cash-flow series exist, and the dashboard shows a **"⚠ LIMITED DATA" badge**
+(amber) on the stock's verdict + an "LD" tag in the leaderboard. **Caveat:** the fundamental score
+over-reads on these thin inputs (some show F=100 with no balance sheet, like banks show 0%
+financial-strength) — treat partial-record scores with caution.
+
+**Why this order:** stockanalysis is fully scriptable, consolidated, and bot-block-free (the primary
+since 2026-06-27). The others fill specific gaps it can't: Investing → industry P/E (+ big-cap
+statements), sarmaaya → insider, DPS → unconsolidated basis + price history + small-cap fundamentals.
+See the per-field extraction map below and the dated entries for each source's constraints.
+
+---
+
 ## 2026-06-28 — Consolidated into one monorepo (`psx-system`); old `psx_data/` → `data/`
 **Decision:** the formerly-separate dashboard and engine repos are now one self-contained monorepo at
 `~/projects/psx-system/` (GitHub `asadamalik/psx-system`, public for free GitHub Pages). Nothing about
