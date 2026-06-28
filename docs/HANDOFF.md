@@ -1,6 +1,6 @@
 # HANDOFF — current state (read this first if you're a fresh session)
 
-**Date:** 2026-06-28. The monorepo at `~/projects/Analysis/psx-system/` is **built and working**.
+**Date:** 2026-06-28. The monorepo at `~/projects/psx-system/` is **built and working**.
 Git-initialized with an initial commit. This file is the cold-start summary; full detail is in
 `PROCESS.md`, `ARCHITECTURE.md`, `MIGRATION.md`, and `DECISIONS.md`.
 
@@ -56,7 +56,7 @@ DPS + stockanalysis + Investing + sarmaaya, scores them, and shows everything in
 
 ## How to run (monorepo)
 ```
-cd ~/projects/Analysis/psx-system
+cd ~/projects/psx-system
 ./.venv/bin/python scripts/daily_run.py            # full nightly job (live scrape)
 ./.venv/bin/python scripts/daily_run.py --no-scrape# detect/onboard/build only
 cd engine && ../.venv/bin/python batch_onboard.py <SYM...>   # onboard specific stocks
