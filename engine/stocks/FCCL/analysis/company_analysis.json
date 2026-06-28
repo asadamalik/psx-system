@@ -1,0 +1,63 @@
+{
+  "symbol": "FCCL",
+  "growth": {
+    "revenue_growth_5y": 0.38363613011342723,
+    "net_income_growth_5y": 0.39978488230024767,
+    "equity_growth_5y": 0.3794111690078408,
+    "debt_change_5y": 14.662772585669781
+  },
+  "latest": {
+    "revenue": 88956.0,
+    "net_income": 13326.0,
+    "equity": 84272.0,
+    "total_assets": 160845.0,
+    "total_debt": 40222.0,
+    "operating_cash_flow": 24313.0,
+    "capex": 3478.0
+  },
+  "metrics": {
+    "revenue_growth_5y": 0.38363613011342723,
+    "net_income_growth_5y": 0.39978488230024767,
+    "eps_growth": null,
+    "sales_growth": 0.38363613011342723,
+    "roe": 0.1581,
+    "roa": 0.0828,
+    "gross_margin": 0.3549,
+    "operating_margin": 0.2938756239039525,
+    "net_margin": 0.1498043976797518,
+    "debt_to_equity": 0.47728782988418456,
+    "current_ratio": 1.3210497111335966,
+    "interest_coverage": 4.607331688403243,
+    "fcf_margin": 0.23421691622824767,
+    "pe_ratio": 9.76,
+    "price_to_book": 1.56,
+    "peg": null
+  },
+  "extended": {
+    "effective_tax_rate": 0.29,
+    "roic": 0.14909007663019905,
+    "quick_ratio": 0.6775467571890198,
+    "ps_ratio": 1.5629921603738564,
+    "ev_ebitda": null,
+    "peg": null,
+    "revenue_cagr_3y": 0.17926257247531008,
+    "net_income_cagr_3y": 0.23277078434952791,
+    "eps_cagr_3y": 0.21599268453647236,
+    "revenue_qoq": -0.0629177807486631,
+    "revenue_yoy": 0.16157431382703263,
+    "eps_qoq": -0.14024390243902438,
+    "eps_yoy": 0.6206896551724137,
+    "ocf_cagr_5y": 0.4346652574043981,
+    "fcf_cagr_5y": 0.4485623468998843,
+    "cash_conversion": 1.824478463154735,
+    "ttm_revenue": 91586,
+    "ttm_net_income": 14694,
+    "dividend_last_year": null,
+    "dividend_latest_annual": 1.25
+  },
+  "derived": {
+    "free_cash_flow": 20835.0,
+    "market_cap": 143148.2,
+    "current_price": 58.36
+  }
+}

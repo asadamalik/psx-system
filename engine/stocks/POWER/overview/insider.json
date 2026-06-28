@@ -1,0 +1,123 @@
+{
+  "source": "sarmaaya.pk (insider transactions, #insider-transactions table)",
+  "as_of": "2026-06-28",
+  "transactions": [
+    {
+      "date": "2026-06-04",
+      "person": "Arif Habib Corporation Limited",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 611762,
+      "price": 20.99,
+      "value": 12840884
+    },
+    {
+      "date": "2026-05-25",
+      "person": "Arif Habib Corporation Limited",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 14214347,
+      "price": 20.14,
+      "value": 286276949
+    },
+    {
+      "date": "2026-04-09",
+      "person": "Arif Habib Corporation Limited",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 15460440,
+      "price": 17.74,
+      "value": 274268206
+    },
+    {
+      "date": "2025-09-18",
+      "person": "Amna Samad (Spouse of Samad A.Habib)",
+      "role": "Non-Executive Director",
+      "action": "Sell",
+      "shares": 25000,
+      "price": 16.25,
+      "value": 406250
+    },
+    {
+      "date": "2025-09-17",
+      "person": "Khursheed Anwer Jamal",
+      "role": "Independent Director",
+      "action": "Sell",
+      "shares": 15351,
+      "price": 18.98,
+      "value": 291362
+    },
+    {
+      "date": "2025-09-12",
+      "person": "Khursheed Anwer Jamal",
+      "role": "Independent Director",
+      "action": "Sell",
+      "shares": 10000,
+      "price": 18.61,
+      "value": 186100
+    },
+    {
+      "date": "2025-09-10",
+      "person": "Khursheed Anwer Jamal",
+      "role": "Independent Director",
+      "action": "Sell",
+      "shares": 10001,
+      "price": 19.17,
+      "value": 191719
+    },
+    {
+      "date": "2025-08-29",
+      "person": "Amna Samad",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 25000,
+      "price": 16.25,
+      "value": 406250
+    },
+    {
+      "date": "2024-08-01",
+      "person": "ARIF HABIB CORPORATION LIMITED",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 207778060,
+      "price": 5.25,
+      "value": 1090834815
+    },
+    {
+      "date": "2024-08-01",
+      "person": "ARIF HABIB CORPORATION LIMITED",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 207778060,
+      "price": 5.25,
+      "value": 1090834815
+    },
+    {
+      "date": "2023-10-10",
+      "person": "MUHAMMAD ARIF HABIB",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 13000000,
+      "price": 6.49,
+      "value": 84370000
+    },
+    {
+      "date": "2023-08-17",
+      "person": "MUHAMMAD ARIF HABIB",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 25000000,
+      "price": 6.48,
+      "value": 162000000
+    },
+    {
+      "date": "2023-08-15",
+      "person": "MUHAMMAD ARIF HABIB",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 25000000,
+      "price": 6.48,
+      "value": 162000000
+    }
+  ]
+}

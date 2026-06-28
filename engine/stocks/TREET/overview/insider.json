@@ -1,0 +1,150 @@
+{
+  "source": "sarmaaya.pk (insider transactions, #insider-transactions table)",
+  "as_of": "2026-06-28",
+  "transactions": [
+    {
+      "date": "2026-05-14",
+      "person": "Haroon Latif Khan",
+      "role": "Independent Director",
+      "action": "Buy",
+      "shares": 1,
+      "price": 25.1,
+      "value": 25
+    },
+    {
+      "date": "2025-11-11",
+      "person": "Syed Sheharyar Ali",
+      "role": "Senior Management",
+      "action": "Buy",
+      "shares": 27555,
+      "price": 32.29,
+      "value": 889751
+    },
+    {
+      "date": "2025-09-19",
+      "person": "Mr. Munir K. Bana",
+      "role": "Non-Executive Director",
+      "action": "Sell",
+      "shares": 519655,
+      "price": 24.04,
+      "value": 12492506
+    },
+    {
+      "date": "2024-05-15",
+      "person": "Treet Corporation Limited",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 1326000,
+      "price": 28.07,
+      "value": 37220820
+    },
+    {
+      "date": "2024-05-06",
+      "person": "Treet Corporation Limited",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 839000,
+      "price": 28.51,
+      "value": 23919890
+    },
+    {
+      "date": "2024-02-19",
+      "person": "Syed Sheharyar Ali",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 950000,
+      "price": 16.37,
+      "value": 15551500
+    },
+    {
+      "date": "2024-02-12",
+      "person": "Syed Sheharyar Ali",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 300000,
+      "price": 16.55,
+      "value": 4965000
+    },
+    {
+      "date": "2023-11-27",
+      "person": "Ahmad Shahid Hussain",
+      "role": "Independent Director",
+      "action": "Buy",
+      "shares": 11000,
+      "price": 17.8,
+      "value": 195800
+    },
+    {
+      "date": "2023-08-09",
+      "person": "Ms. Sidra Fatima Seikh",
+      "role": "Independent Director",
+      "action": "Buy",
+      "shares": 100,
+      "price": 21.5,
+      "value": 2150
+    },
+    {
+      "date": "2022-02-02",
+      "person": "Muhammad Ali",
+      "role": "Senior Management",
+      "action": "Sell",
+      "shares": 40200,
+      "price": 39.72,
+      "value": 1596744
+    },
+    {
+      "date": "2022-02-02",
+      "person": "Zunaira Dar",
+      "role": "Executive",
+      "action": "Sell",
+      "shares": 19000,
+      "price": 40.5,
+      "value": 769500
+    },
+    {
+      "date": "2022-01-26",
+      "person": "Muhammad Mohtashim Aftab",
+      "role": "Executive",
+      "action": "Repo-In",
+      "shares": 225700,
+      "price": 24.34,
+      "value": 5493538
+    },
+    {
+      "date": "2022-01-26",
+      "person": "Syed Sheharyar Ali",
+      "role": "Executive Director",
+      "action": "Repo-In",
+      "shares": 159700,
+      "price": 24.34,
+      "value": 3887098
+    },
+    {
+      "date": "2022-01-26",
+      "person": "Muhammad Shafique Anjum",
+      "role": "Executive Director",
+      "action": "Repo-In",
+      "shares": 193000,
+      "price": 24.34,
+      "value": 4697620
+    },
+    {
+      "date": "2022-01-26",
+      "person": "Muhammad Ali",
+      "role": "Senior Management",
+      "action": "Repo-In",
+      "shares": 40200,
+      "price": 24.34,
+      "value": 978468
+    },
+    {
+      "date": "2022-01-26",
+      "person": "Zunaira Dar",
+      "role": "Executive",
+      "action": "Repo-In",
+      "shares": 19000,
+      "price": 24.34,
+      "value": 462460
+    }
+  ]
+}

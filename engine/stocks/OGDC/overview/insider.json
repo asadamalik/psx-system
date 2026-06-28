@@ -1,0 +1,15 @@
+{
+  "source": "sarmaaya.pk (insider transactions, #insider-transactions table)",
+  "as_of": "2026-06-28",
+  "transactions": [
+    {
+      "date": "2026-05-21",
+      "person": "Khurram Shiraz",
+      "role": "Senior Management",
+      "action": "Sell",
+      "shares": 53,
+      "price": 321.0,
+      "value": 17013
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "symbol": "BNL",
+  "generated": "2026-06-28 01:07",
+  "scores": {
+    "fundamental_score": 62.7,
+    "technical_score": 50.0,
+    "overall_score": 58.9,
+    "rating": "Hold",
+    "risk": "Low",
+    "risk_score": 76.7,
+    "weights": {
+      "fundamental": 0.7,
+      "technical": 0.3
+    },
+    "fundamental_detail": {
+      "fundamental_score": 62.7,
+      "pillars": {
+        "growth": 88.66666666666667,
+        "profitability": 52.8,
+        "financial_strength": 41.5,
+        "valuation": 66.0
+      },
+      "coverage": {
+        "growth": {
+          "used": [
+            "revenue_growth_5y",
+            "net_income_growth_5y",
+            "sales_growth"
+          ],
+          "missing": [
+            "eps_growth"
+          ]
+        },
+        "profitability": {
+          "used": [
+            "roe",
+            "roa",
+            "gross_margin",
+            "operating_margin",
+            "net_margin"
+          ],
+          "missing": []
+        },
+        "financial_strength": {
+          "used": [
+            "debt_to_equity",
+            "current_ratio",
+            "interest_coverage",
+            "fcf_margin"
+          ],
+          "missing": []
+        },
+        "valuation": {
+          "used": [
+            "pe_ratio",
+            "price_to_book"
+          ],
+          "missing": [
+            "peg"
+          ]
+        }
+      },
+      "weight_covered": 1.0
+    }
+  },
+  "technical": {
+    "technical_score": 50.0,
+    "trend": "Bearish",
+    "momentum": "Weak",
+    "adx_strength": "Developing",
+    "rsi_divergence": {
+      "type": "bullish",
+      "label": "Bullish RSI divergence",
+      "note": "Price made a lower low (7.03\u21926.96) while RSI made a higher low (33.6\u219234.2) \u2014 selling momentum is easing; watch for a bounce.",
+      "price_from": 7.03,
+      "price_to": 6.96,
+      "rsi_from": 33.6,
+      "rsi_to": 34.2,
+      "bars_ago": 12
+    },
+    "notes": [
+      "Trend: Bearish",
+      "EMA20 < EMA50",
+      "ADX 23.5 (Developing); DI + dominant",
+      "RSI 43.8 (Weak)",
+      "MACD above signal",
+      "\u26a0 Bullish RSI divergence (12 bars ago): Price made a lower low (7.03\u21926.96) while RSI made a higher low (33.6\u219234.2) \u2014 selling momentum is easing; watch for a bounce."
+    ]
+  },
+  "technical_snapshot": {
+    "as_of": "2026-06-24",
+    "bars": 135,
+    "close": 7.11,
+    "sma_20": 7.0985,
+    "sma_50": 7.738,
+    "sma_200": null,
+    "ema_20": 7.217273470750305,
+    "ema_50": 7.660430093395846,
+    "ema_100": 8.621482344623232,
+    "ema_200": null,
+    "obv": -159544187.0,
+    "weekly_trend": "Down",
+    "monthly_trend": "Down",
+    "support_resistance": {
+      "price": 7.11,
+      "nearest_resistance": 7.7,
+      "nearest_support": 6.9,
+      "resistance_levels": [
+        7.7,
+        8.75,
+        9.82
+      ],
+      "support_levels": [
+        6.9
+      ]
+    },
+    "rsi_14": 43.774831336954364,
+    "macd": -0.11800582010145,
+    "macd_signal": -0.17656689860845695,
+    "macd_hist": 0.05856107850700695,
+    "adx_14": 23.540271101673518,
+    "plus_di": 21.362521822073578,
+    "minus_di": 20.79385933119505,
+    "atr_14": 0.2618586570497562,
+    "bb_upper": 7.375070063456311,
+    "bb_lower": 6.821929936543688,
+    "week52_high": 14.51,
+    "week52_low": 6.9,
+    "rsi_divergence": {
+      "type": "bullish",
+      "label": "Bullish RSI divergence",
+      "note": "Price made a lower low (7.03\u21926.96) while RSI made a higher low (33.6\u219234.2) \u2014 selling momentum is easing; watch for a bounce.",
+      "price_from": 7.03,
+      "price_to": 6.96,
+      "rsi_from": 33.6,
+      "rsi_to": 34.2,
+      "bars_ago": 12
+    },
+    "patterns": [
+      {
+        "name": "Falling Wedge",
+        "type": "bullish",
+        "confidence": 0.5,
+        "status": "forming",
+        "neckline": 7.7,
+        "target": 8.72,
+        "note": "Lower highs and lows converging after a decline; bullish reversal bias."
+      }
+    ]
+  },
+  "growth": {
+    "revenue_growth_5y": 0.19907689992308653,
+    "net_income_growth_5y": 0.14843971837356196,
+    "equity_growth_5y": 0.10553515153449022,
+    "debt_change_5y": -0.026220614828209764
+  },
+  "metrics": {
+    "revenue_growth_5y": 0.19907689992308653,
+    "net_income_growth_5y": 0.14843971837356196,
+    "eps_growth": null,
+    "sales_growth": 0.19907689992308653,
+    "roe": 0.1169,
+    "roa": 0.0655,
+    "gross_margin": 0.2622,
+    "operating_margin": 0.06468834688346883,
+    "net_margin": 0.041944444444444444,
+    "debt_to_equity": 0.40687570834907444,
+    "current_ratio": 0.9779766001376462,
+    "interest_coverage": 2.484775932962057,
+    "fcf_margin": 0.000673441734417344,
+    "pe_ratio": 10.65,
+    "price_to_book": 1.62,
+    "peg": null
+  },
+  "latest": {
+    "revenue": 7380.0,
+    "net_income": 309.55,
+    "equity": 2647.0,
+    "total_assets": 4729.0,
+    "total_debt": 1077.0,
+    "operating_cash_flow": 202.07,
+    "capex": 197.1
+  }
+}

@@ -1,0 +1,558 @@
+{
+  "symbol": "KEL",
+  "income_statement_annual": {
+    "revenue": {
+      "2020": 288807.38,
+      "2021": 325048.55,
+      "2022": 519070.76,
+      "2023": 519732.33,
+      "2024": 615874.64
+    },
+    "gross_profit": {},
+    "operating_income": {
+      "2020": 9064.11,
+      "2021": 17130.81,
+      "2022": 19458.82,
+      "2023": -6981.78,
+      "2024": 40997.11
+    },
+    "net_income": {
+      "2020": -2959.21,
+      "2021": 11979.96,
+      "2022": 8469.31,
+      "2023": -30982.92,
+      "2024": 4243.94
+    },
+    "eps": {
+      "2020": -0.11,
+      "2021": 0.43,
+      "2022": 0.31,
+      "2023": -1.12,
+      "2024": 0.15
+    },
+    "interest_expense": {
+      "2020": 13710.96,
+      "2021": 9459.49,
+      "2022": 11352.36,
+      "2023": 26534.39,
+      "2024": 56784.16
+    }
+  },
+  "balance_sheet_annual": {
+    "current_assets": {
+      "2020": 339044.61,
+      "2021": 408193.08,
+      "2022": 551034.48,
+      "2023": 416798.21,
+      "2024": 220148.75
+    },
+    "cash_and_equivalents": {
+      "2020": 3088.81,
+      "2021": 2551.63,
+      "2022": 2899.47,
+      "2023": 7121.31,
+      "2024": 9936.64
+    },
+    "inventory": {
+      "2020": 12966.22,
+      "2021": 16082.87,
+      "2022": 17105.28,
+      "2023": 18736.3,
+      "2024": 24144.56
+    },
+    "total_assets": {
+      "2020": 703413.93,
+      "2021": 835665.12,
+      "2022": 1060140.63,
+      "2023": 1024565.03,
+      "2024": 717010.31
+    },
+    "current_liabilities": {
+      "2020": 379466.29,
+      "2021": 505935.99,
+      "2022": 596253.91,
+      "2023": 515157.05,
+      "2024": 374143.51
+    },
+    "total_liabilities": {
+      "2020": 492755.56,
+      "2021": 611731.82,
+      "2022": 810041.4,
+      "2023": 769569.2,
+      "2024": 601187.13
+    },
+    "total_equity": {
+      "2020": 210658.37,
+      "2021": 223933.3,
+      "2022": 250099.24,
+      "2023": 254995.82,
+      "2024": 115823.19
+    },
+    "total_debt": {
+      "2020": 83038.39,
+      "2021": 77276.68,
+      "2022": 175573.98,
+      "2023": 216970.93,
+      "2024": 180108.99
+    }
+  },
+  "cashflow_annual": {
+    "cash_from_operations": {
+      "2020": 21870.74,
+      "2021": 42259.11,
+      "2022": -25948.34,
+      "2023": 60645.07,
+      "2024": 78342.08
+    },
+    "cash_from_investing": {
+      "2020": -49411.08,
+      "2021": -74283.83,
+      "2022": -63764.43,
+      "2023": -49503.36,
+      "2024": -40692.44
+    },
+    "cash_from_financing": {
+      "2020": 27191.83,
+      "2021": 22061.44,
+      "2022": 83689.48,
+      "2023": -221.65,
+      "2024": -34269.44
+    },
+    "capex": {
+      "2020": 49918.61,
+      "2021": 76567.64,
+      "2022": 51262.75,
+      "2023": 49763.76,
+      "2024": 47387.42
+    }
+  },
+  "income_statement_quarterly": {
+    "revenue": {
+      "2023-03": 102520,
+      "2023-06": 151497,
+      "2023-09": 167215,
+      "2023-12": 153227,
+      "2024-03": 122308,
+      "2024-06": 173313
+    },
+    "operating_income": {
+      "2023-03": 5196,
+      "2023-06": 3875,
+      "2023-09": 8935,
+      "2023-12": 15931,
+      "2024-03": 9593,
+      "2024-06": 9280
+    },
+    "net_income": {
+      "2023-03": -12379,
+      "2023-06": 8477,
+      "2023-09": -7019,
+      "2023-12": 5823,
+      "2024-03": 4043,
+      "2024-06": 1405
+    },
+    "eps": {
+      "2023-03": -0.45,
+      "2023-06": 0.31,
+      "2023-09": -0.25,
+      "2023-12": 0.21,
+      "2024-03": 0.15,
+      "2024-06": 0.04
+    },
+    "interest_expense": {
+      "2023-03": 6304,
+      "2023-06": 10827,
+      "2023-09": 20771,
+      "2023-12": 13037,
+      "2024-03": 10660,
+      "2024-06": 12319
+    }
+  },
+  "balance_sheet_quarterly": {
+    "current_assets": {
+      "2023-03": 568301,
+      "2023-06": 416798,
+      "2023-09": 409770,
+      "2023-12": 317256,
+      "2024-03": 328088,
+      "2024-06": 220149
+    },
+    "cash_and_equivalents": {
+      "2023-03": 4739,
+      "2023-06": 7121,
+      "2023-09": 15157,
+      "2023-12": 7499,
+      "2024-03": 7854,
+      "2024-06": 9937
+    },
+    "inventory": {
+      "2023-03": 17770,
+      "2023-06": 18736,
+      "2023-09": 20098,
+      "2023-12": 23531,
+      "2024-03": 25267,
+      "2024-06": 24145
+    },
+    "total_assets": {
+      "2023-03": 1104822,
+      "2023-06": 1024565,
+      "2023-09": 880718,
+      "2023-12": 797463,
+      "2024-03": 816834,
+      "2024-06": 717010
+    },
+    "current_liabilities": {
+      "2023-03": 668312,
+      "2023-06": 515157,
+      "2023-09": 527069,
+      "2023-12": 449222,
+      "2024-03": 471436,
+      "2024-06": 374144
+    },
+    "total_liabilities": {
+      "2023-03": 894182,
+      "2023-06": 769569,
+      "2023-09": 775604,
+      "2023-12": 686526,
+      "2024-03": 701790,
+      "2024-06": 601187
+    },
+    "total_debt": {
+      "2023-03": 317221,
+      "2023-06": 309822,
+      "2023-09": 292102,
+      "2023-12": 259342,
+      "2024-03": 235411,
+      "2024-06": 266967
+    },
+    "total_equity": {
+      "2023-03": 210640,
+      "2023-06": 254996,
+      "2023-09": 105115,
+      "2023-12": 110938,
+      "2024-03": 115044,
+      "2024-06": 115823
+    }
+  },
+  "cashflow_quarterly": {
+    "cash_from_operations": {
+      "2023-03": 19717,
+      "2023-06": 39890,
+      "2023-09": 30982,
+      "2023-12": 34004,
+      "2024-03": 30973,
+      "2024-06": -17617
+    },
+    "cash_from_investing": {
+      "2023-03": -7039,
+      "2023-06": -28337,
+      "2023-09": -5000,
+      "2023-12": -13549,
+      "2024-03": -9204,
+      "2024-06": -12940
+    },
+    "cash_from_financing": {
+      "2023-03": -7717,
+      "2023-06": -954.11,
+      "2023-09": -5822,
+      "2023-12": -27026,
+      "2024-03": -17022,
+      "2024-06": 15600
+    },
+    "capex": {
+      "2023-03": 8111,
+      "2023-06": 26359,
+      "2023-09": 6409,
+      "2023-12": 14524,
+      "2024-03": 12808,
+      "2024-06": 13646
+    }
+  },
+  "ratios": {
+    "pe_ratio": 58.33,
+    "price_to_book": 2.09,
+    "roe": 0.037,
+    "roa": 0.0059,
+    "gross_margin": 0.2134,
+    "industry_pe": 18.52
+  },
+  "earnings": {
+    "source": "stockanalysis.com (statistics)",
+    "as_of": "2026-06-27",
+    "latest_eps": 0.04,
+    "eps_ttm": 0.15,
+    "next_earnings_date": "Sep 11, 2026",
+    "history": [
+      {
+        "period_end": "Jun 2024",
+        "eps": 0.04,
+        "eps_forecast": null,
+        "eps_surprise_pct": null
+      },
+      {
+        "period_end": "Jun 2023",
+        "eps": 0.31,
+        "eps_forecast": null,
+        "eps_surprise_pct": null
+      },
+      {
+        "period_end": "Mar 2023",
+        "eps": -0.45,
+        "eps_forecast": null,
+        "eps_surprise_pct": null
+      },
+      {
+        "period_end": "Dec 2022",
+        "eps": -0.39,
+        "eps_forecast": null,
+        "eps_surprise_pct": null
+      }
+    ]
+  },
+  "dividends": {
+    "source": "stockanalysis.com (dividend page)",
+    "as_of": "2026-06-27",
+    "yield": null,
+    "per_share_ttm": null,
+    "payout_ratio": null,
+    "note": "No dividend on record (Investing shows none).",
+    "history": []
+  },
+  "overview": {
+    "company_name": "K-Electric Limited",
+    "sector": "Utilities",
+    "industry": "Electric Utilities",
+    "market_cap": 241630,
+    "shares_outstanding": 27615.19,
+    "current_price": 8.75,
+    "currency": "PKR"
+  },
+  "profile": {},
+  "ownership": {},
+  "announcements": {},
+  "insider": {
+    "source": "sarmaaya.pk (insider transactions, #insider-transactions table)",
+    "as_of": "2026-06-27",
+    "transactions": [
+      {
+        "date": "2026-06-23",
+        "person": "Sadia Dada",
+        "role": "Executive",
+        "action": "Sell",
+        "shares": 1,
+        "price": 8.0,
+        "value": 8
+      },
+      {
+        "date": "2026-06-22",
+        "person": "Sadia Dada",
+        "role": "Executive",
+        "action": "Sell",
+        "shares": 1,
+        "price": 8.0,
+        "value": 8
+      },
+      {
+        "date": "2026-06-22",
+        "person": "Sadia Dada",
+        "role": "Executive",
+        "action": "Sell",
+        "shares": 1,
+        "price": 8.0,
+        "value": 8
+      },
+      {
+        "date": "2026-06-22",
+        "person": "Sadia Dada",
+        "role": "Executive",
+        "action": "Sell",
+        "shares": 1,
+        "price": 8.0,
+        "value": 8
+      },
+      {
+        "date": "2026-05-12",
+        "person": "Faisal",
+        "role": "Executive",
+        "action": "Sell",
+        "shares": 3000,
+        "price": 8.28,
+        "value": 24840
+      },
+      {
+        "date": "2026-05-07",
+        "person": "Faisal",
+        "role": "Executive",
+        "action": "Buy",
+        "shares": 3000,
+        "price": 8.0,
+        "value": 24000
+      },
+      {
+        "date": "2026-03-17",
+        "person": "Adeeb Ahmad",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 500,
+        "price": 7.0,
+        "value": 3500
+      },
+      {
+        "date": "2026-02-10",
+        "person": "Zulfiqar Ali",
+        "role": "Executive",
+        "action": "Sell",
+        "shares": 645000,
+        "price": 8.6,
+        "value": 5547000
+      },
+      {
+        "date": "2026-01-28",
+        "person": "Atif Aslam",
+        "role": "Executive",
+        "action": "Buy",
+        "shares": 10100,
+        "price": 6.76,
+        "value": 68276
+      },
+      {
+        "date": "2026-01-05",
+        "person": "Osama Changi",
+        "role": "Executive",
+        "action": "Sell",
+        "shares": 42565,
+        "price": 5.88,
+        "value": 250282
+      },
+      {
+        "date": "2026-01-05",
+        "person": "Osama Changi",
+        "role": "Executive",
+        "action": "Buy",
+        "shares": 42565,
+        "price": 5.89,
+        "value": 250708
+      },
+      {
+        "date": "2025-10-09",
+        "person": "Shiraz Ahmed",
+        "role": "Executive",
+        "action": "Sell",
+        "shares": 15000,
+        "price": 7.32,
+        "value": 109800
+      },
+      {
+        "date": "2025-10-07",
+        "person": "Shiraz Ahmed",
+        "role": "Executive",
+        "action": "Sell",
+        "shares": 18000,
+        "price": 7.34,
+        "value": 132120
+      },
+      {
+        "date": "2025-10-07",
+        "person": "Shiraz Ahmed",
+        "role": "Executive",
+        "action": "Buy",
+        "shares": 33000,
+        "price": 7.14,
+        "value": 235620
+      },
+      {
+        "date": "2025-09-30",
+        "person": "Maryam Ali (Spouse of Muhammad Haris Sarfaraz)",
+        "role": "Executive",
+        "action": "Sell",
+        "shares": 100000,
+        "price": 6.77,
+        "value": 677000
+      },
+      {
+        "date": "2025-05-27",
+        "person": "Hafiz Noman",
+        "role": "Executive",
+        "action": "Sell",
+        "shares": 30000,
+        "price": 5.73,
+        "value": 171900
+      },
+      {
+        "date": "2025-04-28",
+        "person": "SYED MOHAMMAD ASIF KAZMI",
+        "role": "Executive",
+        "action": "Sell",
+        "shares": 100000,
+        "price": 4.24,
+        "value": 424000
+      },
+      {
+        "date": "2025-04-24",
+        "person": "SYED MUHAMMAD ASIF KAZMI",
+        "role": "Executive",
+        "action": "Buy",
+        "shares": 2050000,
+        "price": 4.46,
+        "value": 9143000
+      },
+      {
+        "date": "2025-04-24",
+        "person": "SYED MUHAMMAD ASIF KAZMI",
+        "role": "Executive",
+        "action": "Sell",
+        "shares": 1050000,
+        "price": 4.58,
+        "value": 4809000
+      },
+      {
+        "date": "2024-01-05",
+        "person": "MUHAMMAD FAIZAN PASHA",
+        "role": "Executive",
+        "action": "Sell",
+        "shares": 40000,
+        "price": 6.03,
+        "value": 241200
+      },
+      {
+        "date": "2023-11-27",
+        "person": "TARIQ MAHMOOD MUNAWAR",
+        "role": "Executive",
+        "action": "Sell",
+        "shares": 100000,
+        "price": 3.13,
+        "value": 313000
+      },
+      {
+        "date": "2023-10-19",
+        "person": "TARIQ MAHMOOD MUNAWAR",
+        "role": "Executive",
+        "action": "Buy",
+        "shares": 100000,
+        "price": 2.39,
+        "value": 239000
+      },
+      {
+        "date": "2022-08-25",
+        "person": "Aneek Saleh Mohammad",
+        "role": "Spouse",
+        "action": "Buy",
+        "shares": 100000,
+        "price": 3.37,
+        "value": 337000
+      },
+      {
+        "date": "2022-08-25",
+        "person": "Aneek Saleh Mohammad",
+        "role": "Spouse",
+        "action": "Sell",
+        "shares": 100000,
+        "price": 3.41,
+        "value": 341000
+      }
+    ]
+  },
+  "shareholding": {},
+  "fipi": {},
+  "monthly_sales": {}
+}

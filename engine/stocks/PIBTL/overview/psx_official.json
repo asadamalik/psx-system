@@ -1,0 +1,32 @@
+{
+  "source": "PSX DPS (dps.psx.com.pk/company/PIBTL)",
+  "basis": "unconsolidated",
+  "as_of": "2026-06-27",
+  "currency": "PKR",
+  "units": "millions",
+  "fiscal_year_end": "June",
+  "shares_outstanding": 1790.0,
+  "free_float_pct": 0.45,
+  "free_float_shares": 803.74,
+  "market_cap": 33290.0,
+  "pe_ratio_ttm": 15.4,
+  "yearend_close": {
+    "2021": 11.38,
+    "2022": 6.02,
+    "2023": 4.11,
+    "2024": 6.17,
+    "2025": 8.74
+  },
+  "note": "DPS company page exposed only FY2025 annual + Q3 2026; PIBTL has split twice \u2014 historical truncated to the clean post-split window.",
+  "annual": {
+    "sales": {
+      "2025": 9969.18
+    },
+    "profit_after_tax": {
+      "2025": -257.93
+    },
+    "eps": {
+      "2025": -0.14
+    }
+  }
+}

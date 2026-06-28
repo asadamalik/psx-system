@@ -1,0 +1,31 @@
+{
+  "source": "PSX DPS (dps.psx.com.pk/company/WTL)",
+  "basis": "unconsolidated",
+  "as_of": "2026-06-27",
+  "currency": "PKR",
+  "units": "millions",
+  "fiscal_year_end": "December",
+  "shares_outstanding": 4980.0,
+  "free_float_pct": null,
+  "market_cap": 6280.0,
+  "pe_ratio_ttm": null,
+  "yearend_close": {
+    "2021": 2.08,
+    "2022": 1.17,
+    "2023": 1.41,
+    "2024": 1.78,
+    "2025": 1.72
+  },
+  "note": "Distressed (negative equity, delisting risk). DPS exposed only FY2025 annual.",
+  "annual": {
+    "sales": {
+      "2025": 5991.18
+    },
+    "profit_after_tax": {
+      "2025": -459.29
+    },
+    "eps": {
+      "2025": -0.09
+    }
+  }
+}

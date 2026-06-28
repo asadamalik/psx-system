@@ -1,0 +1,636 @@
+{
+  "source": "sarmaaya.pk (insider transactions, #insider-transactions table)",
+  "as_of": "2026-06-28",
+  "transactions": [
+    {
+      "date": "2026-01-28",
+      "person": "Muhammad Shahid Mir",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 80000,
+      "price": 41.94,
+      "value": 3355200
+    },
+    {
+      "date": "2026-01-28",
+      "person": "Faizan Abid",
+      "role": "Executive",
+      "action": "Sell",
+      "shares": 14943,
+      "price": 42.0,
+      "value": 627606
+    },
+    {
+      "date": "2025-11-06",
+      "person": "Ahsan Khalil",
+      "role": "Executive",
+      "action": "Sell",
+      "shares": 8309,
+      "price": 44.86,
+      "value": 372742
+    },
+    {
+      "date": "2025-09-29",
+      "person": "Tanveer Karamat",
+      "role": "Non-Executive Director",
+      "action": "Sell",
+      "shares": 20000,
+      "price": 52.6,
+      "value": 1052000
+    },
+    {
+      "date": "2025-09-24",
+      "person": "Tanveer Karamat",
+      "role": "Non-Executive Director",
+      "action": "Sell",
+      "shares": 10000,
+      "price": 51.71,
+      "value": 517100
+    },
+    {
+      "date": "2025-07-25",
+      "person": "Mohammad Shahid Mir",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 100000,
+      "price": 49.3,
+      "value": 4930000
+    },
+    {
+      "date": "2025-07-25",
+      "person": "Mohammad Shahid Mir",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 200000,
+      "price": 49.09,
+      "value": 9818000
+    },
+    {
+      "date": "2025-07-25",
+      "person": "Tanveer Karamat",
+      "role": "Non-Executive Director",
+      "action": "Sell",
+      "shares": 10000,
+      "price": 49.7,
+      "value": 497000
+    },
+    {
+      "date": "2025-07-25",
+      "person": "Mohammad Shahid Mir",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 1000,
+      "price": 49.4,
+      "value": 49400
+    },
+    {
+      "date": "2025-07-15",
+      "person": "Tanveer Karamat",
+      "role": "Non-Executive Director",
+      "action": "Sell",
+      "shares": 10000,
+      "price": 51.55,
+      "value": 515500
+    },
+    {
+      "date": "2025-07-04",
+      "person": "Tanveer Karamat",
+      "role": "Non-Executive Director",
+      "action": "Sell",
+      "shares": 10000,
+      "price": 50.7,
+      "value": 507000
+    },
+    {
+      "date": "2025-06-26",
+      "person": "Tanveer Karamat",
+      "role": "Non-Executive Director",
+      "action": "Sell",
+      "shares": 60000,
+      "price": 49.0,
+      "value": 2940000
+    },
+    {
+      "date": "2024-12-17",
+      "person": "Tanveer Karamat",
+      "role": "Non-Executive Director",
+      "action": "Sell",
+      "shares": 10000,
+      "price": 57.36,
+      "value": 573600
+    },
+    {
+      "date": "2024-12-13",
+      "person": "Tanveer Karamat",
+      "role": "Non-Executive Director",
+      "action": "Sell",
+      "shares": 30000,
+      "price": 60.33,
+      "value": 1809900
+    },
+    {
+      "date": "2024-08-06",
+      "person": "Muhammad Shahid Mir",
+      "role": "Independent Director",
+      "action": "Sell",
+      "shares": 38670,
+      "price": 64.05,
+      "value": 2476814
+    },
+    {
+      "date": "2024-07-30",
+      "person": "Tanveer Karamat",
+      "role": "Non-Executive Director",
+      "action": "Sell",
+      "shares": 30000,
+      "price": 67.57,
+      "value": 2027100
+    },
+    {
+      "date": "2024-04-15",
+      "person": "Ahsan Khalil",
+      "role": "Executive",
+      "action": "Sell",
+      "shares": 25000,
+      "price": 51.66,
+      "value": 1291500
+    },
+    {
+      "date": "2023-11-24",
+      "person": "Tanveer Karamat",
+      "role": "Non-Executive Director",
+      "action": "Sell",
+      "shares": 20000,
+      "price": 57.94,
+      "value": 1158800
+    },
+    {
+      "date": "2023-11-06",
+      "person": "Tanveer Karamat",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 10000,
+      "price": 50.0,
+      "value": 500000
+    },
+    {
+      "date": "2023-09-05",
+      "person": "Ahsan Khalil",
+      "role": "Executive",
+      "action": "Sell",
+      "shares": 3624,
+      "price": 48.0,
+      "value": 173952
+    },
+    {
+      "date": "2023-08-17",
+      "person": "Ahsan Khalil",
+      "role": "Executive",
+      "action": "Sell",
+      "shares": 15000,
+      "price": 55.59,
+      "value": 833850
+    },
+    {
+      "date": "2023-07-26",
+      "person": "Ahsan Khalil",
+      "role": "Executive",
+      "action": "Sell",
+      "shares": 40000,
+      "price": 55.91,
+      "value": 2236400
+    },
+    {
+      "date": "2023-07-12",
+      "person": "Tanveer Karamat",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 20000,
+      "price": 55.34,
+      "value": 1106800
+    },
+    {
+      "date": "2023-06-12",
+      "person": "Tanveer Karamat",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 5000,
+      "price": 49.44,
+      "value": 247200
+    },
+    {
+      "date": "2023-06-08",
+      "person": "Tanveer Karamat",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 5000,
+      "price": 48.04,
+      "value": 240200
+    },
+    {
+      "date": "2023-06-08",
+      "person": "Tanveer Karamat",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 15000,
+      "price": 47.95,
+      "value": 719250
+    },
+    {
+      "date": "2023-02-09",
+      "person": "Tanveer Karamat",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 5000,
+      "price": 68.09,
+      "value": 340450
+    },
+    {
+      "date": "2023-02-09",
+      "person": "Tanveer Karamat",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 5000,
+      "price": 68.1,
+      "value": 340500
+    },
+    {
+      "date": "2023-01-11",
+      "person": "Tanveer Karamat",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 5000,
+      "price": 69.73,
+      "value": 348650
+    },
+    {
+      "date": "2023-01-11",
+      "person": "Tanveer Karamat",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 5000,
+      "price": 69.7,
+      "value": 348500
+    },
+    {
+      "date": "2023-01-09",
+      "person": "Tanveer Karamat",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 5000,
+      "price": 69.8,
+      "value": 349000
+    },
+    {
+      "date": "2022-12-02",
+      "person": "Tanveer Karamat",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 2995,
+      "price": 79.7,
+      "value": 238702
+    },
+    {
+      "date": "2022-08-18",
+      "person": "Saeed Ullah Khan Niazi",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 1000,
+      "price": 82.08,
+      "value": 82080
+    },
+    {
+      "date": "2022-08-18",
+      "person": "Saeed Ullah Khan Niazi",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 1000,
+      "price": 82.08,
+      "value": 82080
+    },
+    {
+      "date": "2022-08-17",
+      "person": "Tanveer Karamat",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 10000,
+      "price": 85.24,
+      "value": 852400
+    },
+    {
+      "date": "2022-08-17",
+      "person": "Tanveer Karamat",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 2000,
+      "price": 85.25,
+      "value": 170500
+    },
+    {
+      "date": "2022-08-16",
+      "person": "Saeed Ullah Khan Niazi",
+      "role": "Executive",
+      "action": "Sell",
+      "shares": 137500,
+      "price": 84.23,
+      "value": 11581625
+    },
+    {
+      "date": "2022-01-26",
+      "person": "Tanveer Karamat",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 15000,
+      "price": 107.0,
+      "value": 1605000
+    },
+    {
+      "date": "2022-01-26",
+      "person": "Tanveer Karamat",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 5000,
+      "price": 107.05,
+      "value": 535250
+    },
+    {
+      "date": "2022-01-26",
+      "person": "Tanveer Karamat",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 5000,
+      "price": 107.07,
+      "value": 535350
+    },
+    {
+      "date": "2022-01-26",
+      "person": "Tanveer Karamat",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 5000,
+      "price": 107.08,
+      "value": 535400
+    },
+    {
+      "date": "2022-01-26",
+      "person": "Tanveer Karamat",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 5000,
+      "price": 107.1,
+      "value": 535500
+    },
+    {
+      "date": "2022-01-26",
+      "person": "Tanveer Karamat",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 5000,
+      "price": 107.4,
+      "value": 537000
+    },
+    {
+      "date": "2022-01-26",
+      "person": "Tanveer Karamat",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 5000,
+      "price": 107.8,
+      "value": 539000
+    },
+    {
+      "date": "2022-01-26",
+      "person": "Tanveer Karamat",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 5000,
+      "price": 108.0,
+      "value": 540000
+    },
+    {
+      "date": "2022-01-11",
+      "person": "Tanveer Karamat",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 5000,
+      "price": 105.81,
+      "value": 529050
+    },
+    {
+      "date": "2022-01-11",
+      "person": "Tanveer Karamat",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 5000,
+      "price": 105.82,
+      "value": 529100
+    },
+    {
+      "date": "2022-01-05",
+      "person": "Tanveer Karamat",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 5000,
+      "price": 95.7,
+      "value": 478500
+    },
+    {
+      "date": "2018-08-22",
+      "person": "Saeed Ullah Khan Niazi",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 1000,
+      "price": 82.08,
+      "value": 82080
+    },
+    {
+      "date": "2017-08-22",
+      "person": "Tanveer Karamat",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 2000,
+      "price": 85.25,
+      "value": 170500
+    },
+    {
+      "date": "2017-08-22",
+      "person": "Tanveer Karamat",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 10000,
+      "price": 85.24,
+      "value": 852400
+    },
+    {
+      "date": "2016-08-22",
+      "person": "Saeed Ullah Khan Niazi",
+      "role": "Executive",
+      "action": "Sell",
+      "shares": 137500,
+      "price": 84.23,
+      "value": 11581625
+    },
+    {
+      "date": "2015-03-22",
+      "person": "Mohammad Shahid Mir",
+      "role": "Independent Director",
+      "action": "Buy",
+      "shares": 5100,
+      "price": 88.75,
+      "value": 452625
+    },
+    {
+      "date": "2015-03-22",
+      "person": "Mohammad Shahid Mir",
+      "role": "Independent Director",
+      "action": "Buy",
+      "shares": 4332,
+      "price": 88.9,
+      "value": 385115
+    },
+    {
+      "date": "2015-03-22",
+      "person": "Mohammad Shahid Mir",
+      "role": "Independent Director",
+      "action": "Buy",
+      "shares": 567,
+      "price": 88.74,
+      "value": 50316
+    },
+    {
+      "date": "2015-03-22",
+      "person": "Mohammad Shahid Mir",
+      "role": "Independent Director",
+      "action": "Buy",
+      "shares": 1,
+      "price": 88.72,
+      "value": 89
+    },
+    {
+      "date": "2011-03-22",
+      "person": "Mohammad Shahid Mir",
+      "role": "Independent Director",
+      "action": "Buy",
+      "shares": 50,
+      "price": 87.74,
+      "value": 4387
+    },
+    {
+      "date": "2011-03-22",
+      "person": "Mohammad Shahid Mir",
+      "role": "Independent Director",
+      "action": "Buy",
+      "shares": 10,
+      "price": 87.7,
+      "value": 877
+    },
+    {
+      "date": "2011-03-22",
+      "person": "Mohammad Shahid Mir",
+      "role": "Independent Director",
+      "action": "Buy",
+      "shares": 9440,
+      "price": 87.8,
+      "value": 828832
+    },
+    {
+      "date": "2011-03-22",
+      "person": "Mohammad Shahid Mir",
+      "role": "Independent Director",
+      "action": "Buy",
+      "shares": 500,
+      "price": 87.75,
+      "value": 43875
+    },
+    {
+      "date": "2010-08-22",
+      "person": "Tanveer Karamat",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 10000,
+      "price": 79.1,
+      "value": 791000
+    },
+    {
+      "date": "2010-08-22",
+      "person": "Tanveer Karamat",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 20000,
+      "price": 79.25,
+      "value": 1585000
+    },
+    {
+      "date": "2007-06-22",
+      "person": "Ahsan Khalil",
+      "role": "Executive",
+      "action": "Sell",
+      "shares": 5050,
+      "price": 71.1,
+      "value": 359055
+    },
+    {
+      "date": "2007-06-22",
+      "person": "Ahsan Khalil",
+      "role": "Executive",
+      "action": "Sell",
+      "shares": 1000,
+      "price": 71.01,
+      "value": 71010
+    },
+    {
+      "date": "2007-06-22",
+      "person": "Ahsan Khalil",
+      "role": "Executive",
+      "action": "Sell",
+      "shares": 10000,
+      "price": 71.05,
+      "value": 710500
+    },
+    {
+      "date": "2007-06-22",
+      "person": "Ahsan Khalil",
+      "role": "Executive",
+      "action": "Sell",
+      "shares": 11000,
+      "price": 71.0,
+      "value": 781000
+    },
+    {
+      "date": "2007-06-22",
+      "person": "Ahsan Khalil",
+      "role": "Executive",
+      "action": "Sell",
+      "shares": 5000,
+      "price": 71.24,
+      "value": 356200
+    },
+    {
+      "date": "2007-06-22",
+      "person": "Ahsan Khalil",
+      "role": "Executive",
+      "action": "Sell",
+      "shares": 5000,
+      "price": 71.3,
+      "value": 356500
+    },
+    {
+      "date": "2007-06-22",
+      "person": "Ahsan Khalil",
+      "role": "Executive",
+      "action": "Sell",
+      "shares": 950,
+      "price": 71.22,
+      "value": 67659
+    },
+    {
+      "date": "2007-06-22",
+      "person": "Ahsan Khalil",
+      "role": "Executive",
+      "action": "Sell",
+      "shares": 2000,
+      "price": 71.2,
+      "value": 142400
+    }
+  ]
+}

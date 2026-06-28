@@ -1,0 +1,788 @@
+{
+  "symbol": "SYS",
+  "income_statement_annual": {
+    "revenue": {
+      "2021": 15304.04,
+      "2022": 31759.93,
+      "2023": 53435.48,
+      "2024": 67473.02,
+      "2025": 80391.88
+    },
+    "gross_profit": {
+      "2021": 4989.67,
+      "2022": 8636.28,
+      "2023": 13845.52,
+      "2024": 16157.7,
+      "2025": 22409.26
+    },
+    "operating_income": {
+      "2021": 3169.14,
+      "2022": 5362.83,
+      "2023": 7979.46,
+      "2024": 8319.37,
+      "2025": 12085.61
+    },
+    "net_income": {
+      "2021": 4462.16,
+      "2022": 6628.73,
+      "2023": 8688.55,
+      "2024": 7460.27,
+      "2025": 11041.08
+    },
+    "eps": {
+      "2021": 3.22,
+      "2022": 4.69,
+      "2023": 5.93,
+      "2024": 5.07,
+      "2025": 7.44
+    },
+    "interest_expense": {
+      "2021": 115.45,
+      "2022": 262.36,
+      "2023": 801.1,
+      "2024": 364.82,
+      "2025": 234.58
+    }
+  },
+  "balance_sheet_annual": {
+    "current_assets": {
+      "2021": 13984.88,
+      "2022": 24275.02,
+      "2023": 33515.46,
+      "2024": 41456.14,
+      "2025": 56255.25
+    },
+    "cash_and_equivalents": {
+      "2021": 2978.86,
+      "2022": 5814.5,
+      "2023": 7982.85,
+      "2024": 7820.72,
+      "2025": 13504.72
+    },
+    "inventory": {
+      "2021": 381.03,
+      "2022": 793.61,
+      "2023": 1067.29,
+      "2024": 290.34,
+      "2025": 107.28
+    },
+    "total_assets": {
+      "2021": 18031.45,
+      "2022": 38325.57,
+      "2023": 50666.21,
+      "2024": 57547.34,
+      "2025": 75488.57
+    },
+    "current_liabilities": {
+      "2021": 5553.82,
+      "2022": 13402.68,
+      "2023": 15368.66,
+      "2024": 16513.41,
+      "2025": 20992.41
+    },
+    "total_liabilities": {
+      "2021": 5968.68,
+      "2022": 15397.29,
+      "2023": 18334.59,
+      "2024": 18816.68,
+      "2025": 26909.75
+    },
+    "total_equity": {
+      "2021": 12062.77,
+      "2022": 22928.28,
+      "2023": 32331.62,
+      "2024": 38730.67,
+      "2025": 48578.82
+    },
+    "total_debt": {
+      "2021": 377.89,
+      "2022": 604.7,
+      "2023": 741.3,
+      "2024": 518.85,
+      "2025": 1308.05
+    }
+  },
+  "cashflow_annual": {
+    "cash_from_operations": {
+      "2021": 1847.98,
+      "2022": 5703.72,
+      "2023": 5286.84,
+      "2024": 4117.41,
+      "2025": 10877.01
+    },
+    "cash_from_investing": {
+      "2021": -3475.45,
+      "2022": -2780.32,
+      "2023": -875.53,
+      "2024": -3265.56,
+      "2025": -5977.51
+    },
+    "cash_from_financing": {
+      "2021": 1094.48,
+      "2022": -499.78,
+      "2023": -2509.32,
+      "2024": -2476.99,
+      "2025": -689.43
+    },
+    "capex": {
+      "2021": 874.86,
+      "2022": 1439.93,
+      "2023": 1542.93,
+      "2024": 888.8,
+      "2025": 914.8
+    }
+  },
+  "income_statement_quarterly": {
+    "revenue": {
+      "2024-12": 19163,
+      "2025-03": 18080,
+      "2025-06": 18660,
+      "2025-09": 20680,
+      "2025-12": 22973,
+      "2026-03": 23978
+    },
+    "gross_profit": {
+      "2024-12": 4573,
+      "2025-03": 4550,
+      "2025-06": 4735,
+      "2025-09": 6139,
+      "2025-12": 6985,
+      "2026-03": 6038
+    },
+    "operating_income": {
+      "2024-12": 1951,
+      "2025-03": 2468,
+      "2025-06": 2616,
+      "2025-09": 3373,
+      "2025-12": 3629,
+      "2026-03": 3116
+    },
+    "net_income": {
+      "2024-12": 2028,
+      "2025-03": 2502,
+      "2025-06": 2651,
+      "2025-09": 2792,
+      "2025-12": 3097,
+      "2026-03": 3026
+    },
+    "eps": {
+      "2024-12": 1.38,
+      "2025-03": 1.69,
+      "2025-06": 1.8,
+      "2025-09": 1.88,
+      "2025-12": 2.08,
+      "2026-03": 1.96
+    },
+    "interest_expense": {
+      "2025-03": 89.64,
+      "2025-06": 76.35,
+      "2025-09": 80.02,
+      "2026-03": 129.31
+    }
+  },
+  "balance_sheet_quarterly": {
+    "current_assets": {
+      "2024-12": 41456,
+      "2025-03": 42042,
+      "2025-06": 47125,
+      "2025-09": 47475,
+      "2025-12": 56255,
+      "2026-03": 65693
+    },
+    "cash_and_equivalents": {
+      "2024-12": 7821,
+      "2025-03": 6241,
+      "2025-06": 8186,
+      "2025-09": 7587,
+      "2025-12": 13505,
+      "2026-03": 8305
+    },
+    "inventory": {
+      "2024-12": 290.34,
+      "2025-12": 107.28
+    },
+    "total_assets": {
+      "2024-12": 57547,
+      "2025-03": 57588,
+      "2025-06": 62794,
+      "2025-09": 62838,
+      "2025-12": 75489,
+      "2026-03": 92334
+    },
+    "current_liabilities": {
+      "2024-12": 16513,
+      "2025-03": 13795,
+      "2025-06": 18019,
+      "2025-09": 15345,
+      "2025-12": 20992,
+      "2026-03": 24032
+    },
+    "total_liabilities": {
+      "2024-12": 18817,
+      "2025-03": 16154,
+      "2025-06": 19940,
+      "2025-09": 17127,
+      "2025-12": 26910,
+      "2026-03": 30497
+    },
+    "total_debt": {
+      "2024-12": 3194,
+      "2025-03": 2396,
+      "2025-06": 1734,
+      "2025-09": 2102,
+      "2025-12": 7246,
+      "2026-03": 6179
+    },
+    "total_equity": {
+      "2024-12": 38731,
+      "2025-03": 41434,
+      "2025-06": 42854,
+      "2025-09": 45711,
+      "2025-12": 48579,
+      "2026-03": 61837
+    }
+  },
+  "cashflow_quarterly": {
+    "cash_from_operations": {
+      "2024-12": 3561,
+      "2025-03": -1786,
+      "2025-06": 4326,
+      "2025-09": -252.32,
+      "2025-12": 8589,
+      "2026-03": -3481
+    },
+    "cash_from_investing": {
+      "2024-12": -1350,
+      "2025-03": 959.83,
+      "2025-06": -186.42,
+      "2025-09": -733.1,
+      "2025-12": -6018,
+      "2026-03": -3004
+    },
+    "cash_from_financing": {
+      "2024-12": -413.42,
+      "2025-03": -789.35,
+      "2025-06": -2426,
+      "2025-09": 515.99,
+      "2025-12": 2009,
+      "2026-03": -1381
+    },
+    "capex": {
+      "2024-12": 262.32,
+      "2025-03": 82.18,
+      "2025-06": 244.08,
+      "2025-09": 255.53,
+      "2025-12": 333.01,
+      "2026-03": 180.81
+    }
+  },
+  "ratios": {
+    "pe_ratio": 19.45,
+    "price_to_book": 3.57,
+    "roe": 0.227,
+    "roa": 0.146,
+    "gross_margin": 0.279,
+    "industry_pe": 23.77
+  },
+  "earnings": {
+    "source": "stockanalysis.com (statistics)",
+    "as_of": "2026-06-27",
+    "latest_eps": 2.26,
+    "eps_ttm": 7.71,
+    "next_earnings_date": "Aug 19, 2026",
+    "history": [
+      {
+        "period_end": "Mar 2026",
+        "eps": 2.26,
+        "eps_forecast": null,
+        "eps_surprise_pct": null
+      },
+      {
+        "period_end": "Dec 2025",
+        "eps": 2.1,
+        "eps_forecast": 2.1,
+        "eps_surprise_pct": 0.0
+      },
+      {
+        "period_end": "Sep 2025",
+        "eps": 1.9,
+        "eps_forecast": null,
+        "eps_surprise_pct": null
+      },
+      {
+        "period_end": "Jun 2025",
+        "eps": 1.81,
+        "eps_forecast": null,
+        "eps_surprise_pct": null
+      },
+      {
+        "period_end": "Mar 2025",
+        "eps": 1.62,
+        "eps_forecast": null,
+        "eps_surprise_pct": null
+      },
+      {
+        "period_end": "Dec 2024",
+        "eps": 1.38,
+        "eps_forecast": null,
+        "eps_surprise_pct": null
+      }
+    ]
+  },
+  "dividends": {
+    "source": "stockanalysis.com (dividend page)",
+    "as_of": "2026-06-27",
+    "yield": 0.0133,
+    "per_share_ttm": 2,
+    "payout_ratio": 0.1514,
+    "history": [
+      {
+        "ex_date": "2026-04-30",
+        "amount": 2,
+        "type": null,
+        "yield": null
+      },
+      {
+        "ex_date": "2025-04-18",
+        "amount": 1.2,
+        "type": null,
+        "yield": null
+      },
+      {
+        "ex_date": "2024-04-03",
+        "amount": 1.2,
+        "type": null,
+        "yield": null
+      },
+      {
+        "ex_date": "2023-05-15",
+        "amount": 1,
+        "type": null,
+        "yield": null
+      },
+      {
+        "ex_date": "2022-03-31",
+        "amount": 1,
+        "type": null,
+        "yield": null
+      }
+    ]
+  },
+  "overview": {
+    "company_name": "Systems Limited",
+    "sector": "Technology",
+    "industry": "Software & IT Services",
+    "market_cap": 220910,
+    "shares_outstanding": 1473.4,
+    "current_price": 149.93,
+    "currency": "PKR"
+  },
+  "profile": {},
+  "ownership": {},
+  "announcements": {},
+  "insider": {
+    "source": "sarmaaya.pk (insider transactions, #insider-transactions table)",
+    "as_of": "2026-06-27",
+    "transactions": [
+      {
+        "date": "2026-01-09",
+        "person": "Muhammad Asif Peer",
+        "role": "Executive Director",
+        "action": "Sell",
+        "shares": 10000000,
+        "price": 172.0,
+        "value": 1720000000
+      },
+      {
+        "date": "2025-11-17",
+        "person": "Fayez Qamar",
+        "role": "Senior Management",
+        "action": "Buy",
+        "shares": 22150,
+        "price": 148.45,
+        "value": 3288167
+      },
+      {
+        "date": "2025-09-22",
+        "person": "Zubyr Soomro",
+        "role": "Independent Director",
+        "action": "Buy",
+        "shares": 36000,
+        "price": 137.58,
+        "value": 4952880
+      },
+      {
+        "date": "2024-07-22",
+        "person": "Harris Hasan Syed (Spouse of Romana Abdullah)",
+        "role": "Independent Director",
+        "action": "Sell",
+        "shares": 7500,
+        "price": 460.0,
+        "value": 3450000
+      },
+      {
+        "date": "2024-05-27",
+        "person": "Toima Asghar",
+        "role": "Senior Management",
+        "action": "Sell",
+        "shares": 3000,
+        "price": 425.22,
+        "value": 1275660
+      },
+      {
+        "date": "2024-05-16",
+        "person": "Zubyr Soomro",
+        "role": "Independent Director",
+        "action": "Buy",
+        "shares": 4000,
+        "price": 390.0,
+        "value": 1560000
+      },
+      {
+        "date": "2024-03-04",
+        "person": "Toima Asghar",
+        "role": "Senior management",
+        "action": "Sell",
+        "shares": 3000,
+        "price": 410.03,
+        "value": 1230090
+      },
+      {
+        "date": "2023-11-28",
+        "person": "Toima Asghar",
+        "role": "Senior Management",
+        "action": "Sell",
+        "shares": 2000,
+        "price": 462.36,
+        "value": 924720
+      },
+      {
+        "date": "2023-11-21",
+        "person": "Toima Asghar",
+        "role": "Senior Management",
+        "action": "Sell",
+        "shares": 700,
+        "price": 444.83,
+        "value": 311381
+      },
+      {
+        "date": "2023-11-21",
+        "person": "Toima Asghar",
+        "role": "Senior Management",
+        "action": "Sell",
+        "shares": 1800,
+        "price": 445.2,
+        "value": 801360
+      },
+      {
+        "date": "2023-11-15",
+        "person": "Toima Asghar",
+        "role": "Senior Management",
+        "action": "Sell",
+        "shares": 4000,
+        "price": 426.23,
+        "value": 1704920
+      },
+      {
+        "date": "2023-11-14",
+        "person": "Toima Asghar",
+        "role": "Senior Management",
+        "action": "Sell",
+        "shares": 4000,
+        "price": 332.54,
+        "value": 1330160
+      },
+      {
+        "date": "2023-11-10",
+        "person": "Toima Asghar",
+        "role": "Senior Management",
+        "action": "Sell",
+        "shares": 1000,
+        "price": 425.0,
+        "value": 425000
+      },
+      {
+        "date": "2023-11-01",
+        "person": "Toima Asghar",
+        "role": "Senior Management",
+        "action": "Sell",
+        "shares": 6000,
+        "price": 415.3,
+        "value": 2491800
+      },
+      {
+        "date": "2023-10-24",
+        "person": "Toima Asghar",
+        "role": "Senior Management",
+        "action": "Sell",
+        "shares": 6000,
+        "price": 405.2,
+        "value": 2431200
+      },
+      {
+        "date": "2023-04-18",
+        "person": "Asif Akram",
+        "role": "Senior Management",
+        "action": "Sell",
+        "shares": 5000,
+        "price": 466.39,
+        "value": 2331950
+      },
+      {
+        "date": "2022-12-16",
+        "person": "Romana Abdullah",
+        "role": "Independent Director",
+        "action": "Buy",
+        "shares": 8,
+        "price": 504.95,
+        "value": 4040
+      },
+      {
+        "date": "2022-12-16",
+        "person": "Romana Abdullah",
+        "role": "Independent Director",
+        "action": "Buy",
+        "shares": 2000,
+        "price": 504.0,
+        "value": 1008000
+      },
+      {
+        "date": "2022-12-16",
+        "person": "Romana Abdullah",
+        "role": "Independent Director",
+        "action": "Buy",
+        "shares": 100,
+        "price": 504.05,
+        "value": 50405
+      },
+      {
+        "date": "2022-12-16",
+        "person": "Romana Abdullah",
+        "role": "Independent Director",
+        "action": "Buy",
+        "shares": 3000,
+        "price": 505.05,
+        "value": 1515150
+      },
+      {
+        "date": "2022-12-16",
+        "person": "Romana Abdullah",
+        "role": "Independent Director",
+        "action": "Buy",
+        "shares": 950,
+        "price": 504.85,
+        "value": 479608
+      },
+      {
+        "date": "2022-12-16",
+        "person": "Romana Abdullah",
+        "role": "Independent Director",
+        "action": "Buy",
+        "shares": 482,
+        "price": 504.8,
+        "value": 243314
+      },
+      {
+        "date": "2022-12-16",
+        "person": "Romana Abdullah",
+        "role": "Independent Director",
+        "action": "Buy",
+        "shares": 340,
+        "price": 505.0,
+        "value": 171700
+      },
+      {
+        "date": "2022-12-15",
+        "person": "Romana Abdullah",
+        "role": "Independent Director",
+        "action": "Buy",
+        "shares": 80,
+        "price": 509.5,
+        "value": 40760
+      },
+      {
+        "date": "2022-12-15",
+        "person": "Romana Abdullah",
+        "role": "Independent Director",
+        "action": "Buy",
+        "shares": 1137,
+        "price": 509.0,
+        "value": 578733
+      },
+      {
+        "date": "2022-12-15",
+        "person": "Romana Abdullah",
+        "role": "Independent Director",
+        "action": "Buy",
+        "shares": 622,
+        "price": 509.74,
+        "value": 317058
+      },
+      {
+        "date": "2022-12-15",
+        "person": "Romana Abdullah",
+        "role": "Independent Director",
+        "action": "Buy",
+        "shares": 50,
+        "price": 509.65,
+        "value": 25482
+      },
+      {
+        "date": "2022-12-15",
+        "person": "Romana Abdullah",
+        "role": "Independent Director",
+        "action": "Buy",
+        "shares": 898,
+        "price": 509.69,
+        "value": 457702
+      },
+      {
+        "date": "2022-12-15",
+        "person": "Romana Abdullah",
+        "role": "Independent Director",
+        "action": "Buy",
+        "shares": 213,
+        "price": 508.99,
+        "value": 108415
+      },
+      {
+        "date": "2022-12-14",
+        "person": "Romana Abdullah",
+        "role": "Independent Director",
+        "action": "Buy",
+        "shares": 2646,
+        "price": 493.5,
+        "value": 1305801
+      },
+      {
+        "date": "2022-12-14",
+        "person": "Romana Abdullah",
+        "role": "Independent Director",
+        "action": "Buy",
+        "shares": 25,
+        "price": 493.96,
+        "value": 12349
+      },
+      {
+        "date": "2022-12-14",
+        "person": "Romana Abdullah",
+        "role": "Independent Director",
+        "action": "Buy",
+        "shares": 28,
+        "price": 493.97,
+        "value": 13831
+      },
+      {
+        "date": "2022-12-14",
+        "person": "Romana Abdullah",
+        "role": "Independent Director",
+        "action": "Buy",
+        "shares": 500,
+        "price": 493.49,
+        "value": 246745
+      },
+      {
+        "date": "2022-12-14",
+        "person": "Romana Abdullah",
+        "role": "Independent Director",
+        "action": "Buy",
+        "shares": 101,
+        "price": 493.48,
+        "value": 49841
+      },
+      {
+        "date": "2022-08-15",
+        "person": "Romana Abdullah",
+        "role": "Independent Director",
+        "action": "Buy",
+        "shares": 77,
+        "price": 363.25,
+        "value": 27970
+      },
+      {
+        "date": "2022-06-22",
+        "person": "Romana Abdullah",
+        "role": "Independent Director",
+        "action": "Buy",
+        "shares": 272,
+        "price": 318.0,
+        "value": 86496
+      },
+      {
+        "date": "2022-02-02",
+        "person": "Romana Abdullah",
+        "role": "Independent Director",
+        "action": "Buy",
+        "shares": 95,
+        "price": 733.0,
+        "value": 69635
+      },
+      {
+        "date": "2022-01-28",
+        "person": "Romana Abdullah",
+        "role": "Independent Director",
+        "action": "Buy",
+        "shares": 100,
+        "price": 755.0,
+        "value": 75500
+      },
+      {
+        "date": "2022-01-21",
+        "person": "Romana Abdullah",
+        "role": "Independent Director",
+        "action": "Buy",
+        "shares": 100,
+        "price": 770.0,
+        "value": 77000
+      },
+      {
+        "date": "2021-04-22",
+        "person": "Romana Abdullah",
+        "role": "Independent Director",
+        "action": "Buy",
+        "shares": 400,
+        "price": 395.0,
+        "value": 158000
+      },
+      {
+        "date": "2018-05-22",
+        "person": "Romana Abdullah",
+        "role": "Independent Director",
+        "action": "Buy",
+        "shares": 1000,
+        "price": 325.51,
+        "value": 325510
+      },
+      {
+        "date": "2015-08-22",
+        "person": "Romana Abdullah",
+        "role": "Independent Director",
+        "action": "Buy",
+        "shares": 77,
+        "price": 363.25,
+        "value": 27970
+      },
+      {
+        "date": "2006-09-22",
+        "person": "Romana Abdullah",
+        "role": "Independent Director",
+        "action": "Buy",
+        "shares": 501,
+        "price": 389.05,
+        "value": 194914
+      },
+      {
+        "date": "2006-05-22",
+        "person": "Romana Abdullah",
+        "role": "Independent Director",
+        "action": "Buy",
+        "shares": 5425,
+        "price": 385.0,
+        "value": 2088625
+      }
+    ]
+  },
+  "shareholding": {},
+  "fipi": {},
+  "monthly_sales": {}
+}

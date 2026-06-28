@@ -1,0 +1,36 @@
+{
+  "source": "PSX DPS (dps.psx.com.pk/company/BOP)",
+  "basis": "unconsolidated",
+  "as_of": "2026-06-27",
+  "currency": "PKR",
+  "units": "millions",
+  "fiscal_year_end": "December",
+  "shares_outstanding": 3270.0,
+  "free_float_pct": 0.4224,
+  "free_float_shares": 1381.25,
+  "market_cap": 115700.0,
+  "pe_ratio_ttm": 6.12,
+  "yearend_close": {
+    "2023": 6.48,
+    "2024": 10.81,
+    "2025": 38.56
+  },
+  "note": "Bank \u2014 Govt of Punjab is majority owner (free float ~42%). DPS 'Total Income' (net markup + non-markup) differs from Investing 'Total Revenue' (gross interest + non-interest income); compare EPS/PAT, not the revenue lines. No split; the 2024->2025 Dec close jump (10.81->38.56) is a real bank re-rating, not a split.",
+  "annual": {
+    "sales": {
+      "2023": 58663.11,
+      "2024": 70845.95,
+      "2025": 100967.95
+    },
+    "profit_after_tax": {
+      "2023": 11339.19,
+      "2024": 13375.36,
+      "2025": 15937.63
+    },
+    "eps": {
+      "2023": 3.47,
+      "2024": 4.09,
+      "2025": 4.87
+    }
+  }
+}

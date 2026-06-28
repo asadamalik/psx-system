@@ -1,0 +1,171 @@
+{
+  "symbol": "WAVES",
+  "generated": "2026-06-28 01:15",
+  "scores": {
+    "fundamental_score": 50.0,
+    "technical_score": 43.3,
+    "overall_score": 48.0,
+    "rating": "Reduce",
+    "risk": "Medium",
+    "risk_score": 63.3,
+    "weights": {
+      "fundamental": 0.7,
+      "technical": 0.3
+    },
+    "fundamental_detail": {
+      "fundamental_score": 50.0,
+      "pillars": {
+        "growth": 22.0,
+        "profitability": 46.2,
+        "financial_strength": 58.0,
+        "valuation": 100.0
+      },
+      "coverage": {
+        "growth": {
+          "used": [
+            "revenue_growth_5y",
+            "net_income_growth_5y",
+            "sales_growth"
+          ],
+          "missing": [
+            "eps_growth"
+          ]
+        },
+        "profitability": {
+          "used": [
+            "roe",
+            "roa",
+            "gross_margin",
+            "operating_margin",
+            "net_margin"
+          ],
+          "missing": []
+        },
+        "financial_strength": {
+          "used": [
+            "debt_to_equity",
+            "current_ratio",
+            "interest_coverage",
+            "fcf_margin"
+          ],
+          "missing": []
+        },
+        "valuation": {
+          "used": [
+            "pe_ratio",
+            "price_to_book"
+          ],
+          "missing": [
+            "peg"
+          ]
+        }
+      },
+      "weight_covered": 1.0
+    }
+  },
+  "technical": {
+    "technical_score": 43.3,
+    "trend": "Sideways",
+    "momentum": "Neutral",
+    "adx_strength": "Weak",
+    "rsi_divergence": {
+      "type": null
+    },
+    "notes": [
+      "Trend: Sideways",
+      "EMA20 > EMA50",
+      "ADX 19.9 (Weak); DI + dominant",
+      "RSI 52.9 (Neutral)",
+      "MACD below signal"
+    ]
+  },
+  "technical_snapshot": {
+    "as_of": "2026-06-24",
+    "bars": 1237,
+    "close": 10.9,
+    "sma_20": 10.813999999999998,
+    "sma_50": 10.458,
+    "sma_200": 12.07645,
+    "ema_20": 10.863119272843699,
+    "ema_50": 10.68638635121584,
+    "ema_100": 10.973379551878994,
+    "ema_200": 11.04089597343138,
+    "obv": 720516199.0,
+    "weekly_trend": "Up",
+    "monthly_trend": "Down",
+    "support_resistance": {
+      "price": 10.9,
+      "nearest_resistance": 10.95,
+      "nearest_support": 9.7,
+      "resistance_levels": [
+        10.95,
+        11.38,
+        11.75
+      ],
+      "support_levels": [
+        9.7,
+        9.46,
+        9.16
+      ]
+    },
+    "rsi_14": 52.85162697921965,
+    "macd": 0.22162481702284964,
+    "macd_signal": 0.2409359828119225,
+    "macd_hist": -0.019311165789072854,
+    "adx_14": 19.913477662108512,
+    "plus_di": 20.891208686002432,
+    "minus_di": 15.193135477430888,
+    "atr_14": 0.45619150764627897,
+    "bb_upper": 11.849246830470333,
+    "bb_lower": 9.778753169529663,
+    "week52_high": 16.44,
+    "week52_low": 7.54,
+    "rsi_divergence": {
+      "type": null
+    },
+    "patterns": [
+      {
+        "name": "Bull Flag",
+        "type": "bullish",
+        "confidence": 0.55,
+        "status": "forming",
+        "neckline": 11.45,
+        "target": 12.41,
+        "note": "Strong pole then tight consolidation; bullish continuation bias."
+      }
+    ]
+  },
+  "growth": {
+    "revenue_growth_5y": -0.1774363128933456,
+    "net_income_growth_5y": 0.08193874762392372,
+    "equity_growth_5y": 0.07341757635183521,
+    "debt_change_5y": 0.0015953203935123637
+  },
+  "metrics": {
+    "revenue_growth_5y": -0.1774363128933456,
+    "net_income_growth_5y": 0.08193874762392372,
+    "eps_growth": null,
+    "sales_growth": -0.1774363128933456,
+    "roe": 0.032,
+    "roa": 0.0174,
+    "gross_margin": 0.2796,
+    "operating_margin": 0.10851642603055033,
+    "net_margin": 0.09135802469135804,
+    "debt_to_equity": 0.5523460410557185,
+    "current_ratio": 1.6953068592057763,
+    "interest_coverage": 97.11610486891387,
+    "fcf_margin": -0.034205900816070306,
+    "pe_ratio": 6.96,
+    "price_to_book": 0.22,
+    "peg": null
+  },
+  "latest": {
+    "revenue": 4779.0,
+    "net_income": 436.6,
+    "equity": 13640.0,
+    "total_assets": 25047.0,
+    "total_debt": 7534.0,
+    "operating_cash_flow": -146.76,
+    "capex": 16.71
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "source": "stockanalysis.com (statistics + dividend page)",
+  "as_of": "2026-06-28",
+  "yield": null,
+  "per_share_ttm": null,
+  "payout_ratio": 0.001,
+  "history": [
+    {
+      "ex_date": "2021-10-29",
+      "amount": 1.3913,
+      "type": null,
+      "yield": null
+    },
+    {
+      "ex_date": "2020-10-20",
+      "amount": 1.33779,
+      "type": null,
+      "yield": null
+    },
+    {
+      "ex_date": "2019-10-17",
+      "amount": 1.33779,
+      "type": null,
+      "yield": null
+    },
+    {
+      "ex_date": "2018-11-14",
+      "amount": 2.67559,
+      "type": null,
+      "yield": null
+    },
+    {
+      "ex_date": "2017-10-19",
+      "amount": 3.72255,
+      "type": null,
+      "yield": null
+    },
+    {
+      "ex_date": "2017-03-24",
+      "amount": 0.77553,
+      "type": null,
+      "yield": null
+    }
+  ]
+}

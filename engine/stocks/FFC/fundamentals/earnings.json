@@ -1,0 +1,47 @@
+{
+  "source": "stockanalysis.com (statistics)",
+  "as_of": "2026-06-27",
+  "latest_eps": 14.55,
+  "forecast_eps": 14.76,
+  "earnings_surprise": -1.42,
+  "eps_ttm": 59.82,
+  "next_earnings_date": "Jul 29, 2026",
+  "history": [
+    {
+      "period_end": "Mar 2026",
+      "eps": 14.55,
+      "eps_forecast": 14.76,
+      "eps_surprise_pct": -1.42
+    },
+    {
+      "period_end": "Dec 2025",
+      "eps": 11.2,
+      "eps_forecast": null,
+      "eps_surprise_pct": null
+    },
+    {
+      "period_end": "Sep 2025",
+      "eps": 17.24,
+      "eps_forecast": 16.01,
+      "eps_surprise_pct": 7.68
+    },
+    {
+      "period_end": "Jun 2025",
+      "eps": 17.7,
+      "eps_forecast": 13.52,
+      "eps_surprise_pct": 30.92
+    },
+    {
+      "period_end": "Mar 2025",
+      "eps": 12.39,
+      "eps_forecast": null,
+      "eps_surprise_pct": null
+    },
+    {
+      "period_end": "Dec 2024",
+      "eps": 9.98,
+      "eps_forecast": null,
+      "eps_surprise_pct": null
+    }
+  ]
+}

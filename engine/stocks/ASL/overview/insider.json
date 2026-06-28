@@ -1,0 +1,114 @@
+{
+  "source": "sarmaaya.pk (insider transactions, #insider-transactions table)",
+  "as_of": "2026-06-28",
+  "transactions": [
+    {
+      "date": "2026-05-25",
+      "person": "Arif Habib Corporation Limited",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 27000000,
+      "price": 12.27,
+      "value": 331290000
+    },
+    {
+      "date": "2026-04-15",
+      "person": "Anna Samad ( Spouse of Abdus Samad)",
+      "role": "Non-Executive Director",
+      "action": "Sell",
+      "shares": 50000,
+      "price": 11.01,
+      "value": 550500
+    },
+    {
+      "date": "2026-04-09",
+      "person": "Arif Habib Corporation Limited",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 39280681,
+      "price": 9.78,
+      "value": 384165060
+    },
+    {
+      "date": "2026-03-12",
+      "person": "Amna Samad (Spouse of Samad A.Habib)",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 200000,
+      "price": 10.73,
+      "value": 2146000
+    },
+    {
+      "date": "2025-07-22",
+      "person": "Ameena Khawar Siddiqui( Spouse of Khawar Ahsan Siddiqui)",
+      "role": "Executive",
+      "action": "Sell",
+      "shares": 60,
+      "price": 9.92,
+      "value": 595
+    },
+    {
+      "date": "2025-07-22",
+      "person": "Ameena Khawar Siddiqui( Spouse of Khawar Ahsan Siddiqui)",
+      "role": "Executive",
+      "action": "Sell",
+      "shares": 250,
+      "price": 11.7,
+      "value": 2925
+    },
+    {
+      "date": "2025-07-15",
+      "person": "Zainab Kashif",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 100,
+      "price": 11.54,
+      "value": 1154
+    },
+    {
+      "date": "2024-07-01",
+      "person": "ARIF HABIB CORPORATION LIMITED",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 24200000,
+      "price": 8.99,
+      "value": 217558000
+    },
+    {
+      "date": "2023-03-13",
+      "person": "ARIF HABIB CORPORATION LIMITED",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 28443266,
+      "price": 7.26,
+      "value": 206498111
+    },
+    {
+      "date": "2009-06-22",
+      "person": "Arif Habib Corporation Limited",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 21505062,
+      "price": 11.36,
+      "value": 244297504
+    },
+    {
+      "date": "2004-10-22",
+      "person": "Arif Habib Corporation Limited",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 1000,
+      "price": 12.15,
+      "value": 12150
+    },
+    {
+      "date": "2004-10-22",
+      "person": "Arif Habib Corporation Limited",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 500,
+      "price": 14.18,
+      "value": 7090
+    }
+  ]
+}

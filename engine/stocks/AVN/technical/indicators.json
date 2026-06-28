@@ -1,0 +1,55 @@
+{
+  "as_of": "2026-06-24",
+  "bars": 1237,
+  "close": 37.58,
+  "sma_20": 34.6645,
+  "sma_50": 34.083600000000004,
+  "sma_200": 40.0593,
+  "ema_20": 35.27239467545907,
+  "ema_50": 34.55608737167227,
+  "ema_100": 35.5980972862059,
+  "ema_200": 39.000105323851,
+  "obv": 548244239.0,
+  "weekly_trend": "Up",
+  "monthly_trend": "Up",
+  "support_resistance": {
+    "price": 37.58,
+    "nearest_resistance": 39.38,
+    "nearest_support": 32.95,
+    "resistance_levels": [
+      39.38,
+      44.21
+    ],
+    "support_levels": [
+      32.95,
+      31.05,
+      29.02
+    ]
+  },
+  "rsi_14": 64.82347676903187,
+  "macd": 0.8665386159048367,
+  "macd_signal": 0.4619746081764198,
+  "macd_hist": 0.40456400772841694,
+  "adx_14": 26.47705006547886,
+  "plus_di": 35.44016870178382,
+  "minus_di": 13.347608537140946,
+  "atr_14": 1.4679576339139113,
+  "bb_upper": 37.857263536509855,
+  "bb_lower": 31.471736463490142,
+  "week52_high": 54.0,
+  "week52_low": 27.5,
+  "rsi_divergence": {
+    "type": null
+  },
+  "patterns": [
+    {
+      "name": "Symmetrical Triangle",
+      "type": "neutral",
+      "confidence": 0.45,
+      "status": "forming",
+      "neckline": null,
+      "target": null,
+      "note": "Converging highs and lows; breakout direction undecided."
+    }
+  ]
+}

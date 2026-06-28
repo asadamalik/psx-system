@@ -1,0 +1,63 @@
+{
+  "symbol": "LOTCHEM",
+  "growth": {
+    "revenue_growth_5y": 0.04763685882449842,
+    "net_income_growth_5y": -0.2993391514445406,
+    "equity_growth_5y": 0.05525597661220649,
+    "debt_change_5y": -0.3653409090909091
+  },
+  "latest": {
+    "revenue": 80907.0,
+    "net_income": 1119.0,
+    "equity": 23532.0,
+    "total_assets": 47803.0,
+    "total_debt": 1117.0,
+    "operating_cash_flow": -281.68,
+    "capex": 848.06
+  },
+  "metrics": {
+    "revenue_growth_5y": 0.04763685882449842,
+    "net_income_growth_5y": -0.2993391514445406,
+    "eps_growth": null,
+    "sales_growth": 0.04763685882449842,
+    "roe": 0.0476,
+    "roa": 0.0234,
+    "gross_margin": 0.0372,
+    "operating_margin": 0.02171629154461295,
+    "net_margin": 0.013830694501093848,
+    "debt_to_equity": 0.04746727859935407,
+    "current_ratio": 1.609490567605751,
+    "interest_coverage": 13.16992729180721,
+    "fcf_margin": -0.013963439504616412,
+    "pe_ratio": 22.06,
+    "price_to_book": 2.44,
+    "peg": null
+  },
+  "extended": {
+    "effective_tax_rate": 0.29,
+    "roic": 0.05060935534910138,
+    "quick_ratio": 1.1309316047535942,
+    "ps_ratio": 0.5295631805835888,
+    "ev_ebitda": null,
+    "peg": null,
+    "revenue_cagr_3y": -0.06901188644701706,
+    "net_income_cagr_3y": -0.5199956897885449,
+    "eps_cagr_3y": -0.5197304131377463,
+    "revenue_qoq": 0.024256113129726014,
+    "revenue_yoy": -0.029993024877935363,
+    "eps_qoq": 4.105263157894737,
+    "eps_yoy": 1.2045454545454546,
+    "ocf_cagr_5y": -0.2614095917044718,
+    "fcf_cagr_5y": -0.32322660098522166,
+    "cash_conversion": -0.2517247542448615,
+    "ttm_revenue": 80262,
+    "ttm_net_income": 1931.03,
+    "dividend_last_year": null,
+    "dividend_latest_annual": 5
+  },
+  "derived": {
+    "free_cash_flow": -1129.74,
+    "market_cap": 42503.8,
+    "current_price": 28.07
+  }
+}

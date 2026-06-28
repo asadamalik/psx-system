@@ -1,0 +1,59 @@
+name: daily-volume-run
+
+# 9 PM Pakistan time (PKT = UTC+5, no DST) = 16:00 UTC, Monday–Friday.
+on:
+  schedule:
+    - cron: "0 16 * * 1-5"
+  workflow_dispatch: {}   # allow manual runs from the Actions tab
+
+permissions:
+  contents: write   # commit updated data/ back to the repo
+  pages: write
+  id-token: write
+
+concurrency:
+  group: daily-run
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+          python -m playwright install --with-deps chromium
+
+      - name: Daily run (top-30 → new entries → auto-onboard → score → build)
+        env:
+          TZ: Asia/Karachi
+        run: python scripts/daily_run.py
+
+      - name: Commit updated data + dashboard
+        run: |
+          git config user.name  "psx-bot"
+          git config user.email "psx-bot@users.noreply.github.com"
+          git add data/ engine/stocks/ dashboard/index.html dashboard/psx_dashboard.html || true
+          git commit -m "daily run $(date -u +%Y-%m-%d)" || echo "no changes"
+          git push || echo "nothing to push"
+
+      # Publish the static dashboard to GitHub Pages
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dashboard
+      - id: deploy
+        uses: actions/deploy-pages@v4
+
+# Notes:
+#  - State lives in the repo (data/, engine/stocks/) and is committed each run — no external DB.
+#  - daily_run.py must be resilient: a single stock's onboarding failure is logged and skipped,
+#    never aborts the job (the core DPS top-30 + OHLCV + dashboard build uses direct HTTP only).
+#  - Test with the "Run workflow" (workflow_dispatch) button before trusting the cron.

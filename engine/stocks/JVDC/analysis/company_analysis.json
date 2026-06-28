@@ -1,0 +1,63 @@
+{
+  "symbol": "JVDC",
+  "growth": {
+    "revenue_growth_5y": 0.6206729440538883,
+    "net_income_growth_5y": 0.5805202930236368,
+    "equity_growth_5y": 0.09401380973457285,
+    "debt_change_5y": -0.3032896496389409
+  },
+  "latest": {
+    "revenue": 7713.0,
+    "net_income": 1636.0,
+    "equity": 25441.0,
+    "total_assets": 43177.0,
+    "total_debt": 5210.0,
+    "operating_cash_flow": 4558.0,
+    "capex": 642.26
+  },
+  "metrics": {
+    "revenue_growth_5y": 0.6206729440538883,
+    "net_income_growth_5y": 0.5805202930236368,
+    "eps_growth": null,
+    "sales_growth": 0.6206729440538883,
+    "roe": 0.0643,
+    "roa": 0.0379,
+    "gross_margin": 0.2972,
+    "operating_margin": 0.18423440943861014,
+    "net_margin": 0.21210942564501492,
+    "debt_to_equity": 0.2047875476592901,
+    "current_ratio": 1.685974914481186,
+    "interest_coverage": 14.759036144578314,
+    "fcf_margin": 0.5076805393491508,
+    "pe_ratio": 13.54,
+    "price_to_book": 1.98,
+    "peg": null
+  },
+  "extended": {
+    "effective_tax_rate": 0.29,
+    "roic": 0.03291605494111122,
+    "quick_ratio": 0.5603952869631319,
+    "ps_ratio": 5.20898163922014,
+    "ev_ebitda": null,
+    "peg": null,
+    "revenue_cagr_3y": 0.19951125020632432,
+    "net_income_cagr_3y": 0.6151773522637098,
+    "eps_cagr_3y": 0.6154347763421486,
+    "revenue_qoq": 0.05230868582499193,
+    "revenue_yoy": 1.316275764036958,
+    "eps_qoq": 0.2524509803921569,
+    "eps_yoy": 2.4066666666666667,
+    "ocf_cagr_5y": 7.082353999280489,
+    "fcf_cagr_5y": 2.3062837397861653,
+    "cash_conversion": 2.7860635696821516,
+    "ttm_revenue": 10566,
+    "ttm_net_income": 4061.8,
+    "dividend_last_year": null,
+    "dividend_latest_annual": 5
+  },
+  "derived": {
+    "free_cash_flow": 3915.74,
+    "market_cap": 55038.1,
+    "current_price": 144.51
+  }
+}

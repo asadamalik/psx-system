@@ -1,0 +1,294 @@
+{
+  "source": "sarmaaya.pk (insider transactions, #insider-transactions table)",
+  "as_of": "2026-06-28",
+  "transactions": [
+    {
+      "date": "2026-04-27",
+      "person": "Sheikh Naseer Hyder",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 1200,
+      "price": 42.38,
+      "value": 50856
+    },
+    {
+      "date": "2026-03-09",
+      "person": "Khalil Ahmad Hashmi",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 20000,
+      "price": 39.82,
+      "value": 796400
+    },
+    {
+      "date": "2026-03-02",
+      "person": "Khalil Ahmad Hashmi",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 17000,
+      "price": 45.67,
+      "value": 776390
+    },
+    {
+      "date": "2025-04-03",
+      "person": "Khalil Ahmed Hashmi",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 47207,
+      "price": 42.32,
+      "value": 1997800
+    },
+    {
+      "date": "2024-08-21",
+      "person": "Mirza Sikandar Baig",
+      "role": "Executive",
+      "action": "Sell",
+      "shares": 326,
+      "price": 15.5,
+      "value": 5053
+    },
+    {
+      "date": "2024-08-19",
+      "person": "Khalil Ahmad Hashmi",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 5000,
+      "price": 51.0,
+      "value": 255000
+    },
+    {
+      "date": "2024-08-19",
+      "person": "Khalil Ahmad Hashmi",
+      "role": "Executive",
+      "action": "Sell",
+      "shares": 5000,
+      "price": 51.18,
+      "value": 255900
+    },
+    {
+      "date": "2024-02-09",
+      "person": "Mirza Sikandar Baig",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 14500,
+      "price": 14.49,
+      "value": 210105
+    },
+    {
+      "date": "2023-11-13",
+      "person": "Haroon Sharif",
+      "role": "Independent Director",
+      "action": "Sell",
+      "shares": 36500,
+      "price": 12.98,
+      "value": 473770
+    },
+    {
+      "date": "2023-10-10",
+      "person": "Haroon Sharif",
+      "role": "Independent Director",
+      "action": "Sell",
+      "shares": 4000,
+      "price": 11.69,
+      "value": 46760
+    },
+    {
+      "date": "2023-09-21",
+      "person": "Synthetic Products Enterprises Limited",
+      "role": "Buy-Back",
+      "action": "Buy",
+      "shares": 2158801,
+      "price": 12.34,
+      "value": 26639604
+    },
+    {
+      "date": "2023-09-20",
+      "person": "Synthetic Products Enterprises Limited",
+      "role": "Buy-Back",
+      "action": "Buy",
+      "shares": 425000,
+      "price": 11.5,
+      "value": 4887500
+    },
+    {
+      "date": "2023-09-14",
+      "person": "Synthetic Products Enterprises Limited",
+      "role": "Buy-Back",
+      "action": "Buy",
+      "shares": 23000,
+      "price": 10.9,
+      "value": 250700
+    },
+    {
+      "date": "2023-08-22",
+      "person": "Synthetic Products Enterprises Limited",
+      "role": "Buy-Back",
+      "action": "Buy",
+      "shares": 1424500,
+      "price": 12.0,
+      "value": 17094000
+    },
+    {
+      "date": "2023-06-23",
+      "person": "Synthetic Products Enterprises Limited",
+      "role": "Buy-Back",
+      "action": "Buy",
+      "shares": 30000,
+      "price": 10.47,
+      "value": 314100
+    },
+    {
+      "date": "2023-06-02",
+      "person": "Synthetic Products Enterprises Limited",
+      "role": "Buy-Back",
+      "action": "Buy",
+      "shares": 5500,
+      "price": 10.59,
+      "value": 58245
+    },
+    {
+      "date": "2023-05-09",
+      "person": "Synthetic Products Enterprises Limited",
+      "role": "Buy-Back",
+      "action": "Buy",
+      "shares": 81000,
+      "price": 11.25,
+      "value": 911250
+    },
+    {
+      "date": "2023-05-08",
+      "person": "Synthetic Products Enterprises Limited",
+      "role": "Buy-Back",
+      "action": "Buy",
+      "shares": 125500,
+      "price": 11.25,
+      "value": 1411875
+    },
+    {
+      "date": "2023-04-07",
+      "person": "Synthetic Products Limited",
+      "role": "Buy-Back",
+      "action": "Buy",
+      "shares": 1000000,
+      "price": 11.25,
+      "value": 11250000
+    },
+    {
+      "date": "2023-01-03",
+      "person": "Almas Hyder",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 300000,
+      "price": 9.9,
+      "value": 2970000
+    },
+    {
+      "date": "2022-02-10",
+      "person": "Almas Hyder",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 13500,
+      "price": 17.4,
+      "value": 234900
+    },
+    {
+      "date": "2022-02-04",
+      "person": "SYED SOHAIL HUSSAIN NAQVI",
+      "role": "Independent Director",
+      "action": "Buy",
+      "shares": 2000,
+      "price": 17.4,
+      "value": 34800
+    },
+    {
+      "date": "2022-02-01",
+      "person": "Almas Hyder",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 100000,
+      "price": 17.55,
+      "value": 1755000
+    },
+    {
+      "date": "2022-01-21",
+      "person": "Noor Hyder Zia",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 7500,
+      "price": 17.39,
+      "value": 130425
+    },
+    {
+      "date": "2021-03-22",
+      "person": "Almas Hyder",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 100000,
+      "price": 14.79,
+      "value": 1479000
+    },
+    {
+      "date": "2020-07-22",
+      "person": "Haroon Sharif",
+      "role": "Independent Director",
+      "action": "Buy",
+      "shares": 40000,
+      "price": 14.39,
+      "value": 575600
+    },
+    {
+      "date": "2020-06-22",
+      "person": "Abid Saleem Khan",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 400,
+      "price": 14.0,
+      "value": 5600
+    },
+    {
+      "date": "2012-05-22",
+      "person": "Almas Hyder",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 100000,
+      "price": 15.0,
+      "value": 1500000
+    },
+    {
+      "date": "2012-04-22",
+      "person": "Abid Saleem Khan",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 59000,
+      "price": 17.18,
+      "value": 1013620
+    },
+    {
+      "date": "2011-03-22",
+      "person": "Almas Hyder",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 63000,
+      "price": 15.97,
+      "value": 1006110
+    },
+    {
+      "date": "2007-06-22",
+      "person": "Almas Hyder",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 2000,
+      "price": 14.0,
+      "value": 28000
+    },
+    {
+      "date": "2007-03-22",
+      "person": "Noor Hyder Zia",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 1000,
+      "price": 16.5,
+      "value": 16500
+    }
+  ]
+}

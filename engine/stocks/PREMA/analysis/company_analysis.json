@@ -1,0 +1,63 @@
+{
+  "symbol": "PREMA",
+  "growth": {
+    "revenue_growth_5y": 0.21930910265058445,
+    "net_income_growth_5y": 0.1912479518998791,
+    "equity_growth_5y": 0.23088871730923888,
+    "debt_change_5y": 0.8623186518375745
+  },
+  "latest": {
+    "revenue": 5654.0,
+    "net_income": 528.15,
+    "equity": 6106.0,
+    "total_assets": 8825.0,
+    "total_debt": 1430.0,
+    "operating_cash_flow": -460.06,
+    "capex": 169.34
+  },
+  "metrics": {
+    "revenue_growth_5y": 0.21930910265058445,
+    "net_income_growth_5y": 0.1912479518998791,
+    "eps_growth": null,
+    "sales_growth": 0.21930910265058445,
+    "roe": 0.0865,
+    "roa": 0.0598,
+    "gross_margin": 0.2388,
+    "operating_margin": 0.01646444994694022,
+    "net_margin": 0.09341174389812522,
+    "debt_to_equity": 0.23419587291188995,
+    "current_ratio": 1.2408829174664107,
+    "interest_coverage": 0.38476481772340254,
+    "fcf_margin": -0.11131941987973117,
+    "pe_ratio": 13.17,
+    "price_to_book": 1.2,
+    "peg": null
+  },
+  "extended": {
+    "effective_tax_rate": 0.29,
+    "roic": 0.008770421974522293,
+    "quick_ratio": 0.8217418426103646,
+    "ps_ratio": 1.1890985958025064,
+    "ev_ebitda": null,
+    "peg": null,
+    "revenue_cagr_3y": 0.1982922440432573,
+    "net_income_cagr_3y": -0.15037390925649097,
+    "eps_cagr_3y": -0.1499593108430558,
+    "revenue_qoq": 0.0851063829787234,
+    "revenue_yoy": 0.2047244094488189,
+    "eps_qoq": -0.14285714285714285,
+    "eps_yoy": -0.13333333333333333,
+    "ocf_cagr_5y": -0.6644834048073803,
+    "fcf_cagr_5y": -0.28857475355969336,
+    "cash_conversion": -0.8710782921518508,
+    "ttm_revenue": 6623,
+    "ttm_net_income": 597.71,
+    "dividend_last_year": null,
+    "dividend_latest_annual": null
+  },
+  "derived": {
+    "free_cash_flow": -629.4,
+    "market_cap": 7875.4,
+    "current_price": 36.02
+  }
+}

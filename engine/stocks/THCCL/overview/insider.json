@@ -1,0 +1,213 @@
+{
+  "source": "sarmaaya.pk (insider transactions, #insider-transactions table)",
+  "as_of": "2026-06-28",
+  "transactions": [
+    {
+      "date": "2025-10-30",
+      "person": "MS. Naheed Memon",
+      "role": "Independent Director",
+      "action": "Sell",
+      "shares": 21750,
+      "price": 70.0,
+      "value": 1522500
+    },
+    {
+      "date": "2025-10-30",
+      "person": "MS. Naheed Memon",
+      "role": "Independent Director",
+      "action": "Buy",
+      "shares": 200,
+      "price": 78.25,
+      "value": 15650
+    },
+    {
+      "date": "2025-09-17",
+      "person": "MS. Naheed Memon",
+      "role": "Independent Director",
+      "action": "Buy",
+      "shares": 19250,
+      "price": 51.89,
+      "value": 998882
+    },
+    {
+      "date": "2025-09-10",
+      "person": "Salim Zamindar",
+      "role": "Independent Director",
+      "action": "Buy",
+      "shares": 1246703,
+      "price": 50.18,
+      "value": 62559557
+    },
+    {
+      "date": "2025-05-12",
+      "person": "KHAWAJA MOHAMMAD SALMAN YOUNIS",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 12500,
+      "price": 158.5,
+      "value": 1981250
+    },
+    {
+      "date": "2025-02-17",
+      "person": "Mr. Qaisar Iqbal",
+      "role": "General Manager",
+      "action": "Buy",
+      "shares": 5490,
+      "price": 185.54,
+      "value": 1018615
+    },
+    {
+      "date": "2024-07-26",
+      "person": "KHAWAJA MOHAMMAD SALMAN YOUNIS",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 20000,
+      "price": 51.3,
+      "value": 1026000
+    },
+    {
+      "date": "2024-04-19",
+      "person": "KHAWAJA Muhammad Salman Younis",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 63500,
+      "price": 22.55,
+      "value": 1431925
+    },
+    {
+      "date": "2024-03-05",
+      "person": "Khawaja Mohammad Salman Younis",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 22500,
+      "price": 19.0,
+      "value": 427500
+    },
+    {
+      "date": "2024-01-09",
+      "person": "Thatta Cement Company Limited",
+      "role": "Buy-Back",
+      "action": "Buy",
+      "shares": 17500,
+      "price": 19.21,
+      "value": 336175
+    },
+    {
+      "date": "2024-01-03",
+      "person": "Thatta Cement Company Limited",
+      "role": "Buy-Back",
+      "action": "Buy",
+      "shares": 367000,
+      "price": 20.62,
+      "value": 7567540
+    },
+    {
+      "date": "2024-01-02",
+      "person": "Thatta Cement Company Limited",
+      "role": "Buy-Back",
+      "action": "Buy",
+      "shares": 1312500,
+      "price": 19.36,
+      "value": 25410000
+    },
+    {
+      "date": "2023-12-28",
+      "person": "Thatta Cement Company Limited",
+      "role": "Buy-Back",
+      "action": "Buy",
+      "shares": 187500,
+      "price": 17.53,
+      "value": 3286875
+    },
+    {
+      "date": "2023-12-26",
+      "person": "Thatta Cement Company Limited",
+      "role": "Buy-Back",
+      "action": "Buy",
+      "shares": 1000000,
+      "price": 17.77,
+      "value": 17770000
+    },
+    {
+      "date": "2023-12-21",
+      "person": "Thatta Cement Company Limited",
+      "role": "Buy-Back",
+      "action": "Buy",
+      "shares": 604500,
+      "price": 17.52,
+      "value": 10590840
+    },
+    {
+      "date": "2023-12-20",
+      "person": "Thatta Cement Company Limited",
+      "role": "Buy-Back",
+      "action": "Buy",
+      "shares": 208000,
+      "price": 16.94,
+      "value": 3523520
+    },
+    {
+      "date": "2023-12-13",
+      "person": "Thatta Cement Company Limited",
+      "role": "Buy-Back",
+      "action": "Buy",
+      "shares": 2500000,
+      "price": 18.28,
+      "value": 45700000
+    },
+    {
+      "date": "2023-12-07",
+      "person": "Thatta Cement Company Limited",
+      "role": "Buy-Back",
+      "action": "Buy",
+      "shares": 2000000,
+      "price": 18.05,
+      "value": 36100000
+    },
+    {
+      "date": "2023-11-22",
+      "person": "MR. KAMRAN MUNIR ANSARI",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 500000,
+      "price": 16.83,
+      "value": 8415000
+    },
+    {
+      "date": "2023-11-21",
+      "person": "Thatta Cement Company Limited",
+      "role": "Buy-Back",
+      "action": "Buy",
+      "shares": 3500000,
+      "price": 16.76,
+      "value": 58660000
+    },
+    {
+      "date": "2023-10-10",
+      "person": "MR. KAMRAN MUNIR ANSARI",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 400000,
+      "price": 15.18,
+      "value": 6072000
+    },
+    {
+      "date": "2023-10-06",
+      "person": "MR. KAMRAN MUNIR ANSARI",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 85000,
+      "price": 14.45,
+      "value": 1228250
+    },
+    {
+      "date": "2023-10-05",
+      "person": "MR. KAMRAN MUNIR ANSARI",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 25000,
+      "price": 14.05,
+      "value": 351250
+    }
+  ]
+}

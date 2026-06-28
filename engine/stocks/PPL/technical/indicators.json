@@ -1,0 +1,54 @@
+{
+  "as_of": "2026-06-24",
+  "bars": 1237,
+  "close": 247.98,
+  "sma_20": 234.61499999999995,
+  "sma_50": 229.9266,
+  "sma_200": 219.19010000000003,
+  "ema_20": 236.32470716484778,
+  "ema_50": 230.83910488831165,
+  "ema_100": 226.86868788409183,
+  "ema_200": 216.93817405160777,
+  "obv": 1407807409.0,
+  "weekly_trend": "Up",
+  "monthly_trend": "Up",
+  "support_resistance": {
+    "price": 247.98,
+    "nearest_resistance": 282.0,
+    "nearest_support": 237.02,
+    "resistance_levels": [
+      282.0
+    ],
+    "support_levels": [
+      237.02,
+      221.8,
+      217.35
+    ]
+  },
+  "rsi_14": 62.98401360432264,
+  "macd": 4.8799321505657645,
+  "macd_signal": 3.2908837751637274,
+  "macd_hist": 1.589048375402037,
+  "adx_14": 15.490822744737626,
+  "plus_di": 34.60985799091845,
+  "minus_di": 19.53779725351272,
+  "atr_14": 6.459871097064423,
+  "bb_upper": 251.58954741664905,
+  "bb_lower": 217.64045258335085,
+  "week52_high": 282.0,
+  "week52_low": 163.01,
+  "rsi_divergence": {
+    "type": null
+  },
+  "patterns": [
+    {
+      "name": "Double Bottom",
+      "type": "bullish",
+      "confidence": 0.59,
+      "status": "confirmed",
+      "neckline": 242.0,
+      "target": 266.65,
+      "note": "Two near-equal troughs; breaks up above the peak (neckline)."
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "source": "sarmaaya.pk (insider transactions, #insider-transactions table)",
+  "as_of": "2026-06-28",
+  "transactions": [
+    {
+      "date": "2026-05-05",
+      "person": "Syed Sarocsh",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 8000000,
+      "price": 6.25,
+      "value": 50000000
+    },
+    {
+      "date": "2026-04-03",
+      "person": "Syed Sarocsh Ahmed",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 100000,
+      "price": 10.06,
+      "value": 1006000
+    },
+    {
+      "date": "2026-03-31",
+      "person": "Syed Sarocsh Ahmed",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 100000,
+      "price": 9.74,
+      "value": 974000
+    },
+    {
+      "date": "2025-05-15",
+      "person": "NADIA ISHTIAQ",
+      "role": "Independent Director",
+      "action": "Buy",
+      "shares": 20000,
+      "price": 15.28,
+      "value": 305600
+    },
+    {
+      "date": "2025-03-17",
+      "person": "SYED MAHIR SHAHZAD",
+      "role": "Independent Director",
+      "action": "Sell",
+      "shares": 5001,
+      "price": 19.76,
+      "value": 98820
+    },
+    {
+      "date": "2025-03-03",
+      "person": "Syed Adil Ahmed",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 2187530,
+      "price": 18.05,
+      "value": 39484916
+    },
+    {
+      "date": "2025-03-03",
+      "person": "Syed Adil Ahmed",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 2187530,
+      "price": 16.28,
+      "value": 35612988
+    },
+    {
+      "date": "2023-10-18",
+      "person": "SYED UZAIR AHMED",
+      "role": "Senior Management",
+      "action": "Buy",
+      "shares": 250000,
+      "price": 3.77,
+      "value": 942500
+    }
+  ]
+}

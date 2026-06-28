@@ -1,0 +1,277 @@
+#!/usr/bin/env python3
+"""
+psx_auto.py — fully automated daily updater for the PSX Volume-Signal dashboard.
+
+Each run it:
+  1. fetches the live market-watch from https://dps.psx.com.pk (all symbols, real OHLCV),
+  2. appends today's Top-30 to a running history file (psx_data/snapshots.json),
+  3. recomputes new/dropped entries, the performance tracker, movers and history,
+  4. pulls fresh price history for the charts,
+  5. writes a ready-to-open psx_dashboard.html with everything baked in.
+
+First run: if psx_data/snapshots.json doesn't exist and PSX_Top30_Daily.xlsx is
+present in this folder, it seeds the history from your spreadsheet so the dashboard
+starts fully populated. After that the spreadsheet is no longer needed.
+
+Idempotent: running twice on the same day overwrites that day's snapshot.
+Skips weekends. (Public holidays: it will re-store the last session under today's
+date; harmless, but you can delete stray dates from psx_data/snapshots.json.)
+
+Requires: pip install pandas openpyxl beautifulsoup4 lxml numpy
+"""
+import os, sys, json, datetime as dt, urllib.request
+import pandas as pd
+from bs4 import BeautifulSoup
+import build_lib
+import external_fundamentals
+import ohlc_store
+
+HERE     = os.path.dirname(os.path.abspath(__file__))
+# Monorepo: shared state lives at <repo-root>/data (sibling of dashboard/), not dashboard/psx_data.
+STATE    = os.environ.get("PSX_DATA") or os.path.normpath(os.path.join(HERE, "..", "data"))
+SNAP     = os.path.join(STATE, "snapshots.json")
+TEMPLATE = os.path.join(HERE, "dashboard_template.html")
+OUT      = os.path.join(HERE, "psx_dashboard.html")
+XLSX     = os.path.join(HERE, "PSX_Top30_Daily.xlsx")
+TOP_N    = 30
+UA       = {"User-Agent": "Mozilla/5.0 (psx-auto)"}
+
+
+def fetch_marketwatch():
+    """Return list of dicts for every symbol: symbol, sector, o,h,l,c, chg(%), vol."""
+    req = urllib.request.Request("https://dps.psx.com.pk/market-watch", headers=UA)
+    html = urllib.request.urlopen(req, timeout=30).read().decode("utf-8", "ignore")
+    soup = BeautifulSoup(html, "lxml")
+
+    def num(t):
+        try:
+            return float(t.replace(",", "").replace("%", ""))
+        except ValueError:
+            return None
+
+    best = {}
+    for tr in soup.select("tr"):
+        tds = tr.find_all("td")
+        if len(tds) < 11:
+            continue
+        sym = tds[0].get_text(strip=True)
+        if not sym or sym == "ALLSHR":
+            continue
+        c = num(tds[7].get_text(strip=True))
+        vtd = tds[10]
+        vraw = vtd.get("data-order") or vtd.get_text(strip=True).replace(",", "")
+        try:
+            vol = int(float(vraw))
+        except ValueError:
+            continue
+        if c is None:
+            continue
+        if sym not in best or vol > best[sym]["vol"]:
+            listed = tds[2].get_text(strip=True)
+            best[sym] = dict(symbol=sym, sector=tds[1].get_text(strip=True),
+                listed_in=listed, shariah=("KMI" in listed.upper()),
+                o=num(tds[4].get_text(strip=True)), h=num(tds[5].get_text(strip=True)),
+                l=num(tds[6].get_text(strip=True)), c=c,
+                chg=num(tds[9].get_text(strip=True)) or 0.0, vol=vol)
+    return list(best.values())
+
+
+def load_snaps():
+    return json.load(open(SNAP)) if os.path.exists(SNAP) else []
+
+
+def save_snaps(snaps):
+    os.makedirs(STATE, exist_ok=True)
+    json.dump(snaps, open(SNAP, "w"), separators=(",", ":"))
+
+
+def seed_from_xlsx():
+    if not os.path.exists(XLSX):
+        return []
+    print("Seeding history from PSX_Top30_Daily.xlsx …")
+    det = pd.read_excel(XLSX, "Details")
+    det["Date"] = pd.to_datetime(det["Date"], errors="coerce").dt.date
+    det = det.dropna(subset=["Date", "Symbol", "Current", "Volume"])
+    det = det.sort_values("Volume", ascending=False).drop_duplicates(["Date", "Symbol"])
+    det = det.rename(columns={"Change %": "ChgPct"})
+    for col in ("Open", "High", "Low", "ChgPct"):
+        if col not in det.columns:
+            det[col] = float("nan")
+    snaps = []
+    for d in sorted(det["Date"].unique()):
+        sub = det[det["Date"] == d].sort_values("Volume", ascending=False).head(TOP_N)
+        top = []
+        for r in sub.itertuples():
+            def f(x):
+                try: return float(x)
+                except Exception: return None
+            top.append(dict(symbol=r.Symbol, sector="", o=f(r.Open), h=f(r.High),
+                l=f(r.Low), c=float(r.Current),
+                chg=round((f(r.ChgPct) or 0.0) * 100, 2), vol=int(r.Volume)))
+        snaps.append(dict(date=str(d), top=top))
+    return snaps
+
+
+def snaps_to_det(snaps):
+    rows = []
+    for snap in snaps:
+        d = dt.date.fromisoformat(snap["date"])
+        for r in snap["top"]:
+            rows.append(dict(Date=d, Symbol=r["symbol"], Open=r.get("o"),
+                High=r.get("h"), Low=r.get("l"), Current=r["c"],
+                **{"Change %": r.get("chg", 0.0)}, Volume=r["vol"]))
+    return pd.DataFrame(rows)
+
+
+INSIDER_STALE_DAYS = 14  # engine symbols whose insider check is older than this get flagged
+
+
+def insider_worklist(snaps, external, today):
+    """Return (new_entrants, stale) symbols worth an insider look — see DECISIONS.md
+    'Insider refresh = flag-on-trigger + manual fetch'. Fetch stays manual; this only flags.
+      new_entrants: first-time Top-30-by-volume entrants NOT yet in the engine -> onboard (incl. insider)
+      stale       : engine symbols whose insider_as_of is missing or > INSIDER_STALE_DAYS old -> refresh
+    """
+    engine_syms = {s.upper() for s in (external or {})}
+    new_entrants = []
+    if len(snaps) >= 2:
+        today_top = {r["symbol"].upper() for r in snaps[-1].get("top", [])}
+        prev_top = {r["symbol"].upper() for r in snaps[-2].get("top", [])}
+        new_entrants = sorted(s for s in (today_top - prev_top) if s not in engine_syms)
+    stale = []
+    for sym, ext in (external or {}).items():
+        as_of = (ext or {}).get("insider_as_of")
+        age = None
+        if as_of:
+            try:
+                age = (today - dt.date.fromisoformat(as_of)).days
+            except ValueError:
+                age = None
+        if age is None or age > INSIDER_STALE_DAYS:
+            stale.append((sym.upper(), as_of, age))
+    stale.sort(key=lambda t: (t[2] is not None, -(t[2] or 0)))
+    return new_entrants, stale
+
+
+def print_insider_worklist(snaps, external, today):
+    new_entrants, stale = insider_worklist(snaps, external, today)
+    if not new_entrants and not stale:
+        print("Insider worklist: nothing flagged (no new Top-30 entrants; engine insider data fresh).")
+        return
+    print("Insider worklist (fetch is manual — see DECISIONS.md):")
+    if new_entrants:
+        print(f"  new Top-30 entrant(s), not yet in engine -> onboard incl. insider: {', '.join(new_entrants)}")
+    for sym, as_of, age in stale:
+        when = "never fetched" if not as_of else f"as of {as_of}, {age}d old"
+        print(f"  refresh insider: {sym} ({when})")
+
+
+def main():
+    today = dt.date.today()
+    if today.weekday() >= 5:
+        print(f"{today} is a weekend — PSX is closed, nothing to do.")
+        # still rebuild so the file exists / reflects latest stored data
+    snaps = load_snaps()
+    if not snaps:
+        snaps = seed_from_xlsx()
+
+    if today.weekday() < 5:
+        try:
+            rows = fetch_marketwatch()
+        except Exception as e:
+            print(f"Could not fetch PSX market-watch: {e}")
+            rows = []
+        if rows:
+            rows.sort(key=lambda r: -r["vol"])
+            top = rows[:TOP_N]
+            rec = dict(date=str(today), top=top)
+            snaps = [s for s in snaps if s["date"] != str(today)]  # overwrite today
+            snaps.append(rec)
+            snaps.sort(key=lambda s: s["date"])
+            save_snaps(snaps)
+            if len(snaps) < 2:
+                new_syms = "(history too short)"
+            else:
+                diff = {r["symbol"] for r in top} - {r["symbol"] for r in snaps[-2]["top"]}
+                new_syms = ", ".join(sorted(diff)) or "none"
+            print(f"{today}: stored Top-{TOP_N}.  New vs previous session: {new_syms}")
+
+    if not snaps:
+        print("No data yet. Put PSX_Top30_Daily.xlsx here for an initial seed, "
+              "or run again on a trading day.")
+        return
+
+    det = snaps_to_det(snaps)
+    embed = build_lib.compute_embed(det, fetch_charts=True)
+
+    # Fundamentals (companies) are re-fetched from PSX every run and can fail
+    # wholesale if PSX rate-limits this runner's IP (shared GitHub Actions IPs
+    # are more exposed to this than a residential/dev IP). Persist last-known-good
+    # per symbol and only overwrite a symbol's entry when a fresh fetch actually
+    # succeeded, so a bad run shows yesterday's fundamentals instead of nothing.
+    companies_path = os.path.join(STATE, "companies.json")
+    companies_cache = json.load(open(companies_path)) if os.path.exists(companies_path) else {}
+    fresh = embed.get("companies", {}) or {}
+    print(f"Fundamentals: {len(fresh)} fetched fresh this run, "
+          f"{len(companies_cache)} cached from previous runs.")
+    companies_cache.update(fresh)   # fresh data wins per-symbol; stale symbols keep last-known-good
+    try:
+        json.dump(companies_cache, open(companies_path, "w"))
+    except Exception:
+        pass
+    embed["companies"] = companies_cache
+
+    # attach a symbol -> sector map (from the full market-watch) and a build time,
+    # persisted so it stays populated even on weekend/holiday runs
+    sectors = json.load(open(os.path.join(STATE, "sectors.json"))) \
+        if os.path.exists(os.path.join(STATE, "sectors.json")) else {}
+    try:
+        for r in (rows if today.weekday() < 5 else []):
+            if r.get("sector"):
+                sectors[r["symbol"]] = r["sector"]
+        json.dump(sectors, open(os.path.join(STATE, "sectors.json"), "w"))
+    except Exception:
+        pass
+    embed["sectors"] = sectors
+
+    # symbol -> Shariah-compliant (KMI index membership), persisted like sectors
+    shariah = json.load(open(os.path.join(STATE, "shariah.json"))) \
+        if os.path.exists(os.path.join(STATE, "shariah.json")) else {}
+    try:
+        for r in (rows if today.weekday() < 5 else []):
+            shariah[r["symbol"]] = bool(r.get("shariah"))
+        json.dump(shariah, open(os.path.join(STATE, "shariah.json"), "w"))
+    except Exception:
+        pass
+    embed["shariah"] = shariah
+
+    # ---- engine bridge: per-symbol exports from the stock-agent analysis engine ----
+    # Drop-folder psx_data/external/*.json (true OHLC + full fundamentals + real
+    # insider tx + the engine's Fund-70/Tech-30 scores). The dashboard renders this
+    # for any symbol present; symbols without an export keep the scraped/computed path.
+    embed["external"] = external_fundamentals.load(STATE)
+    print_insider_worklist(snaps, embed["external"], today)
+
+    # ---- persistent real OHLC (true high/low), accumulated every run ----
+    # The market-watch scrape already has O/H/L/C/V per symbol; persist it so we build
+    # a real-H/L history going forward (the EOD chart feed has no intraday H/L). Backfill
+    # fills past dates from snapshots; today's live bar overwrites (idempotent).
+    ohlc = ohlc_store.load(STATE)
+    ohlc_store.backfill_from_snapshots(ohlc, snaps)
+    if today.weekday() < 5 and rows:
+        ohlc_store.update_from_rows(ohlc, str(today), rows)
+    ohlc_store.save(STATE, ohlc)
+    ohlc_store.attach_external_charts(embed.get("charts", {}), embed.get("external", {}))
+    ohlc_store.merge_into_charts(embed.get("charts", {}), ohlc, embed.get("external", {}))
+    print(f"OHLC store: {len(ohlc)} symbols with real O/H/L/C history.")
+
+    embed["built_at"] = dt.datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")
+
+    build_lib.render_html(TEMPLATE, embed, OUT)
+    print(f"Dashboard written -> {OUT}")
+    print(f"Open it in a browser. History spans {embed['snapshot']['date']} "
+          f"and {len(embed['history'])} trading days.")
+
+
+if __name__ == "__main__":
+    main()

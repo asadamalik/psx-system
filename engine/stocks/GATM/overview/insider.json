@@ -1,0 +1,24 @@
+{
+  "source": "sarmaaya.pk (insider transactions, #insider-transactions table)",
+  "as_of": "2026-06-28",
+  "transactions": [
+    {
+      "date": "2011-03-22",
+      "person": "Dr. Amjad Waheed",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 112000,
+      "price": 44.54,
+      "value": 4988480
+    },
+    {
+      "date": "2006-06-22",
+      "person": "Dr. Amjad Waheed",
+      "role": "Non-Executive Director",
+      "action": "Sell",
+      "shares": 112000,
+      "price": 36.25,
+      "value": 4060000
+    }
+  ]
+}

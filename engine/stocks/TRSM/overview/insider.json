@@ -1,0 +1,762 @@
+{
+  "source": "sarmaaya.pk (insider transactions, #insider-transactions table)",
+  "as_of": "2026-06-28",
+  "transactions": [
+    {
+      "date": "2026-01-23",
+      "person": "Sohail Asim",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 4066611,
+      "price": 27.46,
+      "value": 111669138
+    },
+    {
+      "date": "2025-12-17",
+      "person": "Sohail Asim",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 1393000,
+      "price": 37.7,
+      "value": 52516100
+    },
+    {
+      "date": "2025-12-17",
+      "person": "Sohail Asim",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 1616444,
+      "price": 34.5,
+      "value": 55767318
+    },
+    {
+      "date": "2025-10-08",
+      "person": "Syed Etrat Hussain Rizvi",
+      "role": "Independent Director",
+      "action": "Sell",
+      "shares": 500,
+      "price": 46.0,
+      "value": 23000
+    },
+    {
+      "date": "2025-10-08",
+      "person": "Sohail Asim",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 58000,
+      "price": 43.26,
+      "value": 2509080
+    },
+    {
+      "date": "2025-09-24",
+      "person": "Sohail Asim",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 40075,
+      "price": 42.0,
+      "value": 1683150
+    },
+    {
+      "date": "2025-09-24",
+      "person": "Sohail Asim",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 40075,
+      "price": 41.0,
+      "value": 1643075
+    },
+    {
+      "date": "2025-09-24",
+      "person": "Sohail Asim",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 200000,
+      "price": 30.4,
+      "value": 6080000
+    },
+    {
+      "date": "2025-09-24",
+      "person": "Sohail Asim",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 100000,
+      "price": 48.0,
+      "value": 4800000
+    },
+    {
+      "date": "2025-09-24",
+      "person": "Sohail Asim",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 100000,
+      "price": 46.29,
+      "value": 4629000
+    },
+    {
+      "date": "2025-09-24",
+      "person": "Sohail Asim",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 252000,
+      "price": 44.7,
+      "value": 11264400
+    },
+    {
+      "date": "2025-09-24",
+      "person": "Sohail Asim",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 252000,
+      "price": 46.97,
+      "value": 11836440
+    },
+    {
+      "date": "2025-08-29",
+      "person": "Sohail Asim",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 104000,
+      "price": 41.31,
+      "value": 4296240
+    },
+    {
+      "date": "2025-08-25",
+      "person": "Sohail Asim",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 300000,
+      "price": 31.0,
+      "value": 9300000
+    },
+    {
+      "date": "2025-08-25",
+      "person": "Sohail Asim",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 100000,
+      "price": 33.53,
+      "value": 3353000
+    },
+    {
+      "date": "2025-08-25",
+      "person": "Sohail Asim",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 25475,
+      "price": 32.04,
+      "value": 816219
+    },
+    {
+      "date": "2025-08-11",
+      "person": "Sohail Asim",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 1069056,
+      "price": 20.6,
+      "value": 22022554
+    },
+    {
+      "date": "2025-08-11",
+      "person": "Sohail Asim",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 700000,
+      "price": 27.64,
+      "value": 19348000
+    },
+    {
+      "date": "2025-08-11",
+      "person": "Sohail Asim",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 200000,
+      "price": 23.51,
+      "value": 4702000
+    },
+    {
+      "date": "2025-08-11",
+      "person": "Sohail Asim",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 325000,
+      "price": 22.71,
+      "value": 7380750
+    },
+    {
+      "date": "2025-08-11",
+      "person": "Sohail Asim",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 225000,
+      "price": 18.7,
+      "value": 4207500
+    },
+    {
+      "date": "2025-08-11",
+      "person": "Sohail Asim",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 5954,
+      "price": 17.17,
+      "value": 102230
+    },
+    {
+      "date": "2025-08-11",
+      "person": "Sohail Asim",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 50000,
+      "price": 15.96,
+      "value": 798000
+    },
+    {
+      "date": "2025-08-11",
+      "person": "Sohail Asim",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 500000,
+      "price": 11.79,
+      "value": 5895000
+    },
+    {
+      "date": "2025-07-18",
+      "person": "Faisal Abdul Sattar Pakhali",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 14972961,
+      "price": 5.78,
+      "value": 86543715
+    },
+    {
+      "date": "2025-07-09",
+      "person": "Faisal Abdul Sattar Pakhali",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 1250,
+      "price": 9.08,
+      "value": 11350
+    },
+    {
+      "date": "2025-07-09",
+      "person": "Faisal Abdul Sattar Pakhali",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 1250,
+      "price": 8.75,
+      "value": 10938
+    },
+    {
+      "date": "2025-07-08",
+      "person": "Faisal Abdul Sattar Pakhali",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 189836,
+      "price": 8.14,
+      "value": 1545265
+    },
+    {
+      "date": "2025-07-08",
+      "person": "Faisal Abdul Sattar Pakhali",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 189836,
+      "price": 8.19,
+      "value": 1554757
+    },
+    {
+      "date": "2025-06-30",
+      "person": "Faisal Abdul Sattar Pakhali",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 463251,
+      "price": 7.07,
+      "value": 3275185
+    },
+    {
+      "date": "2025-06-30",
+      "person": "Faisal Abdul Sattar Pakhali",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 309572,
+      "price": 7.27,
+      "value": 2250588
+    },
+    {
+      "date": "2025-06-27",
+      "person": "Faisal Abdul Sattar Pakhali",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 809295,
+      "price": 6.42,
+      "value": 5195674
+    },
+    {
+      "date": "2025-06-19",
+      "person": "Faisal Abdul Sattar Pakhali",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 229483,
+      "price": 7.13,
+      "value": 1636214
+    },
+    {
+      "date": "2025-06-19",
+      "person": "Faisal Abdul Sattar Pakhali",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 12817,
+      "price": 6.57,
+      "value": 84208
+    },
+    {
+      "date": "2025-06-19",
+      "person": "Faisal Abdul Sattar Pakhali",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 274482,
+      "price": 6.71,
+      "value": 1841774
+    },
+    {
+      "date": "2025-06-13",
+      "person": "Faisal Abdul Sattar Pakhali",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 66235,
+      "price": 6.95,
+      "value": 460333
+    },
+    {
+      "date": "2025-06-12",
+      "person": "Faisal Abdul Sattar Pakhali",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 14850009,
+      "price": 6.5,
+      "value": 96525058
+    },
+    {
+      "date": "2025-06-10",
+      "person": "Faisal Abdul Sattar Pakhali",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 9881,
+      "price": 6.1,
+      "value": 60274
+    },
+    {
+      "date": "2025-06-04",
+      "person": "Faisal Abdul Sattar Pakhali",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 4976,
+      "price": 6.1,
+      "value": 30354
+    },
+    {
+      "date": "2025-05-27",
+      "person": "Faisal Abdul Sattar Pakhali",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 444967,
+      "price": 5.6,
+      "value": 2491815
+    },
+    {
+      "date": "2025-05-23",
+      "person": "Faisal Abdul Sattar Pakhali",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 11868,
+      "price": 5.56,
+      "value": 65986
+    },
+    {
+      "date": "2025-05-22",
+      "person": "Faisal Abdul Sattar Pakhali",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 128093,
+      "price": 5.33,
+      "value": 682736
+    },
+    {
+      "date": "2025-05-16",
+      "person": "Faisal Abdul Sattar Pakhali",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 19200,
+      "price": 4.98,
+      "value": 95616
+    },
+    {
+      "date": "2025-05-15",
+      "person": "Faisal Abdul Sattar Pakhali",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 484112,
+      "price": 4.74,
+      "value": 2294691
+    },
+    {
+      "date": "2025-05-13",
+      "person": "Faisal Abdul Sattar Pakhali",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 78258,
+      "price": 4.72,
+      "value": 369378
+    },
+    {
+      "date": "2025-05-09",
+      "person": "Faisal Abdul Sattar Pakhali",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 44168,
+      "price": 4.73,
+      "value": 208915
+    },
+    {
+      "date": "2025-05-07",
+      "person": "Faisal Abdul Sattar Pakhali",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 673513,
+      "price": 4.7,
+      "value": 3165511
+    },
+    {
+      "date": "2025-05-05",
+      "person": "Faisal Abdul Sattar Pakhali",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 119251,
+      "price": 4.52,
+      "value": 539015
+    },
+    {
+      "date": "2025-05-02",
+      "person": "Faisal Abdul Sattar Pakhali",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 260152,
+      "price": 4.47,
+      "value": 1162879
+    },
+    {
+      "date": "2025-04-28",
+      "person": "Faisal Abdul Sattar Pakhali",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 16824,
+      "price": 4.6,
+      "value": 77390
+    },
+    {
+      "date": "2025-04-25",
+      "person": "Faisal Abdul Sattar Pakhali",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 35815,
+      "price": 4.64,
+      "value": 166182
+    },
+    {
+      "date": "2025-04-24",
+      "person": "Faisal Abdul Sattar Pakhali",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 50000,
+      "price": 4.77,
+      "value": 238500
+    },
+    {
+      "date": "2025-04-23",
+      "person": "Faisal Abdul Sattar Pakhali",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 159603,
+      "price": 4.87,
+      "value": 777267
+    },
+    {
+      "date": "2025-04-22",
+      "person": "Faisal Abdul Sattar Pakhali",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 104363,
+      "price": 4.95,
+      "value": 516597
+    },
+    {
+      "date": "2025-04-21",
+      "person": "Faisal Abdul Sattar Pakhali",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 352640,
+      "price": 4.79,
+      "value": 1689146
+    },
+    {
+      "date": "2025-04-18",
+      "person": "Faisal Abdul Sattar Pakhali",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 19661,
+      "price": 4.78,
+      "value": 93980
+    },
+    {
+      "date": "2025-04-17",
+      "person": "Faisal Abdul Sattar Pakhali",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 708800,
+      "price": 4.7,
+      "value": 3331360
+    },
+    {
+      "date": "2025-04-14",
+      "person": "Faisal Abdul Sattar Pakhali",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 86872,
+      "price": 4.52,
+      "value": 392661
+    },
+    {
+      "date": "2025-04-11",
+      "person": "Faisal Abdul Sattar Pakhali",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 7146,
+      "price": 4.39,
+      "value": 31371
+    },
+    {
+      "date": "2025-04-11",
+      "person": "Faisal Abdul Sattar Pakhali",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 129547,
+      "price": 4.5,
+      "value": 582962
+    },
+    {
+      "date": "2025-04-09",
+      "person": "Faisal Abdul Sattar Pakhali",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 110233,
+      "price": 4.36,
+      "value": 480616
+    },
+    {
+      "date": "2025-04-08",
+      "person": "Faisal Abdul Sattar Pakhali",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 29200,
+      "price": 4.37,
+      "value": 127604
+    },
+    {
+      "date": "2025-04-08",
+      "person": "Faisal Abdul Sattar Pakhali",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 30135,
+      "price": 4.18,
+      "value": 125964
+    },
+    {
+      "date": "2025-04-04",
+      "person": "Faisal Abdul Sattar Pakhali",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 16335,
+      "price": 4.37,
+      "value": 71384
+    },
+    {
+      "date": "2025-04-03",
+      "person": "Faisal Abdul Sattar Pakhali",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 218666,
+      "price": 4.23,
+      "value": 924957
+    },
+    {
+      "date": "2025-03-27",
+      "person": "Faisal Abdul Sattar Pakhali",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 252500,
+      "price": 4.34,
+      "value": 1095850
+    },
+    {
+      "date": "2025-03-26",
+      "person": "Faisal Abdul Sattar Pakhali",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 26272,
+      "price": 4.34,
+      "value": 114020
+    },
+    {
+      "date": "2025-03-24",
+      "person": "Faisal Abdul Sattar Pakhali",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 15527,
+      "price": 4.31,
+      "value": 66921
+    },
+    {
+      "date": "2025-03-21",
+      "person": "Faisal Abdul Sattar Pakhali",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 210973,
+      "price": 4.27,
+      "value": 900855
+    },
+    {
+      "date": "2025-03-20",
+      "person": "Faisal Abdul Sattar Pakhali",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 129919,
+      "price": 4.33,
+      "value": 562549
+    },
+    {
+      "date": "2025-03-18",
+      "person": "Faisal Abdul Sattar Pakhali",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 200279,
+      "price": 4.34,
+      "value": 869211
+    },
+    {
+      "date": "2025-03-14",
+      "person": "Faisal Abdul Sattar Pakhali",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 64540,
+      "price": 4.3,
+      "value": 277522
+    },
+    {
+      "date": "2025-03-13",
+      "person": "Faisal Abdul Sattar Pakhali",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 53825,
+      "price": 4.26,
+      "value": 229294
+    },
+    {
+      "date": "2025-03-12",
+      "person": "Faisal Abdul Sattar Pakhali",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 456358,
+      "price": 4.25,
+      "value": 1939522
+    },
+    {
+      "date": "2025-03-11",
+      "person": "Faisal Abdul Sattar Pakhali",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 214457,
+      "price": 4.14,
+      "value": 887852
+    },
+    {
+      "date": "2025-03-10",
+      "person": "Faisal Abdul Sattar Pakhali",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 141676,
+      "price": 4.13,
+      "value": 585122
+    },
+    {
+      "date": "2025-03-07",
+      "person": "Faisal Abdul Sattar Pakhali",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 157078,
+      "price": 4.17,
+      "value": 655015
+    },
+    {
+      "date": "2025-03-06",
+      "person": "Faisal Abdul Sattar",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 1085325,
+      "price": 4.08,
+      "value": 4428126
+    },
+    {
+      "date": "2025-03-05",
+      "person": "Faisal Abdul Sattar Pakhali",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 263626,
+      "price": 3.99,
+      "value": 1051868
+    },
+    {
+      "date": "2025-03-04",
+      "person": "Faisal Abdul Sattar Pakhali",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 2624633,
+      "price": 4.0,
+      "value": 10498532
+    },
+    {
+      "date": "2024-11-22",
+      "person": "Faisal Abdul Sattar Pakhali",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 1125000,
+      "price": 4.0,
+      "value": 4500000
+    },
+    {
+      "date": "2024-10-30",
+      "person": "Faisal Abdul Sattar Pahkali",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 295861,
+      "price": 3.92,
+      "value": 1159775
+    },
+    {
+      "date": "2024-10-29",
+      "person": "Faisal Abdul Sattar Pahkali",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 3176597,
+      "price": 3.96,
+      "value": 12579324
+    },
+    {
+      "date": "2024-02-21",
+      "person": "Noor Jehan Bano (spouse of Muhammad Aslam Motiwana, late.)",
+      "role": "Substantial shareholder",
+      "action": "Buy",
+      "shares": 1086500,
+      "price": 3.41,
+      "value": 3704965
+    }
+  ]
+}

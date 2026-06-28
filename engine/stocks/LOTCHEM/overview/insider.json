@@ -1,0 +1,78 @@
+{
+  "source": "sarmaaya.pk (insider transactions, #insider-transactions table)",
+  "as_of": "2026-06-28",
+  "transactions": [
+    {
+      "date": "2026-02-17",
+      "person": "Waleed Ullah Khan",
+      "role": "Executive",
+      "action": "Sell",
+      "shares": 99,
+      "price": 24.15,
+      "value": 2391
+    },
+    {
+      "date": "2026-02-17",
+      "person": "Waleed Ullah Khan",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 100,
+      "price": 25.37,
+      "value": 2537
+    },
+    {
+      "date": "2025-12-11",
+      "person": "Osman Asghar Khan",
+      "role": "Independent Director",
+      "action": "Sell",
+      "shares": 150075,
+      "price": 26.73,
+      "value": 4011505
+    },
+    {
+      "date": "2025-12-03",
+      "person": "Osman Asghar Khan",
+      "role": "Independent Director",
+      "action": "Sell",
+      "shares": 65449,
+      "price": 27.03,
+      "value": 1769086
+    },
+    {
+      "date": "2025-12-02",
+      "person": "Osman Asghar Khan",
+      "role": "Independent Director",
+      "action": "Sell",
+      "shares": 20000,
+      "price": 26.91,
+      "value": 538200
+    },
+    {
+      "date": "2025-11-27",
+      "person": "Osman Asghar Khan",
+      "role": "Independent Director",
+      "action": "Sell",
+      "shares": 435000,
+      "price": 27.32,
+      "value": 11884200
+    },
+    {
+      "date": "2025-11-27",
+      "person": "Osman Asghar Khan",
+      "role": "Independent Director",
+      "action": "Buy",
+      "shares": 190524,
+      "price": 28.2,
+      "value": 5372777
+    },
+    {
+      "date": "2015-09-22",
+      "person": "Umair Khalid",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 15,
+      "price": 28.86,
+      "value": 433
+    }
+  ]
+}

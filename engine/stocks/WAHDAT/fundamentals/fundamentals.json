@@ -1,0 +1,281 @@
+{
+  "symbol": "WAHDAT",
+  "income_statement_annual": {
+    "revenue": {
+      "2022": 1582,
+      "2023": 2007,
+      "2024": 2516,
+      "2025": 2791
+    },
+    "gross_profit": {
+      "2022": 409.68,
+      "2023": 492.29,
+      "2024": 771.06,
+      "2025": 754.36
+    },
+    "operating_income": {
+      "2022": 167.92,
+      "2023": 185.84,
+      "2024": 420.52,
+      "2025": 396.19
+    },
+    "net_income": {
+      "2022": 64.49,
+      "2023": 83.86,
+      "2024": 223.2,
+      "2025": 241.86
+    },
+    "eps": {
+      "2023": 5.44,
+      "2024": 14.47,
+      "2025": 15.68
+    },
+    "interest_expense": {
+      "2022": 56.96,
+      "2023": 108.57,
+      "2024": 174.28,
+      "2025": 126.69
+    }
+  },
+  "balance_sheet_annual": {
+    "current_assets": {
+      "2022": 963.35,
+      "2023": 1211,
+      "2024": 1488,
+      "2025": 1769
+    },
+    "cash_and_equivalents": {
+      "2022": 15.51,
+      "2023": 22.34,
+      "2024": 48.36,
+      "2025": 40.67
+    },
+    "inventory": {
+      "2022": 243.65,
+      "2023": 342.64,
+      "2024": 372.67,
+      "2025": 346.86
+    },
+    "total_assets": {
+      "2022": 1642,
+      "2023": 1922,
+      "2024": 2241,
+      "2025": 2559
+    },
+    "current_liabilities": {
+      "2022": 544.97,
+      "2023": 795.9,
+      "2024": 875.64,
+      "2025": 887.05
+    },
+    "total_liabilities": {
+      "2022": 664.32,
+      "2023": 860.24,
+      "2024": 954.73,
+      "2025": 1027
+    },
+    "total_debt": {
+      "2022": 532.63,
+      "2023": 681.04,
+      "2024": 781.37,
+      "2025": 823.21
+    },
+    "total_equity": {
+      "2022": 977.23,
+      "2023": 1062,
+      "2024": 1286,
+      "2025": 1532
+    }
+  },
+  "cashflow_annual": {
+    "cash_from_operations": {
+      "2022": -19.77,
+      "2023": -64.4,
+      "2024": 20.2,
+      "2025": 51.14
+    },
+    "cash_from_investing": {
+      "2022": -37.84,
+      "2023": -77.18,
+      "2024": -94.51,
+      "2025": -100.67
+    },
+    "cash_from_financing": {
+      "2022": 55.02,
+      "2023": 148.41,
+      "2024": 100.33,
+      "2025": 41.84
+    },
+    "capex": {
+      "2022": 59.4,
+      "2023": 90.58,
+      "2024": 132.82,
+      "2025": 112.23
+    }
+  },
+  "income_statement_quarterly": {
+    "revenue": {
+      "2025-12": 735.94,
+      "2025-09": 735.94,
+      "2024-12": 672.35,
+      "2024-09": 672.35
+    },
+    "gross_profit": {
+      "2025-12": 207.97,
+      "2025-09": 207.97,
+      "2024-12": 185.86,
+      "2024-09": 185.86
+    },
+    "operating_income": {
+      "2025-12": 112.73,
+      "2025-09": 112.73,
+      "2024-12": 96.21,
+      "2024-09": 96.21
+    },
+    "net_income": {
+      "2025-12": 81.52,
+      "2025-09": 81.52,
+      "2024-12": 56.38,
+      "2024-09": 56.38
+    },
+    "eps": {
+      "2025-12": 1.43,
+      "2025-09": 1.43,
+      "2024-12": 0.99,
+      "2024-09": 0.99
+    },
+    "interest_expense": {
+      "2025-12": 25.57,
+      "2025-09": 25.57,
+      "2024-12": 34.94,
+      "2024-09": 34.94
+    }
+  },
+  "balance_sheet_quarterly": {
+    "current_assets": {
+      "2025-12": 1923,
+      "2025-09": 1923
+    },
+    "cash_and_equivalents": {
+      "2025-12": 43.07,
+      "2025-09": 43.07
+    },
+    "inventory": {
+      "2025-12": 458.45,
+      "2025-09": 458.45
+    },
+    "total_assets": {
+      "2025-12": 2762,
+      "2025-09": 2762
+    },
+    "current_liabilities": {
+      "2025-12": 887.85,
+      "2025-09": 887.85
+    },
+    "total_liabilities": {
+      "2025-12": 1066,
+      "2025-09": 1066
+    },
+    "total_debt": {
+      "2025-12": 885.78,
+      "2025-09": 885.78,
+      "2024-09": 781.37
+    },
+    "total_equity": {
+      "2025-12": 1696,
+      "2025-09": 1696,
+      "2024-09": 1286
+    }
+  },
+  "cashflow_quarterly": {
+    "cash_from_operations": {
+      "2025-12": 10.82,
+      "2025-09": 10.82,
+      "2024-12": 9.98,
+      "2024-09": 9.98
+    },
+    "cash_from_investing": {
+      "2025-12": -40.9,
+      "2025-09": -40.9,
+      "2024-12": -14.72,
+      "2024-09": -14.72
+    },
+    "cash_from_financing": {
+      "2025-12": 31.28,
+      "2025-09": 31.28,
+      "2024-12": -5.45,
+      "2024-09": -5.45
+    },
+    "capex": {
+      "2025-12": 45.5,
+      "2025-09": 45.5,
+      "2024-12": 17.1,
+      "2024-09": 17.1
+    }
+  },
+  "ratios": {
+    "pe_ratio": 3.75,
+    "price_to_book": 3.79,
+    "roe": 0.1579,
+    "roa": 0.0945,
+    "gross_margin": 0.2703,
+    "industry_pe": null
+  },
+  "earnings": {
+    "source": "stockanalysis.com (statistics + quarterly)",
+    "as_of": "2026-06-28",
+    "latest_eps": 1.43,
+    "eps_ttm": 5.12,
+    "next_earnings_date": null,
+    "history": [
+      {
+        "period_end": "Dec 2025",
+        "eps": 1.43,
+        "eps_forecast": null,
+        "eps_surprise_pct": null
+      },
+      {
+        "period_end": "Sep 2025",
+        "eps": 1.43,
+        "eps_forecast": null,
+        "eps_surprise_pct": null
+      },
+      {
+        "period_end": "Dec 2024",
+        "eps": 0.99,
+        "eps_forecast": null,
+        "eps_surprise_pct": null
+      },
+      {
+        "period_end": "Sep 2024",
+        "eps": 0.99,
+        "eps_forecast": null,
+        "eps_surprise_pct": null
+      }
+    ]
+  },
+  "dividends": {
+    "source": "stockanalysis.com (statistics + dividend page)",
+    "as_of": "2026-06-28",
+    "yield": null,
+    "per_share_ttm": null,
+    "payout_ratio": null,
+    "history": []
+  },
+  "overview": {
+    "company_name": "Wahdat Poultry Farm Limited",
+    "sector": "Food & Personal Care Products",
+    "industry": "Food & Personal Care Products",
+    "market_cap": 6429.5,
+    "shares_outstanding": 335.22,
+    "current_price": 19.18,
+    "currency": "PKR"
+  },
+  "profile": {},
+  "ownership": {},
+  "announcements": {},
+  "insider": {},
+  "shareholding": {},
+  "fipi": {},
+  "monthly_sales": {}
+}

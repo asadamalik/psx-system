@@ -1,0 +1,39 @@
+{
+  "source": "PSX DPS (dps.psx.com.pk/company/KEL)",
+  "basis": "unconsolidated",
+  "as_of": "2026-06-27",
+  "currency": "PKR",
+  "units": "millions",
+  "fiscal_year_end": "June",
+  "shares_outstanding": 27615.194245,
+  "free_float_pct": 0.1,
+  "free_float_shares": 2761.519425,
+  "market_cap": 241632.95,
+  "pe_ratio_ttm": 875.0,
+  "yearend_close": {
+    "2021": 4.18,
+    "2022": 3.04,
+    "2023": 1.72,
+    "2024": 4.63
+  },
+  "annual": {
+    "sales": {
+      "2021": 325048.55,
+      "2022": 518777.11,
+      "2023": 519471.23,
+      "2024": 614968.95
+    },
+    "profit_after_tax": {
+      "2021": 11998.18,
+      "2022": 8523.58,
+      "2023": -39389.73,
+      "2024": 4128.3
+    },
+    "eps": {
+      "2021": 0.43,
+      "2022": 0.31,
+      "2023": -1.43,
+      "2024": 0.15
+    }
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "source": "sarmaaya.pk (insider transactions, #insider-transactions table)",
+  "as_of": "2026-06-28",
+  "transactions": [
+    {
+      "date": "2026-04-10",
+      "person": "Khawaja Gul Muhammad",
+      "role": "Independent Director",
+      "action": "Buy",
+      "shares": 25000,
+      "price": 4.84,
+      "value": 121000
+    },
+    {
+      "date": "2025-11-26",
+      "person": "Muhammad Ali Shafique Ch",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 30000000,
+      "price": 7.21,
+      "value": 216300000
+    },
+    {
+      "date": "2025-11-26",
+      "person": "Muhammad Ali Shafique Ch",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 34305722,
+      "price": 7.5,
+      "value": 257292915
+    },
+    {
+      "date": "2025-11-25",
+      "person": "Muhammad Ali Shafique Ch",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 11940000,
+      "price": 7.99,
+      "value": 95400600
+    },
+    {
+      "date": "2025-11-24",
+      "person": "Muhammad Ali Shafique Ch",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 60000,
+      "price": 71.19,
+      "value": 4271400
+    },
+    {
+      "date": "2025-05-26",
+      "person": "Muhammad Ali Shafique Ch",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 100000,
+      "price": 9.33,
+      "value": 933000
+    },
+    {
+      "date": "2022-11-10",
+      "person": "Ch. Muhammad Shafique",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 846000,
+      "price": 11.77,
+      "value": 9957420
+    },
+    {
+      "date": "2022-11-10",
+      "person": "Ch. Muhammad Shafique",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 500500,
+      "price": 12.0,
+      "value": 6006000
+    },
+    {
+      "date": "2019-05-22",
+      "person": "Ch. Muhammad Shafique",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 6560606,
+      "price": 25.0,
+      "value": 164015150
+    },
+    {
+      "date": "2012-05-22",
+      "person": "Ch. Muhammad Shafique",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 1500000,
+      "price": 25.0,
+      "value": 37500000
+    },
+    {
+      "date": "2006-06-22",
+      "person": "Muhammad Ali Shafique Ch",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 1500,
+      "price": 18.5,
+      "value": 27750
+    },
+    {
+      "date": "2006-06-22",
+      "person": "Muhammad Ali Shafique Ch",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 1000,
+      "price": 19.3,
+      "value": 19300
+    }
+  ]
+}

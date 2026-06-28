@@ -1,0 +1,184 @@
+{
+  "symbol": "WAHDAT",
+  "generated": "2026-06-28 01:16",
+  "scores": {
+    "fundamental_score": 70.1,
+    "technical_score": 11.1,
+    "overall_score": 52.4,
+    "rating": "Hold",
+    "risk": "Medium",
+    "risk_score": 63.3,
+    "weights": {
+      "fundamental": 0.7,
+      "technical": 0.3
+    },
+    "fundamental_detail": {
+      "fundamental_score": 70.1,
+      "pillars": {
+        "growth": 100.0,
+        "profitability": 66.0,
+        "financial_strength": 41.25,
+        "valuation": 66.5
+      },
+      "coverage": {
+        "growth": {
+          "used": [
+            "revenue_growth_5y",
+            "net_income_growth_5y",
+            "sales_growth"
+          ],
+          "missing": [
+            "eps_growth"
+          ]
+        },
+        "profitability": {
+          "used": [
+            "roe",
+            "roa",
+            "gross_margin",
+            "operating_margin",
+            "net_margin"
+          ],
+          "missing": []
+        },
+        "financial_strength": {
+          "used": [
+            "debt_to_equity",
+            "current_ratio",
+            "interest_coverage",
+            "fcf_margin"
+          ],
+          "missing": []
+        },
+        "valuation": {
+          "used": [
+            "pe_ratio",
+            "price_to_book"
+          ],
+          "missing": [
+            "peg"
+          ]
+        }
+      },
+      "weight_covered": 1.0
+    }
+  },
+  "technical": {
+    "technical_score": 11.1,
+    "trend": "Unknown",
+    "momentum": "Overbought",
+    "adx_strength": "Strong",
+    "rsi_divergence": {
+      "type": null
+    },
+    "notes": [
+      "Trend: Unknown",
+      "ADX 25.2 (Strong); DI - dominant",
+      "RSI 73.1 (Overbought)"
+    ]
+  },
+  "technical_snapshot": {
+    "as_of": "2026-06-24",
+    "bars": 31,
+    "close": 19.18,
+    "sma_20": 18.8395,
+    "sma_50": null,
+    "sma_200": null,
+    "ema_20": 18.968316746160113,
+    "ema_50": null,
+    "ema_100": null,
+    "ema_200": null,
+    "obv": -4060656.0,
+    "weekly_trend": "n/a",
+    "monthly_trend": "n/a",
+    "support_resistance": {
+      "price": 19.18,
+      "nearest_resistance": 19.87,
+      "nearest_support": 18.01,
+      "resistance_levels": [
+        19.87,
+        20.75
+      ],
+      "support_levels": [
+        18.01
+      ]
+    },
+    "rsi_14": 73.0780003594912,
+    "macd": -0.10890388410769702,
+    "macd_signal": null,
+    "macd_hist": null,
+    "adx_14": 25.17234679335379,
+    "plus_di": 12.574034366491741,
+    "minus_di": 28.616292011907408,
+    "atr_14": 0.7827114242648174,
+    "bb_upper": 19.484464340099517,
+    "bb_lower": 18.194535659900485,
+    "week52_high": 21.78,
+    "week52_low": 17.61,
+    "rsi_divergence": {
+      "type": null
+    },
+    "patterns": [
+      {
+        "name": "Double Bottom",
+        "type": "bullish",
+        "confidence": 0.74,
+        "status": "forming",
+        "neckline": 19.87,
+        "target": 21.7,
+        "note": "Two near-equal troughs; breaks up above the peak (neckline)."
+      },
+      {
+        "name": "Descending Triangle",
+        "type": "bearish",
+        "confidence": 0.55,
+        "status": "forming",
+        "neckline": 18.04,
+        "target": 15.33,
+        "note": "Flat support with falling highs; bearish breakdown bias."
+      },
+      {
+        "name": "Falling Wedge",
+        "type": "bullish",
+        "confidence": 0.5,
+        "status": "forming",
+        "neckline": 19.87,
+        "target": 20.75,
+        "note": "Lower highs and lows converging after a decline; bullish reversal bias."
+      }
+    ]
+  },
+  "growth": {
+    "revenue_growth_5y": 0.20832692366284733,
+    "net_income_growth_5y": 0.5536644331001688,
+    "equity_growth_5y": 0.16168217300504795,
+    "debt_change_5y": 0.5455569532320749
+  },
+  "metrics": {
+    "revenue_growth_5y": 0.20832692366284733,
+    "net_income_growth_5y": 0.5536644331001688,
+    "eps_growth": null,
+    "sales_growth": 0.20832692366284733,
+    "roe": 0.1579,
+    "roa": 0.0945,
+    "gross_margin": 0.2703,
+    "operating_margin": 0.1419527051236116,
+    "net_margin": 0.08665711214618417,
+    "debt_to_equity": 0.5373433420365535,
+    "current_ratio": 1.9942506059410405,
+    "interest_coverage": 3.1272397189991317,
+    "fcf_margin": -0.021888212110354712,
+    "pe_ratio": 3.75,
+    "price_to_book": 3.79,
+    "peg": null
+  },
+  "latest": {
+    "revenue": 2791.0,
+    "net_income": 241.86,
+    "equity": 1532.0,
+    "total_assets": 2559.0,
+    "total_debt": 823.21,
+    "operating_cash_flow": 51.14,
+    "capex": 112.23
+  }
+}

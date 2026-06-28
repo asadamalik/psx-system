@@ -1,0 +1,32 @@
+{
+  "source": "PSX DPS (dps.psx.com.pk/company/PAEL)",
+  "basis": "unconsolidated",
+  "as_of": "2026-06-27",
+  "currency": "PKR",
+  "units": "millions",
+  "fiscal_year_end": "December",
+  "shares_outstanding": 923.6,
+  "free_float_pct": 0.55,
+  "free_float_shares": 507.98,
+  "market_cap": 41090.0,
+  "pe_ratio_ttm": 12.26,
+  "yearend_close": {
+    "2021": 22.52,
+    "2022": 12.95,
+    "2023": 22.58,
+    "2024": 43.85,
+    "2025": 57.34
+  },
+  "note": "DPS exposed only FY2025 annual; PAEL has many historical splits \u2014 historical truncated to clean post-split window; H/L synthesized (no Investing table).",
+  "annual": {
+    "sales": {
+      "2025": 63523.51
+    },
+    "profit_after_tax": {
+      "2025": 3846.68
+    },
+    "eps": {
+      "2025": 4.24
+    }
+  }
+}

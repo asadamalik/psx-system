@@ -1,0 +1,42 @@
+{
+  "source": "sarmaaya.pk (insider transactions, #insider-transactions table)",
+  "as_of": "2026-06-28",
+  "transactions": [
+    {
+      "date": "2026-01-01",
+      "person": "Chaudhry Ehsan ul haq",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 8700,
+      "price": 18.2,
+      "value": 158340
+    },
+    {
+      "date": "2023-06-26",
+      "person": "Syed Mehdi Hasnain",
+      "role": "Senior Management",
+      "action": "Sell",
+      "shares": 500,
+      "price": 6.66,
+      "value": 3330
+    },
+    {
+      "date": "2022-11-25",
+      "person": "Syed Mehdi Hasnain",
+      "role": "Senior Management",
+      "action": "Buy",
+      "shares": 4000,
+      "price": 8.5,
+      "value": 34000
+    },
+    {
+      "date": "2022-11-10",
+      "person": "Syed Mehdi Hasnain",
+      "role": "Senior Management",
+      "action": "Buy",
+      "shares": 5000,
+      "price": 8.85,
+      "value": 44250
+    }
+  ]
+}

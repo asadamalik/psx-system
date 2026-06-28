@@ -1,0 +1,24 @@
+{
+  "source": "sarmaaya.pk (insider transactions, #insider-transactions table)",
+  "as_of": "2026-06-28",
+  "transactions": [
+    {
+      "date": "2025-04-14",
+      "person": "IMTIAZ MEHMOOD",
+      "role": "Senior Management",
+      "action": "Buy",
+      "shares": 31,
+      "price": 113.0,
+      "value": 3503
+    },
+    {
+      "date": "2023-08-17",
+      "person": "Arif Saeed",
+      "role": "Independent Director",
+      "action": "Buy",
+      "shares": 1000,
+      "price": 45.51,
+      "value": 45510
+    }
+  ]
+}

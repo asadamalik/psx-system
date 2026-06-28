@@ -1,0 +1,17 @@
+{
+  "source": "PSX DPS",
+  "description": "Maple Leaf Cement Factory Limited was incorporated in Pakistan on 13 April 1960 under the Companies Act, 1913 as a public company limited by shares. Its principal activity is the production and sale of cement. The Company is a subsidiary of Kohinoor Textile Mills Limited (the Holding Company).",
+  "business_segments": ["Cement (grey)", "Clinker"],
+  "products": ["Ordinary Portland Cement", "Sulphate Resistant Cement", "Clinker"],
+  "website": "www.kmlg.com",
+  "fiscal_year_end": "June",
+  "auditor": "A.F. Ferguson & Co. Chartered Accountants",
+  "registrar": "Vision Consulting Ltd",
+  "address": "42-Lawrence Road, Lahore",
+  "key_people": {
+    "CEO": "Sayeed Tariq Saigol",
+    "Chairperson": "Tariq Sayeed Saigol",
+    "Company Secretary": "Muhammad Ashraf"
+  },
+  "holding_company": "Kohinoor Textile Mills Limited"
+}

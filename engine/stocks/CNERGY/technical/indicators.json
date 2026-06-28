@@ -1,0 +1,65 @@
+{
+  "as_of": "2026-06-24",
+  "bars": 1237,
+  "close": 8.19,
+  "sma_20": 8.2425,
+  "sma_50": 8.214,
+  "sma_200": 7.761400000000001,
+  "ema_20": 8.253810781739917,
+  "ema_50": 8.117136195797006,
+  "ema_100": 7.906968626018666,
+  "ema_200": 7.678588304914015,
+  "obv": 3996704365.0,
+  "weekly_trend": "Down",
+  "monthly_trend": "Up",
+  "support_resistance": {
+    "price": 8.19,
+    "nearest_resistance": 8.38,
+    "nearest_support": 8.0,
+    "resistance_levels": [
+      8.38,
+      8.65,
+      8.94
+    ],
+    "support_levels": [
+      8.0,
+      7.46,
+      6.0
+    ]
+  },
+  "rsi_14": 48.22249017680539,
+  "macd": -0.0005113124446527451,
+  "macd_signal": 0.01703766431624623,
+  "macd_hist": -0.017548976760898977,
+  "adx_14": 19.892598777102194,
+  "plus_di": 20.91248648397625,
+  "minus_di": 17.947914587696914,
+  "atr_14": 0.25050200749914914,
+  "bb_upper": 8.514814156812426,
+  "bb_lower": 7.970185843187574,
+  "week52_high": 9.24,
+  "week52_low": 6.0,
+  "rsi_divergence": {
+    "type": null
+  },
+  "patterns": [
+    {
+      "name": "Head & Shoulders",
+      "type": "bearish",
+      "confidence": 0.6,
+      "status": "forming",
+      "neckline": 7.0,
+      "target": 4.76,
+      "note": "Three peaks, middle highest; breaks down below the neckline."
+    },
+    {
+      "name": "Symmetrical Triangle",
+      "type": "neutral",
+      "confidence": 0.45,
+      "status": "forming",
+      "neckline": null,
+      "target": null,
+      "note": "Converging highs and lows; breakout direction undecided."
+    }
+  ]
+}

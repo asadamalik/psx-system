@@ -1,0 +1,63 @@
+{
+  "symbol": "LUCK",
+  "growth": {
+    "revenue_growth_5y": 0.21377410697758004,
+    "net_income_growth_5y": 0.354568788101437,
+    "equity_growth_5y": 0.2537949371595247,
+    "debt_change_5y": 0.6742795927369625
+  },
+  "latest": {
+    "revenue": 449630.0,
+    "net_income": 76956.0,
+    "equity": 388041.0,
+    "total_assets": 729362.0,
+    "total_debt": 185984.0,
+    "operating_cash_flow": 96742.0,
+    "capex": 20981.0
+  },
+  "metrics": {
+    "revenue_growth_5y": 0.21377410697758004,
+    "net_income_growth_5y": 0.354568788101437,
+    "eps_growth": null,
+    "sales_growth": 0.21377410697758004,
+    "roe": 0.1983,
+    "roa": 0.1055,
+    "gross_margin": 0.2722,
+    "operating_margin": 0.2072704223472633,
+    "net_margin": 0.17115406000489292,
+    "debt_to_equity": 0.4792895596083919,
+    "current_ratio": 1.8031545670345495,
+    "interest_coverage": 3.8652482269503547,
+    "fcf_margin": 0.1684963191957832,
+    "pe_ratio": 8.22,
+    "price_to_book": 1.54,
+    "peg": null
+  },
+  "extended": {
+    "effective_tax_rate": 0.29,
+    "roic": 0.11527102478115064,
+    "quick_ratio": 1.2897217815878588,
+    "ps_ratio": 1.3867604322661595,
+    "ev_ebitda": null,
+    "peg": null,
+    "revenue_cagr_3y": 0.11381375589616849,
+    "net_income_cagr_3y": 0.37664368193137654,
+    "eps_cagr_3y": 0.42274648809601034,
+    "revenue_qoq": 0.054660296380273705,
+    "revenue_yoy": 0.20218579234972678,
+    "eps_qoq": -0.1567357512953368,
+    "eps_yoy": 0.06285714285714282,
+    "ocf_cagr_5y": 0.2863666819815902,
+    "fcf_cagr_5y": 0.8147626066257505,
+    "cash_conversion": 1.257107957794064,
+    "ttm_revenue": 494140,
+    "ttm_net_income": 83329,
+    "dividend_last_year": null,
+    "dividend_latest_annual": 4
+  },
+  "derived": {
+    "free_cash_flow": 75761.0,
+    "market_cap": 685253.8,
+    "current_price": 467.75
+  }
+}

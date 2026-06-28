@@ -1,0 +1,177 @@
+{
+  "source": "sarmaaya.pk (insider transactions, #insider-transactions table)",
+  "as_of": "2026-06-28",
+  "transactions": [
+    {
+      "date": "2025-12-22",
+      "person": "Rizwan Abbas Punjwani",
+      "role": "Non-Executive Director",
+      "action": "Sell",
+      "shares": 24000,
+      "price": 51.5,
+      "value": 1236000
+    },
+    {
+      "date": "2025-11-14",
+      "person": "Ali Hussain",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 2000000,
+      "price": 54.23,
+      "value": 108460000
+    },
+    {
+      "date": "2025-10-02",
+      "person": "Rizwan Abbas Panjwani",
+      "role": "Non-Executive Director",
+      "action": "Sell",
+      "shares": 60000,
+      "price": 68.76,
+      "value": 4125600
+    },
+    {
+      "date": "2025-09-05",
+      "person": "Shahid Malik",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 2373582,
+      "price": 50.44,
+      "value": 119723476
+    },
+    {
+      "date": "2025-09-05",
+      "person": "Shahbaz Yasin Malik",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 5384471,
+      "price": 54.53,
+      "value": 293615204
+    },
+    {
+      "date": "2025-09-05",
+      "person": "Shahbaz Yasin Malik",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 9800000,
+      "price": 54.53,
+      "value": 534394000
+    },
+    {
+      "date": "2025-09-05",
+      "person": "Shahbaz Yasin Malik",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 325000,
+      "price": 50.44,
+      "value": 16393000
+    },
+    {
+      "date": "2025-08-27",
+      "person": "Aneek Saleh Mohammad",
+      "role": "Independent Director",
+      "action": "Buy",
+      "shares": 50000,
+      "price": 39.19,
+      "value": 1959500
+    },
+    {
+      "date": "2025-07-02",
+      "person": "Rizwan Abbas Panjwani",
+      "role": "Non-Executive Director",
+      "action": "Sell",
+      "shares": 60000,
+      "price": 32.5,
+      "value": 1950000
+    },
+    {
+      "date": "2024-11-22",
+      "person": "Aneek Saleh Mohammad",
+      "role": "Independent Director",
+      "action": "Buy",
+      "shares": 2,
+      "price": 35.5,
+      "value": 71
+    },
+    {
+      "date": "2024-11-22",
+      "person": "Aneek Saleh Mohammad",
+      "role": "Independent Director",
+      "action": "Sell",
+      "shares": 394770,
+      "price": 33.85,
+      "value": 13362964
+    },
+    {
+      "date": "2024-02-14",
+      "person": "Rizwan Abbas punjwani",
+      "role": "Non-Executive Director",
+      "action": "Sell",
+      "shares": 30000,
+      "price": 19.42,
+      "value": 582600
+    },
+    {
+      "date": "2024-02-14",
+      "person": "Rizwan Abbas punjwani",
+      "role": "Non-Executive Director",
+      "action": "Sell",
+      "shares": 30000,
+      "price": 19.6,
+      "value": 588000
+    },
+    {
+      "date": "2023-01-19",
+      "person": "Rizwan Abbas Punjwani",
+      "role": "Non-Executive Director",
+      "action": "Sell",
+      "shares": 50000,
+      "price": 18.89,
+      "value": 944500
+    },
+    {
+      "date": "2022-12-14",
+      "person": "Rizwan Abbas Punjwani",
+      "role": "Non-Executive Director",
+      "action": "Sell",
+      "shares": 50000,
+      "price": 22.75,
+      "value": 1137500
+    },
+    {
+      "date": "2007-03-22",
+      "person": "Rizwan Abbas Punjwani",
+      "role": "Non-Executive Director",
+      "action": "Sell",
+      "shares": 2000,
+      "price": 31.0,
+      "value": 62000
+    },
+    {
+      "date": "2003-10-22",
+      "person": "Rizwan Abbas Punjwani",
+      "role": "Non-Executive Director",
+      "action": "Sell",
+      "shares": 25000,
+      "price": 20.64,
+      "value": 516000
+    },
+    {
+      "date": "2001-03-22",
+      "person": "Rizwan Abbas Punjwani",
+      "role": "Non-Executive Director",
+      "action": "Sell",
+      "shares": 50000,
+      "price": 28.8,
+      "value": 1440000
+    },
+    {
+      "date": "2001-03-22",
+      "person": "Rizwan Abbas Punjwani",
+      "role": "Non-Executive Director",
+      "action": "Sell",
+      "shares": 25000,
+      "price": 30.2,
+      "value": 755000
+    }
+  ]
+}

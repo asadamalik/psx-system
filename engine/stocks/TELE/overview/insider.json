@@ -1,0 +1,141 @@
+{
+  "source": "sarmaaya.pk (insider transactions, #insider-transactions table)",
+  "as_of": "2026-06-28",
+  "transactions": [
+    {
+      "date": "2025-10-17",
+      "person": "Societe Generale Pvt. Limited",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 1000000,
+      "price": 10.73,
+      "value": 10730000
+    },
+    {
+      "date": "2025-10-13",
+      "person": "Societe Generale Pvt. Limited",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 500000,
+      "price": 9.75,
+      "value": 4875000
+    },
+    {
+      "date": "2025-10-08",
+      "person": "Societe Generale Pvt. Limited",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 500000,
+      "price": 9.55,
+      "value": 4775000
+    },
+    {
+      "date": "2025-09-19",
+      "person": "test",
+      "role": "test",
+      "action": "Buy",
+      "shares": 122334343,
+      "price": 1212.0,
+      "value": 148269223716
+    },
+    {
+      "date": "2025-09-19",
+      "person": "Societe Generale Pvt. Limited",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 1000000,
+      "price": 8.84,
+      "value": 8840000
+    },
+    {
+      "date": "2025-09-16",
+      "person": "Societe Generale Pvt. Limited",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 500000,
+      "price": 8.12,
+      "value": 4060000
+    },
+    {
+      "date": "2025-09-09",
+      "person": "Societe Generale Pvt. Limited",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 500000,
+      "price": 8.31,
+      "value": 4155000
+    },
+    {
+      "date": "2025-08-22",
+      "person": "Societe Generale Pvt. Limited",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 1000000,
+      "price": 8.5,
+      "value": 8500000
+    },
+    {
+      "date": "2025-08-22",
+      "person": "Societe Generale Pvt. Limited",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 1000000,
+      "price": 8.5,
+      "value": 8500000
+    },
+    {
+      "date": "2025-07-15",
+      "person": "Societe Generale Pvt. Limited",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 500000,
+      "price": 8.12,
+      "value": 4060000
+    },
+    {
+      "date": "2025-06-16",
+      "person": "Societe Generate pvt. limited",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 325000,
+      "price": 8.3,
+      "value": 2697500
+    },
+    {
+      "date": "2025-06-05",
+      "person": "Societe Generate pvt. limited",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 7155234,
+      "price": 17.0,
+      "value": 121638978
+    },
+    {
+      "date": "2022-09-05",
+      "person": "Syed Hashim Ali",
+      "role": "Director/CFO",
+      "action": "Buy",
+      "shares": 13000,
+      "price": 11.37,
+      "value": 147810
+    },
+    {
+      "date": "2008-09-22",
+      "person": "Syed Aamir Hussain",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 25000,
+      "price": 11.35,
+      "value": 283750
+    },
+    {
+      "date": "2005-09-22",
+      "person": "Syed Hashim Ali",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 13000,
+      "price": 11.37,
+      "value": 147810
+    }
+  ]
+}

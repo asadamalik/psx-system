@@ -1,0 +1,24 @@
+{
+  "source": "sarmaaya.pk (insider transactions, #insider-transactions table)",
+  "as_of": "2026-06-28",
+  "transactions": [
+    {
+      "date": "2025-01-07",
+      "person": "Fossil Energy Pvt limited",
+      "role": "Substantial Shareholders",
+      "action": "Buy",
+      "shares": 500000,
+      "price": 52.0,
+      "value": 26000000
+    },
+    {
+      "date": "2025-01-03",
+      "person": "Fossil Energy Pvt limited",
+      "role": "Substantial Shareholders",
+      "action": "Buy",
+      "shares": 500000,
+      "price": 52.0,
+      "value": 26000000
+    }
+  ]
+}

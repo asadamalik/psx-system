@@ -1,0 +1,24 @@
+{
+  "source": "sarmaaya.pk (insider transactions, #insider-transactions table)",
+  "as_of": "2026-06-28",
+  "transactions": [
+    {
+      "date": "2025-09-05",
+      "person": "Mian Muhammad Mansha (Spouse of Mrs. Naz Mansha)",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 30000,
+      "price": 215.54,
+      "value": 6466200
+    },
+    {
+      "date": "2013-06-22",
+      "person": "MRS. NAZ MANSHA",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 100000,
+      "price": 56.52,
+      "value": 5652000
+    }
+  ]
+}

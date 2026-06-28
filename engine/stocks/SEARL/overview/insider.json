@@ -1,0 +1,348 @@
+{
+  "source": "sarmaaya.pk (insider transactions, #insider-transactions table)",
+  "as_of": "2026-06-28",
+  "transactions": [
+    {
+      "date": "2026-01-05",
+      "person": "MOUJOOD UL HASSAN",
+      "role": "Executive",
+      "action": "Sell",
+      "shares": 600,
+      "price": 127.01,
+      "value": 76206
+    },
+    {
+      "date": "2025-10-14",
+      "person": "International Brands (Private) Limited",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 800000,
+      "price": 99.91,
+      "value": 79928000
+    },
+    {
+      "date": "2025-10-14",
+      "person": "International Brands (Private) Limited",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 1796500,
+      "price": 99.5,
+      "value": 178751750
+    },
+    {
+      "date": "2025-07-17",
+      "person": "Moujood ul Hassan",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 800,
+      "price": 95.9,
+      "value": 76720
+    },
+    {
+      "date": "2025-07-17",
+      "person": "Moujood ul Hassan",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 840,
+      "price": 99.07,
+      "value": 83219
+    },
+    {
+      "date": "2025-04-23",
+      "person": "Naeem Idrees Allawala",
+      "role": "Non-Executive Director",
+      "action": "Sell",
+      "shares": 30000,
+      "price": 95.32,
+      "value": 2859600
+    },
+    {
+      "date": "2024-12-12",
+      "person": "ZUBAIR RAZZAK PALWALA",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 30937,
+      "price": 125.1,
+      "value": 3870219
+    },
+    {
+      "date": "2024-12-10",
+      "person": "MOUJOOD UL HASSAN",
+      "role": "Executive",
+      "action": "Sell",
+      "shares": 2800,
+      "price": 120.24,
+      "value": 336672
+    },
+    {
+      "date": "2024-12-10",
+      "person": "MOUJOOD UL HASSAN",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 3000,
+      "price": 106.77,
+      "value": 320310
+    },
+    {
+      "date": "2024-12-10",
+      "person": "ZUBAIR RAZZAK PALWALA",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 50000,
+      "price": 121.0,
+      "value": 6050000
+    },
+    {
+      "date": "2024-08-22",
+      "person": "MOUJOOD UL HASSAN",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 240,
+      "price": 55.7,
+      "value": 13368
+    },
+    {
+      "date": "2024-08-19",
+      "person": "MAUJOOD UL HASSAN",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 100,
+      "price": 57.0,
+      "value": 5700
+    },
+    {
+      "date": "2024-08-19",
+      "person": "MAUJOOD UL HASSAN",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 100,
+      "price": 56.5,
+      "value": 5650
+    },
+    {
+      "date": "2024-08-15",
+      "person": "MOUJOOD UL HASSAN",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 440,
+      "price": 57.37,
+      "value": 25243
+    },
+    {
+      "date": "2024-07-23",
+      "person": "MOUJOOD UL HASSAN",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 300,
+      "price": 56.7,
+      "value": 17010
+    },
+    {
+      "date": "2024-07-23",
+      "person": "MOUJOOD UL HASSAN",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 300,
+      "price": 56.23,
+      "value": 16869
+    },
+    {
+      "date": "2024-07-15",
+      "person": "MAUJOOD UL HASSAN",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 160,
+      "price": 59.0,
+      "value": 9440
+    },
+    {
+      "date": "2024-07-11",
+      "person": "MAUJOOD UL HASSAN",
+      "role": "Executive",
+      "action": "Sell",
+      "shares": 350,
+      "price": 61.49,
+      "value": 21522
+    },
+    {
+      "date": "2024-07-11",
+      "person": "MAUJOOD UL HASSAN",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 133,
+      "price": 58.81,
+      "value": 7822
+    },
+    {
+      "date": "2024-04-25",
+      "person": "Moujood Ul Hassan",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 200,
+      "price": 55.95,
+      "value": 11190
+    },
+    {
+      "date": "2024-04-25",
+      "person": "INTERNATION BRANDS (Pvt) LIMITED",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 5850000,
+      "price": 56.16,
+      "value": 328536000
+    },
+    {
+      "date": "2024-04-25",
+      "person": "INTERNATION BRANDS (Pvt) LIMITED",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 5000000,
+      "price": 56.5,
+      "value": 282500000
+    },
+    {
+      "date": "2024-04-24",
+      "person": "INTERNATION BRANDS (Pvt) LIMITED",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 850000,
+      "price": 58.5,
+      "value": 49725000
+    },
+    {
+      "date": "2024-04-24",
+      "person": "Moujood Ul Hassan",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 400,
+      "price": 56.62,
+      "value": 22648
+    },
+    {
+      "date": "2024-04-08",
+      "person": "INTERNATION BRANDS (Pvt) LIMITED",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 5000000,
+      "price": 57.76,
+      "value": 288800000
+    },
+    {
+      "date": "2024-03-27",
+      "person": "International Brand Pvt. Ltd.",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 8459000,
+      "price": 52.38,
+      "value": 443082420
+    },
+    {
+      "date": "2024-03-27",
+      "person": "International Brand Pvt. Ltd.",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 3000000,
+      "price": 54.0,
+      "value": 162000000
+    },
+    {
+      "date": "2024-02-26",
+      "person": "Moujood ul Hussain",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 600,
+      "price": 52.8,
+      "value": 31680
+    },
+    {
+      "date": "2024-02-22",
+      "person": "Moujoot Ul Hassan",
+      "role": "executive",
+      "action": "Buy",
+      "shares": 2550,
+      "price": 52.86,
+      "value": 134793
+    },
+    {
+      "date": "2023-11-21",
+      "person": "INTERNATION BRANDS (Pvt) LIMITED",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 6051220,
+      "price": 51.0,
+      "value": 308612220
+    },
+    {
+      "date": "2023-05-29",
+      "person": "INTERNATION BRANDS (Pvt) LIMITED",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 5000000,
+      "price": 51.0,
+      "value": 255000000
+    },
+    {
+      "date": "2022-10-21",
+      "person": "Mrs. Mahboob Khan",
+      "role": "Non-Executive Director",
+      "action": "Sell",
+      "shares": 200000,
+      "price": 83.69,
+      "value": 16738000
+    },
+    {
+      "date": "2022-09-22",
+      "person": "MOUJOOD UL HASSAN",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 200,
+      "price": 99.44,
+      "value": 19888
+    },
+    {
+      "date": "2022-08-05",
+      "person": "MOUJOOD UL HASSAN",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 700,
+      "price": 102.87,
+      "value": 72009
+    },
+    {
+      "date": "2019-09-22",
+      "person": "MOUJOOD UL HASSAN",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 100,
+      "price": 102.96,
+      "value": 10296
+    },
+    {
+      "date": "2019-09-22",
+      "person": "MOUJOOD UL HASSAN",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 100,
+      "price": 104.41,
+      "value": 10441
+    },
+    {
+      "date": "2012-10-22",
+      "person": "MOUJOOD UL HASSAN",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 200,
+      "price": 104.21,
+      "value": 20842
+    },
+    {
+      "date": "2005-08-22",
+      "person": "MOUJOOD UL HASSAN",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 700,
+      "price": 102.87,
+      "value": 72009
+    }
+  ]
+}

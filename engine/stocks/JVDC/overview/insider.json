@@ -1,0 +1,465 @@
+{
+  "source": "sarmaaya.pk (insider transactions, #insider-transactions table)",
+  "as_of": "2026-06-28",
+  "transactions": [
+    {
+      "date": "2026-06-22",
+      "person": "Arif Habib Corporation Limited",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 5000000,
+      "price": 153.33,
+      "value": 766650000
+    },
+    {
+      "date": "2026-06-17",
+      "person": "Arif Habib Corporation Limited",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 1818681,
+      "price": 148.68,
+      "value": 270401491
+    },
+    {
+      "date": "2026-06-16",
+      "person": "Arif Habib Corporation Limited",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 1648059,
+      "price": 153.01,
+      "value": 252169508
+    },
+    {
+      "date": "2026-01-28",
+      "person": "Arif Habib Corporation Limited",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 11058695,
+      "price": 142.52,
+      "value": 1576085211
+    },
+    {
+      "date": "2025-09-29",
+      "person": "Muhammad Kashif Habib",
+      "role": "Non-Executive Director",
+      "action": "Sell",
+      "shares": 5721604,
+      "price": 88.3,
+      "value": 505217633
+    },
+    {
+      "date": "2025-08-22",
+      "person": "Abdus Samad Habib",
+      "role": "Non-Executive Director",
+      "action": "Sell",
+      "shares": 10000,
+      "price": 79.5,
+      "value": 795000
+    },
+    {
+      "date": "2025-07-23",
+      "person": "Abdul Ghani",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 765000,
+      "price": 65.22,
+      "value": 49893300
+    },
+    {
+      "date": "2025-07-23",
+      "person": "Abdul Ghani",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 765000,
+      "price": 62.0,
+      "value": 47430000
+    },
+    {
+      "date": "2025-07-18",
+      "person": "Abdus Samad Habib",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 3755,
+      "price": 80.53,
+      "value": 302390
+    },
+    {
+      "date": "2025-07-18",
+      "person": "Abdus Samad Habib",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 9900,
+      "price": 83.7,
+      "value": 828630
+    },
+    {
+      "date": "2025-07-18",
+      "person": "Abdus Samad Habib",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 100,
+      "price": 83.6,
+      "value": 8360
+    },
+    {
+      "date": "2025-07-18",
+      "person": "Abdus Samad Habib",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 1000,
+      "price": 80.7,
+      "value": 80700
+    },
+    {
+      "date": "2025-07-18",
+      "person": "Abdus Samad Habib",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 245,
+      "price": 80.6,
+      "value": 19747
+    },
+    {
+      "date": "2025-07-18",
+      "person": "Abdus Samad Habib",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 20000,
+      "price": 82.32,
+      "value": 1646400
+    },
+    {
+      "date": "2024-08-01",
+      "person": "ARIF HABIB CORPORATION LIMITED",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 75000000,
+      "price": 39.75,
+      "value": 2981250000
+    },
+    {
+      "date": "2024-08-01",
+      "person": "ARIF HABIB CORPORATION LIMITED",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 75000000,
+      "price": 39.75,
+      "value": 2981250000
+    },
+    {
+      "date": "2024-05-15",
+      "person": "Abdul Ghani",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 448500,
+      "price": 35.78,
+      "value": 16047330
+    },
+    {
+      "date": "2023-12-29",
+      "person": "ARIF HABIB CORPORATION LIMITED",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 22255500,
+      "price": 36.5,
+      "value": 812325750
+    },
+    {
+      "date": "2023-12-29",
+      "person": "ARIF HABIB",
+      "role": "Non-Executive Director",
+      "action": "Sell",
+      "shares": 38255500,
+      "price": 36.5,
+      "value": 1396325750
+    },
+    {
+      "date": "2023-03-15",
+      "person": "AKD Securities Limited",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 22000,
+      "price": 46.5,
+      "value": 1023000
+    },
+    {
+      "date": "2023-03-06",
+      "person": "AKD Securities Limited",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 1000,
+      "price": 50.0,
+      "value": 50000
+    },
+    {
+      "date": "2023-02-27",
+      "person": "AKD Securities Limited",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 5000,
+      "price": 50.0,
+      "value": 250000
+    },
+    {
+      "date": "2023-02-27",
+      "person": "AKD Securities Limited",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 2500,
+      "price": 49.79,
+      "value": 124475
+    },
+    {
+      "date": "2023-02-21",
+      "person": "AKD Securities Limited",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 59000,
+      "price": 49.46,
+      "value": 2918140
+    },
+    {
+      "date": "2023-02-21",
+      "person": "AKD Securities Limited",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 31500,
+      "price": 49.98,
+      "value": 1574370
+    },
+    {
+      "date": "2023-02-21",
+      "person": "AKD Securities Limited",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 13500,
+      "price": 50.0,
+      "value": 675000
+    },
+    {
+      "date": "2022-04-22",
+      "person": "AKD Securities Limited",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 8000,
+      "price": 47.0,
+      "value": 376000
+    },
+    {
+      "date": "2021-06-22",
+      "person": "AKD Securities Limited",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 1000,
+      "price": 43.0,
+      "value": 43000
+    },
+    {
+      "date": "2021-06-22",
+      "person": "AKD Securities Limited",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 12500,
+      "price": 42.99,
+      "value": 537375
+    },
+    {
+      "date": "2020-05-22",
+      "person": "AKD Securities Limited",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 88000,
+      "price": 44.93,
+      "value": 3953840
+    },
+    {
+      "date": "2017-06-22",
+      "person": "AKD Securities Limited",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 500,
+      "price": 43.0,
+      "value": 21500
+    },
+    {
+      "date": "2016-05-22",
+      "person": "AKD Securities Limited",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 5500,
+      "price": 46.02,
+      "value": 253110
+    },
+    {
+      "date": "2016-05-22",
+      "person": "AKD Securities Limited",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 35500,
+      "price": 45.89,
+      "value": 1629095
+    },
+    {
+      "date": "2016-05-22",
+      "person": "AKD Securities Limited",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 46500,
+      "price": 46.71,
+      "value": 2172015
+    },
+    {
+      "date": "2015-09-22",
+      "person": "Arif Habib",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 3729900,
+      "price": 53.06,
+      "value": 197908494
+    },
+    {
+      "date": "2011-05-22",
+      "person": "AKD Securities Limited",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 60000,
+      "price": 47.0,
+      "value": 2820000
+    },
+    {
+      "date": "2011-05-22",
+      "person": "AKD Securities Limited",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 23500,
+      "price": 47.0,
+      "value": 1104500
+    },
+    {
+      "date": "2011-05-22",
+      "person": "AKD Securities Limited",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 294000,
+      "price": 47.0,
+      "value": 13818000
+    },
+    {
+      "date": "2008-04-22",
+      "person": "AKD Securities Limited",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 976500,
+      "price": 45.0,
+      "value": 43942500
+    },
+    {
+      "date": "2008-04-22",
+      "person": "AKD Securities Limited",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 39000,
+      "price": 45.17,
+      "value": 1761630
+    },
+    {
+      "date": "2008-04-22",
+      "person": "AKD Securities Limited",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 15000,
+      "price": 45.0,
+      "value": 675000
+    },
+    {
+      "date": "2008-04-22",
+      "person": "AKD Securities Limited",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 123000,
+      "price": 45.28,
+      "value": 5569440
+    },
+    {
+      "date": "2008-04-22",
+      "person": "AKD Securities Limited",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 25000,
+      "price": 45.0,
+      "value": 1125000
+    },
+    {
+      "date": "2008-04-22",
+      "person": "AKD Securities Limited",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 6000,
+      "price": 44.33,
+      "value": 265980
+    },
+    {
+      "date": "2008-04-22",
+      "person": "AKD Securities Limited",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 20000,
+      "price": 45.17,
+      "value": 903400
+    },
+    {
+      "date": "2008-04-22",
+      "person": "AKD Securities Limited",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 1000,
+      "price": 45.23,
+      "value": 45230
+    },
+    {
+      "date": "2008-04-22",
+      "person": "AKD Securities Limited",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 25000,
+      "price": 45.5,
+      "value": 1137500
+    },
+    {
+      "date": "2007-04-22",
+      "person": "AKD Securities Limited",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 14000,
+      "price": 45.14,
+      "value": 631960
+    },
+    {
+      "date": "2007-04-22",
+      "person": "AKD Securities Limited",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 1500,
+      "price": 45.34,
+      "value": 68010
+    },
+    {
+      "date": "2007-04-22",
+      "person": "AKD Securities Limited",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 1000,
+      "price": 45.3,
+      "value": 45300
+    },
+    {
+      "date": "2002-08-22",
+      "person": "AKD Securities Limited",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 5000,
+      "price": 41.06,
+      "value": 205300
+    }
+  ]
+}

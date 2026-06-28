@@ -1,0 +1,56 @@
+{
+  "as_of": "2026-06-24",
+  "bars": 1237,
+  "close": 17.84,
+  "sma_20": 18.002,
+  "sma_50": 17.6722,
+  "sma_200": 18.760450000000002,
+  "ema_20": 17.930446665094102,
+  "ema_50": 17.663205446405435,
+  "ema_100": 17.740313914718957,
+  "ema_200": 17.697086755221395,
+  "obv": 2532856953.0,
+  "weekly_trend": "Up",
+  "monthly_trend": "Up",
+  "support_resistance": {
+    "price": 17.84,
+    "nearest_resistance": 18.88,
+    "nearest_support": 17.4,
+    "resistance_levels": [
+      18.88,
+      19.3,
+      22.31
+    ],
+    "support_levels": [
+      17.4,
+      17.01,
+      16.01
+    ]
+  },
+  "rsi_14": 49.790761525444616,
+  "macd": 0.13358755140113487,
+  "macd_signal": 0.17776182409063976,
+  "macd_hist": -0.044174272689504884,
+  "adx_14": 13.578945415656191,
+  "plus_di": 24.779817376362075,
+  "minus_di": 22.231582313416204,
+  "atr_14": 0.4933270555177004,
+  "bb_upper": 18.366834208922842,
+  "bb_lower": 17.637165791077155,
+  "week52_high": 23.49,
+  "week52_low": 14.1,
+  "rsi_divergence": {
+    "type": null
+  },
+  "patterns": [
+    {
+      "name": "Double Top",
+      "type": "bearish",
+      "confidence": 0.72,
+      "status": "forming",
+      "neckline": 17.4,
+      "target": 16.04,
+      "note": "Two near-equal peaks; breaks down below the trough (neckline)."
+    }
+  ]
+}

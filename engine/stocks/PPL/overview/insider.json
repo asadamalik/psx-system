@@ -1,0 +1,186 @@
+{
+  "source": "sarmaaya.pk (insider transactions, #insider-transactions table)",
+  "as_of": "2026-06-28",
+  "transactions": [
+    {
+      "date": "2026-05-29",
+      "person": "Pir Muhammad Usman",
+      "role": "Executive",
+      "action": "Sell",
+      "shares": 4250,
+      "price": 240.75,
+      "value": 1023188
+    },
+    {
+      "date": "2026-04-17",
+      "person": "Kamran Rashid",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 500,
+      "price": 219.26,
+      "value": 109630
+    },
+    {
+      "date": "2025-06-19",
+      "person": "Kamran Sher",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 1000,
+      "price": 165.35,
+      "value": 165350
+    },
+    {
+      "date": "2025-06-19",
+      "person": "Kamran Sher",
+      "role": "Executive",
+      "action": "Sell",
+      "shares": 1000,
+      "price": 167.7,
+      "value": 167700
+    },
+    {
+      "date": "2025-04-21",
+      "person": "Ali Ahmed Khawaja",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 500,
+      "price": 171.81,
+      "value": 85905
+    },
+    {
+      "date": "2024-12-20",
+      "person": "Valeed Ali",
+      "role": "Executive",
+      "action": "Sell",
+      "shares": 10600,
+      "price": 206.0,
+      "value": 2183600
+    },
+    {
+      "date": "2024-05-27",
+      "person": "Faisal Bin Ahmad",
+      "role": "Executive",
+      "action": "Sell",
+      "shares": 500,
+      "price": 124.51,
+      "value": 62255
+    },
+    {
+      "date": "2024-05-27",
+      "person": "Faisal Bin Ahmad",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 500,
+      "price": 121.98,
+      "value": 60990
+    },
+    {
+      "date": "2024-05-24",
+      "person": "Ijaz Ahmad",
+      "role": "Executive",
+      "action": "Sell",
+      "shares": 2000,
+      "price": 124.5,
+      "value": 249000
+    },
+    {
+      "date": "2024-01-17",
+      "person": "Muhammad Arab Bhayo",
+      "role": "Executive",
+      "action": "Sell",
+      "shares": 200,
+      "price": 123.03,
+      "value": 24606
+    },
+    {
+      "date": "2024-01-17",
+      "person": "Muhammad Arab Bhayo",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 200,
+      "price": 112.01,
+      "value": 22402
+    },
+    {
+      "date": "2024-01-08",
+      "person": "Muhammad Arab Bhayo",
+      "role": "Executive",
+      "action": "Sell",
+      "shares": 100,
+      "price": 127.35,
+      "value": 12735
+    },
+    {
+      "date": "2024-01-08",
+      "person": "Muhammad Arab Bhayo",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 100,
+      "price": 123.25,
+      "value": 12325
+    },
+    {
+      "date": "2023-10-31",
+      "person": "Syed Muhammad Aamir Hussain",
+      "role": "Executive",
+      "action": "Sell",
+      "shares": 1000,
+      "price": 76.99,
+      "value": 76990
+    },
+    {
+      "date": "2023-07-24",
+      "person": "Tariq Hussain",
+      "role": "Executive",
+      "action": "Sell",
+      "shares": 5000,
+      "price": 70.08,
+      "value": 350400
+    },
+    {
+      "date": "2023-05-22",
+      "person": "Tariq Rashid Malik",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 5000,
+      "price": 58.95,
+      "value": 294750
+    },
+    {
+      "date": "2020-05-22",
+      "person": "Sagheer Hussain",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 5000,
+      "price": 68.05,
+      "value": 340250
+    },
+    {
+      "date": "2020-05-22",
+      "person": "Tariq Hussain",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 2000,
+      "price": 68.78,
+      "value": 137560
+    },
+    {
+      "date": "2020-05-22",
+      "person": "Sagheer Hussain",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 5000,
+      "price": 68.18,
+      "value": 340900
+    },
+    {
+      "date": "2007-04-22",
+      "person": "Syed Saqib Ali Shah",
+      "role": "Executive",
+      "action": "Gift-In",
+      "shares": 3979,
+      "price": 0.0,
+      "value": 0
+    }
+  ]
+}

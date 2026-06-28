@@ -1,0 +1,132 @@
+{
+  "source": "sarmaaya.pk (insider transactions, #insider-transactions table)",
+  "as_of": "2026-06-28",
+  "transactions": [
+    {
+      "date": "2025-10-20",
+      "person": "Faiza Kapadia",
+      "role": "Senior Management",
+      "action": "Buy",
+      "shares": 500,
+      "price": 219.9,
+      "value": 109950
+    },
+    {
+      "date": "2025-10-17",
+      "person": "Aamer Abdul Razzak",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 1000,
+      "price": 218.2,
+      "value": 218200
+    },
+    {
+      "date": "2023-11-15",
+      "person": "Fayyaz Ahmad Bhatti",
+      "role": "Executive",
+      "action": "Sell",
+      "shares": 7000,
+      "price": 123.51,
+      "value": 864570
+    },
+    {
+      "date": "2023-03-14",
+      "person": "Fayyaz Ahmad Bhatti",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 297,
+      "price": 72.25,
+      "value": 21458
+    },
+    {
+      "date": "2023-03-14",
+      "person": "Fayyaz Ahmad Bhatti",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 500,
+      "price": 72.2,
+      "value": 36100
+    },
+    {
+      "date": "2023-03-14",
+      "person": "Fayyaz Ahmad Bhatti",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 252,
+      "price": 72.25,
+      "value": 18207
+    },
+    {
+      "date": "2023-03-14",
+      "person": "Fayyaz Ahmad Bhatti",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 5000,
+      "price": 72.29,
+      "value": 361450
+    },
+    {
+      "date": "2023-03-14",
+      "person": "Fayyaz Ahmad Bhatti",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 951,
+      "price": 72.3,
+      "value": 68757
+    },
+    {
+      "date": "2023-01-18",
+      "person": "Kamran Kamal",
+      "role": "Senior Management",
+      "action": "Buy",
+      "shares": 100000,
+      "price": 59.97,
+      "value": 5997000
+    },
+    {
+      "date": "2022-11-30",
+      "person": "SAAD IQBAL",
+      "role": "Independent Director",
+      "action": "Buy",
+      "shares": 20000,
+      "price": 64.0,
+      "value": 1280000
+    },
+    {
+      "date": "2022-11-30",
+      "person": "SAAD IQBAL",
+      "role": "Independent Director",
+      "action": "Buy",
+      "shares": 9878,
+      "price": 64.5,
+      "value": 637131
+    },
+    {
+      "date": "2022-11-28",
+      "person": "Shafiuddin Ghani Khan",
+      "role": "Independent Director",
+      "action": "Buy",
+      "shares": 3000,
+      "price": 65.3,
+      "value": 195900
+    },
+    {
+      "date": "2022-11-04",
+      "person": "M. Inam ur Rehman Siddiqui",
+      "role": "Senior Management",
+      "action": "Buy",
+      "shares": 2500,
+      "price": 67.07,
+      "value": 167675
+    },
+    {
+      "date": "2022-11-03",
+      "person": "M.Inam ur rehman siddiqui",
+      "role": "Senior Management",
+      "action": "Buy",
+      "shares": 7500,
+      "price": 66.8,
+      "value": 501000
+    }
+  ]
+}

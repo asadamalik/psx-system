@@ -1,0 +1,63 @@
+{
+  "symbol": "BECO",
+  "growth": {
+    "revenue_growth_5y": 1.3837395564013053,
+    "net_income_growth_5y": 1.6328568311465261,
+    "equity_growth_5y": 175.95806100217865,
+    "debt_change_5y": 0.6180021953896818
+  },
+  "latest": {
+    "revenue": 7451.0,
+    "net_income": 111.48,
+    "equity": 3226.0,
+    "total_assets": 7666.0,
+    "total_debt": 14.74,
+    "operating_cash_flow": -2.55,
+    "capex": 22.85
+  },
+  "metrics": {
+    "revenue_growth_5y": 1.3837395564013053,
+    "net_income_growth_5y": 1.6328568311465261,
+    "eps_growth": null,
+    "sales_growth": 1.3837395564013053,
+    "roe": 0.0346,
+    "roa": 0.0145,
+    "gross_margin": 0.0505,
+    "operating_margin": 0.025423433096228694,
+    "net_margin": 0.014961750100657631,
+    "debt_to_equity": 0.004569125852448853,
+    "current_ratio": 0.9340455178820251,
+    "interest_coverage": 36.71124031007752,
+    "fcf_margin": -0.003408938397530533,
+    "pe_ratio": 31.09,
+    "price_to_book": 1.74,
+    "peg": null
+  },
+  "extended": {
+    "effective_tax_rate": 0.29,
+    "roic": 0.04150141634318088,
+    "quick_ratio": 0.46168137482582444,
+    "ps_ratio": 0.7649943630214205,
+    "ev_ebitda": null,
+    "peg": null,
+    "revenue_cagr_3y": 0.05696774590957432,
+    "net_income_cagr_3y": -0.16359081043273638,
+    "eps_cagr_3y": -0.0647021383543841,
+    "revenue_qoq": 1.4578313253012047,
+    "revenue_yoy": 1.1127733026467204,
+    "eps_qoq": 1.7500000000000002,
+    "eps_yoy": 1.7500000000000002,
+    "ocf_cagr_5y": 0.24473053397255745,
+    "fcf_cagr_5y": 0.19915118513773222,
+    "cash_conversion": -0.022874058127018298,
+    "ttm_revenue": 8870,
+    "ttm_net_income": 365.63,
+    "dividend_last_year": null,
+    "dividend_latest_annual": 0.1
+  },
+  "derived": {
+    "free_cash_flow": -25.400000000000002,
+    "market_cap": 6785.5,
+    "current_price": 5.43
+  }
+}

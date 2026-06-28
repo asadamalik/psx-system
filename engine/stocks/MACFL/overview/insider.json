@@ -1,0 +1,141 @@
+{
+  "source": "sarmaaya.pk (insider transactions, #insider-transactions table)",
+  "as_of": "2026-06-28",
+  "transactions": [
+    {
+      "date": "2026-05-21",
+      "person": "Naeem Ali Mohammad munshi",
+      "role": "Non Executive Director",
+      "action": "Sell",
+      "shares": 325000,
+      "price": 51.7,
+      "value": 16802500
+    },
+    {
+      "date": "2026-05-18",
+      "person": "Naeem Ali Mohammad Munshi",
+      "role": "Non-Executive Director",
+      "action": "Sell",
+      "shares": 600000,
+      "price": 61.06,
+      "value": 36636000
+    },
+    {
+      "date": "2026-05-18",
+      "person": "Naeem Ali Mohammad Munshi",
+      "role": "Non-Executive Director",
+      "action": "Sell",
+      "shares": 805000,
+      "price": 61.88,
+      "value": 49813400
+    },
+    {
+      "date": "2026-05-14",
+      "person": "Naeem Ali Mohammad Munshi",
+      "role": "Non-Executive Director",
+      "action": "Sell",
+      "shares": 1000000,
+      "price": 54.25,
+      "value": 54250000
+    },
+    {
+      "date": "2025-12-19",
+      "person": "Naeem Ali Mohammad Munshi",
+      "role": "Non-Executive Director",
+      "action": "Sell",
+      "shares": 65000,
+      "price": 28.58,
+      "value": 1857700
+    },
+    {
+      "date": "2025-08-01",
+      "person": "Najmul Hassan",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 133000,
+      "price": 41.7,
+      "value": 5546100
+    },
+    {
+      "date": "2025-07-30",
+      "person": "Naeem Ali",
+      "role": "Non-Executive Director",
+      "action": "Sell",
+      "shares": 100000,
+      "price": 50.61,
+      "value": 5061000
+    },
+    {
+      "date": "2025-07-24",
+      "person": "Naeem Ali Mohammad Munshi",
+      "role": "Non-Executive Director",
+      "action": "Sell",
+      "shares": 26000,
+      "price": 51.36,
+      "value": 1335360
+    },
+    {
+      "date": "2025-07-24",
+      "person": "Naeem Ali Mohammad Munshi",
+      "role": "Non-Executive Director",
+      "action": "Sell",
+      "shares": 45000,
+      "price": 55.44,
+      "value": 2494800
+    },
+    {
+      "date": "2025-07-24",
+      "person": "Naeem Ali Mohammad Munshi",
+      "role": "Non-Executive Director",
+      "action": "Sell",
+      "shares": 15000,
+      "price": 57.17,
+      "value": 857550
+    },
+    {
+      "date": "2025-07-24",
+      "person": "Naeem Ali Mohammad Munshi",
+      "role": "Non-Executive Director",
+      "action": "Sell",
+      "shares": 5000,
+      "price": 55.0,
+      "value": 275000
+    },
+    {
+      "date": "2025-07-24",
+      "person": "Naeem Ali Mohammad Munshi",
+      "role": "Non-Executive Director",
+      "action": "Sell",
+      "shares": 9000,
+      "price": 52.8,
+      "value": 475200
+    },
+    {
+      "date": "2025-07-17",
+      "person": "Naeem Ali Mohammad Munshi",
+      "role": "Non-Executive Director",
+      "action": "Sell",
+      "shares": 76700,
+      "price": 60.77,
+      "value": 4661059
+    },
+    {
+      "date": "2025-07-17",
+      "person": "Naeem Ali Mohammad Munshi",
+      "role": "Non-Executive Director",
+      "action": "Sell",
+      "shares": 23300,
+      "price": 63.0,
+      "value": 1467900
+    },
+    {
+      "date": "2022-12-09",
+      "person": "Hafsa Abbasy",
+      "role": "Independent Director",
+      "action": "Buy",
+      "shares": 500,
+      "price": 15.5,
+      "value": 7750
+    }
+  ]
+}

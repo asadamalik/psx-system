@@ -1,0 +1,60 @@
+{
+  "source": "sarmaaya.pk (insider transactions, #insider-transactions table)",
+  "as_of": "2026-06-28",
+  "transactions": [
+    {
+      "date": "2026-06-10",
+      "person": "Muhammad Munir Muhammad Ahmed Khanani Securities",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 7485,
+      "price": 27.0,
+      "value": 202095
+    },
+    {
+      "date": "2026-06-10",
+      "person": "Muhammad Munir Muhammad Ahmed Khanani Securities",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 7485,
+      "price": 26.0,
+      "value": 194610
+    },
+    {
+      "date": "2026-06-05",
+      "person": "Muhammad Munir Muhammad Ahmed Khanani Securities",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 7680,
+      "price": 23.0,
+      "value": 176640
+    },
+    {
+      "date": "2026-06-05",
+      "person": "Muhammad Munir Muhammad Ahmed Khanani Securities",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 7680,
+      "price": 22.0,
+      "value": 168960
+    },
+    {
+      "date": "2026-03-30",
+      "person": "Muhammad Munir Muhammad Ahmed Khanani Securities",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 7680,
+      "price": 22.6,
+      "value": 173568
+    },
+    {
+      "date": "2026-03-30",
+      "person": "Muhammad Munir Muhammad Ahmed Khanani Securities",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 7680,
+      "price": 22.25,
+      "value": 170880
+    }
+  ]
+}

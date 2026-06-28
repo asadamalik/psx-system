@@ -1,0 +1,21 @@
+{
+  "source": "stockanalysis.com (statistics)",
+  "as_of": "2026-06-27",
+  "latest_eps": -0.03,
+  "eps_ttm": null,
+  "next_earnings_date": "Aug 28, 2026",
+  "history": [
+    {
+      "period_end": "Q1 2026",
+      "eps": -0.03,
+      "eps_forecast": null,
+      "eps_surprise_pct": null
+    },
+    {
+      "period_end": "FY2025",
+      "eps": -0.09,
+      "eps_forecast": null,
+      "eps_surprise_pct": null
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "as_of": "2026-06-24",
+  "bars": 565,
+  "close": 144.51,
+  "sma_20": 142.74550000000002,
+  "sma_50": 135.7864,
+  "sma_200": 109.10660000000001,
+  "ema_20": 142.8244028213167,
+  "ema_50": 135.7317233334956,
+  "ema_100": 127.16772553183611,
+  "ema_200": 112.82582717994433,
+  "obv": 108971522.0,
+  "weekly_trend": "Up",
+  "monthly_trend": "Up",
+  "support_resistance": {
+    "price": 144.51,
+    "nearest_resistance": 159.63,
+    "nearest_support": 130.0,
+    "resistance_levels": [
+      159.63
+    ],
+    "support_levels": [
+      130.0,
+      126.01,
+      115.15
+    ]
+  },
+  "rsi_14": 54.65353087609347,
+  "macd": 3.560949701735069,
+  "macd_signal": 4.346038645036117,
+  "macd_hist": -0.785088943301048,
+  "adx_14": 21.196291160732127,
+  "plus_di": 24.011225393885653,
+  "minus_di": 18.680625254838986,
+  "atr_14": 6.247867639516634,
+  "bb_upper": 156.55861329860195,
+  "bb_lower": 128.9323867013981,
+  "week52_high": 160.16,
+  "week52_low": 61.11,
+  "rsi_divergence": {
+    "type": null
+  },
+  "patterns": [
+    {
+      "name": "Bull Flag",
+      "type": "bullish",
+      "confidence": 0.56,
+      "status": "forming",
+      "neckline": 153.16,
+      "target": 165.73,
+      "note": "Strong pole then tight consolidation; bullish continuation bias."
+    }
+  ]
+}

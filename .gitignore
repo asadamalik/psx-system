@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+.cache/
+.DS_Store
+# build artifacts are committed by the nightly job, but ignore local scratch:
+*.tmp
+scratch/
+
+# build cache
+data/.embed_cache.json

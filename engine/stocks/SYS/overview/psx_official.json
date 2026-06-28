@@ -1,0 +1,25 @@
+{
+  "source": "PSX DPS (dps.psx.com.pk/company/SYS)",
+  "basis": "unconsolidated",
+  "as_of": "2026-06-27",
+  "currency": "PKR",
+  "units": "millions",
+  "shares_outstanding": 1473.404435,
+  "free_float_pct": 0.60,
+  "free_float_shares": 884.042661,
+  "market_cap": 220907.53,
+  "pe_ratio_ttm": null,
+  "eps_comparable_from": 2024,
+  "yearend_close": {"2022": 96.78, "2023": 84.71, "2024": 124.29, "2025": 170.88},
+  "note": "EPS 2022-2023 are pre stock-split (old share base); 2024-2025 EPS are on the post-split base (~5:1 split, May 2025). PAT and sales are split-independent. eps_comparable_from=2024 tells the engine to only compute EPS divergence from FY2024 on; PAT divergence is valid all years. DPS shows P/E TTM as N/A.",
+  "annual": {
+    "sales": {"2022": 20644.77, "2023": 32037.995, "2024": 38526.984, "2025": 44230.607},
+    "profit_after_tax": {"2022": 6299.837, "2023": 8559.16, "2024": 6115.297, "2025": 8019.014},
+    "eps": {"2022": 22.44, "2023": 29.41, "2024": 4.19, "2025": 5.46}
+  },
+  "quarterly": {
+    "eps": {"Q1 2026": 1.38},
+    "sales": {"Q1 2026": 12585.021},
+    "profit_after_tax": {"Q1 2026": 2032.41}
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "source": "sarmaaya.pk (insider transactions, #insider-transactions table)",
+  "as_of": "2026-06-28",
+  "transactions": [
+    {
+      "date": "2026-02-16",
+      "person": "Dr.Farzana Firoz",
+      "role": "Independent Director",
+      "action": "Sell",
+      "shares": 1004604,
+      "price": 38.66,
+      "value": 38837991
+    }
+  ]
+}

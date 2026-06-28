@@ -1,0 +1,7 @@
+{
+  "source": "APCMA / company dispatches",
+  "as_of": null,
+  "unit": "tons",
+  "_format": "months = [{month: '2026-05', sales: 350000, mom: 0.04, yoy: 0.12}] (mom/yoy as fractions)",
+  "months": []
+}

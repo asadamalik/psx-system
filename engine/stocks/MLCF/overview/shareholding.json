@@ -1,0 +1,6 @@
+{
+  "source": "sarmaaya.pk (Pattern of Shareholding)",
+  "as_of": null,
+  "_format": "categories = {label: fraction}, e.g. {'Sponsors/Directors': 0.55, 'Banks/DFIs': 0.05, 'Mutual Funds': 0.08, 'Foreign': 0.04, 'General Public': 0.20, 'Others': 0.08}",
+  "categories": {}
+}

@@ -1,0 +1,40 @@
+{
+  "source": "PSX DPS (dps.psx.com.pk/company/CNERGY)",
+  "basis": "unconsolidated",
+  "as_of": "2026-06-27",
+  "currency": "PKR",
+  "units": "millions",
+  "fiscal_year_end": "June",
+  "shares_outstanding": 5493.45,
+  "free_float_pct": 0.25,
+  "free_float_shares": 1373.36,
+  "market_cap": 45046.27,
+  "pe_ratio_ttm": 2.84,
+  "yearend_close": {
+    "2022": 5.34,
+    "2023": 2.84,
+    "2024": 3.85,
+    "2025": 7.13
+  },
+  "note": "DPS unconsolidated PAT/EPS diverge from Investing consolidated (refinery+marketing subsidiaries). FY ends June. No stock split. 2023 consolidated equity jump = asset revaluation, not a split.",
+  "annual": {
+    "sales": {
+      "2022": 170015.07,
+      "2023": 193912.16,
+      "2024": 240626.17,
+      "2025": 296719.74
+    },
+    "profit_after_tax": {
+      "2022": 4787.88,
+      "2023": -12663.28,
+      "2024": 1008.37,
+      "2025": -2895.42
+    },
+    "eps": {
+      "2022": 0.89,
+      "2023": -2.34,
+      "2024": 0.18,
+      "2025": -0.53
+    }
+  }
+}

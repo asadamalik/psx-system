@@ -1,0 +1,24 @@
+{
+  "source": "sarmaaya.pk (insider transactions, #insider-transactions table)",
+  "as_of": "2026-06-28",
+  "transactions": [
+    {
+      "date": "2022-10-25",
+      "person": "Imran Ali Habib",
+      "role": "Executive Director",
+      "action": "Gift In",
+      "shares": 346476,
+      "price": 5.0,
+      "value": 1732380
+    },
+    {
+      "date": "2022-10-25",
+      "person": "Imran Ali Habib",
+      "role": "Executive Director",
+      "action": "Gift In",
+      "shares": 346476,
+      "price": 5.0,
+      "value": 1732380
+    }
+  ]
+}

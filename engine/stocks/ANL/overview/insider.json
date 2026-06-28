@@ -1,0 +1,51 @@
+{
+  "source": "sarmaaya.pk (insider transactions, #insider-transactions table)",
+  "as_of": "2026-06-28",
+  "transactions": [
+    {
+      "date": "2022-12-19",
+      "person": "Jahanghir Saddique & Co.LImited",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 501000,
+      "price": 8.17,
+      "value": 4093170
+    },
+    {
+      "date": "2022-02-09",
+      "person": "AHMED HUMAYUN SHAIKH",
+      "role": "Executive Director",
+      "action": "Gift-In",
+      "shares": 28885798,
+      "price": 0.0,
+      "value": 0
+    },
+    {
+      "date": "2015-07-22",
+      "person": "AHMED HUMAYUN SHAIKH",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 3777600,
+      "price": 10.8,
+      "value": 40798080
+    },
+    {
+      "date": "2014-02-22",
+      "person": "AHMED HUMAYUN SHAIKH",
+      "role": "Executive Director",
+      "action": "Gift-In",
+      "shares": 17735883,
+      "price": 0.0,
+      "value": 0
+    },
+    {
+      "date": "2002-03-22",
+      "person": "AHMED HUMAYUN SHAIKH",
+      "role": "Executive Director",
+      "action": "Gift-In",
+      "shares": 10442390,
+      "price": 0.0,
+      "value": 0
+    }
+  ]
+}

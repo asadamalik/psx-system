@@ -1,0 +1,15 @@
+{
+  "source": "sarmaaya.pk (insider transactions, #insider-transactions table)",
+  "as_of": "2026-06-28",
+  "transactions": [
+    {
+      "date": "2023-12-08",
+      "person": "Syed Jehangir Ali Shah",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 2500,
+      "price": 15.26,
+      "value": 38150
+    }
+  ]
+}

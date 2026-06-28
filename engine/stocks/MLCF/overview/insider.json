@@ -1,0 +1,78 @@
+{
+  "source": "sarmaaya.pk (insider transactions, #insider-transactions table)",
+  "as_of": "2026-06-27",
+  "transactions": [
+    {
+      "date": "2026-03-12",
+      "person": "Ms. Sabene Saigol (Spouse of Mr Sayeed Tariq Saigol)",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 150000,
+      "price": 81.25,
+      "value": 12187500
+    },
+    {
+      "date": "2026-01-01",
+      "person": "Mr. Tajammal Hussain",
+      "role": "Independent Director",
+      "action": "Buy",
+      "shares": 2500,
+      "price": 120.5,
+      "value": 301250
+    },
+    {
+      "date": "2023-11-23",
+      "person": "Maple Leaf Capital Limited",
+      "role": "Buy-Back",
+      "action": "Buy",
+      "shares": 135680,
+      "price": 38.8,
+      "value": 5264384
+    },
+    {
+      "date": "2023-11-22",
+      "person": "Maple Leaf Capital Limited",
+      "role": "Buy-Back",
+      "action": "Buy",
+      "shares": 642499,
+      "price": 38.83,
+      "value": 24948236
+    },
+    {
+      "date": "2023-11-22",
+      "person": "Maple Leaf Capital Limited",
+      "role": "Buy-Back",
+      "action": "Buy",
+      "shares": 1000000,
+      "price": 38.93,
+      "value": 38930000
+    },
+    {
+      "date": "2023-11-20",
+      "person": "Maple Leaf Capital Limited",
+      "role": "Buy-Back",
+      "action": "Buy",
+      "shares": 2808221,
+      "price": 38.52,
+      "value": 108172673
+    },
+    {
+      "date": "2023-11-17",
+      "person": "Maple Leaf Capital Limited",
+      "role": "Buy-Back",
+      "action": "Buy",
+      "shares": 1501954,
+      "price": 39.18,
+      "value": 58846558
+    },
+    {
+      "date": "2023-01-16",
+      "person": "Mr. Sohail Sadiq",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 60000,
+      "price": 22.15,
+      "value": 1329000
+    }
+  ]
+}

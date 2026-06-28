@@ -1,0 +1,51 @@
+{
+  "source": "sarmaaya.pk (insider transactions, #insider-transactions table)",
+  "as_of": "2026-06-28",
+  "transactions": [
+    {
+      "date": "2026-01-29",
+      "person": "Brig Salah Ud Din Ayubi (Retd)",
+      "role": "Senior Management",
+      "action": "Sell",
+      "shares": 3420,
+      "price": 56.12,
+      "value": 191930
+    },
+    {
+      "date": "2025-11-26",
+      "person": "Col Salar Malik (Retd)",
+      "role": "Senior Management",
+      "action": "Buy",
+      "shares": 1700,
+      "price": 570.32,
+      "value": 969544
+    },
+    {
+      "date": "2024-12-19",
+      "person": "Asad Hameed",
+      "role": "Senior Management",
+      "action": "Buy",
+      "shares": 4000,
+      "price": 399.0,
+      "value": 1596000
+    },
+    {
+      "date": "2024-12-13",
+      "person": "Maj Gen Tariq Qaddus, HI(M), Retd",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 90000,
+      "price": 24.01,
+      "value": 2160900
+    },
+    {
+      "date": "2024-12-13",
+      "person": "Syed Muhammad Irfan Aqueel",
+      "role": "Independent Director",
+      "action": "Buy",
+      "shares": 10000,
+      "price": 38.2,
+      "value": 382000
+    }
+  ]
+}

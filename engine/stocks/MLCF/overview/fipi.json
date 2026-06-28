@@ -1,0 +1,8 @@
+{
+  "source": "NCCPL / sarmaaya (FIPI / LIPI)",
+  "as_of": null,
+  "period": null,
+  "_format": "flows = {label: net_value_PKR_mn}, e.g. {'Foreign': -120.5, 'Companies': 80.0, 'Banks/DFI': 30.0, 'Mutual Funds': -10.0, 'Individuals': 20.0}. Positive = net buying.",
+  "flows": {},
+  "block_trades": []
+}

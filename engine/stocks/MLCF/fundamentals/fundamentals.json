@@ -1,0 +1,634 @@
+{
+  "symbol": "MLCF",
+  "income_statement_annual": {
+    "revenue": {
+      "2021": 35538.3,
+      "2022": 48519.62,
+      "2023": 62075.26,
+      "2024": 66452.35,
+      "2025": 68654.0
+    },
+    "gross_profit": {
+      "2021": 8498.64,
+      "2022": 13239.34,
+      "2023": 19363.14,
+      "2024": 22430.47,
+      "2025": 25441.92
+    },
+    "operating_income": {
+      "2021": 6148.21,
+      "2022": 10056.88,
+      "2023": 13665.77,
+      "2024": 13946.96,
+      "2025": 17223.85
+    },
+    "net_income": {
+      "2021": 3828.49,
+      "2022": 4553.13,
+      "2023": 5770.76,
+      "2024": 6891.06,
+      "2025": 11503.31
+    },
+    "eps": {
+      "2021": 3.49,
+      "2022": 4.15,
+      "2023": 5.38,
+      "2024": 6.51,
+      "2025": 10.98
+    },
+    "interest_expense": {
+      "2021": 1279.39,
+      "2022": 1606.34,
+      "2023": 2312.42,
+      "2024": 3448.71,
+      "2025": 2869.49
+    },
+    "cost_of_revenue": {
+      "2021": 27039.66,
+      "2022": 35280.28,
+      "2023": 42712.12,
+      "2024": 44021.88,
+      "2025": 43212.08
+    },
+    "ebitda": {
+      "2021": 9743.12,
+      "2022": 13607.11,
+      "2023": 17438.46,
+      "2024": 18794.84,
+      "2025": 22039.69
+    },
+    "income_tax": {
+      "2021": 1141.55,
+      "2022": 3586.29,
+      "2023": 4910.69,
+      "2024": 3840.53,
+      "2025": 4826.46
+    },
+    "ebt": {
+      "2021": 4970.04,
+      "2022": 8139.41,
+      "2023": 10681.45,
+      "2024": 10760.3,
+      "2025": 16329.74
+    }
+  },
+  "balance_sheet_annual": {
+    "total_assets": {
+      "2021": 66569.4,
+      "2022": 82466.84,
+      "2023": 89585.28,
+      "2024": 100343.99,
+      "2025": 118731.6
+    },
+    "total_liabilities": {
+      "2021": 28227.07,
+      "2022": 40180.29,
+      "2023": 41666.14,
+      "2024": 42700.34,
+      "2025": 47772.31
+    },
+    "total_equity": {
+      "2021": 38342.33,
+      "2022": 42286.55,
+      "2023": 47919.14,
+      "2024": 57643.64,
+      "2025": 70959.29
+    },
+    "current_assets": {
+      "2021": 17338.85,
+      "2022": 20899.26,
+      "2023": 22755.74,
+      "2024": 27374.88,
+      "2025": 36654.98
+    },
+    "current_liabilities": {
+      "2021": 11938.15,
+      "2022": 16687.24,
+      "2023": 15048.29,
+      "2024": 19028.19,
+      "2025": 23419.18
+    },
+    "inventory": {
+      "2021": 12133.59,
+      "2022": 15967.39,
+      "2023": 14276.53,
+      "2024": 16013.1,
+      "2025": 17288.45
+    },
+    "cash_and_equivalents": {
+      "2021": 501.33,
+      "2022": 817.24,
+      "2023": 750.25,
+      "2024": 1279.42,
+      "2025": 1861.55
+    },
+    "total_debt": {
+      "2021": 13341.36,
+      "2022": 19401.64,
+      "2023": 17874.4,
+      "2024": 13276.2,
+      "2025": 13808.23
+    },
+    "total_receivables": {
+      "2021": 1883.27,
+      "2022": 2148.14,
+      "2023": 2642.93,
+      "2024": 4379.06,
+      "2025": 5158.7
+    }
+  },
+  "cashflow_annual": {
+    "cash_from_operations": {
+      "2021": 8421.56,
+      "2022": 9385.2,
+      "2023": 19846.72,
+      "2024": 12781.23,
+      "2025": 19120.53
+    },
+    "cash_from_investing": {
+      "2021": -3260.93,
+      "2022": -15903.01,
+      "2023": -12178.79,
+      "2024": -4128.98,
+      "2025": -14987.55
+    },
+    "cash_from_financing": {
+      "2021": -4913.97,
+      "2022": 5672.78,
+      "2023": -6345.28,
+      "2024": -9532.79,
+      "2025": -2284.48
+    },
+    "capex": {
+      "2021": 3285.3,
+      "2022": 15875.33,
+      "2023": 9080.09,
+      "2024": 5453.9,
+      "2025": 3611.41
+    }
+  },
+  "income_statement_quarterly": {
+    "revenue": {
+      "2024-12": 19028,
+      "2025-03": 16631,
+      "2025-06": 17275,
+      "2025-09": 16483,
+      "2025-12": 18935,
+      "2026-03": 21545
+    },
+    "gross_profit": {
+      "2024-12": 7577,
+      "2025-03": 5903,
+      "2025-06": 6999,
+      "2025-09": 5592,
+      "2025-12": 6565,
+      "2026-03": 7130
+    },
+    "operating_income": {
+      "2024-12": 5653,
+      "2025-03": 4239,
+      "2025-06": 4596,
+      "2025-09": 4406,
+      "2025-12": 4860,
+      "2026-03": 4935
+    },
+    "net_income": {
+      "2024-12": 3735,
+      "2025-03": 2793,
+      "2025-06": 3632,
+      "2025-09": 2728,
+      "2025-12": 3118,
+      "2026-03": 1771
+    },
+    "eps": {
+      "2024-12": 3.57,
+      "2025-03": 2.67,
+      "2025-06": 3.47,
+      "2025-09": 2.6,
+      "2025-12": 2.98,
+      "2026-03": 1.86
+    },
+    "interest_expense": {
+      "2024-12": 1416,
+      "2025-06": 876.08,
+      "2025-09": 371.66,
+      "2025-12": 381.41
+    }
+  },
+  "balance_sheet_quarterly": {
+    "current_assets": {
+      "2024-12": 70630,
+      "2025-03": 32797,
+      "2025-06": 36655,
+      "2025-09": 40537,
+      "2025-12": 39494,
+      "2026-03": 56740
+    },
+    "cash_and_equivalents": {
+      "2024-12": 1742,
+      "2025-03": 1624,
+      "2025-06": 1862,
+      "2025-09": 2194,
+      "2025-12": 2786,
+      "2026-03": 3139
+    },
+    "inventory": {
+      "2024-12": 17347,
+      "2025-03": 17646,
+      "2025-06": 17288,
+      "2025-09": 16445,
+      "2025-12": 17181,
+      "2026-03": 27384
+    },
+    "total_assets": {
+      "2024-12": 149141,
+      "2025-03": 113821,
+      "2025-06": 118732,
+      "2025-09": 122330,
+      "2025-12": 128679,
+      "2026-03": 249270
+    },
+    "current_liabilities": {
+      "2024-12": 60720,
+      "2025-03": 22415,
+      "2025-06": 23419,
+      "2025-09": 23477,
+      "2025-12": 24898,
+      "2026-03": 43147
+    },
+    "total_liabilities": {
+      "2024-12": 85292,
+      "2025-03": 47276,
+      "2025-06": 47772,
+      "2025-09": 47186,
+      "2025-12": 48620,
+      "2026-03": 162825
+    },
+    "total_debt": {
+      "2024-12": 51164,
+      "2025-03": 15382,
+      "2025-06": 14631,
+      "2025-09": 12929,
+      "2025-12": 12075,
+      "2026-03": 93434
+    },
+    "total_equity": {
+      "2024-12": 63849,
+      "2025-03": 66546,
+      "2025-06": 70959,
+      "2025-09": 75145,
+      "2025-12": 80059,
+      "2026-03": 86445
+    }
+  },
+  "cashflow_quarterly": {
+    "cash_from_operations": {
+      "2024-12": 10506,
+      "2025-03": 2966,
+      "2025-06": 5465,
+      "2025-09": 3064,
+      "2025-12": 8139,
+      "2026-03": 20675
+    },
+    "cash_from_investing": {
+      "2024-12": -8284,
+      "2025-03": -47.52,
+      "2025-06": -4990,
+      "2025-09": -63.38,
+      "2025-12": -6727,
+      "2026-03": -101197
+    },
+    "cash_from_financing": {
+      "2024-12": 1221,
+      "2025-03": -3384,
+      "2025-06": -665.85,
+      "2025-09": -2024,
+      "2025-12": -1321,
+      "2026-03": 76861
+    },
+    "capex": {
+      "2024-12": 1230,
+      "2025-03": 943.47,
+      "2025-06": 374.32,
+      "2025-09": 912.45,
+      "2025-12": 2506,
+      "2026-03": 73576
+    }
+  },
+  "ratios": {
+    "pe_ratio": 9.98,
+    "price_to_book": 1.3,
+    "roe": 0.1494,
+    "roa": 0.0647,
+    "debt_to_equity": 1.0808,
+    "current_ratio": 1.32,
+    "gross_margin": 0.3541,
+    "operating_margin": 0.2532,
+    "net_margin": 0.1515,
+    "eps_growth_5y": 0.2305,
+    "sales_growth_5y": 0.1871,
+    "industry_pe": 8.92,
+    "industry_pb": 1.56
+  },
+  "earnings": {
+    "latest_eps": 2.53,
+    "forecast_eps": 3.0,
+    "earnings_surprise": -15.67,
+    "eps_ttm": 10.74,
+    "next_earnings_date": "Sep 14, 2026",
+    "history": [
+      {
+        "release_date": "2026-04-23",
+        "period_end": "2026-03",
+        "eps": 2.53,
+        "eps_forecast": 3.0,
+        "revenue": "21.57B",
+        "eps_surprise_pct": -15.67
+      },
+      {
+        "release_date": "2026-02-25",
+        "period_end": "2025-12",
+        "eps": 2.98,
+        "eps_forecast": 1.56,
+        "revenue": "18.94B",
+        "eps_surprise_pct": 91.03
+      },
+      {
+        "release_date": "2025-10-27",
+        "period_end": "2025-09",
+        "eps": 2.6,
+        "eps_forecast": 2.65,
+        "revenue": "16.48B",
+        "eps_surprise_pct": -1.89
+      },
+      {
+        "release_date": "2025-09-09",
+        "period_end": "2025-06",
+        "eps": 4.1,
+        "eps_forecast": 2.67,
+        "revenue": "17.42B",
+        "eps_surprise_pct": 53.56
+      },
+      {
+        "release_date": "2025-04-24",
+        "period_end": "2025-03",
+        "eps": 2.67,
+        "eps_forecast": null,
+        "revenue": "16.63B",
+        "eps_surprise_pct": null
+      },
+      {
+        "release_date": "2025-02-19",
+        "period_end": "2024-12",
+        "eps": 3.08,
+        "eps_forecast": 2.0,
+        "revenue": "19.03B",
+        "eps_surprise_pct": 54.0
+      },
+      {
+        "release_date": "2024-11-27",
+        "period_end": "2024-09",
+        "eps": 1.3,
+        "eps_forecast": 1.48,
+        "revenue": "15.72B",
+        "eps_surprise_pct": -12.16
+      },
+      {
+        "release_date": "2024-08-28",
+        "period_end": "2024-06",
+        "eps": 1.4,
+        "eps_forecast": 1.34,
+        "revenue": "15.72B",
+        "eps_surprise_pct": 4.48
+      },
+      {
+        "release_date": "2024-05-29",
+        "period_end": "2024-03",
+        "eps": 1.4,
+        "eps_forecast": 1.25,
+        "revenue": "15.98B",
+        "eps_surprise_pct": 12.0
+      }
+    ],
+    "source": "stockanalysis.com (statistics)"
+  },
+  "dividends": {
+    "yield": null,
+    "per_share_ttm": null,
+    "payout_ratio": null,
+    "last_dividend_year": 2019,
+    "note": "No dividend declared since FY2019 (last: Oct 2019, Rs 0.50). Currently a non-payer.",
+    "history": [],
+    "source": "stockanalysis.com (dividend page)",
+    "as_of": "2026-06-27"
+  },
+  "overview": {
+    "company_name": "Maple Leaf Cement Factory Ltd",
+    "sector": "Construction Materials",
+    "industry": "Cement",
+    "market_cap": 112250,
+    "shares_outstanding": 1047.56,
+    "current_price": 107.15,
+    "currency": "PKR"
+  },
+  "profile": {
+    "source": "PSX DPS",
+    "description": "Maple Leaf Cement Factory Limited was incorporated in Pakistan on 13 April 1960 under the Companies Act, 1913 as a public company limited by shares. Its principal activity is the production and sale of cement. The Company is a subsidiary of Kohinoor Textile Mills Limited (the Holding Company).",
+    "business_segments": [
+      "Cement (grey)",
+      "Clinker"
+    ],
+    "products": [
+      "Ordinary Portland Cement",
+      "Sulphate Resistant Cement",
+      "Clinker"
+    ],
+    "website": "www.kmlg.com",
+    "fiscal_year_end": "June",
+    "auditor": "A.F. Ferguson & Co. Chartered Accountants",
+    "registrar": "Vision Consulting Ltd",
+    "address": "42-Lawrence Road, Lahore",
+    "key_people": {
+      "CEO": "Sayeed Tariq Saigol",
+      "Chairperson": "Tariq Sayeed Saigol",
+      "Company Secretary": "Muhammad Ashraf"
+    },
+    "holding_company": "Kohinoor Textile Mills Limited"
+  },
+  "ownership": {
+    "source": "PSX DPS",
+    "free_float": 0.45,
+    "free_float_shares": 471403174,
+    "shares_outstanding": 1047562608,
+    "sponsors": {
+      "Kohinoor Textile Mills Limited": "holding company (parent)"
+    },
+    "institutions": {},
+    "note": "Free float 45% (DPS equity profile). Detailed sponsor/institution/foreign breakdown not available from DPS; would come from the annual report pattern of shareholding."
+  },
+  "announcements": {
+    "source": "PSX DPS",
+    "as_of": "2026-06-19",
+    "financial_results": [
+      {
+        "date": "2026-04-28",
+        "title": "Transmission of Quarterly Financial Statements for the Period Ended 31.03.2026"
+      },
+      {
+        "date": "2026-04-22",
+        "title": "MLCF - Financial Results 31.03.2026"
+      },
+      {
+        "date": "2026-03-02",
+        "title": "Transmission of Quarterly Financial Statements for the Period Ended 31.12.2025"
+      },
+      {
+        "date": "2026-02-25",
+        "title": "MLCF - Financial Results as on 31.12.2025"
+      },
+      {
+        "date": "2025-10-27",
+        "title": "Transmission of Quarterly Financial Statements for the Period Ended 30.09.2025"
+      }
+    ],
+    "board_meetings": [
+      {
+        "date": "2026-04-14",
+        "title": "Notice of Board Meeting 21.04.2026"
+      },
+      {
+        "date": "2026-02-17",
+        "title": "Notice of Board Meeting 24.02.2026"
+      },
+      {
+        "date": "2025-12-04",
+        "title": "Notice of Extraordinary General Meeting"
+      },
+      {
+        "date": "2025-11-12",
+        "title": "Board Meeting other than Financial Results 13.11.2025"
+      },
+      {
+        "date": "2025-10-10",
+        "title": "Notice of Board Meeting 17.10.2025"
+      }
+    ],
+    "other": [
+      {
+        "date": "2026-03-17",
+        "title": "Enquiry on News - Published in Print/Electronic Media"
+      },
+      {
+        "date": "2026-03-12",
+        "title": "Disclosure of Interest by a Director/CEO/Executive (insider transaction)"
+      },
+      {
+        "date": "2026-02-23",
+        "title": "Disclosure of Material Information"
+      },
+      {
+        "date": "2026-01-05",
+        "title": "Appointment of Chairman & CEO effective 01.01.2026"
+      }
+    ]
+  },
+  "insider": {
+    "source": "sarmaaya.pk (insider transactions, #insider-transactions table)",
+    "as_of": "2026-06-27",
+    "transactions": [
+      {
+        "date": "2026-03-12",
+        "person": "Ms. Sabene Saigol (Spouse of Mr Sayeed Tariq Saigol)",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 150000,
+        "price": 81.25,
+        "value": 12187500
+      },
+      {
+        "date": "2026-01-01",
+        "person": "Mr. Tajammal Hussain",
+        "role": "Independent Director",
+        "action": "Buy",
+        "shares": 2500,
+        "price": 120.5,
+        "value": 301250
+      },
+      {
+        "date": "2023-11-23",
+        "person": "Maple Leaf Capital Limited",
+        "role": "Buy-Back",
+        "action": "Buy",
+        "shares": 135680,
+        "price": 38.8,
+        "value": 5264384
+      },
+      {
+        "date": "2023-11-22",
+        "person": "Maple Leaf Capital Limited",
+        "role": "Buy-Back",
+        "action": "Buy",
+        "shares": 642499,
+        "price": 38.83,
+        "value": 24948236
+      },
+      {
+        "date": "2023-11-22",
+        "person": "Maple Leaf Capital Limited",
+        "role": "Buy-Back",
+        "action": "Buy",
+        "shares": 1000000,
+        "price": 38.93,
+        "value": 38930000
+      },
+      {
+        "date": "2023-11-20",
+        "person": "Maple Leaf Capital Limited",
+        "role": "Buy-Back",
+        "action": "Buy",
+        "shares": 2808221,
+        "price": 38.52,
+        "value": 108172673
+      },
+      {
+        "date": "2023-11-17",
+        "person": "Maple Leaf Capital Limited",
+        "role": "Buy-Back",
+        "action": "Buy",
+        "shares": 1501954,
+        "price": 39.18,
+        "value": 58846558
+      },
+      {
+        "date": "2023-01-16",
+        "person": "Mr. Sohail Sadiq",
+        "role": "Executive",
+        "action": "Buy",
+        "shares": 60000,
+        "price": 22.15,
+        "value": 1329000
+      }
+    ]
+  },
+  "shareholding": {
+    "source": "sarmaaya.pk (Pattern of Shareholding)",
+    "as_of": null,
+    "_format": "categories = {label: fraction}, e.g. {'Sponsors/Directors': 0.55, 'Banks/DFIs': 0.05, 'Mutual Funds': 0.08, 'Foreign': 0.04, 'General Public': 0.20, 'Others': 0.08}",
+    "categories": {}
+  },
+  "fipi": {
+    "source": "NCCPL / sarmaaya (FIPI / LIPI)",
+    "as_of": null,
+    "period": null,
+    "_format": "flows = {label: net_value_PKR_mn}, e.g. {'Foreign': -120.5, 'Companies': 80.0, 'Banks/DFI': 30.0, 'Mutual Funds': -10.0, 'Individuals': 20.0}. Positive = net buying.",
+    "flows": {},
+    "block_trades": []
+  },
+  "monthly_sales": {
+    "source": "APCMA / company dispatches",
+    "as_of": null,
+    "unit": "tons",
+    "_format": "months = [{month: '2026-05', sales: 350000, mom: 0.04, yoy: 0.12}] (mom/yoy as fractions)",
+    "months": []
+  }
+}

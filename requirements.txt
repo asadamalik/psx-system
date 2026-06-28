@@ -1,0 +1,8 @@
+# PSX Volume Monitor — single dependency set (local + GitHub Actions)
+playwright>=1.40      # headless chromium for JS-rendered sources (stockanalysis, Investing, sarmaaya)
+pandas>=2.0           # engine indicators / dataframes
+numpy>=1.24
+beautifulsoup4>=4.12  # DPS market-watch HTML parsing
+requests>=2.31        # direct HTTP rung (DPS JSON, fallbacks)
+# stdlib used elsewhere: urllib, json, datetime, csv, subprocess
+# After install:  python -m playwright install chromium

@@ -1,0 +1,33 @@
+{
+  "source": "sarmaaya.pk (insider transactions, #insider-transactions table)",
+  "as_of": "2026-06-27",
+  "transactions": [
+    {
+      "date": "2025-11-06",
+      "person": "M. Omer Farooq",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 1000,
+      "price": 57.28,
+      "value": 57280
+    },
+    {
+      "date": "2024-02-23",
+      "person": "Anjum Nisar",
+      "role": "non-executive director",
+      "action": "Sell",
+      "shares": 4089900,
+      "price": 23.06,
+      "value": 94313094
+    },
+    {
+      "date": "2018-07-22",
+      "person": "M. Zeid Yousuf Saigol",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 6076060,
+      "price": 16.36,
+      "value": 99404342
+    }
+  ]
+}

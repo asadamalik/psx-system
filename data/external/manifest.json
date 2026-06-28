@@ -1,0 +1,15 @@
+{
+  "generated_ts": 1782623486,
+  "count": 1,
+  "symbols": [
+    {
+      "symbol": "TPL",
+      "file": "1782623486_TPL.json",
+      "as_of": "2026-06-24",
+      "overall_score": 44.3,
+      "rating": "Reduce",
+      "risk": "High",
+      "ohlc_bars": 1237
+    }
+  ]
+}

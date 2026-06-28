@@ -1,0 +1,15 @@
+{
+  "source": "stockanalysis.com (statistics + dividend page)",
+  "as_of": "2026-06-28",
+  "yield": null,
+  "per_share_ttm": null,
+  "payout_ratio": null,
+  "history": [
+    {
+      "ex_date": "2021-11-12",
+      "amount": 1,
+      "type": null,
+      "yield": null
+    }
+  ]
+}

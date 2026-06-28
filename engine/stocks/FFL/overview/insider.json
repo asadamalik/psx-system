@@ -1,0 +1,96 @@
+{
+  "source": "sarmaaya.pk (insider transactions, #insider-transactions table)",
+  "as_of": "2026-06-28",
+  "transactions": [
+    {
+      "date": "2025-12-29",
+      "person": "Waseem Haider",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 5000,
+      "price": 20.97,
+      "value": 104850
+    },
+    {
+      "date": "2025-05-02",
+      "person": "Jahangir Piracha",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 1,
+      "price": 10.0,
+      "value": 10
+    },
+    {
+      "date": "2023-11-23",
+      "person": "WASEEM HAIDER",
+      "role": "Executive",
+      "action": "Sell",
+      "shares": 20000,
+      "price": 9.07,
+      "value": 181400
+    },
+    {
+      "date": "2023-11-03",
+      "person": "HAMID MAHMOOD DAR",
+      "role": "Executive",
+      "action": "Sell",
+      "shares": 200000,
+      "price": 7.04,
+      "value": 1408000
+    },
+    {
+      "date": "2023-03-22",
+      "person": "USMAN ZAHEER AHMAD",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 200000,
+      "price": 6.01,
+      "value": 1202000
+    },
+    {
+      "date": "2023-03-15",
+      "person": "WASEEM HAIDER",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 6297,
+      "price": 5.45,
+      "value": 34319
+    },
+    {
+      "date": "2023-03-15",
+      "person": "WASEEM HAIDER",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 1203,
+      "price": 5.45,
+      "value": 6556
+    },
+    {
+      "date": "2023-03-15",
+      "person": "WASEEM HAIDER",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 12500,
+      "price": 5.44,
+      "value": 68000
+    },
+    {
+      "date": "2023-03-02",
+      "person": "HAMID MAHMOOD DAR",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 200000,
+      "price": 4.68,
+      "value": 936000
+    },
+    {
+      "date": "2023-02-02",
+      "person": "Mr. Waqar Ahmed Malik",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 500,
+      "price": 5.13,
+      "value": 2565
+    }
+  ]
+}

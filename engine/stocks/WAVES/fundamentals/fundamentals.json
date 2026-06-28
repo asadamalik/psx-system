@@ -1,0 +1,1802 @@
+{
+  "symbol": "WAVES",
+  "income_statement_annual": {
+    "revenue": {
+      "2021": 10439,
+      "2022": 9939,
+      "2023": 5206,
+      "2024": 3945,
+      "2025": 4779
+    },
+    "gross_profit": {
+      "2021": 2270,
+      "2022": 1892,
+      "2023": 1394,
+      "2024": 1213,
+      "2025": 1336
+    },
+    "operating_income": {
+      "2021": 638.56,
+      "2022": 764.45,
+      "2023": 501.66,
+      "2024": 1240,
+      "2025": 518.6
+    },
+    "net_income": {
+      "2021": 318.62,
+      "2022": 236.4,
+      "2023": 226.69,
+      "2024": 1046,
+      "2025": 436.6
+    },
+    "eps": {
+      "2021": 1.13,
+      "2022": 0.84,
+      "2023": 0.81,
+      "2024": 3.72,
+      "2025": 1.55
+    },
+    "interest_expense": {
+      "2021": 682.49,
+      "2022": 422.45,
+      "2023": 255.04,
+      "2024": 7.21,
+      "2025": 5.34
+    }
+  },
+  "balance_sheet_annual": {
+    "current_assets": {
+      "2021": 11600,
+      "2022": 12685,
+      "2023": 11167,
+      "2024": 9137,
+      "2025": 9392
+    },
+    "cash_and_equivalents": {
+      "2021": 152.85,
+      "2022": 114.34,
+      "2023": 59.87,
+      "2024": 50.33,
+      "2025": 73.3
+    },
+    "inventory": {
+      "2021": 4213,
+      "2022": 6038,
+      "2023": 6100,
+      "2024": 2515,
+      "2025": 2523
+    },
+    "total_assets": {
+      "2021": 20801,
+      "2022": 21771,
+      "2023": 22147,
+      "2024": 24329,
+      "2025": 25047
+    },
+    "current_liabilities": {
+      "2021": 8776,
+      "2022": 9761,
+      "2023": 9817,
+      "2024": 5417,
+      "2025": 5540
+    },
+    "total_liabilities": {
+      "2021": 10527,
+      "2022": 10975,
+      "2023": 10927,
+      "2024": 11296,
+      "2025": 11407
+    },
+    "total_debt": {
+      "2021": 7522,
+      "2022": 6660,
+      "2023": 6335,
+      "2024": 7170,
+      "2025": 7534
+    },
+    "total_equity": {
+      "2021": 10274,
+      "2022": 10795,
+      "2023": 11220,
+      "2024": 13033,
+      "2025": 13640
+    }
+  },
+  "cashflow_annual": {
+    "cash_from_operations": {
+      "2021": -145.41,
+      "2022": 3345,
+      "2023": 1974,
+      "2024": -616.85,
+      "2025": -146.76
+    },
+    "cash_from_investing": {
+      "2021": -801.9,
+      "2022": -2564,
+      "2023": -1848,
+      "2024": -64.12,
+      "2025": 107.95
+    },
+    "cash_from_financing": {
+      "2021": 828.22,
+      "2022": -2264,
+      "2023": -179.72,
+      "2024": 671.43,
+      "2025": 61.78
+    },
+    "capex": {
+      "2021": 815.92,
+      "2022": 2578,
+      "2023": 1898,
+      "2024": 245.48,
+      "2025": 16.71
+    }
+  },
+  "income_statement_quarterly": {
+    "revenue": {
+      "2026-03": 1196,
+      "2025-12": 1235,
+      "2025-09": 856,
+      "2025-06": 1499,
+      "2025-03": 1189,
+      "2024-12": 851.85,
+      "2024-09": 733.31,
+      "2024-06": 1295,
+      "2024-03": 1064,
+      "2023-12": 1027,
+      "2023-09": 1235,
+      "2023-06": 1603,
+      "2023-03": 1342,
+      "2022-12": 740.09,
+      "2022-09": 2056,
+      "2022-06": 3844,
+      "2022-03": 3298,
+      "2021-12": 2040,
+      "2021-09": 2572,
+      "2021-06": 3186
+    },
+    "gross_profit": {
+      "2026-03": 345.21,
+      "2025-12": 280.86,
+      "2025-09": 285.03,
+      "2025-06": 426.53,
+      "2025-03": 343.24,
+      "2024-12": 234.79,
+      "2024-09": 254.08,
+      "2024-06": 447.02,
+      "2024-03": 277.59,
+      "2023-12": 287.16,
+      "2023-09": 345.76,
+      "2023-06": 418.21,
+      "2023-03": 342.74,
+      "2022-12": -11.93,
+      "2022-09": 424.86,
+      "2022-06": 743.6,
+      "2022-03": 735.11,
+      "2021-12": 360.96,
+      "2021-09": 559.33,
+      "2021-06": 765.14
+    },
+    "operating_income": {
+      "2026-03": 265.43,
+      "2025-12": -572.85,
+      "2025-09": 349.79,
+      "2025-06": 470.86,
+      "2025-03": 270.8,
+      "2024-12": 813.58,
+      "2024-09": 79.11,
+      "2024-06": 237.93,
+      "2024-03": 109.64,
+      "2023-12": 93.07,
+      "2023-09": 72.06,
+      "2023-06": 188.32,
+      "2023-03": 148.21,
+      "2022-12": 44.06,
+      "2022-09": 67.76,
+      "2022-06": 349.39,
+      "2022-03": 303.24,
+      "2021-12": -64.63,
+      "2021-09": 127,
+      "2021-06": 358.01
+    },
+    "net_income": {
+      "2026-03": 109.83,
+      "2025-12": -83.55,
+      "2025-09": 84.61,
+      "2025-06": 272.78,
+      "2025-03": 108.64,
+      "2024-12": 792.43,
+      "2024-09": 94.77,
+      "2024-06": 134.73,
+      "2024-03": 24.48,
+      "2023-12": 51.6,
+      "2023-09": 36.65,
+      "2023-06": 128.31,
+      "2023-03": 10.14,
+      "2022-12": -150.11,
+      "2022-09": 21.53,
+      "2022-06": 281.06,
+      "2022-03": 83.93,
+      "2021-12": -52.73,
+      "2021-09": 52.85,
+      "2021-06": 214.88
+    },
+    "eps": {
+      "2026-03": 0.5,
+      "2025-12": -0.3,
+      "2025-09": 0.3,
+      "2025-06": 1.54,
+      "2025-03": 0.48,
+      "2024-12": 2.18,
+      "2024-09": 0.37,
+      "2024-06": 0.52,
+      "2024-03": 0.11,
+      "2023-12": 0.13,
+      "2023-09": 0.15,
+      "2023-06": 0.51,
+      "2023-03": 0.04,
+      "2022-12": -0.35,
+      "2022-09": 0.09,
+      "2022-06": 1.18,
+      "2022-03": 0.37,
+      "2021-12": -0.19,
+      "2021-09": 0.19,
+      "2021-06": 0.76
+    },
+    "interest_expense": {
+      "2026-03": 129.51,
+      "2025-09": 109.09,
+      "2025-06": 217.64,
+      "2025-03": 104.79,
+      "2024-06": 80.25,
+      "2024-03": 73.09,
+      "2023-12": 37.84,
+      "2023-09": 56.05,
+      "2023-06": 31.18,
+      "2023-03": 129.96,
+      "2022-12": 26.69,
+      "2022-09": 118.4,
+      "2022-06": 49.68,
+      "2022-03": 227.68,
+      "2021-12": 173.84,
+      "2021-09": 158.01,
+      "2021-06": 188.81
+    }
+  },
+  "balance_sheet_quarterly": {
+    "current_assets": {
+      "2026-03": 9813,
+      "2025-12": 9392,
+      "2025-09": 9087,
+      "2025-06": 9255,
+      "2025-03": 9212,
+      "2024-12": 9137,
+      "2024-09": 11608,
+      "2024-06": 11282,
+      "2024-03": 11045,
+      "2023-12": 11167,
+      "2023-09": 7842,
+      "2023-06": 8559,
+      "2023-03": 9187,
+      "2022-12": 12685,
+      "2022-09": 10417,
+      "2022-06": 11557,
+      "2022-03": 11396,
+      "2021-12": 11600,
+      "2021-09": 10000,
+      "2021-06": 10491
+    },
+    "cash_and_equivalents": {
+      "2026-03": 595.03,
+      "2025-12": 73.3,
+      "2025-09": 41.05,
+      "2025-06": 108.53,
+      "2025-03": 52.64,
+      "2024-12": 50.33,
+      "2024-09": 67.97,
+      "2024-06": 56.9,
+      "2024-03": 79.93,
+      "2023-12": 59.87,
+      "2023-09": 128.35,
+      "2023-06": 205.95,
+      "2023-03": 139.22,
+      "2022-12": 114.34,
+      "2022-09": 104.6,
+      "2022-06": 174.37,
+      "2022-03": 240.57,
+      "2021-12": 152.85,
+      "2021-09": 125.1,
+      "2021-06": 294.4
+    },
+    "inventory": {
+      "2026-03": 2522,
+      "2025-12": 2523,
+      "2025-09": 2429,
+      "2025-06": 2478,
+      "2025-03": 2327,
+      "2024-12": 2515,
+      "2024-09": 5775,
+      "2024-06": 5748,
+      "2024-03": 6025,
+      "2023-12": 6100,
+      "2023-09": 3089,
+      "2023-06": 3147,
+      "2023-03": 3528,
+      "2022-12": 6038,
+      "2022-09": 3699,
+      "2022-06": 4308,
+      "2022-03": 4733,
+      "2021-12": 4213,
+      "2021-09": 3405,
+      "2021-06": 3659
+    },
+    "total_assets": {
+      "2026-03": 25578,
+      "2025-12": 25047,
+      "2025-09": 24706,
+      "2025-06": 24817,
+      "2025-03": 24531,
+      "2024-12": 24329,
+      "2024-09": 23262,
+      "2024-06": 22673,
+      "2024-03": 22168,
+      "2023-12": 22147,
+      "2023-09": 21093,
+      "2023-06": 21087,
+      "2023-03": 21117,
+      "2022-12": 21771,
+      "2022-09": 21670,
+      "2022-06": 22179,
+      "2022-03": 21565,
+      "2021-12": 20801,
+      "2021-09": 19025,
+      "2021-06": 19450
+    },
+    "current_liabilities": {
+      "2026-03": 5774,
+      "2025-12": 5540,
+      "2025-09": 3900,
+      "2025-06": 4748,
+      "2025-03": 5185,
+      "2024-12": 5417,
+      "2024-09": 7845,
+      "2024-06": 10075,
+      "2024-03": 9741,
+      "2023-12": 9817,
+      "2023-09": 8680,
+      "2023-06": 8987,
+      "2023-03": 9122,
+      "2022-12": 9761,
+      "2022-09": 9748,
+      "2022-06": 10228,
+      "2022-03": 9066,
+      "2021-12": 8776,
+      "2021-09": 6814,
+      "2021-06": 7166
+    },
+    "total_liabilities": {
+      "2026-03": 11804,
+      "2025-12": 11407,
+      "2025-09": 10794,
+      "2025-06": 11286,
+      "2025-03": 11377,
+      "2024-12": 11296,
+      "2024-09": 11672,
+      "2024-06": 11161,
+      "2024-03": 10882,
+      "2023-12": 10927,
+      "2023-09": 10298,
+      "2023-06": 10280,
+      "2023-03": 10462,
+      "2022-12": 10975,
+      "2022-09": 10930,
+      "2022-06": 11466,
+      "2022-03": 11068,
+      "2021-12": 10527,
+      "2021-09": 8807,
+      "2021-06": 9286
+    },
+    "total_debt": {
+      "2026-03": 8095,
+      "2025-12": 7534,
+      "2025-09": 7451,
+      "2025-06": 7399,
+      "2025-03": 7227,
+      "2024-12": 7170,
+      "2024-09": 6813,
+      "2024-06": 6137,
+      "2024-03": 6210,
+      "2023-12": 6335,
+      "2023-09": 5999,
+      "2023-06": 6320,
+      "2023-03": 6712,
+      "2022-12": 6660,
+      "2022-09": 6676,
+      "2022-06": 7676,
+      "2022-03": 8098,
+      "2021-12": 7522,
+      "2021-09": 6360,
+      "2021-06": 6705
+    },
+    "total_equity": {
+      "2026-03": 13774,
+      "2025-12": 13640,
+      "2025-09": 13912,
+      "2025-06": 13531,
+      "2025-03": 13154,
+      "2024-12": 13033,
+      "2024-09": 11591,
+      "2024-06": 11512,
+      "2024-03": 11285,
+      "2023-12": 11220,
+      "2023-09": 10796,
+      "2023-06": 10806,
+      "2023-03": 10656,
+      "2022-12": 10795,
+      "2022-09": 10740,
+      "2022-06": 10713,
+      "2022-03": 10497,
+      "2021-12": 10274,
+      "2021-09": 10218,
+      "2021-06": 10165
+    }
+  },
+  "cashflow_quarterly": {
+    "cash_from_operations": {
+      "2026-03": 149.35,
+      "2025-12": -128.36,
+      "2025-09": -112.58,
+      "2025-06": 36.99,
+      "2025-03": 70.1,
+      "2024-12": -1128,
+      "2024-09": 169.28,
+      "2024-06": 204.19,
+      "2024-03": 137.19,
+      "2023-12": -558.24,
+      "2023-09": 1157,
+      "2023-06": 1162,
+      "2023-03": 213.11,
+      "2022-12": -11.18,
+      "2022-09": 1722,
+      "2022-06": 1030,
+      "2022-03": 603.72,
+      "2021-12": -850.83,
+      "2021-09": 502.29,
+      "2021-06": 67.55
+    },
+    "cash_from_investing": {
+      "2026-03": -96.25,
+      "2025-12": 35.16,
+      "2025-09": 75.52,
+      "2025-06": 26.66,
+      "2025-03": -29.39,
+      "2024-12": 38.34,
+      "2024-09": -68.64,
+      "2024-06": 186.45,
+      "2024-03": -220.26,
+      "2023-12": -76.79,
+      "2023-09": -815.89,
+      "2023-06": -670.29,
+      "2023-03": -285.49,
+      "2022-12": -259.3,
+      "2022-09": -713.32,
+      "2022-06": -576.58,
+      "2022-03": -1015,
+      "2021-12": -44.11,
+      "2021-09": -157.63,
+      "2021-06": -253.09
+    },
+    "cash_from_financing": {
+      "2026-03": 201.65,
+      "2025-12": 70.56,
+      "2025-09": -30.43,
+      "2025-06": 47.15,
+      "2025-03": -25.49,
+      "2024-12": -1.27,
+      "2024-09": 906.92,
+      "2024-06": -336.24,
+      "2024-03": 102.01,
+      "2023-12": 456.04,
+      "2023-09": 27.14,
+      "2023-06": -148.98,
+      "2023-03": -513.91,
+      "2022-12": 308.4,
+      "2022-09": -1277,
+      "2022-06": -1796,
+      "2022-03": 500.97,
+      "2021-12": 620.23,
+      "2021-09": -451.58,
+      "2021-06": 654.97
+    },
+    "capex": {
+      "2026-03": 96.25,
+      "2025-12": 37.16,
+      "2025-09": 45.98,
+      "2025-06": 21.97,
+      "2025-03": 29.86,
+      "2024-12": 15.69,
+      "2024-09": 75.45,
+      "2024-06": 52.78,
+      "2024-03": 238.51,
+      "2023-12": 90.79,
+      "2023-09": 838.18,
+      "2023-06": 679.46,
+      "2023-03": 289.85,
+      "2022-12": 249.84,
+      "2022-09": 736.78,
+      "2022-06": 573.54,
+      "2022-03": 1018,
+      "2021-12": 50.63,
+      "2021-09": 163.17,
+      "2021-06": 255.05
+    }
+  },
+  "ratios": {
+    "pe_ratio": 6.96,
+    "price_to_book": 0.22,
+    "roe": 0.032,
+    "roa": 0.0174,
+    "gross_margin": 0.2796,
+    "industry_pe": null
+  },
+  "earnings": {
+    "source": "stockanalysis.com (statistics + quarterly)",
+    "as_of": "2026-06-28",
+    "latest_eps": 0.5,
+    "eps_ttm": 1.56,
+    "next_earnings_date": "Aug 28, 2026",
+    "history": [
+      {
+        "period_end": "Mar 2026",
+        "eps": 0.5,
+        "eps_forecast": null,
+        "eps_surprise_pct": null
+      },
+      {
+        "period_end": "Dec 2025",
+        "eps": -0.3,
+        "eps_forecast": null,
+        "eps_surprise_pct": null
+      },
+      {
+        "period_end": "Sep 2025",
+        "eps": 0.3,
+        "eps_forecast": null,
+        "eps_surprise_pct": null
+      },
+      {
+        "period_end": "Jun 2025",
+        "eps": 1.54,
+        "eps_forecast": null,
+        "eps_surprise_pct": null
+      },
+      {
+        "period_end": "Mar 2025",
+        "eps": 0.48,
+        "eps_forecast": null,
+        "eps_surprise_pct": null
+      },
+      {
+        "period_end": "Dec 2024",
+        "eps": 2.18,
+        "eps_forecast": null,
+        "eps_surprise_pct": null
+      },
+      {
+        "period_end": "Sep 2024",
+        "eps": 0.37,
+        "eps_forecast": null,
+        "eps_surprise_pct": null
+      },
+      {
+        "period_end": "Jun 2024",
+        "eps": 0.52,
+        "eps_forecast": null,
+        "eps_surprise_pct": null
+      }
+    ]
+  },
+  "dividends": {
+    "source": "stockanalysis.com (statistics + dividend page)",
+    "as_of": "2026-06-28",
+    "yield": null,
+    "per_share_ttm": null,
+    "payout_ratio": null,
+    "history": [
+      {
+        "ex_date": "2019-04-18",
+        "amount": 1.08696,
+        "type": null,
+        "yield": null
+      },
+      {
+        "ex_date": "2018-06-21",
+        "amount": 0.94518,
+        "type": null,
+        "yield": null
+      }
+    ]
+  },
+  "overview": {
+    "company_name": "Waves Corporation Limited",
+    "sector": "Cable & Electrical Goods",
+    "industry": "Cable & Electrical Goods",
+    "market_cap": 3067.3,
+    "shares_outstanding": 281.41,
+    "current_price": 10.9,
+    "currency": "PKR"
+  },
+  "profile": {},
+  "ownership": {},
+  "announcements": {},
+  "insider": {
+    "source": "sarmaaya.pk (insider transactions, #insider-transactions table)",
+    "as_of": "2026-06-28",
+    "transactions": [
+      {
+        "date": "2026-06-24",
+        "person": "Haroon Ahmad Khan",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 1150501,
+        "price": 11.17,
+        "value": 12851096
+      },
+      {
+        "date": "2026-06-24",
+        "person": "Haroon Ahmad Khan",
+        "role": "Executive Director",
+        "action": "Sell",
+        "shares": 1150501,
+        "price": 11.17,
+        "value": 12851096
+      },
+      {
+        "date": "2026-06-17",
+        "person": "Nighat Haroon Khan",
+        "role": "Non-Executive Director",
+        "action": "Buy",
+        "shares": 6700000,
+        "price": 10.54,
+        "value": 70618000
+      },
+      {
+        "date": "2026-06-17",
+        "person": "Haroon Ahmad Khan",
+        "role": "Executive Director",
+        "action": "Sell",
+        "shares": 33000000,
+        "price": 10.67,
+        "value": 352110000
+      },
+      {
+        "date": "2026-06-17",
+        "person": "Haroon Ahmad Khan",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 33000000,
+        "price": 10.76,
+        "value": 355080000
+      },
+      {
+        "date": "2026-06-17",
+        "person": "Nighat Haroon Khan",
+        "role": "Non-Executive Director",
+        "action": "Sell",
+        "shares": 5801500,
+        "price": 10.46,
+        "value": 60683690
+      },
+      {
+        "date": "2026-06-04",
+        "person": "Hamza Ahmad Khan",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 10485000,
+        "price": 10.37,
+        "value": 108729450
+      },
+      {
+        "date": "2026-06-04",
+        "person": "Hamza Ahmad Khan",
+        "role": "Executive Director",
+        "action": "Sell",
+        "shares": 2315000,
+        "price": 10.24,
+        "value": 23705600
+      },
+      {
+        "date": "2026-06-04",
+        "person": "Haroon Ahmad Khan",
+        "role": "Executive Director",
+        "action": "Sell",
+        "shares": 91700000,
+        "price": 10.24,
+        "value": 939008000
+      },
+      {
+        "date": "2026-06-04",
+        "person": "Haroon Ahmad Khan",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 8170000,
+        "price": 10.37,
+        "value": 84722900
+      },
+      {
+        "date": "2026-06-04",
+        "person": "Hamza Ahmad Khan",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 2315000,
+        "price": 10.37,
+        "value": 24006550
+      },
+      {
+        "date": "2026-05-21",
+        "person": "Haroon Ahmad Khan",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 1500000,
+        "price": 10.32,
+        "value": 15480000
+      },
+      {
+        "date": "2026-05-21",
+        "person": "HAMZA AHMAD KHAN",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 50000,
+        "price": 10.32,
+        "value": 516000
+      },
+      {
+        "date": "2026-05-21",
+        "person": "HAMZA AHMAD KHAN",
+        "role": "Executive Director",
+        "action": "Sell",
+        "shares": 500000,
+        "price": 10.15,
+        "value": 5075000
+      },
+      {
+        "date": "2026-05-21",
+        "person": "Nighat Haroon",
+        "role": "Non Executive Director",
+        "action": "Buy",
+        "shares": 500000,
+        "price": 10.3,
+        "value": 5150000
+      },
+      {
+        "date": "2026-05-21",
+        "person": "Nighat Haroon",
+        "role": "Non Executive Director",
+        "action": "Sell",
+        "shares": 500000,
+        "price": 10.14,
+        "value": 5070000
+      },
+      {
+        "date": "2026-05-21",
+        "person": "Haroon Ahmad Khan",
+        "role": "Executive Director",
+        "action": "Sell",
+        "shares": 1500000,
+        "price": 10.15,
+        "value": 15225000
+      },
+      {
+        "date": "2026-05-13",
+        "person": "Nighat Haroon Khan",
+        "role": "Non-Executive Director",
+        "action": "Sell",
+        "shares": 5000000,
+        "price": 10.29,
+        "value": 51450000
+      },
+      {
+        "date": "2026-05-13",
+        "person": "Nighat Haroon Khan",
+        "role": "Non-Executive Director",
+        "action": "Buy",
+        "shares": 5000000,
+        "price": 10.45,
+        "value": 52250000
+      },
+      {
+        "date": "2026-05-06",
+        "person": "Haroon Ahmad Khan",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 10250000,
+        "price": 9.61,
+        "value": 98502500
+      },
+      {
+        "date": "2026-05-06",
+        "person": "Hamza Ahmad Khan",
+        "role": "Executive Director",
+        "action": "Sell",
+        "shares": 3650000,
+        "price": 9.5,
+        "value": 34675000
+      },
+      {
+        "date": "2026-05-06",
+        "person": "Hamza Ahmad Khan",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 3650000,
+        "price": 9.61,
+        "value": 35076500
+      },
+      {
+        "date": "2026-05-06",
+        "person": "Nighat Haroon Khan",
+        "role": "Non-Executive Director",
+        "action": "Sell",
+        "shares": 1600000,
+        "price": 9.5,
+        "value": 15200000
+      },
+      {
+        "date": "2026-05-06",
+        "person": "Nighat Haroon Khan",
+        "role": "Non-Executive Director",
+        "action": "Buy",
+        "shares": 1600000,
+        "price": 9.61,
+        "value": 15376000
+      },
+      {
+        "date": "2026-05-06",
+        "person": "Haroon Ahmad Khan",
+        "role": "Executive Director",
+        "action": "Sell",
+        "shares": 10250000,
+        "price": 9.5,
+        "value": 97375000
+      },
+      {
+        "date": "2026-05-06",
+        "person": "Nighat Haroon Khan",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 11850000,
+        "price": 9.61,
+        "value": 113878500
+      },
+      {
+        "date": "2026-04-27",
+        "person": "Haroon Ahmad Khan",
+        "role": "Executive Director",
+        "action": "Sell",
+        "shares": 2400000,
+        "price": 10.89,
+        "value": 26136000
+      },
+      {
+        "date": "2026-04-27",
+        "person": "Haroon Ahmad Khan",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 2400000,
+        "price": 11.03,
+        "value": 26472000
+      },
+      {
+        "date": "2026-04-14",
+        "person": "Haroon Ahmad Khan",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 2700000,
+        "price": 9.95,
+        "value": 26865000
+      },
+      {
+        "date": "2026-04-14",
+        "person": "Haroon Ahmad Khan",
+        "role": "Executive Director",
+        "action": "Sell",
+        "shares": 2700000,
+        "price": 9.92,
+        "value": 26784000
+      },
+      {
+        "date": "2026-04-01",
+        "person": "Nighat Haroon Khan",
+        "role": "Non-Executive Director",
+        "action": "Buy",
+        "shares": 2700000,
+        "price": 9.92,
+        "value": 26784000
+      },
+      {
+        "date": "2026-04-01",
+        "person": "Hamza Ahmad Khan",
+        "role": "Executive Director",
+        "action": "Sell",
+        "shares": 3700000,
+        "price": 9.18,
+        "value": 33966000
+      },
+      {
+        "date": "2026-04-01",
+        "person": "Hamza Ahmad Khan",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 3700000,
+        "price": 9.28,
+        "value": 34336000
+      },
+      {
+        "date": "2026-04-01",
+        "person": "Haroon Ahmad Khan",
+        "role": "Executive Director",
+        "action": "Sell",
+        "shares": 8000000,
+        "price": 9.18,
+        "value": 73440000
+      },
+      {
+        "date": "2026-04-01",
+        "person": "Haroon Ahmad Khan",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 8000000,
+        "price": 9.28,
+        "value": 74240000
+      },
+      {
+        "date": "2026-04-01",
+        "person": "Nighat Haroon Khan",
+        "role": "Non-Executive Director",
+        "action": "Sell",
+        "shares": 4035000,
+        "price": 9.18,
+        "value": 37041300
+      },
+      {
+        "date": "2026-04-01",
+        "person": "Nighat Haroon Khan",
+        "role": "Non-Executive Director",
+        "action": "Buy",
+        "shares": 4035000,
+        "price": 9.28,
+        "value": 37444800
+      },
+      {
+        "date": "2026-04-01",
+        "person": "Nighat Haroon Khan",
+        "role": "Non-Executive Director",
+        "action": "Sell",
+        "shares": 1322000,
+        "price": 9.53,
+        "value": 12598660
+      },
+      {
+        "date": "2026-04-01",
+        "person": "Nighat Haroon Khan",
+        "role": "Non-Executive Director",
+        "action": "Buy",
+        "shares": 1322000,
+        "price": 9.63,
+        "value": 12730860
+      },
+      {
+        "date": "2026-04-01",
+        "person": "Nighat Haroon Khan",
+        "role": "Non-Executive Director",
+        "action": "Sell",
+        "shares": 2700000,
+        "price": 9.79,
+        "value": 26433000
+      },
+      {
+        "date": "2026-03-10",
+        "person": "Nighat Haroon Khan",
+        "role": "Non-Executive Director",
+        "action": "Sell",
+        "shares": 240000,
+        "price": 9.77,
+        "value": 2344800
+      },
+      {
+        "date": "2026-03-10",
+        "person": "Nighat Haroon Khan",
+        "role": "Non-Executive Director",
+        "action": "Buy",
+        "shares": 240000,
+        "price": 9.87,
+        "value": 2368800
+      },
+      {
+        "date": "2026-03-03",
+        "person": "Haroon Ahmad Khan",
+        "role": "Executive Director",
+        "action": "Sell",
+        "shares": 5945000,
+        "price": 11.29,
+        "value": 67119050
+      },
+      {
+        "date": "2026-03-03",
+        "person": "Nighat Haroon Khan",
+        "role": "Non-Executive Director",
+        "action": "Sell",
+        "shares": 1135000,
+        "price": 11.4,
+        "value": 12939000
+      },
+      {
+        "date": "2026-03-03",
+        "person": "Nighat Haroon Khan",
+        "role": "Non-Executive Director",
+        "action": "Buy",
+        "shares": 275000,
+        "price": 11.39,
+        "value": 3132250
+      },
+      {
+        "date": "2026-03-03",
+        "person": "Nighat Haroon Khan",
+        "role": "Non-Executive Director",
+        "action": "Sell",
+        "shares": 3560000,
+        "price": 11.31,
+        "value": 40263600
+      },
+      {
+        "date": "2026-03-03",
+        "person": "Haroon Ahmad Khan",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 1275000,
+        "price": 11.15,
+        "value": 14216250
+      },
+      {
+        "date": "2026-03-03",
+        "person": "Haroon Ahmad Khan",
+        "role": "Executive",
+        "action": "Buy",
+        "shares": 5945000,
+        "price": 11.43,
+        "value": 67951350
+      },
+      {
+        "date": "2026-02-10",
+        "person": "Haroon Ahmad Khan",
+        "role": "Executive Director",
+        "action": "Sell",
+        "shares": 275000,
+        "price": 16.62,
+        "value": 4570500
+      },
+      {
+        "date": "2026-02-10",
+        "person": "Nighat Haroon Khan",
+        "role": "Executive Director",
+        "action": "Sell",
+        "shares": 860000,
+        "price": 16.64,
+        "value": 14310400
+      },
+      {
+        "date": "2026-02-10",
+        "person": "Nighat Haroon Khan",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 860000,
+        "price": 16.83,
+        "value": 14473800
+      },
+      {
+        "date": "2026-02-10",
+        "person": "Haroon Ahmad Khan",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 275000,
+        "price": 16.81,
+        "value": 4622750
+      },
+      {
+        "date": "2026-02-03",
+        "person": "Haroon Ahmad Khan",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 3975000,
+        "price": 15.0,
+        "value": 59625000
+      },
+      {
+        "date": "2026-02-03",
+        "person": "Hamza Ahmad Khan",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 1830000,
+        "price": 14.9,
+        "value": 27267000
+      },
+      {
+        "date": "2026-02-03",
+        "person": "Nighat Haroon Khan",
+        "role": "Non-Executive Director",
+        "action": "Sell",
+        "shares": 3275000,
+        "price": 14.8,
+        "value": 48470000
+      },
+      {
+        "date": "2026-02-03",
+        "person": "Haroon Ahmad Khan",
+        "role": "Executive Director",
+        "action": "Sell",
+        "shares": 3975000,
+        "price": 14.8,
+        "value": 58830000
+      },
+      {
+        "date": "2026-02-03",
+        "person": "Nighat Haroon Khan",
+        "role": "Non-Executive Director",
+        "action": "Buy",
+        "shares": 3275000,
+        "price": 15.0,
+        "value": 49125000
+      },
+      {
+        "date": "2026-01-28",
+        "person": "Nighat Haroon Khan",
+        "role": "Non-Executive Director",
+        "action": "Sell",
+        "shares": 3275000,
+        "price": 14.8,
+        "value": 48470000
+      },
+      {
+        "date": "2026-01-28",
+        "person": "Haroon Ahmad Khan",
+        "role": "Executive Director",
+        "action": "Sell",
+        "shares": 3975000,
+        "price": 14.8,
+        "value": 58830000
+      },
+      {
+        "date": "2026-01-26",
+        "person": "Haroon Ahmad Khan",
+        "role": "Executive",
+        "action": "Sell",
+        "shares": 4500000,
+        "price": 13.08,
+        "value": 58860000
+      },
+      {
+        "date": "2026-01-26",
+        "person": "Haroon Ahmad Khan",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 4500000,
+        "price": 14.03,
+        "value": 63135000
+      },
+      {
+        "date": "2026-01-16",
+        "person": "Haroon Ahmad Khan",
+        "role": "Executive Director",
+        "action": "Sell",
+        "shares": 473000,
+        "price": 14.03,
+        "value": 6636190
+      },
+      {
+        "date": "2026-01-16",
+        "person": "Haroon Ahmad Khan",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 473000,
+        "price": 14.26,
+        "value": 6744980
+      },
+      {
+        "date": "2026-01-16",
+        "person": "Haroon Ahmad Khan",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 473000,
+        "price": 14.03,
+        "value": 6636190
+      },
+      {
+        "date": "2026-01-16",
+        "person": "Haroon Ahmad Khan",
+        "role": "Executive Director",
+        "action": "Sell",
+        "shares": 473000,
+        "price": 14.03,
+        "value": 6636190
+      },
+      {
+        "date": "2026-01-08",
+        "person": "Hamza Ahmad Khan",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 1602000,
+        "price": 13.42,
+        "value": 21498840
+      },
+      {
+        "date": "2026-01-08",
+        "person": "Haroon Ahmad Khan",
+        "role": "Executive Director",
+        "action": "Sell",
+        "shares": 1602000,
+        "price": 13.22,
+        "value": 21178440
+      },
+      {
+        "date": "2025-12-15",
+        "person": "Nighat Haroon Khan",
+        "role": "Non-Executive Director",
+        "action": "Buy",
+        "shares": 860000,
+        "price": 13.98,
+        "value": 12022800
+      },
+      {
+        "date": "2025-12-15",
+        "person": "Haroon Ahmad Khan",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 4300000,
+        "price": 14.3,
+        "value": 61490000
+      },
+      {
+        "date": "2025-11-28",
+        "person": "Haroon Ahmad Khan",
+        "role": "Executive Director",
+        "action": "Sell",
+        "shares": 4300000,
+        "price": 13.8,
+        "value": 59340000
+      },
+      {
+        "date": "2025-11-11",
+        "person": "Haroon Ahmad Khan",
+        "role": "Executive Director",
+        "action": "Sell",
+        "shares": 800000,
+        "price": 14.82,
+        "value": 11856000
+      },
+      {
+        "date": "2025-11-11",
+        "person": "Haroon Ahmad Khan",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 800000,
+        "price": 15.02,
+        "value": 12016000
+      },
+      {
+        "date": "2025-11-07",
+        "person": "Hamza Ahmad Khan",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 2898000,
+        "price": 14.42,
+        "value": 41789160
+      },
+      {
+        "date": "2025-11-07",
+        "person": "Haroon Ahmad Khan",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 5400000,
+        "price": 12.54,
+        "value": 67716000
+      },
+      {
+        "date": "2025-11-07",
+        "person": "Hamza Ahmad Khan",
+        "role": "Executive Director",
+        "action": "Sell",
+        "shares": 2898000,
+        "price": 14.25,
+        "value": 41296500
+      },
+      {
+        "date": "2025-11-07",
+        "person": "Nighat Haroon Khan",
+        "role": "Non-Executive Director",
+        "action": "Buy",
+        "shares": 3125000,
+        "price": 12.4,
+        "value": 38750000
+      },
+      {
+        "date": "2025-11-07",
+        "person": "Haroon Ahmad Khan",
+        "role": "Executive Director",
+        "action": "Sell",
+        "shares": 1000000,
+        "price": 12.39,
+        "value": 12390000
+      },
+      {
+        "date": "2025-11-07",
+        "person": "Haroon Ahmad Khan",
+        "role": "Executive Director",
+        "action": "Sell",
+        "shares": 1275000,
+        "price": 12.41,
+        "value": 15822750
+      },
+      {
+        "date": "2025-11-07",
+        "person": "Haroon Ahmad Khan",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 2275000,
+        "price": 12.54,
+        "value": 28528500
+      },
+      {
+        "date": "2025-11-07",
+        "person": "Waves Corporation Limited",
+        "role": "Substantial Shareholder",
+        "action": "Buy",
+        "shares": 4900000,
+        "price": 9.94,
+        "value": 48706000
+      },
+      {
+        "date": "2025-11-07",
+        "person": "Nighat Haroon Khan",
+        "role": "Non-Executive Director",
+        "action": "Sell",
+        "shares": 3125000,
+        "price": 12.4,
+        "value": 38750000
+      },
+      {
+        "date": "2025-10-14",
+        "person": "Haroon Ahmad Khan",
+        "role": "Executive Director",
+        "action": "Sell",
+        "shares": 800000,
+        "price": 11.88,
+        "value": 9504000
+      },
+      {
+        "date": "2025-10-14",
+        "person": "Haroon Ahmad Khan",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 800000,
+        "price": 11.9,
+        "value": 9520000
+      },
+      {
+        "date": "2025-10-06",
+        "person": "Haroon Khan",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 5525000,
+        "price": 11.9,
+        "value": 65747500
+      },
+      {
+        "date": "2025-10-06",
+        "person": "Haroon Ahmad Khan",
+        "role": "Executive Director",
+        "action": "Sell",
+        "shares": 5525000,
+        "price": 11.5,
+        "value": 63537500
+      },
+      {
+        "date": "2025-09-29",
+        "person": "Haroon Ahmad Khan",
+        "role": "Executive Director",
+        "action": "Sell",
+        "shares": 3122000,
+        "price": 8.68,
+        "value": 27098960
+      },
+      {
+        "date": "2025-09-26",
+        "person": "Haroon Ahmad Khan",
+        "role": "Executive Director",
+        "action": "Sell",
+        "shares": 4750000,
+        "price": 8.82,
+        "value": 41895000
+      },
+      {
+        "date": "2025-09-26",
+        "person": "Nighat Haroon Khan",
+        "role": "Non-Executive Director",
+        "action": "Buy",
+        "shares": 3400000,
+        "price": 11.3,
+        "value": 38420000
+      },
+      {
+        "date": "2025-09-26",
+        "person": "Nighat Haroon Khan",
+        "role": "Non-Executive Director",
+        "action": "Sell",
+        "shares": 3400000,
+        "price": 11.18,
+        "value": 38012000
+      },
+      {
+        "date": "2025-09-26",
+        "person": "Nighat Haroon Khan",
+        "role": "Non-Executive Director",
+        "action": "Sell",
+        "shares": 4260000,
+        "price": 8.79,
+        "value": 37445400
+      },
+      {
+        "date": "2025-09-26",
+        "person": "Haroon Ahmad Khan",
+        "role": "Executive Director",
+        "action": "Sell",
+        "shares": 2500000,
+        "price": 11.1,
+        "value": 27750000
+      },
+      {
+        "date": "2025-09-26",
+        "person": "Haroon Ahmad Khan",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 2500000,
+        "price": 11.12,
+        "value": 27800000
+      },
+      {
+        "date": "2025-09-26",
+        "person": "Haroon Ahmad Khan",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 4750000,
+        "price": 8.82,
+        "value": 41895000
+      },
+      {
+        "date": "2025-07-18",
+        "person": "Nighat Haroon Khan",
+        "role": "Non-Executive Director",
+        "action": "Buy",
+        "shares": 4260000,
+        "price": 7.84,
+        "value": 33398400
+      },
+      {
+        "date": "2025-07-18",
+        "person": "Haroon Ahmad Khan",
+        "role": "Executive Director",
+        "action": "Sell",
+        "shares": 3122000,
+        "price": 7.61,
+        "value": 23758420
+      },
+      {
+        "date": "2025-07-18",
+        "person": "Haroon Ahmad Khan",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 3122000,
+        "price": 7.71,
+        "value": 24070620
+      },
+      {
+        "date": "2025-07-18",
+        "person": "Nighat Haroon Khan",
+        "role": "Non-Executive Director",
+        "action": "Sell",
+        "shares": 4260000,
+        "price": 7.74,
+        "value": 32972400
+      },
+      {
+        "date": "2025-07-18",
+        "person": "Nighat Haroon Khan",
+        "role": "Non-Executive Director",
+        "action": "Sell",
+        "shares": 4300000,
+        "price": 7.54,
+        "value": 32422000
+      },
+      {
+        "date": "2025-07-18",
+        "person": "Nighat Haroon Khan",
+        "role": "Non-Executive Director",
+        "action": "Buy",
+        "shares": 4300000,
+        "price": 7.63,
+        "value": 32809000
+      },
+      {
+        "date": "2025-06-13",
+        "person": "WAVES CORPORATION LIMITED",
+        "role": "Substantial Shareholder",
+        "action": "Buy",
+        "shares": 3830000,
+        "price": 8.88,
+        "value": 34010400
+      },
+      {
+        "date": "2025-06-12",
+        "person": "Haroon Ahmad Khan",
+        "role": "Executive Director",
+        "action": "Sell",
+        "shares": 1450000,
+        "price": 9.37,
+        "value": 13586500
+      },
+      {
+        "date": "2025-04-24",
+        "person": "Haroon Ahmad Khan",
+        "role": "Executive Director",
+        "action": "Sell",
+        "shares": 2600000,
+        "price": 7.95,
+        "value": 20670000
+      },
+      {
+        "date": "2025-04-24",
+        "person": "Haroon Ahmad Khan",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 2600000,
+        "price": 8.15,
+        "value": 21190000
+      },
+      {
+        "date": "2025-04-15",
+        "person": "Haroon Ahmad Khan",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 5550000,
+        "price": 8.25,
+        "value": 45787500
+      },
+      {
+        "date": "2025-03-21",
+        "person": "Haroon Ahmad Khan",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 3050000,
+        "price": 8.06,
+        "value": 24583000
+      },
+      {
+        "date": "2025-03-21",
+        "person": "Nighat Haroon Khan",
+        "role": "Non-Executive Director",
+        "action": "Sell",
+        "shares": 310400,
+        "price": 7.96,
+        "value": 2470784
+      },
+      {
+        "date": "2025-03-21",
+        "person": "Haroon Ahmad Khan",
+        "role": "Executive Director",
+        "action": "Sell",
+        "shares": 3050000,
+        "price": 7.95,
+        "value": 24247500
+      },
+      {
+        "date": "2025-03-10",
+        "person": "Haroon Ahmad Khan",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 6550000,
+        "price": 8.19,
+        "value": 53644500
+      },
+      {
+        "date": "2025-03-10",
+        "person": "Nighat Haroon Khan",
+        "role": "Non-Executive Director",
+        "action": "Sell",
+        "shares": 2704000,
+        "price": 8.7,
+        "value": 23524800
+      },
+      {
+        "date": "2025-03-10",
+        "person": "Nighat Haroon Khan",
+        "role": "Non-Executive Director",
+        "action": "Buy",
+        "shares": 2704000,
+        "price": 8.85,
+        "value": 23930400
+      },
+      {
+        "date": "2025-03-10",
+        "person": "Haroon Ahmad Khan",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 6550000,
+        "price": 8.36,
+        "value": 54758000
+      },
+      {
+        "date": "2024-12-27",
+        "person": "Waves Corporation Limited",
+        "role": "Substantial Shareholder",
+        "action": "Sell",
+        "shares": 2000000,
+        "price": 13.14,
+        "value": 26280000
+      },
+      {
+        "date": "2024-08-20",
+        "person": "Weavers Corporation Limited",
+        "role": "Substantial Shareholder",
+        "action": "Sell",
+        "shares": 5294632,
+        "price": 8.96,
+        "value": 47439903
+      },
+      {
+        "date": "2024-08-15",
+        "person": "Nighat Haroon Khan",
+        "role": "Non-Executive Director",
+        "action": "Buy",
+        "shares": 7000000,
+        "price": 6.81,
+        "value": 47670000
+      },
+      {
+        "date": "2024-08-15",
+        "person": "Haroon Ahmad Khan",
+        "role": "Executive Director",
+        "action": "Sell",
+        "shares": 250000,
+        "price": 6.58,
+        "value": 1645000
+      },
+      {
+        "date": "2024-08-15",
+        "person": "Nighat Haroon Khan",
+        "role": "Non-Executive Director",
+        "action": "Sell",
+        "shares": 7574000,
+        "price": 6.72,
+        "value": 50897280
+      },
+      {
+        "date": "2024-07-22",
+        "person": "Nighat Haroon Khan",
+        "role": "Non-Executive Director",
+        "action": "Sell",
+        "shares": 3950000,
+        "price": 7.22,
+        "value": 28519000
+      },
+      {
+        "date": "2024-07-22",
+        "person": "Nighat Haroon Khan",
+        "role": "Non-Executive Director",
+        "action": "Buy",
+        "shares": 15000000,
+        "price": 7.44,
+        "value": 111600000
+      },
+      {
+        "date": "2024-06-14",
+        "person": "Hamza Ahmad Khan",
+        "role": "Executive Director",
+        "action": "Sell",
+        "shares": 2700000,
+        "price": 7.81,
+        "value": 21087000
+      },
+      {
+        "date": "2024-06-14",
+        "person": "Nighat Haroon Khan",
+        "role": "Non-Executive Director",
+        "action": "Sell",
+        "shares": 6000000,
+        "price": 7.63,
+        "value": 45780000
+      },
+      {
+        "date": "2024-06-14",
+        "person": "Nighat Haroon Khan",
+        "role": "Non-Executive Director",
+        "action": "Buy",
+        "shares": 6000000,
+        "price": 7.83,
+        "value": 46980000
+      },
+      {
+        "date": "2024-06-14",
+        "person": "Hamza Ahmad Khan",
+        "role": "Executive Director",
+        "action": "Sell",
+        "shares": 2700000,
+        "price": 7.78,
+        "value": 21006000
+      },
+      {
+        "date": "2024-06-14",
+        "person": "Hamza Ahmad Khan",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 5400000,
+        "price": 7.76,
+        "value": 41904000
+      },
+      {
+        "date": "2024-01-22",
+        "person": "AHMAD BILAL",
+        "role": "Executive",
+        "action": "Sell",
+        "shares": 20000,
+        "price": 8.2,
+        "value": 164000
+      },
+      {
+        "date": "2024-01-22",
+        "person": "AHMAD BILAL",
+        "role": "Executive",
+        "action": "Buy",
+        "shares": 20000,
+        "price": 8.18,
+        "value": 163600
+      },
+      {
+        "date": "2024-01-16",
+        "person": "AHMAD BILAL",
+        "role": "Executive",
+        "action": "Buy",
+        "shares": 40000,
+        "price": 8.29,
+        "value": 331600
+      },
+      {
+        "date": "2024-01-16",
+        "person": "AHMAD BILAL",
+        "role": "Executive",
+        "action": "Sell",
+        "shares": 40000,
+        "price": 8.28,
+        "value": 331200
+      },
+      {
+        "date": "2016-05-22",
+        "person": "Nighat Haroon Khan",
+        "role": "Non-Executive Director",
+        "action": "Buy",
+        "shares": 112500,
+        "price": 13.11,
+        "value": 1474875
+      },
+      {
+        "date": "2016-05-22",
+        "person": "Nighat Haroon Khan",
+        "role": "Non-Executive Director",
+        "action": "Buy",
+        "shares": 94000,
+        "price": 12.88,
+        "value": 1210720
+      }
+    ]
+  },
+  "shareholding": {},
+  "fipi": {},
+  "monthly_sales": {}
+}

@@ -1,0 +1,771 @@
+{
+  "source": "sarmaaya.pk (insider transactions, #insider-transactions table)",
+  "as_of": "2026-06-28",
+  "transactions": [
+    {
+      "date": "2026-06-03",
+      "person": "Tariq Rashid Malik",
+      "role": "Executive",
+      "action": "Sell",
+      "shares": 41000,
+      "price": 82.16,
+      "value": 3368560
+    },
+    {
+      "date": "2026-05-29",
+      "person": "Tariq Rashid Malik",
+      "role": "Executive",
+      "action": "Sell",
+      "shares": 9000,
+      "price": 81.51,
+      "value": 733590
+    },
+    {
+      "date": "2026-05-22",
+      "person": "Tariq Rashid Malik",
+      "role": "Executive",
+      "action": "Sell",
+      "shares": 15176,
+      "price": 80.53,
+      "value": 1222123
+    },
+    {
+      "date": "2026-05-19",
+      "person": "Tariq Rashid Malik",
+      "role": "Executive",
+      "action": "Sell",
+      "shares": 69824,
+      "price": 80.81,
+      "value": 5642477
+    },
+    {
+      "date": "2026-04-03",
+      "person": "Tariq Rashid Malik",
+      "role": "Executive",
+      "action": "Sell",
+      "shares": 55000,
+      "price": 77.4,
+      "value": 4257000
+    },
+    {
+      "date": "2026-03-27",
+      "person": "Saira Khan",
+      "role": "Executive",
+      "action": "Sell",
+      "shares": 5000,
+      "price": 82.0,
+      "value": 410000
+    },
+    {
+      "date": "2026-03-11",
+      "person": "Saira Khan",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 994,
+      "price": 80.12,
+      "value": 79639
+    },
+    {
+      "date": "2026-03-11",
+      "person": "Saira Khan",
+      "role": "Executive",
+      "action": "Sell",
+      "shares": 1482,
+      "price": 80.22,
+      "value": 118886
+    },
+    {
+      "date": "2026-01-09",
+      "person": "Muhammad Latif",
+      "role": "Executive",
+      "action": "Sell",
+      "shares": 17000,
+      "price": 82.49,
+      "value": 1402330
+    },
+    {
+      "date": "2025-11-21",
+      "person": "Tariq Rashid Malik",
+      "role": "Executive",
+      "action": "Sell",
+      "shares": 50000,
+      "price": 76.5,
+      "value": 3825000
+    },
+    {
+      "date": "2025-11-07",
+      "person": "Tariq Rashid Malik",
+      "role": "Executive",
+      "action": "Sell",
+      "shares": 150000,
+      "price": 79.97,
+      "value": 11995500
+    },
+    {
+      "date": "2025-10-24",
+      "person": "Muhammad Latif",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 17000,
+      "price": 69.52,
+      "value": 1181840
+    },
+    {
+      "date": "2025-08-22",
+      "person": "Tariq Rashid Malik",
+      "role": "Executive",
+      "action": "Sell",
+      "shares": 25000,
+      "price": 73.52,
+      "value": 1838000
+    },
+    {
+      "date": "2025-06-17",
+      "person": "Tariq Rashid Malik",
+      "role": "Executive",
+      "action": "Sell",
+      "shares": 200000,
+      "price": 60.71,
+      "value": 12142000
+    },
+    {
+      "date": "2025-05-23",
+      "person": "Tariq Rashid Malik",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 23961,
+      "price": 59.05,
+      "value": 1414897
+    },
+    {
+      "date": "2025-05-08",
+      "person": "Tariq Rashid Malik",
+      "role": "Executive",
+      "action": "Sell",
+      "shares": 60539,
+      "price": 54.97,
+      "value": 3327829
+    },
+    {
+      "date": "2025-03-07",
+      "person": "Tariq Rashid Malik",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 5500,
+      "price": 60.06,
+      "value": 330330
+    },
+    {
+      "date": "2024-12-23",
+      "person": "Tariq Rashid Malik",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 34928,
+      "price": 73.6,
+      "value": 2570701
+    },
+    {
+      "date": "2024-12-17",
+      "person": "Tariq Rashid Malik",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 15252,
+      "price": 73.04,
+      "value": 1114006
+    },
+    {
+      "date": "2024-08-27",
+      "person": "Tariq Rashid Malik",
+      "role": "Executive",
+      "action": "Sell",
+      "shares": 100000,
+      "price": 71.23,
+      "value": 7123000
+    },
+    {
+      "date": "2024-06-14",
+      "person": "Tariq Rashid Malik",
+      "role": "Executive",
+      "action": "Sell",
+      "shares": 15000,
+      "price": 80.09,
+      "value": 1201350
+    },
+    {
+      "date": "2024-05-29",
+      "person": "Tariq Rashid Malik",
+      "role": "Executive",
+      "action": "Sell",
+      "shares": 40000,
+      "price": 84.5,
+      "value": 3380000
+    },
+    {
+      "date": "2024-04-08",
+      "person": "Tariq Rashid Malik",
+      "role": "Executive",
+      "action": "Sell",
+      "shares": 50000,
+      "price": 72.21,
+      "value": 3610500
+    },
+    {
+      "date": "2024-02-19",
+      "person": "Tariq Rashid Malik",
+      "role": "executive",
+      "action": "Sell",
+      "shares": 984,
+      "price": 71.5,
+      "value": 70356
+    },
+    {
+      "date": "2024-02-07",
+      "person": "Tariq Rashid Malik",
+      "role": "Executive",
+      "action": "Sell",
+      "shares": 69016,
+      "price": 69.38,
+      "value": 4788330
+    },
+    {
+      "date": "2024-01-26",
+      "person": "Tariq Rashid Malik",
+      "role": "Executive",
+      "action": "Sell",
+      "shares": 50000,
+      "price": 72.1,
+      "value": 3605000
+    },
+    {
+      "date": "2024-01-05",
+      "person": "Tariq Rashid Malik",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 25000,
+      "price": 73.0,
+      "value": 1825000
+    },
+    {
+      "date": "2024-01-01",
+      "person": "Tariq Rashid Malik",
+      "role": "Executive",
+      "action": "Sell",
+      "shares": 90000,
+      "price": 69.79,
+      "value": 6281100
+    },
+    {
+      "date": "2023-11-30",
+      "person": "Tariq Rashid Malik",
+      "role": "Executive",
+      "action": "Sell",
+      "shares": 57500,
+      "price": 65.0,
+      "value": 3737500
+    },
+    {
+      "date": "2023-11-16",
+      "person": "Tariq Rashid Malik",
+      "role": "Executive",
+      "action": "Sell",
+      "shares": 300000,
+      "price": 57.25,
+      "value": 17175000
+    },
+    {
+      "date": "2023-11-07",
+      "person": "Tariq Rashid Malik",
+      "role": "Executive",
+      "action": "Sell",
+      "shares": 115000,
+      "price": 50.87,
+      "value": 5850050
+    },
+    {
+      "date": "2023-10-25",
+      "person": "Tariq Rashid Malik",
+      "role": "Executive",
+      "action": "Sell",
+      "shares": 115000,
+      "price": 44.5,
+      "value": 5117500
+    },
+    {
+      "date": "2023-10-18",
+      "person": "Tariq Rashid Malik",
+      "role": "Executive",
+      "action": "Sell",
+      "shares": 550000,
+      "price": 45.65,
+      "value": 25107500
+    },
+    {
+      "date": "2023-10-12",
+      "person": "Tariq Rashid Malik",
+      "role": "Executive",
+      "action": "Sell",
+      "shares": 95000,
+      "price": 45.22,
+      "value": 4295900
+    },
+    {
+      "date": "2023-09-28",
+      "person": "Tariq Rashid Malik",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 50000,
+      "price": 45.51,
+      "value": 2275500
+    },
+    {
+      "date": "2023-08-23",
+      "person": "Tariq Rashid Malik",
+      "role": "Executive",
+      "action": "Sell",
+      "shares": 99910,
+      "price": 42.7,
+      "value": 4266157
+    },
+    {
+      "date": "2023-08-11",
+      "person": "Tariq Rashid Malik",
+      "role": "Executive",
+      "action": "Sell",
+      "shares": 99095,
+      "price": 40.1,
+      "value": 3973710
+    },
+    {
+      "date": "2023-08-08",
+      "person": "Tariq Rashid Malik",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 200569,
+      "price": 42.19,
+      "value": 8462006
+    },
+    {
+      "date": "2023-08-08",
+      "person": "Tariq Rashid Malik",
+      "role": "Executive",
+      "action": "Sell",
+      "shares": 995,
+      "price": 40.1,
+      "value": 39900
+    },
+    {
+      "date": "2023-08-08",
+      "person": "Tariq Rashid Malik",
+      "role": "Executive",
+      "action": "Sell",
+      "shares": 569,
+      "price": 41.83,
+      "value": 23801
+    },
+    {
+      "date": "2023-08-02",
+      "person": "Tariq Rashid Malik",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 15000,
+      "price": 37.9,
+      "value": 568500
+    },
+    {
+      "date": "2023-06-27",
+      "person": "Tariq Rashid Malik",
+      "role": "Executive",
+      "action": "Sell",
+      "shares": 99998,
+      "price": 34.0,
+      "value": 3399932
+    },
+    {
+      "date": "2023-06-27",
+      "person": "Tariq Rashid Malik",
+      "role": "Executive",
+      "action": "Sell",
+      "shares": 49999,
+      "price": 35.0,
+      "value": 1749965
+    },
+    {
+      "date": "2023-06-16",
+      "person": "Tariq Rashid Malik",
+      "role": "Executive",
+      "action": "Sell",
+      "shares": 70000,
+      "price": 55.1,
+      "value": 3857000
+    },
+    {
+      "date": "2023-06-16",
+      "person": "Tariq Rashid Malik",
+      "role": "Executive",
+      "action": "Sell",
+      "shares": 35000,
+      "price": 55.26,
+      "value": 1934100
+    },
+    {
+      "date": "2023-05-31",
+      "person": "Tariq Rashid Malik",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 99998,
+      "price": 48.33,
+      "value": 4832903
+    },
+    {
+      "date": "2023-05-24",
+      "person": "Saeed Ahmad Jabal",
+      "role": "Independent Director",
+      "action": "Buy",
+      "shares": 375,
+      "price": 48.3,
+      "value": 18112
+    },
+    {
+      "date": "2023-05-24",
+      "person": "Saeed Ahmad Jabal",
+      "role": "Independent Director",
+      "action": "Buy",
+      "shares": 250,
+      "price": 47.5,
+      "value": 11875
+    },
+    {
+      "date": "2023-05-24",
+      "person": "Saeed Ahmad Jabal",
+      "role": "Independent Director",
+      "action": "Buy",
+      "shares": 1125,
+      "price": 47.75,
+      "value": 53719
+    },
+    {
+      "date": "2023-04-28",
+      "person": "Tariq Rashid Malik",
+      "role": "Executive",
+      "action": "Sell",
+      "shares": 14696,
+      "price": 49.0,
+      "value": 720104
+    },
+    {
+      "date": "2023-04-28",
+      "person": "Tariq Rashid Malik",
+      "role": "Executive",
+      "action": "Sell",
+      "shares": 4250,
+      "price": 49.01,
+      "value": 208292
+    },
+    {
+      "date": "2023-04-10",
+      "person": "Saeed Ahmad Jabal",
+      "role": "Independent Director",
+      "action": "Buy",
+      "shares": 250,
+      "price": 47.5,
+      "value": 11875
+    },
+    {
+      "date": "2023-03-28",
+      "person": "Saeed Ahmad Jabal",
+      "role": "Independent Director",
+      "action": "Buy",
+      "shares": 162,
+      "price": 48.2,
+      "value": 7808
+    },
+    {
+      "date": "2023-03-16",
+      "person": "Saeed Ahmad Jabal",
+      "role": "Independent Director",
+      "action": "Buy",
+      "shares": 1338,
+      "price": 48.5,
+      "value": 64893
+    },
+    {
+      "date": "2023-03-06",
+      "person": "Tariq Rashid Malik",
+      "role": "Executive",
+      "action": "Sell",
+      "shares": 62429,
+      "price": 49.5,
+      "value": 3090236
+    },
+    {
+      "date": "2023-02-28",
+      "person": "Tariq Rashid Malik",
+      "role": "Executive",
+      "action": "Sell",
+      "shares": 215629,
+      "price": 49.4,
+      "value": 10652073
+    },
+    {
+      "date": "2023-02-28",
+      "person": "Tariq Rashid Malik",
+      "role": "Executive",
+      "action": "Sell",
+      "shares": 4371,
+      "price": 49.5,
+      "value": 216364
+    },
+    {
+      "date": "2023-02-20",
+      "person": "Tariq Rashid Malik",
+      "role": "Executive",
+      "action": "Sell",
+      "shares": 50528,
+      "price": 50.1,
+      "value": 2531453
+    },
+    {
+      "date": "2023-02-08",
+      "person": "Saeed Ahmad Jabal",
+      "role": "Independent Director",
+      "action": "Buy",
+      "shares": 1500,
+      "price": 52.0,
+      "value": 78000
+    },
+    {
+      "date": "2023-02-06",
+      "person": "Tariq Rashid Malik",
+      "role": "Executive",
+      "action": "Sell",
+      "shares": 2783,
+      "price": 52.3,
+      "value": 145551
+    },
+    {
+      "date": "2023-02-06",
+      "person": "Tariq Rashid Malik",
+      "role": "Executive",
+      "action": "Sell",
+      "shares": 81689,
+      "price": 52.0,
+      "value": 4247828
+    },
+    {
+      "date": "2023-02-03",
+      "person": "Tariq Rashid Malik",
+      "role": "Executive",
+      "action": "Sell",
+      "shares": 27000,
+      "price": 52.36,
+      "value": 1413720
+    },
+    {
+      "date": "2023-01-11",
+      "person": "Tariq Rashid Malik",
+      "role": "Executive",
+      "action": "Sell",
+      "shares": 35789,
+      "price": 55.8,
+      "value": 1997026
+    },
+    {
+      "date": "2023-01-11",
+      "person": "Tariq Rashid Malik",
+      "role": "Executive",
+      "action": "Sell",
+      "shares": 62000,
+      "price": 55.37,
+      "value": 3432940
+    },
+    {
+      "date": "2023-01-11",
+      "person": "Tariq Rashid Malik",
+      "role": "Executive",
+      "action": "Sell",
+      "shares": 711,
+      "price": 57.9,
+      "value": 41167
+    },
+    {
+      "date": "2023-01-11",
+      "person": "Tariq Rashid Malik",
+      "role": "Executive",
+      "action": "Sell",
+      "shares": 35000,
+      "price": 57.04,
+      "value": 1996400
+    },
+    {
+      "date": "2023-01-10",
+      "person": "Musadaq Zulqarnain",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 24985,
+      "price": 58.44,
+      "value": 1460123
+    },
+    {
+      "date": "2022-12-16",
+      "person": "Muhammad Maqsood",
+      "role": "Exective Director",
+      "action": "Sell",
+      "shares": 43600,
+      "price": 58.68,
+      "value": 2558448
+    },
+    {
+      "date": "2022-12-16",
+      "person": "Muhammad Maqsood",
+      "role": "Exective Director",
+      "action": "Sell",
+      "shares": 20000,
+      "price": 58.89,
+      "value": 1177800
+    },
+    {
+      "date": "2022-12-16",
+      "person": "Muhammad Maqsood",
+      "role": "Exective Director",
+      "action": "Sell",
+      "shares": 155000,
+      "price": 57.96,
+      "value": 8983800
+    },
+    {
+      "date": "2022-12-14",
+      "person": "Musadaq Zulqarnain",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 169585,
+      "price": 58.05,
+      "value": 9844409
+    },
+    {
+      "date": "2022-12-08",
+      "person": "Musadaq Zulqarnain",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 2500000,
+      "price": 61.48,
+      "value": 153700000
+    },
+    {
+      "date": "2022-12-07",
+      "person": "Musadaq Zulqarnain",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 936132,
+      "price": 59.48,
+      "value": 55681131
+    },
+    {
+      "date": "2022-12-05",
+      "person": "Musadaq Zulqarnain",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 965000,
+      "price": 56.99,
+      "value": 54995350
+    },
+    {
+      "date": "2022-11-11",
+      "person": "Jahan Zeb Khan Banth",
+      "role": "Non-Executive Director",
+      "action": "Gift Out",
+      "shares": 3000000,
+      "price": 0.0,
+      "value": 0
+    },
+    {
+      "date": "2022-08-19",
+      "person": "Tariq Rashid Malik",
+      "role": "Executive",
+      "action": "Sell",
+      "shares": 100000,
+      "price": 66.01,
+      "value": 6601000
+    },
+    {
+      "date": "2022-08-19",
+      "person": "Tariq Rashid Malik",
+      "role": "Executive",
+      "action": "Sell",
+      "shares": 100000,
+      "price": 66.01,
+      "value": 6601000
+    },
+    {
+      "date": "2022-02-16",
+      "person": "Muhammad Maqsood",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 258800,
+      "price": 81.41,
+      "value": 21068908
+    },
+    {
+      "date": "2022-02-16",
+      "person": "Muhammad Maqsood",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 500000,
+      "price": 77.58,
+      "value": 38790000
+    },
+    {
+      "date": "2022-02-16",
+      "person": "Noreen Fatima",
+      "role": "Spouse",
+      "action": "Sell",
+      "shares": 133000,
+      "price": 77.0,
+      "value": 10241000
+    },
+    {
+      "date": "2022-02-11",
+      "person": "Muhammad Maqsood",
+      "role": "Executive Director",
+      "action": "Gift-Out",
+      "shares": 133000,
+      "price": 0.0,
+      "value": 0
+    },
+    {
+      "date": "2022-02-11",
+      "person": "Noreen Fatima",
+      "role": "Spouse",
+      "action": "Gift-In",
+      "shares": 133000,
+      "price": 0.0,
+      "value": 0
+    },
+    {
+      "date": "2019-08-22",
+      "person": "Tariq Rashid Malik",
+      "role": "Executive",
+      "action": "Sell",
+      "shares": 100000,
+      "price": 66.01,
+      "value": 6601000
+    },
+    {
+      "date": "2006-09-22",
+      "person": "Jahan Zeb Khan Banth",
+      "role": "Non-Executive Director",
+      "action": "Gift-Out",
+      "shares": 1000000,
+      "price": 0.0,
+      "value": 0
+    },
+    {
+      "date": "2005-07-22",
+      "person": "Feroze Ahmed",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 82252,
+      "price": 60.93,
+      "value": 5011614
+    }
+  ]
+}

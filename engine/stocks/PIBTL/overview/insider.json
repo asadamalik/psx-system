@@ -1,0 +1,60 @@
+{
+  "source": "sarmaaya.pk (insider transactions, #insider-transactions table)",
+  "as_of": "2026-06-27",
+  "transactions": [
+    {
+      "date": "2025-10-09",
+      "person": "ARSALAN IFTIKHAR KHAN",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 500,
+      "price": 12.28,
+      "value": 6140
+    },
+    {
+      "date": "2025-03-04",
+      "person": "Nadeem Nisar",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 50000000,
+      "price": 8.91,
+      "value": 445500000
+    },
+    {
+      "date": "2023-05-30",
+      "person": "ARSALAN IFTIKHAR KHAN",
+      "role": "Executive",
+      "action": "Sell",
+      "shares": 65693,
+      "price": 3.79,
+      "value": 248976
+    },
+    {
+      "date": "2023-05-29",
+      "person": "ARSALAN IFTIKHAR KHAN",
+      "role": "Executive",
+      "action": "Sell",
+      "shares": 41500,
+      "price": 3.87,
+      "value": 160605
+    },
+    {
+      "date": "2023-05-26",
+      "person": "ARSALAN IFTIKHAR KHAN",
+      "role": "Executive",
+      "action": "Sell",
+      "shares": 100000,
+      "price": 3.85,
+      "value": 385000
+    },
+    {
+      "date": "2023-04-18",
+      "person": "ARSALAN IFTIKHAR KHAN",
+      "role": "Executive",
+      "action": "Sell",
+      "shares": 18000,
+      "price": 4.0,
+      "value": 72000
+    }
+  ]
+}

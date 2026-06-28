@@ -1,0 +1,24 @@
+{
+  "source": "PSX DPS",
+  "as_of": "2026-06-19",
+  "financial_results": [
+    {"date": "2026-04-28", "title": "Transmission of Quarterly Financial Statements for the Period Ended 31.03.2026"},
+    {"date": "2026-04-22", "title": "MLCF - Financial Results 31.03.2026"},
+    {"date": "2026-03-02", "title": "Transmission of Quarterly Financial Statements for the Period Ended 31.12.2025"},
+    {"date": "2026-02-25", "title": "MLCF - Financial Results as on 31.12.2025"},
+    {"date": "2025-10-27", "title": "Transmission of Quarterly Financial Statements for the Period Ended 30.09.2025"}
+  ],
+  "board_meetings": [
+    {"date": "2026-04-14", "title": "Notice of Board Meeting 21.04.2026"},
+    {"date": "2026-02-17", "title": "Notice of Board Meeting 24.02.2026"},
+    {"date": "2025-12-04", "title": "Notice of Extraordinary General Meeting"},
+    {"date": "2025-11-12", "title": "Board Meeting other than Financial Results 13.11.2025"},
+    {"date": "2025-10-10", "title": "Notice of Board Meeting 17.10.2025"}
+  ],
+  "other": [
+    {"date": "2026-03-17", "title": "Enquiry on News - Published in Print/Electronic Media"},
+    {"date": "2026-03-12", "title": "Disclosure of Interest by a Director/CEO/Executive (insider transaction)"},
+    {"date": "2026-02-23", "title": "Disclosure of Material Information"},
+    {"date": "2026-01-05", "title": "Appointment of Chairman & CEO effective 01.01.2026"}
+  ]
+}

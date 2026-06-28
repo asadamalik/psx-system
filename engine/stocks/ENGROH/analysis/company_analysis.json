@@ -1,0 +1,63 @@
+{
+  "symbol": "ENGROH",
+  "growth": {
+    "revenue_growth_5y": 0.17700478102033967,
+    "net_income_growth_5y": 0.5983513776053564,
+    "equity_growth_5y": 0.04517177428129093,
+    "debt_change_5y": 0.6197557026525072
+  },
+  "latest": {
+    "revenue": 598360.0,
+    "net_income": 55633.0,
+    "equity": 303087.0,
+    "total_assets": 1083347.0,
+    "total_debt": 408159.0,
+    "operating_cash_flow": 98897.0,
+    "capex": 33773.0
+  },
+  "metrics": {
+    "revenue_growth_5y": 0.17700478102033967,
+    "net_income_growth_5y": 0.5983513776053564,
+    "eps_growth": null,
+    "sales_growth": 0.17700478102033967,
+    "roe": 0.1836,
+    "roa": 0.0514,
+    "gross_margin": 0.2465,
+    "operating_margin": 0.19237582726118055,
+    "net_margin": 0.09297580052142523,
+    "debt_to_equity": 1.346672737530808,
+    "current_ratio": 0.8751490686699552,
+    "interest_coverage": 2.5617572439578047,
+    "fcf_margin": 0.1088374891369744,
+    "pe_ratio": 5.29,
+    "price_to_book": 1.06,
+    "peg": null
+  },
+  "extended": {
+    "effective_tax_rate": 0.29,
+    "roic": 0.11490834394850725,
+    "quick_ratio": 0.7459772711264613,
+    "ps_ratio": 0.5380426748139753,
+    "ev_ebitda": null,
+    "peg": null,
+    "revenue_cagr_3y": 0.1882549068981152,
+    "net_income_cagr_3y": 1.1167202945813886,
+    "eps_cagr_3y": 0.5591195717615669,
+    "revenue_qoq": -0.3108923815988721,
+    "revenue_yoy": 0.3034430309734513,
+    "eps_qoq": -0.24845269672855883,
+    "eps_yoy": 4.592105263157895,
+    "ocf_cagr_5y": 0.20874555888939694,
+    "fcf_cagr_5y": 0.26037821049030474,
+    "cash_conversion": 1.7776679309043193,
+    "ttm_revenue": 629083,
+    "ttm_net_income": 64042,
+    "dividend_last_year": null,
+    "dividend_latest_annual": 10.5
+  },
+  "derived": {
+    "free_cash_flow": 65124.0,
+    "market_cap": 338473.5,
+    "current_price": 281.07
+  }
+}

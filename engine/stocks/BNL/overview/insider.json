@@ -1,0 +1,582 @@
+{
+  "source": "sarmaaya.pk (insider transactions, #insider-transactions table)",
+  "as_of": "2026-06-28",
+  "transactions": [
+    {
+      "date": "2026-05-21",
+      "person": "Omer Shafiq Chaudhry",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 58599463,
+      "price": 7.33,
+      "value": 429534064
+    },
+    {
+      "date": "2026-05-20",
+      "person": "Omer Shafiq Chaudhry",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 29295591,
+      "price": 7.67,
+      "value": 224697183
+    },
+    {
+      "date": "2026-05-19",
+      "person": "Omer Shafiq Chaudhry",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 704409,
+      "price": 8.28,
+      "value": 5832507
+    },
+    {
+      "date": "2026-04-02",
+      "person": "Omer Shafiq Chaudhry",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 4000000,
+      "price": 7.73,
+      "value": 30920000
+    },
+    {
+      "date": "2026-04-02",
+      "person": "Omer Shafiq Chaudhry",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 4000000,
+      "price": 7.66,
+      "value": 30640000
+    },
+    {
+      "date": "2026-03-06",
+      "person": "Omer Shafiq Chaudhry",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 1000000,
+      "price": 4.5,
+      "value": 4500000
+    },
+    {
+      "date": "2026-03-06",
+      "person": "Omer Shafiq Chaudhry",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 1000000,
+      "price": 4.5,
+      "value": 4500000
+    },
+    {
+      "date": "2026-03-06",
+      "person": "Saadia Omer",
+      "role": "Non-Executive Director",
+      "action": "Sell",
+      "shares": 2000000,
+      "price": 4.5,
+      "value": 9000000
+    },
+    {
+      "date": "2026-01-16",
+      "person": "Omer Shafiq",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 1000000,
+      "price": 11.5,
+      "value": 11500000
+    },
+    {
+      "date": "2026-01-16",
+      "person": "Saadia Omer",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 200000,
+      "price": 11.5,
+      "value": 2300000
+    },
+    {
+      "date": "2026-01-16",
+      "person": "Saadia Omer",
+      "role": "Non-Executive Director",
+      "action": "Sell",
+      "shares": 200000,
+      "price": 11.45,
+      "value": 2290000
+    },
+    {
+      "date": "2026-01-16",
+      "person": "Omer Shafiq",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 1000000,
+      "price": 11.45,
+      "value": 11450000
+    },
+    {
+      "date": "2025-12-15",
+      "person": "Saadia Omer",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 3600000,
+      "price": 14.15,
+      "value": 50940000
+    },
+    {
+      "date": "2025-12-15",
+      "person": "Saadia Omer",
+      "role": "Non-Executive Director",
+      "action": "Sell",
+      "shares": 3600000,
+      "price": 14.1,
+      "value": 50760000
+    },
+    {
+      "date": "2025-09-17",
+      "person": "Null",
+      "role": "Null",
+      "action": "Sell",
+      "shares": 1737208,
+      "price": 120.35,
+      "value": 209072983
+    },
+    {
+      "date": "2025-07-24",
+      "person": "Saqib Anjum",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 678135,
+      "price": 77.94,
+      "value": 52853842
+    },
+    {
+      "date": "2025-06-25",
+      "person": "Omer Shafiq Chaudhary",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 294500,
+      "price": 60.73,
+      "value": 17884985
+    },
+    {
+      "date": "2025-06-24",
+      "person": "Omer Shafiq Chaudhary",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 1255621,
+      "price": 55.71,
+      "value": 69950646
+    },
+    {
+      "date": "2025-06-23",
+      "person": "Omer Shafiq Chaudhary",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 449404,
+      "price": 52.52,
+      "value": 23602698
+    },
+    {
+      "date": "2025-04-08",
+      "person": "Omer Shafiq Chaudhary",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 5000000,
+      "price": 23.16,
+      "value": 115800000
+    },
+    {
+      "date": "2024-03-20",
+      "person": "Omer Shafiq Chaudhry",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 1000000,
+      "price": 10.03,
+      "value": 10030000
+    },
+    {
+      "date": "2024-03-01",
+      "person": "Omer Shafiq Chaudhry",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 2500000,
+      "price": 10.03,
+      "value": 25075000
+    },
+    {
+      "date": "2023-08-10",
+      "person": "Omer Shafiq Chaudhry",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 65000,
+      "price": 18.0,
+      "value": 1170000
+    },
+    {
+      "date": "2023-07-14",
+      "person": "Omer Shafiq Chaudhry",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 200000,
+      "price": 17.0,
+      "value": 3400000
+    },
+    {
+      "date": "2023-05-18",
+      "person": "Omer Shafiq Chaudhry",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 50000,
+      "price": 14.25,
+      "value": 712500
+    },
+    {
+      "date": "2023-04-11",
+      "person": "Omer Shafiq Chaudhry",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 150000,
+      "price": 16.0,
+      "value": 2400000
+    },
+    {
+      "date": "2023-03-22",
+      "person": "Omer Shafiq Chaudhry",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 53000,
+      "price": 19.12,
+      "value": 1013360
+    },
+    {
+      "date": "2023-03-22",
+      "person": "Omer Shafiq Chaudhry",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 53000,
+      "price": 19.12,
+      "value": 1013360
+    },
+    {
+      "date": "2023-03-20",
+      "person": "Omer Shafiq Chaudhry",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 1000,
+      "price": 19.24,
+      "value": 19240
+    },
+    {
+      "date": "2023-03-16",
+      "person": "Omer Shafiq Chaudhry",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 25000,
+      "price": 19.89,
+      "value": 497250
+    },
+    {
+      "date": "2023-03-15",
+      "person": "Omer Shafiq Chaudhry",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 2000,
+      "price": 19.25,
+      "value": 38500
+    },
+    {
+      "date": "2023-03-14",
+      "person": "Omer Shafiq Chaudhry",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 5500,
+      "price": 19.47,
+      "value": 107085
+    },
+    {
+      "date": "2023-03-13",
+      "person": "Omer Shafiq Chaudhry",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 3000,
+      "price": 19.5,
+      "value": 58500
+    },
+    {
+      "date": "2023-03-08",
+      "person": "Omer Shafiq Chaudhry",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 18000,
+      "price": 18.4,
+      "value": 331200
+    },
+    {
+      "date": "2023-03-06",
+      "person": "Omer Shafiq Chaudhry",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 57000,
+      "price": 18.0,
+      "value": 1026000
+    },
+    {
+      "date": "2023-02-21",
+      "person": "Omer Shafiq Chaudhry",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 2000,
+      "price": 17.0,
+      "value": 34000
+    },
+    {
+      "date": "2023-02-21",
+      "person": "Omer Shafiq Chaudhry",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 12000,
+      "price": 16.85,
+      "value": 202200
+    },
+    {
+      "date": "2023-02-20",
+      "person": "Omer Shafiq Chaudhry",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 7000,
+      "price": 17.05,
+      "value": 119350
+    },
+    {
+      "date": "2023-02-20",
+      "person": "Omer Shafiq Chaudhry",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 500,
+      "price": 17.0,
+      "value": 8500
+    },
+    {
+      "date": "2023-02-20",
+      "person": "Omer Shafiq Chaudhry",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 37000,
+      "price": 17.29,
+      "value": 639730
+    },
+    {
+      "date": "2023-02-15",
+      "person": "Omer Shafiq Chaudhry",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 8000,
+      "price": 16.44,
+      "value": 131520
+    },
+    {
+      "date": "2023-02-14",
+      "person": "Omer Shafiq Chaudhry",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 26500,
+      "price": 16.49,
+      "value": 436985
+    },
+    {
+      "date": "2023-02-13",
+      "person": "Omer Shafiq Chaudhry",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 29500,
+      "price": 15.89,
+      "value": 468755
+    },
+    {
+      "date": "2023-01-12",
+      "person": "Omer Shafiq Chaudhry",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 106000,
+      "price": 16.75,
+      "value": 1775500
+    },
+    {
+      "date": "2023-01-10",
+      "person": "Omer Shafiq Chaudhry",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 68500,
+      "price": 15.02,
+      "value": 1028870
+    },
+    {
+      "date": "2023-01-10",
+      "person": "Omer Shafiq Chaudhry",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 24500,
+      "price": 15.75,
+      "value": 385875
+    },
+    {
+      "date": "2023-01-03",
+      "person": "Omer Shafiq Chaudhry",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 1200000,
+      "price": 20.4,
+      "value": 24480000
+    },
+    {
+      "date": "2022-08-22",
+      "person": "Omer Shafiq Chaudhry",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 1200000,
+      "price": 15.0,
+      "value": 18000000
+    },
+    {
+      "date": "2022-08-22",
+      "person": "Saadia Omer",
+      "role": "Non-Executive Director",
+      "action": "Sell",
+      "shares": 1300000,
+      "price": 15.0,
+      "value": 19500000
+    },
+    {
+      "date": "2022-08-22",
+      "person": "Omer Shafiq Chaudhry",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 1300000,
+      "price": 15.0,
+      "value": 19500000
+    },
+    {
+      "date": "2022-08-22",
+      "person": "Saadia Omer",
+      "role": "Non-Executive Director",
+      "action": "Sell",
+      "shares": 1300000,
+      "price": 15.0,
+      "value": 19500000
+    },
+    {
+      "date": "2022-08-22",
+      "person": "Omer Shafiq Chaudhry",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 1300000,
+      "price": 15.0,
+      "value": 19500000
+    },
+    {
+      "date": "2022-08-22",
+      "person": "Saadia Omer",
+      "role": "Non-Executive Director",
+      "action": "Sell",
+      "shares": 1200000,
+      "price": 15.0,
+      "value": 18000000
+    },
+    {
+      "date": "2022-08-22",
+      "person": "Omer Shafiq Chaudhry",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 1200000,
+      "price": 15.0,
+      "value": 18000000
+    },
+    {
+      "date": "2022-08-22",
+      "person": "Saadia Omer",
+      "role": "Non-Executive Director",
+      "action": "Sell",
+      "shares": 1200000,
+      "price": 15.0,
+      "value": 18000000
+    },
+    {
+      "date": "2022-08-22",
+      "person": "Saadia Omer",
+      "role": "Non-Executive Director",
+      "action": "Sell",
+      "shares": 1200000,
+      "price": 15.0,
+      "value": 18000000
+    },
+    {
+      "date": "2022-08-22",
+      "person": "Omer Shafiq Chaudhry",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 1200000,
+      "price": 15.0,
+      "value": 18000000
+    },
+    {
+      "date": "2022-08-19",
+      "person": "Saadia Omer",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 1200000,
+      "price": 15.0,
+      "value": 18000000
+    },
+    {
+      "date": "2022-08-19",
+      "person": "Saadia Omer",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 1200000,
+      "price": 15.0,
+      "value": 18000000
+    },
+    {
+      "date": "2022-08-19",
+      "person": "Omer Shafiq Chaudhry",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 1200000,
+      "price": 15.0,
+      "value": 18000000
+    },
+    {
+      "date": "2022-02-10",
+      "person": "Omer Shafiq Chaudhry",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 376582,
+      "price": 1.0,
+      "value": 376582
+    },
+    {
+      "date": "2019-08-22",
+      "person": "Omer Shafiq Chaudhry",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 1200000,
+      "price": 15.0,
+      "value": 18000000
+    },
+    {
+      "date": "2019-08-22",
+      "person": "Saadia Omer",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 1200000,
+      "price": 15.0,
+      "value": 18000000
+    },
+    {
+      "date": "2006-09-22",
+      "person": "Omer Shafiq Chaudhry",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 1100000,
+      "price": 10.0,
+      "value": 11000000
+    }
+  ]
+}

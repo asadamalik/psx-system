@@ -1,0 +1,1050 @@
+{
+  "source": "sarmaaya.pk (insider transactions, #insider-transactions table)",
+  "as_of": "2026-06-28",
+  "transactions": [
+    {
+      "date": "2026-06-05",
+      "person": "Sohail Ahmed",
+      "role": "Non-Executive Director",
+      "action": "Sell",
+      "shares": 35000,
+      "price": 49.44,
+      "value": 1730400
+    },
+    {
+      "date": "2026-06-02",
+      "person": "Naim Anwar",
+      "role": "Independent Director",
+      "action": "Buy",
+      "shares": 500,
+      "price": 53.0,
+      "value": 26500
+    },
+    {
+      "date": "2026-05-25",
+      "person": "Sohail Ahmed",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 45000,
+      "price": 42.0,
+      "value": 1890000
+    },
+    {
+      "date": "2026-05-25",
+      "person": "Jawwad Sikander",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 1411164,
+      "price": 45.44,
+      "value": 64123292
+    },
+    {
+      "date": "2026-05-15",
+      "person": "Jawwad Sikander",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 2467358,
+      "price": 74.81,
+      "value": 184583052
+    },
+    {
+      "date": "2026-05-15",
+      "person": "Jawwad Sikander",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 1691000,
+      "price": 67.21,
+      "value": 113652110
+    },
+    {
+      "date": "2026-05-08",
+      "person": "Sohail Ahmed",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 11000,
+      "price": 53.26,
+      "value": 585860
+    },
+    {
+      "date": "2026-05-06",
+      "person": "Sohail Ahmed",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 10000,
+      "price": 52.21,
+      "value": 522100
+    },
+    {
+      "date": "2026-05-04",
+      "person": "Sohail Ahmed",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 20000,
+      "price": 64.0,
+      "value": 1280000
+    },
+    {
+      "date": "2026-04-29",
+      "person": "Sohail Ahmed",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 10000,
+      "price": 5859.0,
+      "value": 58590000
+    },
+    {
+      "date": "2026-04-28",
+      "person": "Sohail Ahmed",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 10000,
+      "price": 48.42,
+      "value": 484200
+    },
+    {
+      "date": "2026-04-24",
+      "person": "Sohail Ahmed",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 15000,
+      "price": 44.02,
+      "value": 660300
+    },
+    {
+      "date": "2026-04-23",
+      "person": "Sohail Ahmed",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 10000,
+      "price": 39.7,
+      "value": 397000
+    },
+    {
+      "date": "2026-04-09",
+      "person": "Sohail Ahmed",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 1800000,
+      "price": 20.0,
+      "value": 36000000
+    },
+    {
+      "date": "2026-04-08",
+      "person": "Sohail Ahmed",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 10000,
+      "price": 20.15,
+      "value": 201500
+    },
+    {
+      "date": "2026-04-08",
+      "person": "Sohail Ahmed",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 20000,
+      "price": 22.0,
+      "value": 440000
+    },
+    {
+      "date": "2026-04-06",
+      "person": "Sohail Ahmed",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 20000,
+      "price": 21.61,
+      "value": 432200
+    },
+    {
+      "date": "2026-04-06",
+      "person": "Sohail Ahmed",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 10000,
+      "price": 20.09,
+      "value": 200900
+    },
+    {
+      "date": "2026-04-01",
+      "person": "Sohail Ahmed",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 20000,
+      "price": 19.0,
+      "value": 380000
+    },
+    {
+      "date": "2026-03-31",
+      "person": "Sohail Ahmed",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 10000,
+      "price": 16.5,
+      "value": 165000
+    },
+    {
+      "date": "2026-03-30",
+      "person": "Sohail Ahmed",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 40000,
+      "price": 15.5,
+      "value": 620000
+    },
+    {
+      "date": "2026-03-26",
+      "person": "Sohail Ahmed",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 20000,
+      "price": 15.0,
+      "value": 300000
+    },
+    {
+      "date": "2026-02-09",
+      "person": "Crescent Star Insurance limited",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 1750000,
+      "price": 11.71,
+      "value": 20492500
+    },
+    {
+      "date": "2026-02-09",
+      "person": "Crescent Star Insurance limited",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 1750000,
+      "price": 11.85,
+      "value": 20737500
+    },
+    {
+      "date": "2026-02-06",
+      "person": "Crescent Star Insurance limited",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 1750000,
+      "price": 11.71,
+      "value": 20492500
+    },
+    {
+      "date": "2026-02-06",
+      "person": "Crescent Star Insurance limited",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 1750000,
+      "price": 11.85,
+      "value": 20737500
+    },
+    {
+      "date": "2026-01-09",
+      "person": "Sohail Ahmed",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 16145,
+      "price": 33.0,
+      "value": 532785
+    },
+    {
+      "date": "2026-01-09",
+      "person": "Crescent Star Insurance limited",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 1070000,
+      "price": 22.5,
+      "value": 24075000
+    },
+    {
+      "date": "2026-01-08",
+      "person": "Sohail Ahmed",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 25000,
+      "price": 30.17,
+      "value": 754250
+    },
+    {
+      "date": "2026-01-08",
+      "person": "Crescent Star Insurance limited",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 1000000,
+      "price": 22.5,
+      "value": 22500000
+    },
+    {
+      "date": "2026-01-06",
+      "person": "Crescent Star Insurance Limited",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 2600000,
+      "price": 22.5,
+      "value": 58500000
+    },
+    {
+      "date": "2026-01-01",
+      "person": "Sohail Ahmed",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 25000,
+      "price": 33.15,
+      "value": 828750
+    },
+    {
+      "date": "2025-12-23",
+      "person": "Sohail Ahmed",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 80000,
+      "price": 37.54,
+      "value": 3003200
+    },
+    {
+      "date": "2025-12-22",
+      "person": "Sohail Ahmed",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 80355,
+      "price": 34.8,
+      "value": 2796354
+    },
+    {
+      "date": "2025-12-10",
+      "person": "Sohail Ahmed",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 6113,
+      "price": 27.48,
+      "value": 167985
+    },
+    {
+      "date": "2025-11-24",
+      "person": "Sohail Ahmed",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 20000,
+      "price": 18.49,
+      "value": 369800
+    },
+    {
+      "date": "2025-11-21",
+      "person": "Sohail Ahmed",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 25000,
+      "price": 16.01,
+      "value": 400250
+    },
+    {
+      "date": "2025-11-20",
+      "person": "Sohail Ahmed",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 50000,
+      "price": 13.1,
+      "value": 655000
+    },
+    {
+      "date": "2025-11-20",
+      "person": "Sohail Ahmed",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 25000,
+      "price": 15.25,
+      "value": 381250
+    },
+    {
+      "date": "2025-11-17",
+      "person": "Crescent Star Insurance limited",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 1000000,
+      "price": 12.86,
+      "value": 12860000
+    },
+    {
+      "date": "2025-11-17",
+      "person": "Sohail Ahmed",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 50000,
+      "price": 12.9,
+      "value": 645000
+    },
+    {
+      "date": "2025-11-17",
+      "person": "Sohail Ahmed",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 50000,
+      "price": 13.3,
+      "value": 665000
+    },
+    {
+      "date": "2025-11-17",
+      "person": "Crescent Star Insurance limited",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 1000000,
+      "price": 13.1,
+      "value": 13100000
+    },
+    {
+      "date": "2025-11-13",
+      "person": "Sohail Ahmed",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 100000,
+      "price": 12.6,
+      "value": 1260000
+    },
+    {
+      "date": "2025-11-12",
+      "person": "Sohail Ahmed",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 6033,
+      "price": 12.8,
+      "value": 77222
+    },
+    {
+      "date": "2025-11-10",
+      "person": "Sohail Ahmed",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 12,
+      "price": 12.3,
+      "value": 148
+    },
+    {
+      "date": "2025-10-28",
+      "person": "Crescent Star Insurance Limited",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 800000,
+      "price": 12.5,
+      "value": 10000000
+    },
+    {
+      "date": "2025-10-20",
+      "person": "Sohail Ahmed",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 200000,
+      "price": 11.0,
+      "value": 2200000
+    },
+    {
+      "date": "2025-09-29",
+      "person": "Sohail Ahmed",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 15000,
+      "price": 14.9,
+      "value": 223500
+    },
+    {
+      "date": "2025-09-29",
+      "person": "Sohail Ahmed",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 256000,
+      "price": 12.18,
+      "value": 3118080
+    },
+    {
+      "date": "2025-09-26",
+      "person": "Sohail Ahmed",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 8000,
+      "price": 13.31,
+      "value": 106480
+    },
+    {
+      "date": "2025-09-25",
+      "person": "Sohail Ahmed",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 10000,
+      "price": 12.1,
+      "value": 121000
+    },
+    {
+      "date": "2025-09-19",
+      "person": "Sohail Ahmed",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 180000,
+      "price": 8.5,
+      "value": 1530000
+    },
+    {
+      "date": "2025-09-19",
+      "person": "Sohail Ahmed",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 10000,
+      "price": 10.25,
+      "value": 102500
+    },
+    {
+      "date": "2025-09-04",
+      "person": "Sohail Ahmed",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 20000,
+      "price": 12.1,
+      "value": 242000
+    },
+    {
+      "date": "2025-08-28",
+      "person": "Sohail Ahmed",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 10000,
+      "price": 12.5,
+      "value": 125000
+    },
+    {
+      "date": "2025-08-22",
+      "person": "Sohail Ahmed",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 50000,
+      "price": 13.18,
+      "value": 659000
+    },
+    {
+      "date": "2025-08-21",
+      "person": "Sohail Ahmed",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 750000,
+      "price": 6.0,
+      "value": 4500000
+    },
+    {
+      "date": "2025-08-08",
+      "person": "Sohail Ahmed",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 824000,
+      "price": 6.0,
+      "value": 4944000
+    },
+    {
+      "date": "2025-07-29",
+      "person": "Sohail Ahmed",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 1500,
+      "price": 7.73,
+      "value": 11595
+    },
+    {
+      "date": "2025-07-29",
+      "person": "Sohail Ahmed",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 100000,
+      "price": 7.0,
+      "value": 700000
+    },
+    {
+      "date": "2025-07-29",
+      "person": "Sohail Ahmed",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 5000,
+      "price": 8.0,
+      "value": 40000
+    },
+    {
+      "date": "2025-07-29",
+      "person": "Sohail Ahmed",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 200000,
+      "price": 6.0,
+      "value": 1200000
+    },
+    {
+      "date": "2025-07-29",
+      "person": "Sohail Ahmed",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 1005333,
+      "price": 6.0,
+      "value": 6031998
+    },
+    {
+      "date": "2025-07-25",
+      "person": "Sohail Ahmed",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 105000,
+      "price": 8.0,
+      "value": 840000
+    },
+    {
+      "date": "2025-07-25",
+      "person": "Sohail Ahmed",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 3000,
+      "price": 8.47,
+      "value": 25410
+    },
+    {
+      "date": "2025-07-25",
+      "person": "Sohail Ahmed",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 5000,
+      "price": 8.1,
+      "value": 40500
+    },
+    {
+      "date": "2025-07-10",
+      "person": "Sohail Ahmed",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 200000,
+      "price": 6.0,
+      "value": 1200000
+    },
+    {
+      "date": "2025-07-07",
+      "person": "Sohail Ahmed",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 200000,
+      "price": 6.0,
+      "value": 1200000
+    },
+    {
+      "date": "2025-07-07",
+      "person": "Sohail Ahmed",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 904,
+      "price": 8.49,
+      "value": 7675
+    },
+    {
+      "date": "2025-06-30",
+      "person": "Sohail Ahmed",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 10000,
+      "price": 9.17,
+      "value": 91700
+    },
+    {
+      "date": "2025-06-30",
+      "person": "Sohail Ahmed",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 200000,
+      "price": 6.0,
+      "value": 1200000
+    },
+    {
+      "date": "2025-06-24",
+      "person": "Sohail Ahmed",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 850533,
+      "price": 6.0,
+      "value": 5103198
+    },
+    {
+      "date": "2025-06-20",
+      "person": "Sohail Ahmed",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 1006833,
+      "price": 7.73,
+      "value": 7782819
+    },
+    {
+      "date": "2025-06-20",
+      "person": "Sohail Ahmed",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 3000,
+      "price": 7.5,
+      "value": 22500
+    },
+    {
+      "date": "2025-06-16",
+      "person": "Sohail Ahmed",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 4074,
+      "price": 7.99,
+      "value": 32551
+    },
+    {
+      "date": "2025-06-16",
+      "person": "Sohail Ahmed",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 7016,
+      "price": 7.86,
+      "value": 55146
+    },
+    {
+      "date": "2025-06-16",
+      "person": "Sohail Ahmed",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 5000,
+      "price": 8.0,
+      "value": 40000
+    },
+    {
+      "date": "2025-06-03",
+      "person": "Sohail Ahmed",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 2801,
+      "price": 8.4,
+      "value": 23528
+    },
+    {
+      "date": "2025-06-03",
+      "person": "Sohail Ahmed",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 12000,
+      "price": 7.86,
+      "value": 94320
+    },
+    {
+      "date": "2025-05-21",
+      "person": "Sohail Ahmed",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 3000,
+      "price": 7.2,
+      "value": 21600
+    },
+    {
+      "date": "2025-05-21",
+      "person": "Sohail Ahmed",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 70000,
+      "price": 8.99,
+      "value": 629300
+    },
+    {
+      "date": "2025-05-21",
+      "person": "Sohail Ahmed",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 20000,
+      "price": 7.86,
+      "value": 157200
+    },
+    {
+      "date": "2025-05-21",
+      "person": "Crescent Star Insurance Limited",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 750000,
+      "price": 7.12,
+      "value": 5340000
+    },
+    {
+      "date": "2025-05-19",
+      "person": "Crescent Star Insurance Limited",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 750000,
+      "price": 7.0,
+      "value": 5250000
+    },
+    {
+      "date": "2025-05-19",
+      "person": "Sohail Ahmed",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 1101,
+      "price": 6.56,
+      "value": 7223
+    },
+    {
+      "date": "2025-05-15",
+      "person": "Crescent Star Insurance Limited",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 630000,
+      "price": 7.03,
+      "value": 4428900
+    },
+    {
+      "date": "2025-05-12",
+      "person": "Crescent Star Insurance Limited",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 630000,
+      "price": 6.9,
+      "value": 4347000
+    },
+    {
+      "date": "2025-04-28",
+      "person": "Sohail Ahmed",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 2500,
+      "price": 7.21,
+      "value": 18025
+    },
+    {
+      "date": "2025-04-18",
+      "person": "Sohail Ahmed",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 3000,
+      "price": 7.78,
+      "value": 23340
+    },
+    {
+      "date": "2025-04-14",
+      "person": "Sohail Ahmed",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 1000,
+      "price": 7.81,
+      "value": 7810
+    },
+    {
+      "date": "2025-04-11",
+      "person": "Sohail Ahmed",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 2000,
+      "price": 7.71,
+      "value": 15420
+    },
+    {
+      "date": "2025-03-25",
+      "person": "Sohail Ahmed",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 600000,
+      "price": 6.0,
+      "value": 3600000
+    },
+    {
+      "date": "2025-03-25",
+      "person": "Sohail Ahmed",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 90000,
+      "price": 8.63,
+      "value": 776700
+    },
+    {
+      "date": "2025-03-20",
+      "person": "Sohail Ahmed",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 3000,
+      "price": 5.8,
+      "value": 17400
+    },
+    {
+      "date": "2025-01-03",
+      "person": "Sohail Ahmed",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 358,
+      "price": 10.2,
+      "value": 3652
+    },
+    {
+      "date": "2024-12-24",
+      "person": "Sohail Ahmed",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 10000,
+      "price": 11.65,
+      "value": 116500
+    },
+    {
+      "date": "2024-12-23",
+      "person": "Sohail Ahmed",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 15738,
+      "price": 10.8,
+      "value": 169970
+    },
+    {
+      "date": "2024-12-20",
+      "person": "Sohail Ahmed",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 65000,
+      "price": 10.17,
+      "value": 661050
+    },
+    {
+      "date": "2024-12-19",
+      "person": "Sohail Ahmed",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 16500,
+      "price": 8.61,
+      "value": 142065
+    },
+    {
+      "date": "2024-12-18",
+      "person": "Sohail Ahmed",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 3000,
+      "price": 8.2,
+      "value": 24600
+    },
+    {
+      "date": "2024-12-11",
+      "person": "Crescent Star Insurance Limited",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 62000,
+      "price": 8.5,
+      "value": 527000
+    },
+    {
+      "date": "2024-12-10",
+      "person": "Sohail Ahmed",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 2000,
+      "price": 8.42,
+      "value": 16840
+    },
+    {
+      "date": "2024-11-22",
+      "person": "Sohail Ahmed",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 1500,
+      "price": 9.15,
+      "value": 13725
+    },
+    {
+      "date": "2024-10-25",
+      "person": "Sohail Ahmed",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 4500,
+      "price": 9.16,
+      "value": 41220
+    },
+    {
+      "date": "2024-10-02",
+      "person": "Sohail Ahmed",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 12000,
+      "price": 8.01,
+      "value": 96120
+    },
+    {
+      "date": "2024-10-02",
+      "person": "Sohail Ahmed",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 5330,
+      "price": 8.73,
+      "value": 46531
+    },
+    {
+      "date": "2024-09-18",
+      "person": "Sohail Ahmed",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 3000,
+      "price": 9.8,
+      "value": 29400
+    },
+    {
+      "date": "2024-09-18",
+      "person": "Sohail Ahmed",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 1000,
+      "price": 9.04,
+      "value": 9040
+    },
+    {
+      "date": "2024-09-12",
+      "person": "Sohail Ahmed",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 3000,
+      "price": 10.26,
+      "value": 30780
+    },
+    {
+      "date": "2024-09-05",
+      "person": "Sohail Ahmed",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 5530,
+      "price": 10.94,
+      "value": 60498
+    },
+    {
+      "date": "2024-09-05",
+      "person": "Sohail Ahmed",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 441,
+      "price": 11.2,
+      "value": 4939
+    },
+    {
+      "date": "2024-09-05",
+      "person": "Sohail Ahmed",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 8229,
+      "price": 10.93,
+      "value": 89943
+    },
+    {
+      "date": "2024-09-03",
+      "person": "Sohail Ahmed",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 2000,
+      "price": 10.68,
+      "value": 21360
+    },
+    {
+      "date": "2024-09-02",
+      "person": "Sohail Ahmed",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 5500,
+      "price": 10.97,
+      "value": 60335
+    },
+    {
+      "date": "2024-08-29",
+      "person": "Sohail Ahmed",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 7000,
+      "price": 11.41,
+      "value": 79870
+    }
+  ]
+}

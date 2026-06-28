@@ -1,0 +1,222 @@
+{
+  "source": "sarmaaya.pk (insider transactions, #insider-transactions table)",
+  "as_of": "2026-06-27",
+  "transactions": [
+    {
+      "date": "2026-06-23",
+      "person": "Sadia Dada",
+      "role": "Executive",
+      "action": "Sell",
+      "shares": 1,
+      "price": 8.0,
+      "value": 8
+    },
+    {
+      "date": "2026-06-22",
+      "person": "Sadia Dada",
+      "role": "Executive",
+      "action": "Sell",
+      "shares": 1,
+      "price": 8.0,
+      "value": 8
+    },
+    {
+      "date": "2026-06-22",
+      "person": "Sadia Dada",
+      "role": "Executive",
+      "action": "Sell",
+      "shares": 1,
+      "price": 8.0,
+      "value": 8
+    },
+    {
+      "date": "2026-06-22",
+      "person": "Sadia Dada",
+      "role": "Executive",
+      "action": "Sell",
+      "shares": 1,
+      "price": 8.0,
+      "value": 8
+    },
+    {
+      "date": "2026-05-12",
+      "person": "Faisal",
+      "role": "Executive",
+      "action": "Sell",
+      "shares": 3000,
+      "price": 8.28,
+      "value": 24840
+    },
+    {
+      "date": "2026-05-07",
+      "person": "Faisal",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 3000,
+      "price": 8.0,
+      "value": 24000
+    },
+    {
+      "date": "2026-03-17",
+      "person": "Adeeb Ahmad",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 500,
+      "price": 7.0,
+      "value": 3500
+    },
+    {
+      "date": "2026-02-10",
+      "person": "Zulfiqar Ali",
+      "role": "Executive",
+      "action": "Sell",
+      "shares": 645000,
+      "price": 8.6,
+      "value": 5547000
+    },
+    {
+      "date": "2026-01-28",
+      "person": "Atif Aslam",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 10100,
+      "price": 6.76,
+      "value": 68276
+    },
+    {
+      "date": "2026-01-05",
+      "person": "Osama Changi",
+      "role": "Executive",
+      "action": "Sell",
+      "shares": 42565,
+      "price": 5.88,
+      "value": 250282
+    },
+    {
+      "date": "2026-01-05",
+      "person": "Osama Changi",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 42565,
+      "price": 5.89,
+      "value": 250708
+    },
+    {
+      "date": "2025-10-09",
+      "person": "Shiraz Ahmed",
+      "role": "Executive",
+      "action": "Sell",
+      "shares": 15000,
+      "price": 7.32,
+      "value": 109800
+    },
+    {
+      "date": "2025-10-07",
+      "person": "Shiraz Ahmed",
+      "role": "Executive",
+      "action": "Sell",
+      "shares": 18000,
+      "price": 7.34,
+      "value": 132120
+    },
+    {
+      "date": "2025-10-07",
+      "person": "Shiraz Ahmed",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 33000,
+      "price": 7.14,
+      "value": 235620
+    },
+    {
+      "date": "2025-09-30",
+      "person": "Maryam Ali (Spouse of Muhammad Haris Sarfaraz)",
+      "role": "Executive",
+      "action": "Sell",
+      "shares": 100000,
+      "price": 6.77,
+      "value": 677000
+    },
+    {
+      "date": "2025-05-27",
+      "person": "Hafiz Noman",
+      "role": "Executive",
+      "action": "Sell",
+      "shares": 30000,
+      "price": 5.73,
+      "value": 171900
+    },
+    {
+      "date": "2025-04-28",
+      "person": "SYED MOHAMMAD ASIF KAZMI",
+      "role": "Executive",
+      "action": "Sell",
+      "shares": 100000,
+      "price": 4.24,
+      "value": 424000
+    },
+    {
+      "date": "2025-04-24",
+      "person": "SYED MUHAMMAD ASIF KAZMI",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 2050000,
+      "price": 4.46,
+      "value": 9143000
+    },
+    {
+      "date": "2025-04-24",
+      "person": "SYED MUHAMMAD ASIF KAZMI",
+      "role": "Executive",
+      "action": "Sell",
+      "shares": 1050000,
+      "price": 4.58,
+      "value": 4809000
+    },
+    {
+      "date": "2024-01-05",
+      "person": "MUHAMMAD FAIZAN PASHA",
+      "role": "Executive",
+      "action": "Sell",
+      "shares": 40000,
+      "price": 6.03,
+      "value": 241200
+    },
+    {
+      "date": "2023-11-27",
+      "person": "TARIQ MAHMOOD MUNAWAR",
+      "role": "Executive",
+      "action": "Sell",
+      "shares": 100000,
+      "price": 3.13,
+      "value": 313000
+    },
+    {
+      "date": "2023-10-19",
+      "person": "TARIQ MAHMOOD MUNAWAR",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 100000,
+      "price": 2.39,
+      "value": 239000
+    },
+    {
+      "date": "2022-08-25",
+      "person": "Aneek Saleh Mohammad",
+      "role": "Spouse",
+      "action": "Buy",
+      "shares": 100000,
+      "price": 3.37,
+      "value": 337000
+    },
+    {
+      "date": "2022-08-25",
+      "person": "Aneek Saleh Mohammad",
+      "role": "Spouse",
+      "action": "Sell",
+      "shares": 100000,
+      "price": 3.41,
+      "value": 341000
+    }
+  ]
+}

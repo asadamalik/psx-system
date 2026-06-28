@@ -1,0 +1,96 @@
+{
+  "source": "sarmaaya.pk (insider transactions, #insider-transactions table)",
+  "as_of": "2026-06-27",
+  "transactions": [
+    {
+      "date": "2026-04-07",
+      "person": "Alishan Feroz Ali Lakhani",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 2000,
+      "price": 6.75,
+      "value": 13500
+    },
+    {
+      "date": "2026-03-10",
+      "person": "Alishan Feroz Ali Lakhani",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 2000,
+      "price": 6.72,
+      "value": 13440
+    },
+    {
+      "date": "2025-04-22",
+      "person": "Uzma Abbasi",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 23255814,
+      "price": 8.6,
+      "value": 200000000
+    },
+    {
+      "date": "2025-01-07",
+      "person": "Uzma Abbas",
+      "role": "Non Executive Director",
+      "action": "Buy",
+      "shares": 100000000,
+      "price": 6.08,
+      "value": 608000000
+    },
+    {
+      "date": "2023-02-10",
+      "person": "Suhail Ahmed",
+      "role": "Executive",
+      "action": "Sell",
+      "shares": 2000,
+      "price": 3.78,
+      "value": 7560
+    },
+    {
+      "date": "2023-02-10",
+      "person": "Suhail Ahmed",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 2000,
+      "price": 4.06,
+      "value": 8120
+    },
+    {
+      "date": "2022-01-05",
+      "person": "Sadia Kamal",
+      "role": "Spouse",
+      "action": "Buy",
+      "shares": 5000,
+      "price": 6.78,
+      "value": 33900
+    },
+    {
+      "date": "2022-01-05",
+      "person": "Sadia Kamal",
+      "role": "Spouse",
+      "action": "Buy",
+      "shares": 10000,
+      "price": 6.85,
+      "value": 68500
+    },
+    {
+      "date": "2015-04-22",
+      "person": "Uzma Abbasi",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 57142857,
+      "price": 5.43,
+      "value": 310285714
+    },
+    {
+      "date": "2014-04-22",
+      "person": "Amir Waheed Ahmed",
+      "role": "Independent Director",
+      "action": "Buy",
+      "shares": 65500,
+      "price": 5.95,
+      "value": 389725
+    }
+  ]
+}

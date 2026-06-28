@@ -1,0 +1,186 @@
+{
+  "symbol": "LOTCHEM",
+  "generated": "2026-06-28 01:18",
+  "scores": {
+    "fundamental_score": 36.6,
+    "technical_score": 71.1,
+    "overall_score": 47.0,
+    "rating": "Reduce",
+    "risk": "Medium",
+    "risk_score": 53.3,
+    "weights": {
+      "fundamental": 0.7,
+      "technical": 0.3
+    },
+    "fundamental_detail": {
+      "fundamental_score": 36.6,
+      "pillars": {
+        "growth": 22.0,
+        "profitability": 19.8,
+        "financial_strength": 66.5,
+        "valuation": 49.5
+      },
+      "coverage": {
+        "growth": {
+          "used": [
+            "revenue_growth_5y",
+            "net_income_growth_5y",
+            "sales_growth"
+          ],
+          "missing": [
+            "eps_growth"
+          ]
+        },
+        "profitability": {
+          "used": [
+            "roe",
+            "roa",
+            "gross_margin",
+            "operating_margin",
+            "net_margin"
+          ],
+          "missing": []
+        },
+        "financial_strength": {
+          "used": [
+            "debt_to_equity",
+            "current_ratio",
+            "interest_coverage",
+            "fcf_margin"
+          ],
+          "missing": []
+        },
+        "valuation": {
+          "used": [
+            "pe_ratio",
+            "price_to_book"
+          ],
+          "missing": [
+            "peg"
+          ]
+        }
+      },
+      "weight_covered": 1.0
+    }
+  },
+  "technical": {
+    "technical_score": 71.1,
+    "trend": "Strong Bullish",
+    "momentum": "Neutral",
+    "adx_strength": "Strong",
+    "rsi_divergence": {
+      "type": "bearish",
+      "label": "Bearish RSI divergence",
+      "note": "Price made a higher high (29.00\u219229.19) while RSI made a lower high (65.4\u219262.7) \u2014 upward momentum is fading; watch for a pullback.",
+      "price_from": 29.0,
+      "price_to": 29.19,
+      "rsi_from": 65.4,
+      "rsi_to": 62.7,
+      "bars_ago": 11
+    },
+    "notes": [
+      "Trend: Strong Bullish",
+      "EMA20 > EMA50",
+      "ADX 31.8 (Strong); DI + dominant",
+      "RSI 50.3 (Neutral)",
+      "MACD below signal",
+      "\u26a0 Bearish RSI divergence (11 bars ago): Price made a higher high (29.00\u219229.19) while RSI made a lower high (65.4\u219262.7) \u2014 upward momentum is fading; watch for a pullback."
+    ]
+  },
+  "technical_snapshot": {
+    "as_of": "2026-06-24",
+    "bars": 1237,
+    "close": 28.07,
+    "sma_20": 28.470999999999997,
+    "sma_50": 27.582399999999996,
+    "sma_200": 26.722150000000003,
+    "ema_20": 28.235475515726584,
+    "ema_50": 27.416854932693074,
+    "ema_100": 26.737316522799578,
+    "ema_200": 25.81346298157499,
+    "obv": 701476595.0,
+    "weekly_trend": "Up",
+    "monthly_trend": "Up",
+    "support_resistance": {
+      "price": 28.07,
+      "nearest_resistance": 28.45,
+      "nearest_support": 27.87,
+      "resistance_levels": [
+        28.45,
+        30.26,
+        30.89
+      ],
+      "support_levels": [
+        27.87,
+        27.3,
+        25.7
+      ]
+    },
+    "rsi_14": 50.298057675826826,
+    "macd": 0.31252336246512513,
+    "macd_signal": 0.4380210054161856,
+    "macd_hist": -0.12549764295106047,
+    "adx_14": 31.799541580006316,
+    "plus_di": 24.738328047703373,
+    "minus_di": 13.90553046895247,
+    "atr_14": 1.000586738136373,
+    "bb_upper": 29.31006853116958,
+    "bb_lower": 27.631931468830413,
+    "week52_high": 33.94,
+    "week52_low": 18.67,
+    "rsi_divergence": {
+      "type": "bearish",
+      "label": "Bearish RSI divergence",
+      "note": "Price made a higher high (29.00\u219229.19) while RSI made a lower high (65.4\u219262.7) \u2014 upward momentum is fading; watch for a pullback.",
+      "price_from": 29.0,
+      "price_to": 29.19,
+      "rsi_from": 65.4,
+      "rsi_to": 62.7,
+      "bars_ago": 11
+    },
+    "patterns": [
+      {
+        "name": "Double Bottom",
+        "type": "bullish",
+        "confidence": 0.34,
+        "status": "forming",
+        "neckline": 30.2,
+        "target": 33.1,
+        "note": "Two near-equal troughs; breaks up above the peak (neckline)."
+      }
+    ]
+  },
+  "growth": {
+    "revenue_growth_5y": 0.04763685882449842,
+    "net_income_growth_5y": -0.2993391514445406,
+    "equity_growth_5y": 0.05525597661220649,
+    "debt_change_5y": -0.3653409090909091
+  },
+  "metrics": {
+    "revenue_growth_5y": 0.04763685882449842,
+    "net_income_growth_5y": -0.2993391514445406,
+    "eps_growth": null,
+    "sales_growth": 0.04763685882449842,
+    "roe": 0.0476,
+    "roa": 0.0234,
+    "gross_margin": 0.0372,
+    "operating_margin": 0.02171629154461295,
+    "net_margin": 0.013830694501093848,
+    "debt_to_equity": 0.04746727859935407,
+    "current_ratio": 1.609490567605751,
+    "interest_coverage": 13.16992729180721,
+    "fcf_margin": -0.013963439504616412,
+    "pe_ratio": 22.06,
+    "price_to_book": 2.44,
+    "peg": null
+  },
+  "latest": {
+    "revenue": 80907.0,
+    "net_income": 1119.0,
+    "equity": 23532.0,
+    "total_assets": 47803.0,
+    "total_debt": 1117.0,
+    "operating_cash_flow": -281.68,
+    "capex": 848.06
+  }
+}

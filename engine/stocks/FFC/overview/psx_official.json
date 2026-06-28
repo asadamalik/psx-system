@@ -1,0 +1,18 @@
+{
+  "source": "PSX DPS (dps.psx.com.pk/company/FFC)",
+  "basis": "unconsolidated",
+  "as_of": "2026-06-27",
+  "currency": "PKR",
+  "units": "millions",
+  "shares_outstanding": 1439.023262,
+  "free_float_pct": 0.55,
+  "free_float_shares": 791.462794,
+  "market_cap": 803953.52,
+  "pe_ratio_ttm": 10.25,
+  "yearend_close": {"2022": 98.71, "2023": 113.19, "2024": 366.32, "2025": 590.71},
+  "annual": {
+    "sales": {"2022": 109363.817, "2023": 159471.951, "2024": 373536.92, "2025": 432410.443},
+    "profit_after_tax": {"2022": 20049.51, "2023": 29673.348, "2024": 64731.439, "2025": 73564.267},
+    "eps": {"2022": 15.76, "2023": 23.32, "2024": 45.49, "2025": 51.69}
+  }
+}

@@ -1,0 +1,1284 @@
+{
+  "symbol": "AVN",
+  "income_statement_annual": {
+    "revenue": {
+      "2021": 7118,
+      "2022": 9538,
+      "2023": 17767,
+      "2024": 16156,
+      "2025": 15885
+    },
+    "gross_profit": {
+      "2021": 2278,
+      "2022": 2507,
+      "2023": 5606,
+      "2024": 4260,
+      "2025": 4162
+    },
+    "operating_income": {
+      "2021": 1371,
+      "2022": 720.93,
+      "2023": 3968,
+      "2024": 1848,
+      "2025": 1310
+    },
+    "net_income": {
+      "2021": 1577,
+      "2022": 846.06,
+      "2023": 2515,
+      "2024": 2009,
+      "2025": 647.37
+    },
+    "eps": {
+      "2021": 3.77,
+      "2022": 2.02,
+      "2023": 5.99,
+      "2024": 5,
+      "2025": 1.51
+    },
+    "interest_expense": {
+      "2021": 62.5,
+      "2022": 66.99,
+      "2023": 238.22,
+      "2024": 186.37,
+      "2025": 512.86
+    }
+  },
+  "balance_sheet_annual": {
+    "current_assets": {
+      "2021": 12154,
+      "2022": 16647,
+      "2023": 19269,
+      "2024": 20928,
+      "2025": 22698
+    },
+    "cash_and_equivalents": {
+      "2021": 1312,
+      "2022": 1347,
+      "2023": 1131,
+      "2024": 756.75,
+      "2025": 1085
+    },
+    "inventory": {
+      "2021": 72.81,
+      "2022": 67.11,
+      "2023": 130.27,
+      "2024": 173.62,
+      "2025": 238.73
+    },
+    "total_assets": {
+      "2021": 13679,
+      "2022": 18359,
+      "2023": 25958,
+      "2024": 28163,
+      "2025": 30334
+    },
+    "current_liabilities": {
+      "2021": 5153,
+      "2022": 8806,
+      "2023": 12181,
+      "2024": 12844,
+      "2025": 14058
+    },
+    "total_liabilities": {
+      "2021": 5346,
+      "2022": 9271,
+      "2023": 12868,
+      "2024": 13501,
+      "2025": 14718
+    },
+    "total_debt": {
+      "2021": 853.68,
+      "2022": 986.09,
+      "2023": 1737,
+      "2024": 1959,
+      "2025": 3417
+    },
+    "total_equity": {
+      "2021": 8333,
+      "2022": 9088,
+      "2023": 13090,
+      "2024": 14662,
+      "2025": 15615
+    }
+  },
+  "cashflow_annual": {
+    "cash_from_operations": {
+      "2021": -83.3,
+      "2022": 187.61,
+      "2023": -394.94,
+      "2024": 751.41,
+      "2025": -638.99
+    },
+    "cash_from_investing": {
+      "2021": -270.57,
+      "2022": 109.42,
+      "2023": -475.46,
+      "2024": -586.99,
+      "2025": -498.55
+    },
+    "cash_from_financing": {
+      "2021": 1139,
+      "2022": -262.09,
+      "2023": 654.38,
+      "2024": -538.93,
+      "2025": 1466
+    },
+    "capex": {
+      "2021": 26.38,
+      "2022": 115.32,
+      "2023": 338.35,
+      "2024": 283.71,
+      "2025": 371.97
+    }
+  },
+  "income_statement_quarterly": {
+    "revenue": {
+      "2026-03": 3761,
+      "2025-12": 8482,
+      "2025-09": 2166,
+      "2025-06": 2717,
+      "2025-03": 2521,
+      "2024-12": 7019,
+      "2024-09": 3882,
+      "2024-06": 3282,
+      "2024-03": 1974,
+      "2023-12": 9619,
+      "2023-09": 2244,
+      "2023-06": 4706,
+      "2023-03": 1198,
+      "2022-12": 4925,
+      "2022-09": 2304,
+      "2022-06": 979.57,
+      "2022-03": 1330,
+      "2021-12": 3520,
+      "2021-09": 1217,
+      "2021-06": 1102
+    },
+    "gross_profit": {
+      "2026-03": 894.79,
+      "2025-12": 2182,
+      "2025-09": 363.64,
+      "2025-06": 638.73,
+      "2025-03": 977.96,
+      "2024-12": 1705,
+      "2024-09": 950.93,
+      "2024-06": 908.05,
+      "2024-03": 696.3,
+      "2023-12": 3221,
+      "2023-09": 675.03,
+      "2023-06": 1463,
+      "2023-03": 246.58,
+      "2022-12": 1242,
+      "2022-09": 531.22,
+      "2022-06": 269.82,
+      "2022-03": 463.74,
+      "2021-12": 1229,
+      "2021-09": 316.82,
+      "2021-06": 268.88
+    },
+    "operating_income": {
+      "2026-03": 170.53,
+      "2025-12": 1060,
+      "2025-09": -211.77,
+      "2025-06": -9.89,
+      "2025-03": 381.87,
+      "2024-12": 1090,
+      "2024-09": 400.13,
+      "2024-06": 113.35,
+      "2024-03": 223.01,
+      "2023-12": 3399,
+      "2023-09": 402.03,
+      "2023-06": 472.69,
+      "2023-03": -648.21,
+      "2022-12": 1481,
+      "2022-09": 511.65,
+      "2022-06": -1533,
+      "2022-03": 261.68,
+      "2021-12": 833.79,
+      "2021-09": 213.92,
+      "2021-06": -35.56
+    },
+    "net_income": {
+      "2026-03": 54.05,
+      "2025-12": 797.81,
+      "2025-09": -310.63,
+      "2025-06": -109.09,
+      "2025-03": 269.27,
+      "2024-12": 1695,
+      "2024-09": 308.7,
+      "2024-06": 25.84,
+      "2024-03": -21.19,
+      "2023-12": 1524,
+      "2023-09": 272.46,
+      "2023-06": 412.02,
+      "2023-03": 306.56,
+      "2022-12": 115.86,
+      "2022-09": 399.83,
+      "2022-06": -9.13,
+      "2022-03": 339.5,
+      "2021-12": 1005,
+      "2021-09": 98.9,
+      "2021-06": 228.38
+    },
+    "eps": {
+      "2026-03": 0.13,
+      "2025-12": 1.73,
+      "2025-09": -0.75,
+      "2025-06": -0.25,
+      "2025-03": 0.63,
+      "2024-12": 4.22,
+      "2024-09": 0.72,
+      "2024-06": 0.06,
+      "2024-03": -0.05,
+      "2023-12": 3.26,
+      "2023-09": 0.72,
+      "2023-06": 1.06,
+      "2023-03": 0.76,
+      "2022-12": 0.23,
+      "2022-09": 1.16,
+      "2022-06": -0.03,
+      "2022-03": 0.81,
+      "2021-12": 1.83,
+      "2021-09": 0.26,
+      "2021-06": 0.56
+    },
+    "interest_expense": {
+      "2026-03": 93.91,
+      "2025-12": 162.56,
+      "2025-09": 95.67,
+      "2025-06": 108.36,
+      "2025-03": 146.69,
+      "2024-09": 77.12,
+      "2024-06": 91.92,
+      "2024-03": 120.75,
+      "2023-12": 29.93,
+      "2023-09": 90.55,
+      "2023-06": 60.14,
+      "2023-03": 57.6,
+      "2022-09": 65.77,
+      "2022-06": 36.73,
+      "2022-03": 46.25,
+      "2021-09": 31.25,
+      "2021-06": 33.41
+    }
+  },
+  "balance_sheet_quarterly": {
+    "current_assets": {
+      "2026-03": 22519,
+      "2025-12": 22698,
+      "2025-09": 21044,
+      "2025-06": 19779,
+      "2025-03": 4587,
+      "2024-12": 20928,
+      "2024-09": 16917,
+      "2024-06": 3863,
+      "2024-03": 18891,
+      "2023-12": 19269,
+      "2023-09": 19958,
+      "2023-06": 19510,
+      "2023-03": 23263,
+      "2022-12": 16647,
+      "2022-09": 15260,
+      "2022-06": 13040,
+      "2022-03": 12408,
+      "2021-12": 12154,
+      "2021-09": 9745,
+      "2021-06": 8029
+    },
+    "cash_and_equivalents": {
+      "2026-03": 494.49,
+      "2025-12": 1085,
+      "2025-09": 648.84,
+      "2025-06": 491.75,
+      "2025-03": 59.04,
+      "2024-12": 756.75,
+      "2024-09": 808.79,
+      "2024-06": 60.68,
+      "2024-03": 2681,
+      "2023-12": 1131,
+      "2023-09": 1667,
+      "2023-06": 1506,
+      "2023-03": 2817,
+      "2022-12": 1347,
+      "2022-09": 1019,
+      "2022-06": 934.46,
+      "2022-03": 936.37,
+      "2021-12": 1312,
+      "2021-09": 1315,
+      "2021-06": 316.45
+    },
+    "inventory": {
+      "2026-03": 694.05,
+      "2025-12": 238.73,
+      "2025-09": 954.96,
+      "2025-06": 377.26,
+      "2025-03": 124.09,
+      "2024-12": 173.62,
+      "2024-09": 242.33,
+      "2024-06": 123.04,
+      "2024-03": 345.93,
+      "2023-12": 130.27,
+      "2023-09": 720.6,
+      "2023-06": 211.27,
+      "2023-03": 280.27,
+      "2022-12": 67.11,
+      "2022-09": 211.32,
+      "2022-06": 252.68,
+      "2022-03": 143.96,
+      "2021-12": 72.81,
+      "2021-09": 276.26,
+      "2021-06": 150.47
+    },
+    "total_assets": {
+      "2026-03": 30222,
+      "2025-12": 30334,
+      "2025-09": 28549,
+      "2025-06": 27307,
+      "2025-03": 11013,
+      "2024-12": 28163,
+      "2024-09": 23940,
+      "2024-06": 10088,
+      "2024-03": 25660,
+      "2023-12": 25958,
+      "2023-09": 26510,
+      "2023-06": 25971,
+      "2023-03": 25093,
+      "2022-12": 18359,
+      "2022-09": 17426,
+      "2022-06": 14978,
+      "2022-03": 14169,
+      "2021-12": 13679,
+      "2021-09": 11187,
+      "2021-06": 9394
+    },
+    "current_liabilities": {
+      "2026-03": 13845,
+      "2025-12": 14058,
+      "2025-09": 13032,
+      "2025-06": 11353,
+      "2025-03": 2979,
+      "2024-12": 12844,
+      "2024-09": 10667,
+      "2024-06": 2785,
+      "2024-03": 11952,
+      "2023-12": 12181,
+      "2023-09": 10753,
+      "2023-06": 10280,
+      "2023-03": 10407,
+      "2022-12": 8806,
+      "2022-09": 6440,
+      "2022-06": 5222,
+      "2022-03": 5007,
+      "2021-12": 5153,
+      "2021-09": 4924,
+      "2021-06": 3362
+    },
+    "total_liabilities": {
+      "2026-03": 14496,
+      "2025-12": 14718,
+      "2025-09": 13627,
+      "2025-06": 12025,
+      "2025-03": 3062,
+      "2024-12": 13501,
+      "2024-09": 11339,
+      "2024-06": 2900,
+      "2024-03": 12597,
+      "2023-12": 12868,
+      "2023-09": 11398,
+      "2023-06": 10933,
+      "2023-03": 11011,
+      "2022-12": 9271,
+      "2022-09": 6797,
+      "2022-06": 5522,
+      "2022-03": 5212,
+      "2021-12": 5346,
+      "2021-09": 5066,
+      "2021-06": 3505
+    },
+    "total_debt": {
+      "2026-03": 2829,
+      "2025-12": 3417,
+      "2025-09": 2539,
+      "2025-06": 2674,
+      "2025-03": 802.86,
+      "2024-12": 1959,
+      "2024-09": 1123,
+      "2024-06": 513,
+      "2024-03": 1972,
+      "2023-12": 1737,
+      "2023-09": 1670,
+      "2023-06": 1246,
+      "2023-03": 1386,
+      "2022-12": 986.09,
+      "2022-09": 652.64,
+      "2022-06": 647.75,
+      "2022-03": 859.55,
+      "2021-12": 853.68,
+      "2021-09": 539.84,
+      "2021-06": 498.53
+    },
+    "total_equity": {
+      "2026-03": 15726,
+      "2025-12": 15615,
+      "2025-09": 14922,
+      "2025-06": 15282,
+      "2025-03": 7952,
+      "2024-12": 14662,
+      "2024-09": 12601,
+      "2024-06": 7188,
+      "2024-03": 13062,
+      "2023-12": 13090,
+      "2023-09": 15112,
+      "2023-06": 15038,
+      "2023-03": 14082,
+      "2022-12": 9088,
+      "2022-09": 10629,
+      "2022-06": 9456,
+      "2022-03": 8957,
+      "2021-12": 8333,
+      "2021-09": 6121,
+      "2021-06": 5889
+    }
+  },
+  "cashflow_quarterly": {
+    "cash_from_operations": {
+      "2026-03": 124.49,
+      "2025-12": -340.14,
+      "2025-09": 288.49,
+      "2025-06": -604.5,
+      "2025-03": 17.16,
+      "2024-12": -731.2,
+      "2024-09": 1046,
+      "2024-06": 445.68,
+      "2024-03": 19.76,
+      "2023-12": -301.63,
+      "2023-09": -258.81,
+      "2023-06": -986.84,
+      "2023-03": 1152,
+      "2022-12": 236.53,
+      "2022-09": 189.37,
+      "2022-06": 49.6,
+      "2022-03": -287.89,
+      "2021-12": 173.12,
+      "2021-09": -174.75,
+      "2021-06": -39.12
+    },
+    "cash_from_investing": {
+      "2026-03": -127.83,
+      "2025-12": -43.6,
+      "2025-09": -39.54,
+      "2025-06": -321.11,
+      "2025-03": -94.3,
+      "2024-12": -92.46,
+      "2024-09": -214.69,
+      "2024-06": -307.19,
+      "2024-03": -1.37,
+      "2023-12": -373.19,
+      "2023-09": 15.3,
+      "2023-06": -27.2,
+      "2023-03": -90.37,
+      "2022-12": -92.61,
+      "2022-09": -46.64,
+      "2022-06": 262.31,
+      "2022-03": -13.65,
+      "2021-12": -294.3,
+      "2021-09": -16.81,
+      "2021-06": -18.26
+    },
+    "cash_from_financing": {
+      "2026-03": -587.39,
+      "2025-12": 820.13,
+      "2025-09": -91.87,
+      "2025-06": 620.92,
+      "2025-03": 116.83,
+      "2024-12": 771.62,
+      "2024-09": -339.56,
+      "2024-06": -960.17,
+      "2024-03": -10.83,
+      "2023-12": 138.76,
+      "2023-09": 404.46,
+      "2023-06": -297.01,
+      "2023-03": 408.17,
+      "2022-12": 184.66,
+      "2022-09": -58.49,
+      "2022-06": -313.82,
+      "2022-03": -74.43,
+      "2021-12": 118.87,
+      "2021-09": 1106,
+      "2021-06": -92.69
+    },
+    "capex": {
+      "2026-03": 70.16,
+      "2025-12": 108.01,
+      "2025-09": 69.55,
+      "2025-06": 188.71,
+      "2025-03": 5.7,
+      "2024-12": 127.18,
+      "2024-09": 22.88,
+      "2024-06": 132.43,
+      "2024-03": 1.23,
+      "2023-12": 271.44,
+      "2023-09": 18.52,
+      "2023-06": 3.32,
+      "2023-03": 45.06,
+      "2022-12": 65.78,
+      "2022-09": 19.29,
+      "2022-06": 26.35,
+      "2022-03": 3.9,
+      "2021-12": 18.28,
+      "2021-09": 20.14,
+      "2021-06": 20.27
+    }
+  },
+  "ratios": {
+    "pe_ratio": 36.9,
+    "price_to_book": 1.02,
+    "roe": 0.0415,
+    "roa": 0.0213,
+    "gross_margin": 0.262,
+    "industry_pe": 23.77,
+    "industry_pb": 3.16
+  },
+  "earnings": {
+    "source": "stockanalysis.com (statistics + quarterly)",
+    "as_of": "2026-06-28",
+    "latest_eps": 0.13,
+    "eps_ttm": 1.02,
+    "next_earnings_date": "Aug 24, 2026",
+    "history": [
+      {
+        "period_end": "Mar 2026",
+        "eps": 0.13,
+        "eps_forecast": null,
+        "eps_surprise_pct": null
+      },
+      {
+        "period_end": "Dec 2025",
+        "eps": 1.73,
+        "eps_forecast": null,
+        "eps_surprise_pct": null
+      },
+      {
+        "period_end": "Sep 2025",
+        "eps": -0.75,
+        "eps_forecast": null,
+        "eps_surprise_pct": null
+      },
+      {
+        "period_end": "Jun 2025",
+        "eps": -0.25,
+        "eps_forecast": null,
+        "eps_surprise_pct": null
+      },
+      {
+        "period_end": "Mar 2025",
+        "eps": 0.63,
+        "eps_forecast": null,
+        "eps_surprise_pct": null
+      },
+      {
+        "period_end": "Dec 2024",
+        "eps": 4.22,
+        "eps_forecast": null,
+        "eps_surprise_pct": null
+      },
+      {
+        "period_end": "Sep 2024",
+        "eps": 0.72,
+        "eps_forecast": null,
+        "eps_surprise_pct": null
+      },
+      {
+        "period_end": "Jun 2024",
+        "eps": 0.06,
+        "eps_forecast": null,
+        "eps_surprise_pct": null
+      }
+    ]
+  },
+  "dividends": {
+    "source": "stockanalysis.com (statistics + dividend page)",
+    "as_of": "2026-06-28",
+    "yield": 0.0266,
+    "per_share_ttm": 1,
+    "payout_ratio": 0.0451,
+    "history": [
+      {
+        "ex_date": "2026-05-15",
+        "amount": 1,
+        "type": null,
+        "yield": null
+      },
+      {
+        "ex_date": "2024-04-18",
+        "amount": 2,
+        "type": null,
+        "yield": null
+      },
+      {
+        "ex_date": "2022-04-20",
+        "amount": 0.79051,
+        "type": null,
+        "yield": null
+      },
+      {
+        "ex_date": "2021-05-27",
+        "amount": 0.63241,
+        "type": null,
+        "yield": null
+      }
+    ]
+  },
+  "overview": {
+    "company_name": "Avanceon Limited",
+    "sector": "Technology & Communication",
+    "industry": "Technology & Communication",
+    "market_cap": 16146.9,
+    "shares_outstanding": 429.67,
+    "current_price": 37.58,
+    "currency": "PKR"
+  },
+  "profile": {},
+  "ownership": {},
+  "announcements": {},
+  "insider": {
+    "source": "sarmaaya.pk (insider transactions, #insider-transactions table)",
+    "as_of": "2026-06-28",
+    "transactions": [
+      {
+        "date": "2026-01-28",
+        "person": "Muhammad Shahid Mir",
+        "role": "Executive Director",
+        "action": "Sell",
+        "shares": 80000,
+        "price": 41.94,
+        "value": 3355200
+      },
+      {
+        "date": "2026-01-28",
+        "person": "Faizan Abid",
+        "role": "Executive",
+        "action": "Sell",
+        "shares": 14943,
+        "price": 42.0,
+        "value": 627606
+      },
+      {
+        "date": "2025-11-06",
+        "person": "Ahsan Khalil",
+        "role": "Executive",
+        "action": "Sell",
+        "shares": 8309,
+        "price": 44.86,
+        "value": 372742
+      },
+      {
+        "date": "2025-09-29",
+        "person": "Tanveer Karamat",
+        "role": "Non-Executive Director",
+        "action": "Sell",
+        "shares": 20000,
+        "price": 52.6,
+        "value": 1052000
+      },
+      {
+        "date": "2025-09-24",
+        "person": "Tanveer Karamat",
+        "role": "Non-Executive Director",
+        "action": "Sell",
+        "shares": 10000,
+        "price": 51.71,
+        "value": 517100
+      },
+      {
+        "date": "2025-07-25",
+        "person": "Mohammad Shahid Mir",
+        "role": "Executive Director",
+        "action": "Sell",
+        "shares": 100000,
+        "price": 49.3,
+        "value": 4930000
+      },
+      {
+        "date": "2025-07-25",
+        "person": "Mohammad Shahid Mir",
+        "role": "Executive Director",
+        "action": "Sell",
+        "shares": 200000,
+        "price": 49.09,
+        "value": 9818000
+      },
+      {
+        "date": "2025-07-25",
+        "person": "Tanveer Karamat",
+        "role": "Non-Executive Director",
+        "action": "Sell",
+        "shares": 10000,
+        "price": 49.7,
+        "value": 497000
+      },
+      {
+        "date": "2025-07-25",
+        "person": "Mohammad Shahid Mir",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 1000,
+        "price": 49.4,
+        "value": 49400
+      },
+      {
+        "date": "2025-07-15",
+        "person": "Tanveer Karamat",
+        "role": "Non-Executive Director",
+        "action": "Sell",
+        "shares": 10000,
+        "price": 51.55,
+        "value": 515500
+      },
+      {
+        "date": "2025-07-04",
+        "person": "Tanveer Karamat",
+        "role": "Non-Executive Director",
+        "action": "Sell",
+        "shares": 10000,
+        "price": 50.7,
+        "value": 507000
+      },
+      {
+        "date": "2025-06-26",
+        "person": "Tanveer Karamat",
+        "role": "Non-Executive Director",
+        "action": "Sell",
+        "shares": 60000,
+        "price": 49.0,
+        "value": 2940000
+      },
+      {
+        "date": "2024-12-17",
+        "person": "Tanveer Karamat",
+        "role": "Non-Executive Director",
+        "action": "Sell",
+        "shares": 10000,
+        "price": 57.36,
+        "value": 573600
+      },
+      {
+        "date": "2024-12-13",
+        "person": "Tanveer Karamat",
+        "role": "Non-Executive Director",
+        "action": "Sell",
+        "shares": 30000,
+        "price": 60.33,
+        "value": 1809900
+      },
+      {
+        "date": "2024-08-06",
+        "person": "Muhammad Shahid Mir",
+        "role": "Independent Director",
+        "action": "Sell",
+        "shares": 38670,
+        "price": 64.05,
+        "value": 2476814
+      },
+      {
+        "date": "2024-07-30",
+        "person": "Tanveer Karamat",
+        "role": "Non-Executive Director",
+        "action": "Sell",
+        "shares": 30000,
+        "price": 67.57,
+        "value": 2027100
+      },
+      {
+        "date": "2024-04-15",
+        "person": "Ahsan Khalil",
+        "role": "Executive",
+        "action": "Sell",
+        "shares": 25000,
+        "price": 51.66,
+        "value": 1291500
+      },
+      {
+        "date": "2023-11-24",
+        "person": "Tanveer Karamat",
+        "role": "Non-Executive Director",
+        "action": "Sell",
+        "shares": 20000,
+        "price": 57.94,
+        "value": 1158800
+      },
+      {
+        "date": "2023-11-06",
+        "person": "Tanveer Karamat",
+        "role": "Executive Director",
+        "action": "Sell",
+        "shares": 10000,
+        "price": 50.0,
+        "value": 500000
+      },
+      {
+        "date": "2023-09-05",
+        "person": "Ahsan Khalil",
+        "role": "Executive",
+        "action": "Sell",
+        "shares": 3624,
+        "price": 48.0,
+        "value": 173952
+      },
+      {
+        "date": "2023-08-17",
+        "person": "Ahsan Khalil",
+        "role": "Executive",
+        "action": "Sell",
+        "shares": 15000,
+        "price": 55.59,
+        "value": 833850
+      },
+      {
+        "date": "2023-07-26",
+        "person": "Ahsan Khalil",
+        "role": "Executive",
+        "action": "Sell",
+        "shares": 40000,
+        "price": 55.91,
+        "value": 2236400
+      },
+      {
+        "date": "2023-07-12",
+        "person": "Tanveer Karamat",
+        "role": "Executive Director",
+        "action": "Sell",
+        "shares": 20000,
+        "price": 55.34,
+        "value": 1106800
+      },
+      {
+        "date": "2023-06-12",
+        "person": "Tanveer Karamat",
+        "role": "Executive Director",
+        "action": "Sell",
+        "shares": 5000,
+        "price": 49.44,
+        "value": 247200
+      },
+      {
+        "date": "2023-06-08",
+        "person": "Tanveer Karamat",
+        "role": "Executive Director",
+        "action": "Sell",
+        "shares": 5000,
+        "price": 48.04,
+        "value": 240200
+      },
+      {
+        "date": "2023-06-08",
+        "person": "Tanveer Karamat",
+        "role": "Executive Director",
+        "action": "Sell",
+        "shares": 15000,
+        "price": 47.95,
+        "value": 719250
+      },
+      {
+        "date": "2023-02-09",
+        "person": "Tanveer Karamat",
+        "role": "Executive Director",
+        "action": "Sell",
+        "shares": 5000,
+        "price": 68.09,
+        "value": 340450
+      },
+      {
+        "date": "2023-02-09",
+        "person": "Tanveer Karamat",
+        "role": "Executive Director",
+        "action": "Sell",
+        "shares": 5000,
+        "price": 68.1,
+        "value": 340500
+      },
+      {
+        "date": "2023-01-11",
+        "person": "Tanveer Karamat",
+        "role": "Executive Director",
+        "action": "Sell",
+        "shares": 5000,
+        "price": 69.73,
+        "value": 348650
+      },
+      {
+        "date": "2023-01-11",
+        "person": "Tanveer Karamat",
+        "role": "Executive Director",
+        "action": "Sell",
+        "shares": 5000,
+        "price": 69.7,
+        "value": 348500
+      },
+      {
+        "date": "2023-01-09",
+        "person": "Tanveer Karamat",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 5000,
+        "price": 69.8,
+        "value": 349000
+      },
+      {
+        "date": "2022-12-02",
+        "person": "Tanveer Karamat",
+        "role": "Executive Director",
+        "action": "Sell",
+        "shares": 2995,
+        "price": 79.7,
+        "value": 238702
+      },
+      {
+        "date": "2022-08-18",
+        "person": "Saeed Ullah Khan Niazi",
+        "role": "Executive",
+        "action": "Buy",
+        "shares": 1000,
+        "price": 82.08,
+        "value": 82080
+      },
+      {
+        "date": "2022-08-18",
+        "person": "Saeed Ullah Khan Niazi",
+        "role": "Executive",
+        "action": "Buy",
+        "shares": 1000,
+        "price": 82.08,
+        "value": 82080
+      },
+      {
+        "date": "2022-08-17",
+        "person": "Tanveer Karamat",
+        "role": "Executive Director",
+        "action": "Sell",
+        "shares": 10000,
+        "price": 85.24,
+        "value": 852400
+      },
+      {
+        "date": "2022-08-17",
+        "person": "Tanveer Karamat",
+        "role": "Executive Director",
+        "action": "Sell",
+        "shares": 2000,
+        "price": 85.25,
+        "value": 170500
+      },
+      {
+        "date": "2022-08-16",
+        "person": "Saeed Ullah Khan Niazi",
+        "role": "Executive",
+        "action": "Sell",
+        "shares": 137500,
+        "price": 84.23,
+        "value": 11581625
+      },
+      {
+        "date": "2022-01-26",
+        "person": "Tanveer Karamat",
+        "role": "Executive Director",
+        "action": "Sell",
+        "shares": 15000,
+        "price": 107.0,
+        "value": 1605000
+      },
+      {
+        "date": "2022-01-26",
+        "person": "Tanveer Karamat",
+        "role": "Executive Director",
+        "action": "Sell",
+        "shares": 5000,
+        "price": 107.05,
+        "value": 535250
+      },
+      {
+        "date": "2022-01-26",
+        "person": "Tanveer Karamat",
+        "role": "Executive Director",
+        "action": "Sell",
+        "shares": 5000,
+        "price": 107.07,
+        "value": 535350
+      },
+      {
+        "date": "2022-01-26",
+        "person": "Tanveer Karamat",
+        "role": "Executive Director",
+        "action": "Sell",
+        "shares": 5000,
+        "price": 107.08,
+        "value": 535400
+      },
+      {
+        "date": "2022-01-26",
+        "person": "Tanveer Karamat",
+        "role": "Executive Director",
+        "action": "Sell",
+        "shares": 5000,
+        "price": 107.1,
+        "value": 535500
+      },
+      {
+        "date": "2022-01-26",
+        "person": "Tanveer Karamat",
+        "role": "Executive Director",
+        "action": "Sell",
+        "shares": 5000,
+        "price": 107.4,
+        "value": 537000
+      },
+      {
+        "date": "2022-01-26",
+        "person": "Tanveer Karamat",
+        "role": "Executive Director",
+        "action": "Sell",
+        "shares": 5000,
+        "price": 107.8,
+        "value": 539000
+      },
+      {
+        "date": "2022-01-26",
+        "person": "Tanveer Karamat",
+        "role": "Executive Director",
+        "action": "Sell",
+        "shares": 5000,
+        "price": 108.0,
+        "value": 540000
+      },
+      {
+        "date": "2022-01-11",
+        "person": "Tanveer Karamat",
+        "role": "Executive Director",
+        "action": "Sell",
+        "shares": 5000,
+        "price": 105.81,
+        "value": 529050
+      },
+      {
+        "date": "2022-01-11",
+        "person": "Tanveer Karamat",
+        "role": "Executive Director",
+        "action": "Sell",
+        "shares": 5000,
+        "price": 105.82,
+        "value": 529100
+      },
+      {
+        "date": "2022-01-05",
+        "person": "Tanveer Karamat",
+        "role": "Executive Director",
+        "action": "Sell",
+        "shares": 5000,
+        "price": 95.7,
+        "value": 478500
+      },
+      {
+        "date": "2018-08-22",
+        "person": "Saeed Ullah Khan Niazi",
+        "role": "Executive",
+        "action": "Buy",
+        "shares": 1000,
+        "price": 82.08,
+        "value": 82080
+      },
+      {
+        "date": "2017-08-22",
+        "person": "Tanveer Karamat",
+        "role": "Executive Director",
+        "action": "Sell",
+        "shares": 2000,
+        "price": 85.25,
+        "value": 170500
+      },
+      {
+        "date": "2017-08-22",
+        "person": "Tanveer Karamat",
+        "role": "Executive Director",
+        "action": "Sell",
+        "shares": 10000,
+        "price": 85.24,
+        "value": 852400
+      },
+      {
+        "date": "2016-08-22",
+        "person": "Saeed Ullah Khan Niazi",
+        "role": "Executive",
+        "action": "Sell",
+        "shares": 137500,
+        "price": 84.23,
+        "value": 11581625
+      },
+      {
+        "date": "2015-03-22",
+        "person": "Mohammad Shahid Mir",
+        "role": "Independent Director",
+        "action": "Buy",
+        "shares": 5100,
+        "price": 88.75,
+        "value": 452625
+      },
+      {
+        "date": "2015-03-22",
+        "person": "Mohammad Shahid Mir",
+        "role": "Independent Director",
+        "action": "Buy",
+        "shares": 4332,
+        "price": 88.9,
+        "value": 385115
+      },
+      {
+        "date": "2015-03-22",
+        "person": "Mohammad Shahid Mir",
+        "role": "Independent Director",
+        "action": "Buy",
+        "shares": 567,
+        "price": 88.74,
+        "value": 50316
+      },
+      {
+        "date": "2015-03-22",
+        "person": "Mohammad Shahid Mir",
+        "role": "Independent Director",
+        "action": "Buy",
+        "shares": 1,
+        "price": 88.72,
+        "value": 89
+      },
+      {
+        "date": "2011-03-22",
+        "person": "Mohammad Shahid Mir",
+        "role": "Independent Director",
+        "action": "Buy",
+        "shares": 50,
+        "price": 87.74,
+        "value": 4387
+      },
+      {
+        "date": "2011-03-22",
+        "person": "Mohammad Shahid Mir",
+        "role": "Independent Director",
+        "action": "Buy",
+        "shares": 10,
+        "price": 87.7,
+        "value": 877
+      },
+      {
+        "date": "2011-03-22",
+        "person": "Mohammad Shahid Mir",
+        "role": "Independent Director",
+        "action": "Buy",
+        "shares": 9440,
+        "price": 87.8,
+        "value": 828832
+      },
+      {
+        "date": "2011-03-22",
+        "person": "Mohammad Shahid Mir",
+        "role": "Independent Director",
+        "action": "Buy",
+        "shares": 500,
+        "price": 87.75,
+        "value": 43875
+      },
+      {
+        "date": "2010-08-22",
+        "person": "Tanveer Karamat",
+        "role": "Executive Director",
+        "action": "Sell",
+        "shares": 10000,
+        "price": 79.1,
+        "value": 791000
+      },
+      {
+        "date": "2010-08-22",
+        "person": "Tanveer Karamat",
+        "role": "Executive Director",
+        "action": "Sell",
+        "shares": 20000,
+        "price": 79.25,
+        "value": 1585000
+      },
+      {
+        "date": "2007-06-22",
+        "person": "Ahsan Khalil",
+        "role": "Executive",
+        "action": "Sell",
+        "shares": 5050,
+        "price": 71.1,
+        "value": 359055
+      },
+      {
+        "date": "2007-06-22",
+        "person": "Ahsan Khalil",
+        "role": "Executive",
+        "action": "Sell",
+        "shares": 1000,
+        "price": 71.01,
+        "value": 71010
+      },
+      {
+        "date": "2007-06-22",
+        "person": "Ahsan Khalil",
+        "role": "Executive",
+        "action": "Sell",
+        "shares": 10000,
+        "price": 71.05,
+        "value": 710500
+      },
+      {
+        "date": "2007-06-22",
+        "person": "Ahsan Khalil",
+        "role": "Executive",
+        "action": "Sell",
+        "shares": 11000,
+        "price": 71.0,
+        "value": 781000
+      },
+      {
+        "date": "2007-06-22",
+        "person": "Ahsan Khalil",
+        "role": "Executive",
+        "action": "Sell",
+        "shares": 5000,
+        "price": 71.24,
+        "value": 356200
+      },
+      {
+        "date": "2007-06-22",
+        "person": "Ahsan Khalil",
+        "role": "Executive",
+        "action": "Sell",
+        "shares": 5000,
+        "price": 71.3,
+        "value": 356500
+      },
+      {
+        "date": "2007-06-22",
+        "person": "Ahsan Khalil",
+        "role": "Executive",
+        "action": "Sell",
+        "shares": 950,
+        "price": 71.22,
+        "value": 67659
+      },
+      {
+        "date": "2007-06-22",
+        "person": "Ahsan Khalil",
+        "role": "Executive",
+        "action": "Sell",
+        "shares": 2000,
+        "price": 71.2,
+        "value": 142400
+      }
+    ]
+  },
+  "shareholding": {},
+  "fipi": {},
+  "monthly_sales": {}
+}

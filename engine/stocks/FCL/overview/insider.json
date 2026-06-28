@@ -1,0 +1,150 @@
+{
+  "source": "sarmaaya.pk (insider transactions, #insider-transactions table)",
+  "as_of": "2026-06-28",
+  "transactions": [
+    {
+      "date": "2026-06-24",
+      "person": "Syed Mazher Iqbal",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 25000,
+      "price": 24.0,
+      "value": 600000
+    },
+    {
+      "date": "2026-01-08",
+      "person": "Syed Mujtaba Bukhari",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 600,
+      "price": 27.15,
+      "value": 16290
+    },
+    {
+      "date": "2025-08-05",
+      "person": "Syed Mazher Iqbal",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 9000,
+      "price": 24.5,
+      "value": 220500
+    },
+    {
+      "date": "2025-08-05",
+      "person": "Syed Mazher Iqbal",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 34970,
+      "price": 24.5,
+      "value": 856765
+    },
+    {
+      "date": "2025-08-01",
+      "person": "Syed Mazher Iqbal",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 25030,
+      "price": 24.5,
+      "value": 613235
+    },
+    {
+      "date": "2025-07-08",
+      "person": "Muhammad Sharjeel",
+      "role": "Executive",
+      "action": "Sell",
+      "shares": 14500,
+      "price": 25.42,
+      "value": 368590
+    },
+    {
+      "date": "2024-08-20",
+      "person": "Saima Mian (Spouse of Kamal Muhammad Amajd Mian)",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 18000,
+      "price": 22.83,
+      "value": 410940
+    },
+    {
+      "date": "2024-08-19",
+      "person": "Saima Mian (Spouse of Kamal Muhammad Amajd Mian)",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 25000,
+      "price": 23.25,
+      "value": 581250
+    },
+    {
+      "date": "2024-08-15",
+      "person": "Saima Mian (Spouse of Kamal Muhammad Amajd Mian)",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 8600,
+      "price": 22.6,
+      "value": 194360
+    },
+    {
+      "date": "2024-08-07",
+      "person": "Muhammad Sharjeel",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 5900,
+      "price": 20.78,
+      "value": 122602
+    },
+    {
+      "date": "2024-07-31",
+      "person": "Saima Mian (Spouse of Kamal Muhammad Amajd Mian)",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 8250,
+      "price": 24.1,
+      "value": 198825
+    },
+    {
+      "date": "2024-07-24",
+      "person": "Syed Mazher Iqbal",
+      "role": "Independent Director",
+      "action": "Buy",
+      "shares": 20000,
+      "price": 22.07,
+      "value": 441400
+    },
+    {
+      "date": "2024-07-11",
+      "person": "Syed Mazher Iqbal",
+      "role": "Independent Director",
+      "action": "Buy",
+      "shares": 30000,
+      "price": 23.42,
+      "value": 702600
+    },
+    {
+      "date": "2024-07-03",
+      "person": "Syed Mujtaba Bukhari",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 4200,
+      "price": 23.49,
+      "value": 98658
+    },
+    {
+      "date": "2024-07-03",
+      "person": "Syed Mujtaba Bukhari",
+      "role": "Executive",
+      "action": "Sell",
+      "shares": 4200,
+      "price": 23.46,
+      "value": 98532
+    },
+    {
+      "date": "2024-07-03",
+      "person": "Afshan Gohar",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 4100,
+      "price": 23.59,
+      "value": 96719
+    }
+  ]
+}

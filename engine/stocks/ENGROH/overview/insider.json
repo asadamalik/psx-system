@@ -1,0 +1,96 @@
+{
+  "source": "sarmaaya.pk (insider transactions, #insider-transactions table)",
+  "as_of": "2026-06-28",
+  "transactions": [
+    {
+      "date": "2026-01-20",
+      "person": "Muhammad Amin",
+      "role": "Senior Management",
+      "action": "Buy",
+      "shares": 10000,
+      "price": 262.98,
+      "value": 2629800
+    },
+    {
+      "date": "2026-01-14",
+      "person": "Muhammad Amin",
+      "role": "Senior Management",
+      "action": "Buy",
+      "shares": 5000,
+      "price": 251.31,
+      "value": 1256550
+    },
+    {
+      "date": "2026-01-08",
+      "person": "Muhammad Amin",
+      "role": "Senior Management",
+      "action": "Buy",
+      "shares": 5000,
+      "price": 263.71,
+      "value": 1318550
+    },
+    {
+      "date": "2025-11-26",
+      "person": "Farooq Barkat Ali",
+      "role": "Senior Management",
+      "action": "Buy",
+      "shares": 3000,
+      "price": 210.99,
+      "value": 632970
+    },
+    {
+      "date": "2025-11-21",
+      "person": "Farooq Barkat Ali",
+      "role": "Senior Management",
+      "action": "Buy",
+      "shares": 2000,
+      "price": 212.46,
+      "value": 424920
+    },
+    {
+      "date": "2025-11-03",
+      "person": "Kulsom Dawood (Spouse of Hussain Dawood)",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 45000,
+      "price": 220.92,
+      "value": 9941400
+    },
+    {
+      "date": "2025-11-03",
+      "person": "Hussain Dawood",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 45000,
+      "price": 220.48,
+      "value": 9921600
+    },
+    {
+      "date": "2025-07-01",
+      "person": "Abdul Samad Dawood",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 650000,
+      "price": 183.77,
+      "value": 119450500
+    },
+    {
+      "date": "2025-06-27",
+      "person": "Abdul Samad Dawood",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 520425,
+      "price": 178.29,
+      "value": 92786573
+    },
+    {
+      "date": "2025-06-03",
+      "person": "Abdul Samad Dawood",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 82500,
+      "price": 182.81,
+      "value": 15081825
+    }
+  ]
+}

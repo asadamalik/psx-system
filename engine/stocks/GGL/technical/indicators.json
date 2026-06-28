@@ -1,0 +1,64 @@
+{
+  "as_of": "2026-06-24",
+  "bars": 1237,
+  "close": 23.54,
+  "sma_20": 21.020500000000002,
+  "sma_50": 19.364199999999997,
+  "sma_200": 22.44615,
+  "ema_20": 21.43951367476424,
+  "ema_50": 19.96105112031312,
+  "ema_100": 19.97434960709635,
+  "ema_200": 20.251258314679557,
+  "obv": 1058540130.0,
+  "weekly_trend": "Up",
+  "monthly_trend": "Up",
+  "support_resistance": {
+    "price": 23.54,
+    "nearest_resistance": 25.19,
+    "nearest_support": 23.26,
+    "resistance_levels": [
+      25.19,
+      26.38
+    ],
+    "support_levels": [
+      23.26,
+      17.8,
+      17.0
+    ]
+  },
+  "rsi_14": 73.0044590546338,
+  "macd": 1.3856623771992425,
+  "macd_signal": 1.122581572769002,
+  "macd_hist": 0.2630808044302404,
+  "adx_14": 39.63974471563016,
+  "plus_di": 28.56631675257108,
+  "minus_di": 11.729971219751917,
+  "atr_14": 1.041324751854034,
+  "bb_upper": 24.76789095905449,
+  "bb_lower": 17.273109040945513,
+  "week52_high": 29.75,
+  "week52_low": 14.49,
+  "rsi_divergence": {
+    "type": null
+  },
+  "patterns": [
+    {
+      "name": "Ascending Triangle",
+      "type": "bullish",
+      "confidence": 0.55,
+      "status": "forming",
+      "neckline": 19.95,
+      "target": 25.41,
+      "note": "Flat resistance with rising lows; bullish breakout bias."
+    },
+    {
+      "name": "Double Top",
+      "type": "bearish",
+      "confidence": 0.4,
+      "status": "forming",
+      "neckline": 17.0,
+      "target": 14.05,
+      "note": "Two near-equal peaks; breaks down below the trough (neckline)."
+    }
+  ]
+}

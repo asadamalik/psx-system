@@ -1,0 +1,63 @@
+{
+  "symbol": "HUBC",
+  "growth": {
+    "revenue_growth_5y": 0.11135297926835341,
+    "net_income_growth_5y": 0.08175624275686277,
+    "equity_growth_5y": 0.2212223455664124,
+    "debt_change_5y": -0.0660011522779649
+  },
+  "latest": {
+    "revenue": 83351.0,
+    "net_income": 46131.0,
+    "equity": 243922.0,
+    "total_assets": 414722.0,
+    "total_debt": 84299.0,
+    "operating_cash_flow": 78761.0,
+    "capex": 2364.0
+  },
+  "metrics": {
+    "revenue_growth_5y": 0.11135297926835341,
+    "net_income_growth_5y": 0.08175624275686277,
+    "eps_growth": null,
+    "sales_growth": 0.11135297926835341,
+    "roe": 0.1891,
+    "roa": 0.1112,
+    "gross_margin": null,
+    "operating_margin": 0.42673753164329165,
+    "net_margin": 0.5534546676104666,
+    "debt_to_equity": 0.3455981830257213,
+    "current_ratio": 1.4626842021866582,
+    "interest_coverage": 2.4748817144447535,
+    "fcf_margin": 0.916569687226308,
+    "pe_ratio": 6.83,
+    "price_to_book": 1.22,
+    "peg": null
+  },
+  "extended": {
+    "effective_tax_rate": 0.29,
+    "roic": 0.07694202991277219,
+    "quick_ratio": 1.3647282522579622,
+    "ps_ratio": 4.438153322983663,
+    "ev_ebitda": null,
+    "peg": null,
+    "revenue_cagr_3y": -0.049809356860330944,
+    "net_income_cagr_3y": 0.17451427090504468,
+    "eps_cagr_3y": 0.17447130174615233,
+    "revenue_qoq": -0.016144463047117915,
+    "revenue_yoy": 0.06168537875854949,
+    "eps_qoq": 0.017094017094017165,
+    "eps_yoy": 1.6360759493670884,
+    "ocf_cagr_5y": 0.5721940679118029,
+    "fcf_cagr_5y": 0.5705214948467665,
+    "cash_conversion": 1.7073334633977153,
+    "ttm_revenue": 67635,
+    "ttm_net_income": 44095,
+    "dividend_last_year": null,
+    "dividend_latest_annual": 10
+  },
+  "derived": {
+    "free_cash_flow": 76397.0,
+    "market_cap": 300174.5,
+    "current_price": 231.41
+  }
+}

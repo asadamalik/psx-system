@@ -1,0 +1,1167 @@
+{
+  "source": "sarmaaya.pk (insider transactions, #insider-transactions table)",
+  "as_of": "2026-06-28",
+  "transactions": [
+    {
+      "date": "2026-06-24",
+      "person": "Haroon Ahmad Khan",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 1150501,
+      "price": 11.17,
+      "value": 12851096
+    },
+    {
+      "date": "2026-06-24",
+      "person": "Haroon Ahmad Khan",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 1150501,
+      "price": 11.17,
+      "value": 12851096
+    },
+    {
+      "date": "2026-06-17",
+      "person": "Nighat Haroon Khan",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 6700000,
+      "price": 10.54,
+      "value": 70618000
+    },
+    {
+      "date": "2026-06-17",
+      "person": "Haroon Ahmad Khan",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 33000000,
+      "price": 10.67,
+      "value": 352110000
+    },
+    {
+      "date": "2026-06-17",
+      "person": "Haroon Ahmad Khan",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 33000000,
+      "price": 10.76,
+      "value": 355080000
+    },
+    {
+      "date": "2026-06-17",
+      "person": "Nighat Haroon Khan",
+      "role": "Non-Executive Director",
+      "action": "Sell",
+      "shares": 5801500,
+      "price": 10.46,
+      "value": 60683690
+    },
+    {
+      "date": "2026-06-04",
+      "person": "Hamza Ahmad Khan",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 10485000,
+      "price": 10.37,
+      "value": 108729450
+    },
+    {
+      "date": "2026-06-04",
+      "person": "Hamza Ahmad Khan",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 2315000,
+      "price": 10.24,
+      "value": 23705600
+    },
+    {
+      "date": "2026-06-04",
+      "person": "Haroon Ahmad Khan",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 91700000,
+      "price": 10.24,
+      "value": 939008000
+    },
+    {
+      "date": "2026-06-04",
+      "person": "Haroon Ahmad Khan",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 8170000,
+      "price": 10.37,
+      "value": 84722900
+    },
+    {
+      "date": "2026-06-04",
+      "person": "Hamza Ahmad Khan",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 2315000,
+      "price": 10.37,
+      "value": 24006550
+    },
+    {
+      "date": "2026-05-21",
+      "person": "Haroon Ahmad Khan",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 1500000,
+      "price": 10.32,
+      "value": 15480000
+    },
+    {
+      "date": "2026-05-21",
+      "person": "HAMZA AHMAD KHAN",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 50000,
+      "price": 10.32,
+      "value": 516000
+    },
+    {
+      "date": "2026-05-21",
+      "person": "HAMZA AHMAD KHAN",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 500000,
+      "price": 10.15,
+      "value": 5075000
+    },
+    {
+      "date": "2026-05-21",
+      "person": "Nighat Haroon",
+      "role": "Non Executive Director",
+      "action": "Buy",
+      "shares": 500000,
+      "price": 10.3,
+      "value": 5150000
+    },
+    {
+      "date": "2026-05-21",
+      "person": "Nighat Haroon",
+      "role": "Non Executive Director",
+      "action": "Sell",
+      "shares": 500000,
+      "price": 10.14,
+      "value": 5070000
+    },
+    {
+      "date": "2026-05-21",
+      "person": "Haroon Ahmad Khan",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 1500000,
+      "price": 10.15,
+      "value": 15225000
+    },
+    {
+      "date": "2026-05-13",
+      "person": "Nighat Haroon Khan",
+      "role": "Non-Executive Director",
+      "action": "Sell",
+      "shares": 5000000,
+      "price": 10.29,
+      "value": 51450000
+    },
+    {
+      "date": "2026-05-13",
+      "person": "Nighat Haroon Khan",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 5000000,
+      "price": 10.45,
+      "value": 52250000
+    },
+    {
+      "date": "2026-05-06",
+      "person": "Haroon Ahmad Khan",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 10250000,
+      "price": 9.61,
+      "value": 98502500
+    },
+    {
+      "date": "2026-05-06",
+      "person": "Hamza Ahmad Khan",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 3650000,
+      "price": 9.5,
+      "value": 34675000
+    },
+    {
+      "date": "2026-05-06",
+      "person": "Hamza Ahmad Khan",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 3650000,
+      "price": 9.61,
+      "value": 35076500
+    },
+    {
+      "date": "2026-05-06",
+      "person": "Nighat Haroon Khan",
+      "role": "Non-Executive Director",
+      "action": "Sell",
+      "shares": 1600000,
+      "price": 9.5,
+      "value": 15200000
+    },
+    {
+      "date": "2026-05-06",
+      "person": "Nighat Haroon Khan",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 1600000,
+      "price": 9.61,
+      "value": 15376000
+    },
+    {
+      "date": "2026-05-06",
+      "person": "Haroon Ahmad Khan",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 10250000,
+      "price": 9.5,
+      "value": 97375000
+    },
+    {
+      "date": "2026-05-06",
+      "person": "Nighat Haroon Khan",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 11850000,
+      "price": 9.61,
+      "value": 113878500
+    },
+    {
+      "date": "2026-04-27",
+      "person": "Haroon Ahmad Khan",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 2400000,
+      "price": 10.89,
+      "value": 26136000
+    },
+    {
+      "date": "2026-04-27",
+      "person": "Haroon Ahmad Khan",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 2400000,
+      "price": 11.03,
+      "value": 26472000
+    },
+    {
+      "date": "2026-04-14",
+      "person": "Haroon Ahmad Khan",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 2700000,
+      "price": 9.95,
+      "value": 26865000
+    },
+    {
+      "date": "2026-04-14",
+      "person": "Haroon Ahmad Khan",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 2700000,
+      "price": 9.92,
+      "value": 26784000
+    },
+    {
+      "date": "2026-04-01",
+      "person": "Nighat Haroon Khan",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 2700000,
+      "price": 9.92,
+      "value": 26784000
+    },
+    {
+      "date": "2026-04-01",
+      "person": "Hamza Ahmad Khan",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 3700000,
+      "price": 9.18,
+      "value": 33966000
+    },
+    {
+      "date": "2026-04-01",
+      "person": "Hamza Ahmad Khan",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 3700000,
+      "price": 9.28,
+      "value": 34336000
+    },
+    {
+      "date": "2026-04-01",
+      "person": "Haroon Ahmad Khan",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 8000000,
+      "price": 9.18,
+      "value": 73440000
+    },
+    {
+      "date": "2026-04-01",
+      "person": "Haroon Ahmad Khan",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 8000000,
+      "price": 9.28,
+      "value": 74240000
+    },
+    {
+      "date": "2026-04-01",
+      "person": "Nighat Haroon Khan",
+      "role": "Non-Executive Director",
+      "action": "Sell",
+      "shares": 4035000,
+      "price": 9.18,
+      "value": 37041300
+    },
+    {
+      "date": "2026-04-01",
+      "person": "Nighat Haroon Khan",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 4035000,
+      "price": 9.28,
+      "value": 37444800
+    },
+    {
+      "date": "2026-04-01",
+      "person": "Nighat Haroon Khan",
+      "role": "Non-Executive Director",
+      "action": "Sell",
+      "shares": 1322000,
+      "price": 9.53,
+      "value": 12598660
+    },
+    {
+      "date": "2026-04-01",
+      "person": "Nighat Haroon Khan",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 1322000,
+      "price": 9.63,
+      "value": 12730860
+    },
+    {
+      "date": "2026-04-01",
+      "person": "Nighat Haroon Khan",
+      "role": "Non-Executive Director",
+      "action": "Sell",
+      "shares": 2700000,
+      "price": 9.79,
+      "value": 26433000
+    },
+    {
+      "date": "2026-03-10",
+      "person": "Nighat Haroon Khan",
+      "role": "Non-Executive Director",
+      "action": "Sell",
+      "shares": 240000,
+      "price": 9.77,
+      "value": 2344800
+    },
+    {
+      "date": "2026-03-10",
+      "person": "Nighat Haroon Khan",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 240000,
+      "price": 9.87,
+      "value": 2368800
+    },
+    {
+      "date": "2026-03-03",
+      "person": "Haroon Ahmad Khan",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 5945000,
+      "price": 11.29,
+      "value": 67119050
+    },
+    {
+      "date": "2026-03-03",
+      "person": "Nighat Haroon Khan",
+      "role": "Non-Executive Director",
+      "action": "Sell",
+      "shares": 1135000,
+      "price": 11.4,
+      "value": 12939000
+    },
+    {
+      "date": "2026-03-03",
+      "person": "Nighat Haroon Khan",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 275000,
+      "price": 11.39,
+      "value": 3132250
+    },
+    {
+      "date": "2026-03-03",
+      "person": "Nighat Haroon Khan",
+      "role": "Non-Executive Director",
+      "action": "Sell",
+      "shares": 3560000,
+      "price": 11.31,
+      "value": 40263600
+    },
+    {
+      "date": "2026-03-03",
+      "person": "Haroon Ahmad Khan",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 1275000,
+      "price": 11.15,
+      "value": 14216250
+    },
+    {
+      "date": "2026-03-03",
+      "person": "Haroon Ahmad Khan",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 5945000,
+      "price": 11.43,
+      "value": 67951350
+    },
+    {
+      "date": "2026-02-10",
+      "person": "Haroon Ahmad Khan",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 275000,
+      "price": 16.62,
+      "value": 4570500
+    },
+    {
+      "date": "2026-02-10",
+      "person": "Nighat Haroon Khan",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 860000,
+      "price": 16.64,
+      "value": 14310400
+    },
+    {
+      "date": "2026-02-10",
+      "person": "Nighat Haroon Khan",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 860000,
+      "price": 16.83,
+      "value": 14473800
+    },
+    {
+      "date": "2026-02-10",
+      "person": "Haroon Ahmad Khan",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 275000,
+      "price": 16.81,
+      "value": 4622750
+    },
+    {
+      "date": "2026-02-03",
+      "person": "Haroon Ahmad Khan",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 3975000,
+      "price": 15.0,
+      "value": 59625000
+    },
+    {
+      "date": "2026-02-03",
+      "person": "Hamza Ahmad Khan",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 1830000,
+      "price": 14.9,
+      "value": 27267000
+    },
+    {
+      "date": "2026-02-03",
+      "person": "Nighat Haroon Khan",
+      "role": "Non-Executive Director",
+      "action": "Sell",
+      "shares": 3275000,
+      "price": 14.8,
+      "value": 48470000
+    },
+    {
+      "date": "2026-02-03",
+      "person": "Haroon Ahmad Khan",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 3975000,
+      "price": 14.8,
+      "value": 58830000
+    },
+    {
+      "date": "2026-02-03",
+      "person": "Nighat Haroon Khan",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 3275000,
+      "price": 15.0,
+      "value": 49125000
+    },
+    {
+      "date": "2026-01-28",
+      "person": "Nighat Haroon Khan",
+      "role": "Non-Executive Director",
+      "action": "Sell",
+      "shares": 3275000,
+      "price": 14.8,
+      "value": 48470000
+    },
+    {
+      "date": "2026-01-28",
+      "person": "Haroon Ahmad Khan",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 3975000,
+      "price": 14.8,
+      "value": 58830000
+    },
+    {
+      "date": "2026-01-26",
+      "person": "Haroon Ahmad Khan",
+      "role": "Executive",
+      "action": "Sell",
+      "shares": 4500000,
+      "price": 13.08,
+      "value": 58860000
+    },
+    {
+      "date": "2026-01-26",
+      "person": "Haroon Ahmad Khan",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 4500000,
+      "price": 14.03,
+      "value": 63135000
+    },
+    {
+      "date": "2026-01-16",
+      "person": "Haroon Ahmad Khan",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 473000,
+      "price": 14.03,
+      "value": 6636190
+    },
+    {
+      "date": "2026-01-16",
+      "person": "Haroon Ahmad Khan",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 473000,
+      "price": 14.26,
+      "value": 6744980
+    },
+    {
+      "date": "2026-01-16",
+      "person": "Haroon Ahmad Khan",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 473000,
+      "price": 14.03,
+      "value": 6636190
+    },
+    {
+      "date": "2026-01-16",
+      "person": "Haroon Ahmad Khan",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 473000,
+      "price": 14.03,
+      "value": 6636190
+    },
+    {
+      "date": "2026-01-08",
+      "person": "Hamza Ahmad Khan",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 1602000,
+      "price": 13.42,
+      "value": 21498840
+    },
+    {
+      "date": "2026-01-08",
+      "person": "Haroon Ahmad Khan",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 1602000,
+      "price": 13.22,
+      "value": 21178440
+    },
+    {
+      "date": "2025-12-15",
+      "person": "Nighat Haroon Khan",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 860000,
+      "price": 13.98,
+      "value": 12022800
+    },
+    {
+      "date": "2025-12-15",
+      "person": "Haroon Ahmad Khan",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 4300000,
+      "price": 14.3,
+      "value": 61490000
+    },
+    {
+      "date": "2025-11-28",
+      "person": "Haroon Ahmad Khan",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 4300000,
+      "price": 13.8,
+      "value": 59340000
+    },
+    {
+      "date": "2025-11-11",
+      "person": "Haroon Ahmad Khan",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 800000,
+      "price": 14.82,
+      "value": 11856000
+    },
+    {
+      "date": "2025-11-11",
+      "person": "Haroon Ahmad Khan",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 800000,
+      "price": 15.02,
+      "value": 12016000
+    },
+    {
+      "date": "2025-11-07",
+      "person": "Hamza Ahmad Khan",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 2898000,
+      "price": 14.42,
+      "value": 41789160
+    },
+    {
+      "date": "2025-11-07",
+      "person": "Haroon Ahmad Khan",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 5400000,
+      "price": 12.54,
+      "value": 67716000
+    },
+    {
+      "date": "2025-11-07",
+      "person": "Hamza Ahmad Khan",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 2898000,
+      "price": 14.25,
+      "value": 41296500
+    },
+    {
+      "date": "2025-11-07",
+      "person": "Nighat Haroon Khan",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 3125000,
+      "price": 12.4,
+      "value": 38750000
+    },
+    {
+      "date": "2025-11-07",
+      "person": "Haroon Ahmad Khan",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 1000000,
+      "price": 12.39,
+      "value": 12390000
+    },
+    {
+      "date": "2025-11-07",
+      "person": "Haroon Ahmad Khan",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 1275000,
+      "price": 12.41,
+      "value": 15822750
+    },
+    {
+      "date": "2025-11-07",
+      "person": "Haroon Ahmad Khan",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 2275000,
+      "price": 12.54,
+      "value": 28528500
+    },
+    {
+      "date": "2025-11-07",
+      "person": "Waves Corporation Limited",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 4900000,
+      "price": 9.94,
+      "value": 48706000
+    },
+    {
+      "date": "2025-11-07",
+      "person": "Nighat Haroon Khan",
+      "role": "Non-Executive Director",
+      "action": "Sell",
+      "shares": 3125000,
+      "price": 12.4,
+      "value": 38750000
+    },
+    {
+      "date": "2025-10-14",
+      "person": "Haroon Ahmad Khan",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 800000,
+      "price": 11.88,
+      "value": 9504000
+    },
+    {
+      "date": "2025-10-14",
+      "person": "Haroon Ahmad Khan",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 800000,
+      "price": 11.9,
+      "value": 9520000
+    },
+    {
+      "date": "2025-10-06",
+      "person": "Haroon Khan",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 5525000,
+      "price": 11.9,
+      "value": 65747500
+    },
+    {
+      "date": "2025-10-06",
+      "person": "Haroon Ahmad Khan",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 5525000,
+      "price": 11.5,
+      "value": 63537500
+    },
+    {
+      "date": "2025-09-29",
+      "person": "Haroon Ahmad Khan",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 3122000,
+      "price": 8.68,
+      "value": 27098960
+    },
+    {
+      "date": "2025-09-26",
+      "person": "Haroon Ahmad Khan",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 4750000,
+      "price": 8.82,
+      "value": 41895000
+    },
+    {
+      "date": "2025-09-26",
+      "person": "Nighat Haroon Khan",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 3400000,
+      "price": 11.3,
+      "value": 38420000
+    },
+    {
+      "date": "2025-09-26",
+      "person": "Nighat Haroon Khan",
+      "role": "Non-Executive Director",
+      "action": "Sell",
+      "shares": 3400000,
+      "price": 11.18,
+      "value": 38012000
+    },
+    {
+      "date": "2025-09-26",
+      "person": "Nighat Haroon Khan",
+      "role": "Non-Executive Director",
+      "action": "Sell",
+      "shares": 4260000,
+      "price": 8.79,
+      "value": 37445400
+    },
+    {
+      "date": "2025-09-26",
+      "person": "Haroon Ahmad Khan",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 2500000,
+      "price": 11.1,
+      "value": 27750000
+    },
+    {
+      "date": "2025-09-26",
+      "person": "Haroon Ahmad Khan",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 2500000,
+      "price": 11.12,
+      "value": 27800000
+    },
+    {
+      "date": "2025-09-26",
+      "person": "Haroon Ahmad Khan",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 4750000,
+      "price": 8.82,
+      "value": 41895000
+    },
+    {
+      "date": "2025-07-18",
+      "person": "Nighat Haroon Khan",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 4260000,
+      "price": 7.84,
+      "value": 33398400
+    },
+    {
+      "date": "2025-07-18",
+      "person": "Haroon Ahmad Khan",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 3122000,
+      "price": 7.61,
+      "value": 23758420
+    },
+    {
+      "date": "2025-07-18",
+      "person": "Haroon Ahmad Khan",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 3122000,
+      "price": 7.71,
+      "value": 24070620
+    },
+    {
+      "date": "2025-07-18",
+      "person": "Nighat Haroon Khan",
+      "role": "Non-Executive Director",
+      "action": "Sell",
+      "shares": 4260000,
+      "price": 7.74,
+      "value": 32972400
+    },
+    {
+      "date": "2025-07-18",
+      "person": "Nighat Haroon Khan",
+      "role": "Non-Executive Director",
+      "action": "Sell",
+      "shares": 4300000,
+      "price": 7.54,
+      "value": 32422000
+    },
+    {
+      "date": "2025-07-18",
+      "person": "Nighat Haroon Khan",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 4300000,
+      "price": 7.63,
+      "value": 32809000
+    },
+    {
+      "date": "2025-06-13",
+      "person": "WAVES CORPORATION LIMITED",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 3830000,
+      "price": 8.88,
+      "value": 34010400
+    },
+    {
+      "date": "2025-06-12",
+      "person": "Haroon Ahmad Khan",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 1450000,
+      "price": 9.37,
+      "value": 13586500
+    },
+    {
+      "date": "2025-04-24",
+      "person": "Haroon Ahmad Khan",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 2600000,
+      "price": 7.95,
+      "value": 20670000
+    },
+    {
+      "date": "2025-04-24",
+      "person": "Haroon Ahmad Khan",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 2600000,
+      "price": 8.15,
+      "value": 21190000
+    },
+    {
+      "date": "2025-04-15",
+      "person": "Haroon Ahmad Khan",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 5550000,
+      "price": 8.25,
+      "value": 45787500
+    },
+    {
+      "date": "2025-03-21",
+      "person": "Haroon Ahmad Khan",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 3050000,
+      "price": 8.06,
+      "value": 24583000
+    },
+    {
+      "date": "2025-03-21",
+      "person": "Nighat Haroon Khan",
+      "role": "Non-Executive Director",
+      "action": "Sell",
+      "shares": 310400,
+      "price": 7.96,
+      "value": 2470784
+    },
+    {
+      "date": "2025-03-21",
+      "person": "Haroon Ahmad Khan",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 3050000,
+      "price": 7.95,
+      "value": 24247500
+    },
+    {
+      "date": "2025-03-10",
+      "person": "Haroon Ahmad Khan",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 6550000,
+      "price": 8.19,
+      "value": 53644500
+    },
+    {
+      "date": "2025-03-10",
+      "person": "Nighat Haroon Khan",
+      "role": "Non-Executive Director",
+      "action": "Sell",
+      "shares": 2704000,
+      "price": 8.7,
+      "value": 23524800
+    },
+    {
+      "date": "2025-03-10",
+      "person": "Nighat Haroon Khan",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 2704000,
+      "price": 8.85,
+      "value": 23930400
+    },
+    {
+      "date": "2025-03-10",
+      "person": "Haroon Ahmad Khan",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 6550000,
+      "price": 8.36,
+      "value": 54758000
+    },
+    {
+      "date": "2024-12-27",
+      "person": "Waves Corporation Limited",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 2000000,
+      "price": 13.14,
+      "value": 26280000
+    },
+    {
+      "date": "2024-08-20",
+      "person": "Weavers Corporation Limited",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 5294632,
+      "price": 8.96,
+      "value": 47439903
+    },
+    {
+      "date": "2024-08-15",
+      "person": "Nighat Haroon Khan",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 7000000,
+      "price": 6.81,
+      "value": 47670000
+    },
+    {
+      "date": "2024-08-15",
+      "person": "Haroon Ahmad Khan",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 250000,
+      "price": 6.58,
+      "value": 1645000
+    },
+    {
+      "date": "2024-08-15",
+      "person": "Nighat Haroon Khan",
+      "role": "Non-Executive Director",
+      "action": "Sell",
+      "shares": 7574000,
+      "price": 6.72,
+      "value": 50897280
+    },
+    {
+      "date": "2024-07-22",
+      "person": "Nighat Haroon Khan",
+      "role": "Non-Executive Director",
+      "action": "Sell",
+      "shares": 3950000,
+      "price": 7.22,
+      "value": 28519000
+    },
+    {
+      "date": "2024-07-22",
+      "person": "Nighat Haroon Khan",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 15000000,
+      "price": 7.44,
+      "value": 111600000
+    },
+    {
+      "date": "2024-06-14",
+      "person": "Hamza Ahmad Khan",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 2700000,
+      "price": 7.81,
+      "value": 21087000
+    },
+    {
+      "date": "2024-06-14",
+      "person": "Nighat Haroon Khan",
+      "role": "Non-Executive Director",
+      "action": "Sell",
+      "shares": 6000000,
+      "price": 7.63,
+      "value": 45780000
+    },
+    {
+      "date": "2024-06-14",
+      "person": "Nighat Haroon Khan",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 6000000,
+      "price": 7.83,
+      "value": 46980000
+    },
+    {
+      "date": "2024-06-14",
+      "person": "Hamza Ahmad Khan",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 2700000,
+      "price": 7.78,
+      "value": 21006000
+    },
+    {
+      "date": "2024-06-14",
+      "person": "Hamza Ahmad Khan",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 5400000,
+      "price": 7.76,
+      "value": 41904000
+    },
+    {
+      "date": "2024-01-22",
+      "person": "AHMAD BILAL",
+      "role": "Executive",
+      "action": "Sell",
+      "shares": 20000,
+      "price": 8.2,
+      "value": 164000
+    },
+    {
+      "date": "2024-01-22",
+      "person": "AHMAD BILAL",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 20000,
+      "price": 8.18,
+      "value": 163600
+    },
+    {
+      "date": "2024-01-16",
+      "person": "AHMAD BILAL",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 40000,
+      "price": 8.29,
+      "value": 331600
+    },
+    {
+      "date": "2024-01-16",
+      "person": "AHMAD BILAL",
+      "role": "Executive",
+      "action": "Sell",
+      "shares": 40000,
+      "price": 8.28,
+      "value": 331200
+    },
+    {
+      "date": "2016-05-22",
+      "person": "Nighat Haroon Khan",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 112500,
+      "price": 13.11,
+      "value": 1474875
+    },
+    {
+      "date": "2016-05-22",
+      "person": "Nighat Haroon Khan",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 94000,
+      "price": 12.88,
+      "value": 1210720
+    }
+  ]
+}

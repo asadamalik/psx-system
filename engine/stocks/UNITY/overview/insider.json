@@ -1,0 +1,456 @@
+{
+  "source": "sarmaaya.pk (insider transactions, #insider-transactions table)",
+  "as_of": "2026-06-28",
+  "transactions": [
+    {
+      "date": "2025-11-21",
+      "person": "Muhammad Farrukh",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 454695,
+      "price": 22.42,
+      "value": 10194262
+    },
+    {
+      "date": "2025-11-21",
+      "person": "Muhammad Farrukh",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 500000,
+      "price": 22.03,
+      "value": 11015000
+    },
+    {
+      "date": "2025-08-18",
+      "person": "Amir Shehzad",
+      "role": "Non-Executive Director",
+      "action": "Sell",
+      "shares": 493661,
+      "price": 28.43,
+      "value": 14034782
+    },
+    {
+      "date": "2025-08-18",
+      "person": "Amir Shehzad",
+      "role": "Non-Executive Director",
+      "action": "Sell",
+      "shares": 991500,
+      "price": 30.61,
+      "value": 30349815
+    },
+    {
+      "date": "2025-08-18",
+      "person": "Amir Shehzad",
+      "role": "Non-Executive Director",
+      "action": "Sell",
+      "shares": 464339,
+      "price": 29.18,
+      "value": 13549412
+    },
+    {
+      "date": "2025-07-21",
+      "person": "Mr. Muhammad Aamir Altaf Qureshi",
+      "role": "Executive",
+      "action": "Sell",
+      "shares": 500,
+      "price": 24.2,
+      "value": 12100
+    },
+    {
+      "date": "2025-07-01",
+      "person": "Amir Shehzad",
+      "role": "Non-Executive Director",
+      "action": "Sell",
+      "shares": 3041500,
+      "price": 24.26,
+      "value": 73786790
+    },
+    {
+      "date": "2025-07-01",
+      "person": "Amir Shehzad",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 991500,
+      "price": 24.45,
+      "value": 24242175
+    },
+    {
+      "date": "2024-08-19",
+      "person": "Amir Shehzad",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 44500,
+      "price": 34.92,
+      "value": 1553940
+    },
+    {
+      "date": "2024-07-12",
+      "person": "WILMAR PKAISTAN HOLDING PTE LIMITED",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 156515148,
+      "price": 27.34,
+      "value": 4279124146
+    },
+    {
+      "date": "2024-07-12",
+      "person": "Unity Wilmar Agro (PVT) Limited",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 1981204,
+      "price": 27.34,
+      "value": 54166117
+    },
+    {
+      "date": "2024-06-26",
+      "person": "Abdul Majeed Ghaziani",
+      "role": "Non-Executive Director",
+      "action": "Sell",
+      "shares": 49530390,
+      "price": 27.34,
+      "value": 1354160863
+    },
+    {
+      "date": "2024-02-29",
+      "person": "Muhammad Farrukh",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 42830526,
+      "price": 24.2,
+      "value": 1036498729
+    },
+    {
+      "date": "2024-01-31",
+      "person": "Muhammad Farrukh",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 500000,
+      "price": 20.15,
+      "value": 10075000
+    },
+    {
+      "date": "2023-08-01",
+      "person": "Amir Shehzad",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 4000000,
+      "price": 20.32,
+      "value": 81280000
+    },
+    {
+      "date": "2023-07-17",
+      "person": "Jalees Edhi",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 30000,
+      "price": 24.16,
+      "value": 724800
+    },
+    {
+      "date": "2023-07-14",
+      "person": "Jalees Edhi",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 50000,
+      "price": 22.74,
+      "value": 1137000
+    },
+    {
+      "date": "2023-07-13",
+      "person": "Jalees Edhi",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 50000,
+      "price": 23.25,
+      "value": 1162500
+    },
+    {
+      "date": "2023-07-12",
+      "person": "Jalees Edhi",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 50000,
+      "price": 20.55,
+      "value": 1027500
+    },
+    {
+      "date": "2023-03-02",
+      "person": "UNITY WILMAR AGRO PVT LTD",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 55079,
+      "price": 12.65,
+      "value": 696749
+    },
+    {
+      "date": "2023-03-01",
+      "person": "UNITY WILMAR AGRO PVT LTD",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 181712,
+      "price": 12.9,
+      "value": 2344085
+    },
+    {
+      "date": "2023-02-28",
+      "person": "UNITY WILMAR AGRO PVT LTD",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 418337,
+      "price": 13.0,
+      "value": 5438381
+    },
+    {
+      "date": "2023-02-27",
+      "person": "UNITY WILMAR AGRO PVT LTD",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 257408,
+      "price": 13.0,
+      "value": 3346304
+    },
+    {
+      "date": "2023-01-18",
+      "person": "UNITY WILMAR AGRO PVT LTD",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 650000,
+      "price": 14.0,
+      "value": 9100000
+    },
+    {
+      "date": "2023-01-18",
+      "person": "UNITY WILMAR AGRO PVT LTD",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 650000,
+      "price": 14.0,
+      "value": 9100000
+    },
+    {
+      "date": "2023-01-18",
+      "person": "UNITY WILMAR AGRO PVT LTD",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 262192,
+      "price": 14.0,
+      "value": 3670688
+    },
+    {
+      "date": "2023-01-05",
+      "person": "UNITY WILMAR AGRO PVT LTD",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 650000,
+      "price": 14.0,
+      "value": 9100000
+    },
+    {
+      "date": "2023-01-04",
+      "person": "UNITY WILMAR AGRO PVT LTD",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 262192,
+      "price": 14.0,
+      "value": 3670688
+    },
+    {
+      "date": "2022-12-30",
+      "person": "UNITY WILMAR AGRO PVT LTD",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 375157,
+      "price": 14.1,
+      "value": 5289714
+    },
+    {
+      "date": "2022-12-30",
+      "person": "UNITY WILMAR AGRO PVT LTD",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 125000,
+      "price": 13.99,
+      "value": 1748750
+    },
+    {
+      "date": "2022-12-26",
+      "person": "UNITY WILMAR AGRO PVT LTD",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 418451,
+      "price": 14.09,
+      "value": 5895975
+    },
+    {
+      "date": "2022-11-30",
+      "person": "WILMAR PAKISTAN HOLDINGS PTE LIMITED",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 1189953,
+      "price": 16.52,
+      "value": 19658024
+    },
+    {
+      "date": "2022-11-23",
+      "person": "WILMAR PAKISTAN HOLDINGS PTE LIMITED",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 100000,
+      "price": 17.0,
+      "value": 1700000
+    },
+    {
+      "date": "2022-11-21",
+      "person": "WILMAR PAKISTAN HOLDINGS PTE LIMITED",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 4525000,
+      "price": 16.79,
+      "value": 75974750
+    },
+    {
+      "date": "2022-08-11",
+      "person": "Mr. Omar Mahmood Hayat",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 100,
+      "price": 19.13,
+      "value": 1913
+    },
+    {
+      "date": "2020-07-22",
+      "person": "WILMAR PAKISTAN HOLDINGS PTE LIMITED",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 1500000,
+      "price": 19.4,
+      "value": 29100000
+    },
+    {
+      "date": "2019-09-22",
+      "person": "Muhammad Farrukh",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 3000000,
+      "price": 24.21,
+      "value": 72630000
+    },
+    {
+      "date": "2019-07-22",
+      "person": "WILMAR PAKISTAN HOLDINGS PTE LIMITED",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 2000000,
+      "price": 19.7,
+      "value": 39400000
+    },
+    {
+      "date": "2015-06-22",
+      "person": "WILMAR PAKISTAN HOLDINGS PTE LIMITED",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 311150,
+      "price": 19.87,
+      "value": 6182550
+    },
+    {
+      "date": "2014-07-22",
+      "person": "WILMAR PAKISTAN HOLDINGS PTE LIMITED",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 1091416,
+      "price": 19.8,
+      "value": 21610037
+    },
+    {
+      "date": "2012-05-22",
+      "person": "WILMAR PAKISTAN HOLDINGS PTE LIMITED",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 1500000,
+      "price": 21.7,
+      "value": 32550000
+    },
+    {
+      "date": "2011-08-22",
+      "person": "Mr. Omar Mahmood Hayat",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 100,
+      "price": 19.13,
+      "value": 1913
+    },
+    {
+      "date": "2010-05-22",
+      "person": "WILMAR PAKISTAN HOLDINGS PTE LIMITED",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 1000000,
+      "price": 22.99,
+      "value": 22990000
+    },
+    {
+      "date": "2009-05-22",
+      "person": "WILMAR PAKISTAN HOLDINGS PTE LIMITED",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 1889549,
+      "price": 24.4,
+      "value": 46104996
+    },
+    {
+      "date": "2008-06-22",
+      "person": "Muhammad Farrukh",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 2250000,
+      "price": 21.86,
+      "value": 49185000
+    },
+    {
+      "date": "2008-06-22",
+      "person": "WILMAR PAKISTAN HOLDINGS PTE LIMITED",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 887638,
+      "price": 20.0,
+      "value": 17752760
+    },
+    {
+      "date": "2007-07-22",
+      "person": "WILMAR PAKISTAN HOLDINGS PTE LIMITED",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 1448890,
+      "price": 19.97,
+      "value": 28934333
+    },
+    {
+      "date": "2004-07-22",
+      "person": "WILMAR PAKISTAN HOLDINGS PTE LIMITED",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 1495021,
+      "price": 20.0,
+      "value": 29900420
+    },
+    {
+      "date": "2004-04-22",
+      "person": "Amir Shehzad",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 100,
+      "price": 25.28,
+      "value": 2528
+    },
+    {
+      "date": "2002-06-22",
+      "person": "Muhammad Farrukh",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 2500000,
+      "price": 24.02,
+      "value": 60050000
+    }
+  ]
+}

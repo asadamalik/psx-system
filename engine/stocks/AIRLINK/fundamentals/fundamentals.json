@@ -1,0 +1,1890 @@
+{
+  "symbol": "AIRLINK",
+  "income_statement_annual": {
+    "revenue": {
+      "2021": 47373,
+      "2022": 49166,
+      "2023": 36934,
+      "2024": 129742,
+      "2025": 104379
+    },
+    "gross_profit": {
+      "2021": 10311,
+      "2022": 7180,
+      "2023": 3619,
+      "2024": 9960,
+      "2025": 11197
+    },
+    "operating_income": {
+      "2021": 3496,
+      "2022": 3649,
+      "2023": 2424,
+      "2024": 8477,
+      "2025": 9544
+    },
+    "net_income": {
+      "2021": 1505,
+      "2022": 1530,
+      "2023": 960.51,
+      "2024": 4625,
+      "2025": 4748
+    },
+    "eps": {
+      "2021": 4.47,
+      "2022": 3.99,
+      "2023": 2.5,
+      "2024": 11.7,
+      "2025": 12.01
+    },
+    "interest_expense": {
+      "2021": 771,
+      "2022": 843.71,
+      "2023": 1399,
+      "2024": 2649,
+      "2025": 3647
+    }
+  },
+  "balance_sheet_annual": {
+    "current_assets": {
+      "2021": 14476,
+      "2022": 15488,
+      "2023": 20797,
+      "2024": 30545,
+      "2025": 50457
+    },
+    "cash_and_equivalents": {
+      "2021": 832.15,
+      "2022": 1101,
+      "2023": 1021,
+      "2024": 2288,
+      "2025": 4153
+    },
+    "inventory": {
+      "2021": 3693,
+      "2022": 5424,
+      "2023": 8826,
+      "2024": 8469,
+      "2025": 20251
+    },
+    "total_assets": {
+      "2021": 15748,
+      "2022": 21660,
+      "2023": 28635,
+      "2024": 40518,
+      "2025": 63917
+    },
+    "current_liabilities": {
+      "2021": 8453,
+      "2022": 7867,
+      "2023": 13827,
+      "2024": 23223,
+      "2025": 44125
+    },
+    "total_liabilities": {
+      "2021": 9269,
+      "2022": 10004,
+      "2023": 16410,
+      "2024": 25449,
+      "2025": 46673
+    },
+    "total_debt": {
+      "2021": 7381,
+      "2022": 8021,
+      "2023": 8302,
+      "2024": 16419,
+      "2025": 32200
+    },
+    "total_equity": {
+      "2021": 6479,
+      "2022": 11656,
+      "2023": 12225,
+      "2024": 15069,
+      "2025": 17244
+    }
+  },
+  "cashflow_annual": {
+    "cash_from_operations": {
+      "2021": 2469,
+      "2022": 2261,
+      "2023": 4504,
+      "2024": -2824,
+      "2025": -8738
+    },
+    "cash_from_investing": {
+      "2021": -325.06,
+      "2022": -5947,
+      "2023": -2793,
+      "2024": -2711,
+      "2025": -2648
+    },
+    "cash_from_financing": {
+      "2021": -2126,
+      "2022": 3956,
+      "2023": -1793,
+      "2024": 6803,
+      "2025": 13250
+    },
+    "capex": {
+      "2021": 578.16,
+      "2022": 5485,
+      "2023": 637.29,
+      "2024": 2571,
+      "2025": 3139
+    }
+  },
+  "income_statement_quarterly": {
+    "revenue": {
+      "2026-03": 19599,
+      "2025-12": 24369,
+      "2025-09": 24402,
+      "2025-06": 18827,
+      "2025-03": 28238,
+      "2024-12": 35262,
+      "2024-09": 22052,
+      "2024-06": 36937,
+      "2024-03": 32211,
+      "2023-12": 35485,
+      "2023-09": 25109,
+      "2023-06": 5356,
+      "2023-03": 8289,
+      "2022-12": 13871,
+      "2022-09": 9417,
+      "2022-06": 13735,
+      "2022-03": 11242,
+      "2021-12": 14752,
+      "2021-09": 9437,
+      "2021-06": 8392
+    },
+    "gross_profit": {
+      "2026-03": 2039,
+      "2025-12": 3896,
+      "2025-09": 3387,
+      "2025-06": 2833,
+      "2025-03": 2935,
+      "2024-12": 3258,
+      "2024-09": 2170,
+      "2024-06": 2422,
+      "2024-03": 3177,
+      "2023-12": 2743,
+      "2023-09": 1619,
+      "2023-06": 776.71,
+      "2023-03": 804.92,
+      "2022-12": 1125,
+      "2022-09": 912.67,
+      "2022-06": 3345,
+      "2022-03": 1250,
+      "2021-12": 1549,
+      "2021-09": 1037,
+      "2021-06": 6772
+    },
+    "operating_income": {
+      "2026-03": 1403,
+      "2025-12": 3099,
+      "2025-09": 3008,
+      "2025-06": 2600,
+      "2025-03": 2381,
+      "2024-12": 2779,
+      "2024-09": 1785,
+      "2024-06": 2475,
+      "2024-03": 2590,
+      "2023-12": 2215,
+      "2023-09": 1197,
+      "2023-06": 554.56,
+      "2023-03": 520.85,
+      "2022-12": 753,
+      "2022-09": 595.65,
+      "2022-06": 964.55,
+      "2022-03": 822.16,
+      "2021-12": 1108,
+      "2021-09": 755.11,
+      "2021-06": 845.83
+    },
+    "net_income": {
+      "2026-03": 594.55,
+      "2025-12": 1469,
+      "2025-09": 1583,
+      "2025-06": 1894,
+      "2025-03": 535.3,
+      "2024-12": 1476,
+      "2024-09": 842.17,
+      "2024-06": 1548,
+      "2024-03": 1036,
+      "2023-12": 1253,
+      "2023-09": 788.59,
+      "2023-06": 5.21,
+      "2023-03": 163.52,
+      "2022-12": 425.53,
+      "2022-09": 366.24,
+      "2022-06": 175.21,
+      "2022-03": 330.01,
+      "2021-12": 604.92,
+      "2021-09": 419.88,
+      "2021-06": 174.4
+    },
+    "eps": {
+      "2026-03": 1.5,
+      "2025-12": 3.72,
+      "2025-09": 4.01,
+      "2025-06": 4.79,
+      "2025-03": 1.35,
+      "2024-12": 3.74,
+      "2024-09": 2.13,
+      "2024-06": 3.91,
+      "2024-03": 2.62,
+      "2023-12": 3.17,
+      "2023-09": 2.06,
+      "2023-06": 0.01,
+      "2023-03": 0.42,
+      "2022-12": 1.1,
+      "2022-09": 0.95,
+      "2022-06": 0.36,
+      "2022-03": 0.89,
+      "2021-12": 1.89,
+      "2021-09": 1.14,
+      "2021-06": 0.51
+    },
+    "interest_expense": {
+      "2026-03": 321.7,
+      "2025-12": 1122,
+      "2025-09": 968.22,
+      "2025-06": 505.33,
+      "2025-03": 1427,
+      "2024-12": 1034,
+      "2024-09": 681.44,
+      "2024-06": 670.96,
+      "2024-03": 863.55,
+      "2023-12": 644.45,
+      "2023-09": 470.38,
+      "2023-06": 8.87,
+      "2023-03": 429.77,
+      "2022-12": 574.3,
+      "2022-09": 386.36,
+      "2022-06": 88,
+      "2022-03": 243.01,
+      "2021-12": 317.33,
+      "2021-09": 195.37,
+      "2021-06": 58.67
+    }
+  },
+  "balance_sheet_quarterly": {
+    "current_assets": {
+      "2026-03": 49727,
+      "2025-12": 49082,
+      "2025-09": 43349,
+      "2025-06": 50457,
+      "2025-03": 40764,
+      "2024-12": 39317,
+      "2024-09": 28688,
+      "2024-06": 30545,
+      "2024-03": 32542,
+      "2023-12": 26546,
+      "2023-09": 26694,
+      "2023-06": 20797,
+      "2023-03": 14267,
+      "2022-12": 20066,
+      "2022-09": 16120,
+      "2022-06": 15488,
+      "2022-03": 14259,
+      "2021-12": 16733,
+      "2021-09": 17040,
+      "2021-06": 14476
+    },
+    "cash_and_equivalents": {
+      "2026-03": 4595,
+      "2025-12": 2671,
+      "2025-09": 1501,
+      "2025-06": 4153,
+      "2025-03": 3565,
+      "2024-12": 4364,
+      "2024-09": 3123,
+      "2024-06": 2288,
+      "2024-03": 2752,
+      "2023-12": 1736,
+      "2023-09": 1959,
+      "2023-06": 1021,
+      "2023-03": 897.79,
+      "2022-12": 987.17,
+      "2022-09": 1134,
+      "2022-06": 1101,
+      "2022-03": 584.86,
+      "2021-12": 1002,
+      "2021-09": 1742,
+      "2021-06": 832.15
+    },
+    "inventory": {
+      "2026-03": 19556,
+      "2025-12": 20387,
+      "2025-09": 15285,
+      "2025-06": 20251,
+      "2025-03": 9322,
+      "2024-12": 10629,
+      "2024-09": 8865,
+      "2024-06": 8469,
+      "2024-03": 10229,
+      "2023-12": 8521,
+      "2023-09": 6966,
+      "2023-06": 8826,
+      "2023-03": 1908,
+      "2022-12": 6027,
+      "2022-09": 4468,
+      "2022-06": 5424,
+      "2022-03": 5105,
+      "2021-12": 4901,
+      "2021-09": 2509,
+      "2021-06": 3693
+    },
+    "total_assets": {
+      "2026-03": 63237,
+      "2025-12": 62512,
+      "2025-09": 57114,
+      "2025-06": 63917,
+      "2025-03": 51086,
+      "2024-12": 49299,
+      "2024-09": 38548,
+      "2024-06": 40518,
+      "2024-03": 42716,
+      "2023-12": 36191,
+      "2023-09": 34576,
+      "2023-06": 28635,
+      "2023-03": 21765,
+      "2022-12": 26587,
+      "2022-09": 22184,
+      "2022-06": 21660,
+      "2022-03": 19363,
+      "2021-12": 18688,
+      "2021-09": 18900,
+      "2021-06": 15748
+    },
+    "current_liabilities": {
+      "2026-03": 43048,
+      "2025-12": 42588,
+      "2025-09": 37830,
+      "2025-06": 44125,
+      "2025-03": 34239,
+      "2024-12": 31556,
+      "2024-09": 23003,
+      "2024-06": 23223,
+      "2024-03": 27461,
+      "2023-12": 20437,
+      "2023-09": 21729,
+      "2023-06": 13827,
+      "2023-03": 7023,
+      "2022-12": 11552,
+      "2022-09": 7816,
+      "2022-06": 7867,
+      "2022-03": 5046,
+      "2021-12": 5911,
+      "2021-09": 6898,
+      "2021-06": 8453
+    },
+    "total_liabilities": {
+      "2026-03": 44919,
+      "2025-12": 44788,
+      "2025-09": 40065,
+      "2025-06": 46673,
+      "2025-03": 35735,
+      "2024-12": 33495,
+      "2024-09": 24218,
+      "2024-06": 25449,
+      "2024-03": 29195,
+      "2023-12": 22914,
+      "2023-09": 21563,
+      "2023-06": 16410,
+      "2023-03": 9556,
+      "2022-12": 14542,
+      "2022-09": 10244,
+      "2022-06": 10004,
+      "2022-03": 7933,
+      "2021-12": 7542,
+      "2021-09": 7935,
+      "2021-06": 9269
+    },
+    "total_debt": {
+      "2026-03": 33132,
+      "2025-12": 31452,
+      "2025-09": 27821,
+      "2025-06": 32200,
+      "2025-03": 28718,
+      "2024-12": 27907,
+      "2024-09": 16124,
+      "2024-06": 16419,
+      "2024-03": 14525,
+      "2023-12": 13368,
+      "2023-09": 9508,
+      "2023-06": 8302,
+      "2023-03": 7706,
+      "2022-12": 9793,
+      "2022-09": 5064,
+      "2022-06": 8021,
+      "2022-03": 6073,
+      "2021-12": 5828,
+      "2021-09": 6906,
+      "2021-06": 7381
+    },
+    "total_equity": {
+      "2026-03": 18318,
+      "2025-12": 17724,
+      "2025-09": 17049,
+      "2025-06": 17244,
+      "2025-03": 15351,
+      "2024-12": 15804,
+      "2024-09": 14330,
+      "2024-06": 15069,
+      "2024-03": 13521,
+      "2023-12": 13276,
+      "2023-09": 13013,
+      "2023-06": 12225,
+      "2023-03": 12209,
+      "2022-12": 12046,
+      "2022-09": 11939,
+      "2022-06": 11656,
+      "2022-03": 11430,
+      "2021-12": 11145,
+      "2021-09": 10965,
+      "2021-06": 6479
+    }
+  },
+  "cashflow_quarterly": {
+    "cash_from_operations": {
+      "2026-03": -1354,
+      "2025-12": 0.56,
+      "2025-09": 2997,
+      "2025-06": -143.31,
+      "2025-03": -819.9,
+      "2024-12": -8915,
+      "2024-09": 1140,
+      "2024-06": -2567,
+      "2024-03": 1023,
+      "2023-12": -1474,
+      "2023-09": 193.52,
+      "2023-06": 321.43,
+      "2023-03": 3259,
+      "2022-12": -3045,
+      "2022-09": 3968,
+      "2022-06": 361.59,
+      "2022-03": 2717,
+      "2021-12": 1163,
+      "2021-09": -1981
+    },
+    "cash_from_investing": {
+      "2026-03": 1319,
+      "2025-12": -986.11,
+      "2025-09": -396.97,
+      "2025-06": -2346,
+      "2025-03": -486.58,
+      "2024-12": -388.05,
+      "2024-09": 572.73,
+      "2024-06": 555.74,
+      "2024-03": -696.54,
+      "2023-12": -2133,
+      "2023-09": -437.22,
+      "2023-06": 925.71,
+      "2023-03": -1254,
+      "2022-12": -1676,
+      "2022-09": -787.79,
+      "2022-06": -1496,
+      "2022-03": -3328,
+      "2021-12": -422.7,
+      "2021-09": -700.2
+    },
+    "cash_from_financing": {
+      "2026-03": 1960,
+      "2025-12": 2155,
+      "2025-09": -5252,
+      "2025-06": 3078,
+      "2025-03": 505.75,
+      "2024-12": 10545,
+      "2024-09": -877.56,
+      "2024-06": 1547,
+      "2024-03": 689.63,
+      "2023-12": 3385,
+      "2023-09": 1182,
+      "2023-06": -1124,
+      "2023-03": -2094,
+      "2022-12": 4574,
+      "2022-09": -3148,
+      "2022-06": 1651,
+      "2022-03": 194.74,
+      "2021-12": -1481,
+      "2021-09": 3591
+    },
+    "capex": {
+      "2026-03": 1048,
+      "2025-12": 268.75,
+      "2025-09": 790.11,
+      "2025-06": 2444,
+      "2025-03": 495.82,
+      "2024-12": 191.2,
+      "2024-09": 7.85,
+      "2024-06": 38.4,
+      "2024-03": 556.48,
+      "2023-12": 1945,
+      "2023-09": 108.4,
+      "2023-06": 1144,
+      "2023-03": 1150,
+      "2022-12": 631.46,
+      "2022-06": 1538,
+      "2022-03": 3167,
+      "2021-12": 156.25,
+      "2021-09": 623.48
+    }
+  },
+  "ratios": {
+    "pe_ratio": 11.15,
+    "price_to_book": 3.37,
+    "roe": 0.2753,
+    "roa": 0.0743,
+    "gross_margin": 0.1073,
+    "industry_pe": null
+  },
+  "earnings": {
+    "source": "stockanalysis.com (statistics + quarterly)",
+    "as_of": "2026-06-28",
+    "latest_eps": 1.5,
+    "eps_ttm": 14.02,
+    "next_earnings_date": "Sep 2, 2026",
+    "history": [
+      {
+        "period_end": "Mar 2026",
+        "eps": 1.5,
+        "eps_forecast": null,
+        "eps_surprise_pct": null
+      },
+      {
+        "period_end": "Dec 2025",
+        "eps": 3.72,
+        "eps_forecast": null,
+        "eps_surprise_pct": null
+      },
+      {
+        "period_end": "Sep 2025",
+        "eps": 4.01,
+        "eps_forecast": null,
+        "eps_surprise_pct": null
+      },
+      {
+        "period_end": "Jun 2025",
+        "eps": 4.79,
+        "eps_forecast": null,
+        "eps_surprise_pct": null
+      },
+      {
+        "period_end": "Mar 2025",
+        "eps": 1.35,
+        "eps_forecast": null,
+        "eps_surprise_pct": null
+      },
+      {
+        "period_end": "Dec 2024",
+        "eps": 3.74,
+        "eps_forecast": null,
+        "eps_surprise_pct": null
+      },
+      {
+        "period_end": "Sep 2024",
+        "eps": 2.13,
+        "eps_forecast": null,
+        "eps_surprise_pct": null
+      },
+      {
+        "period_end": "Jun 2024",
+        "eps": 3.91,
+        "eps_forecast": null,
+        "eps_surprise_pct": null
+      }
+    ]
+  },
+  "dividends": {
+    "source": "stockanalysis.com (statistics + dividend page)",
+    "as_of": "2026-06-28",
+    "yield": 0.0576,
+    "per_share_ttm": 9,
+    "payout_ratio": 0.4523,
+    "history": [
+      {
+        "ex_date": "2025-10-31",
+        "amount": 2,
+        "type": null,
+        "yield": null
+      },
+      {
+        "ex_date": "2025-10-14",
+        "amount": 4.5,
+        "type": null,
+        "yield": null
+      },
+      {
+        "ex_date": "2025-03-10",
+        "amount": 2.5,
+        "type": null,
+        "yield": null
+      },
+      {
+        "ex_date": "2024-09-19",
+        "amount": 4,
+        "type": null,
+        "yield": null
+      },
+      {
+        "ex_date": "2024-02-07",
+        "amount": 2,
+        "type": null,
+        "yield": null
+      },
+      {
+        "ex_date": "2023-10-18",
+        "amount": 2.5,
+        "type": null,
+        "yield": null
+      },
+      {
+        "ex_date": "2022-10-20",
+        "amount": 1,
+        "type": null,
+        "yield": null
+      },
+      {
+        "ex_date": "2021-10-20",
+        "amount": 1.25,
+        "type": null,
+        "yield": null
+      }
+    ]
+  },
+  "overview": {
+    "company_name": "Air Link Communication Limited",
+    "sector": "Technology & Communication",
+    "industry": "Technology & Communication",
+    "market_cap": 61812.2,
+    "shares_outstanding": 395.27,
+    "current_price": 156.38,
+    "currency": "PKR"
+  },
+  "profile": {},
+  "ownership": {},
+  "announcements": {},
+  "insider": {
+    "source": "sarmaaya.pk (insider transactions, #insider-transactions table)",
+    "as_of": "2026-06-28",
+    "transactions": [
+      {
+        "date": "2025-03-05",
+        "person": "Muzzaffar Hayat Piracha",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 9540,
+        "price": 169.69,
+        "value": 1618843
+      },
+      {
+        "date": "2025-03-05",
+        "person": "Muzzaffar Hayat Piracha",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 16151,
+        "price": 177.08,
+        "value": 2860019
+      },
+      {
+        "date": "2025-03-05",
+        "person": "Muzzaffar Hayat Piracha",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 10984,
+        "price": 177.54,
+        "value": 1950099
+      },
+      {
+        "date": "2025-03-05",
+        "person": "Muzzaffar Hayat Piracha",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 17582,
+        "price": 177.81,
+        "value": 3126255
+      },
+      {
+        "date": "2025-03-05",
+        "person": "Muzzaffar Hayat Piracha",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 15566,
+        "price": 177.76,
+        "value": 2767012
+      },
+      {
+        "date": "2025-03-05",
+        "person": "Muzzaffar Hayat Piracha",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 35692,
+        "price": 176.87,
+        "value": 6312844
+      },
+      {
+        "date": "2025-03-05",
+        "person": "Muzzaffar Hayat Piracha",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 40869,
+        "price": 176.4,
+        "value": 7209292
+      },
+      {
+        "date": "2025-03-05",
+        "person": "Muzzaffar Hayat Piracha",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 35380,
+        "price": 174.67,
+        "value": 6179825
+      },
+      {
+        "date": "2025-03-05",
+        "person": "Muzzaffar Hayat Piracha",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 6246,
+        "price": 174.11,
+        "value": 1087491
+      },
+      {
+        "date": "2025-03-05",
+        "person": "Muzzaffar Hayat Piracha",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 21530,
+        "price": 173.62,
+        "value": 3738039
+      },
+      {
+        "date": "2025-03-05",
+        "person": "Muzzaffar Hayat Piracha",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 70207,
+        "price": 172.74,
+        "value": 12127557
+      },
+      {
+        "date": "2025-03-05",
+        "person": "Muzzaffar Hayat Piracha",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 58246,
+        "price": 172.12,
+        "value": 10025302
+      },
+      {
+        "date": "2025-03-05",
+        "person": "Muzzaffar Hayat Piracha",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 59331,
+        "price": 171.7,
+        "value": 10187133
+      },
+      {
+        "date": "2025-03-05",
+        "person": "Muzzaffar Hayat Piracha",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 31311,
+        "price": 171.22,
+        "value": 5361069
+      },
+      {
+        "date": "2025-03-05",
+        "person": "Muzzaffar Hayat Piracha",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 21365,
+        "price": 170.65,
+        "value": 3645937
+      },
+      {
+        "date": "2024-10-07",
+        "person": "Muzzaffar Hayat Piracha",
+        "role": "Executive Director",
+        "action": "Sell",
+        "shares": 7500000,
+        "price": 135.25,
+        "value": 1014375000
+      },
+      {
+        "date": "2023-09-07",
+        "person": "Muzzaffar Hayat Piracha",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 83500,
+        "price": 23.99,
+        "value": 2003165
+      },
+      {
+        "date": "2023-04-11",
+        "person": "Muzzaffar Hayat Piracha",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 500,
+        "price": 24.39,
+        "value": 12195
+      },
+      {
+        "date": "2023-04-11",
+        "person": "Muzzaffar Hayat Piracha",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 142000,
+        "price": 24.48,
+        "value": 3476160
+      },
+      {
+        "date": "2023-04-11",
+        "person": "Muzzaffar Hayat Piracha",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 1000,
+        "price": 24.47,
+        "value": 24470
+      },
+      {
+        "date": "2023-04-11",
+        "person": "Muzzaffar Hayat Piracha",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 1000,
+        "price": 23.8,
+        "value": 23800
+      },
+      {
+        "date": "2023-04-11",
+        "person": "Muzzaffar Hayat Piracha",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 500,
+        "price": 23.79,
+        "value": 11895
+      },
+      {
+        "date": "2023-04-11",
+        "person": "Muzzaffar Hayat Piracha",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 500,
+        "price": 23.78,
+        "value": 11890
+      },
+      {
+        "date": "2023-04-11",
+        "person": "Muzzaffar Hayat Piracha",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 1000,
+        "price": 23.7,
+        "value": 23700
+      },
+      {
+        "date": "2023-04-11",
+        "person": "Muzzaffar Hayat Piracha",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 1000,
+        "price": 23.7,
+        "value": 23700
+      },
+      {
+        "date": "2023-04-11",
+        "person": "Muzzaffar Hayat Piracha",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 500,
+        "price": 23.63,
+        "value": 11815
+      },
+      {
+        "date": "2023-04-11",
+        "person": "Muzzaffar Hayat Piracha",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 500,
+        "price": 23.6,
+        "value": 11800
+      },
+      {
+        "date": "2023-04-11",
+        "person": "Muzzaffar Hayat Piracha",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 1000,
+        "price": 23.5,
+        "value": 23500
+      },
+      {
+        "date": "2023-04-11",
+        "person": "Muzzaffar Hayat Piracha",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 1000,
+        "price": 23.48,
+        "value": 23480
+      },
+      {
+        "date": "2023-04-11",
+        "person": "Muzzaffar Hayat Piracha",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 1000,
+        "price": 23.47,
+        "value": 23470
+      },
+      {
+        "date": "2023-04-11",
+        "person": "Muzzaffar Hayat Piracha",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 500,
+        "price": 24.45,
+        "value": 12225
+      },
+      {
+        "date": "2023-04-11",
+        "person": "Muzzaffar Hayat Piracha",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 500,
+        "price": 22.44,
+        "value": 11220
+      },
+      {
+        "date": "2023-04-11",
+        "person": "Muzzaffar Hayat Piracha",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 500,
+        "price": 24.11,
+        "value": 12055
+      },
+      {
+        "date": "2023-04-11",
+        "person": "Muzzaffar Hayat Piracha",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 1500,
+        "price": 24.0,
+        "value": 36000
+      },
+      {
+        "date": "2023-04-11",
+        "person": "Muzzaffar Hayat Piracha",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 6000,
+        "price": 23.99,
+        "value": 143940
+      },
+      {
+        "date": "2023-04-11",
+        "person": "Muzzaffar Hayat Piracha",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 2000,
+        "price": 23.98,
+        "value": 47960
+      },
+      {
+        "date": "2023-04-11",
+        "person": "Muzzaffar Hayat Piracha",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 500,
+        "price": 24.25,
+        "value": 12125
+      },
+      {
+        "date": "2023-04-11",
+        "person": "Muzzaffar Hayat Piracha",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 5000,
+        "price": 24.22,
+        "value": 121100
+      },
+      {
+        "date": "2023-04-11",
+        "person": "Muzzaffar Hayat Piracha",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 2000,
+        "price": 24.2,
+        "value": 48400
+      },
+      {
+        "date": "2023-03-21",
+        "person": "Muzzaffar Hayat Piracha",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 1087500,
+        "price": 20.94,
+        "value": 22772250
+      },
+      {
+        "date": "2023-03-21",
+        "person": "Muzzaffar Hayat Piracha",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 303,
+        "price": 21.05,
+        "value": 6378
+      },
+      {
+        "date": "2023-02-15",
+        "person": "Muzzaffar Hayat Piracha",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 1200000,
+        "price": 23.5,
+        "value": 28200000
+      },
+      {
+        "date": "2023-02-15",
+        "person": "Muzzaffar Hayat Piracha",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 500,
+        "price": 23.74,
+        "value": 11870
+      },
+      {
+        "date": "2023-02-07",
+        "person": "Muzzaffar Hayat Piracha",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 500,
+        "price": 23.8,
+        "value": 11900
+      },
+      {
+        "date": "2023-02-07",
+        "person": "Muzzaffar Hayat Piracha",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 500,
+        "price": 23.39,
+        "value": 11695
+      },
+      {
+        "date": "2023-02-07",
+        "person": "Muzzaffar Hayat Piracha",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 2500,
+        "price": 23.4,
+        "value": 58500
+      },
+      {
+        "date": "2023-02-07",
+        "person": "Muzzaffar Hayat Piracha",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 1000,
+        "price": 23.48,
+        "value": 23480
+      },
+      {
+        "date": "2023-02-07",
+        "person": "Muzzaffar Hayat Piracha",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 1500,
+        "price": 23.5,
+        "value": 35250
+      },
+      {
+        "date": "2023-02-07",
+        "person": "Muzzaffar Hayat Piracha",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 500,
+        "price": 23.6,
+        "value": 11800
+      },
+      {
+        "date": "2023-02-07",
+        "person": "Muzzaffar Hayat Piracha",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 500,
+        "price": 23.7,
+        "value": 11850
+      },
+      {
+        "date": "2023-02-07",
+        "person": "Muzzaffar Hayat Piracha",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 500,
+        "price": 23.75,
+        "value": 11875
+      },
+      {
+        "date": "2023-02-07",
+        "person": "Muzzaffar Hayat Piracha",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 500,
+        "price": 23.8,
+        "value": 11900
+      },
+      {
+        "date": "2023-02-07",
+        "person": "Muzzaffar Hayat Piracha",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 500,
+        "price": 23.9,
+        "value": 11950
+      },
+      {
+        "date": "2023-02-07",
+        "person": "Muzzaffar Hayat Piracha",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 2500,
+        "price": 23.98,
+        "value": 59950
+      },
+      {
+        "date": "2023-02-07",
+        "person": "Muzzaffar Hayat Piracha",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 500,
+        "price": 23.39,
+        "value": 11695
+      },
+      {
+        "date": "2023-02-07",
+        "person": "Muzzaffar Hayat Piracha",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 2500,
+        "price": 23.4,
+        "value": 58500
+      },
+      {
+        "date": "2023-02-07",
+        "person": "Muzzaffar Hayat Piracha",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 1000,
+        "price": 23.48,
+        "value": 23480
+      },
+      {
+        "date": "2023-02-07",
+        "person": "Muzzaffar Hayat Piracha",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 1500,
+        "price": 23.5,
+        "value": 35250
+      },
+      {
+        "date": "2023-02-07",
+        "person": "Muzzaffar Hayat Piracha",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 500,
+        "price": 23.6,
+        "value": 11800
+      },
+      {
+        "date": "2023-02-07",
+        "person": "Muzzaffar Hayat Piracha",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 500,
+        "price": 23.7,
+        "value": 11850
+      },
+      {
+        "date": "2023-02-07",
+        "person": "Muzzaffar Hayat Piracha",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 500,
+        "price": 23.75,
+        "value": 11875
+      },
+      {
+        "date": "2023-02-07",
+        "person": "Muzzaffar Hayat Piracha",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 500,
+        "price": 23.9,
+        "value": 11950
+      },
+      {
+        "date": "2023-02-07",
+        "person": "Muzzaffar Hayat Piracha",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 2500,
+        "price": 23.98,
+        "value": 59950
+      },
+      {
+        "date": "2023-02-07",
+        "person": "Muzzaffar Hayat Piracha",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 154500,
+        "price": 24.4,
+        "value": 3769800
+      },
+      {
+        "date": "2023-02-07",
+        "person": "Muzzaffar Hayat Piracha",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 1500,
+        "price": 24.45,
+        "value": 36675
+      },
+      {
+        "date": "2023-02-07",
+        "person": "Muzzaffar Hayat Piracha",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 500,
+        "price": 24.47,
+        "value": 12235
+      },
+      {
+        "date": "2023-02-07",
+        "person": "Muzzaffar Hayat Piracha",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 1000,
+        "price": 24.48,
+        "value": 24480
+      },
+      {
+        "date": "2023-02-07",
+        "person": "Muzzaffar Hayat Piracha",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 5000,
+        "price": 24.5,
+        "value": 122500
+      },
+      {
+        "date": "2023-02-07",
+        "person": "Muzzaffar Hayat Piracha",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 110000,
+        "price": 24.58,
+        "value": 2703800
+      },
+      {
+        "date": "2023-01-31",
+        "person": "Muzzaffar Hayat Piracha",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 199500,
+        "price": 23.48,
+        "value": 4684260
+      },
+      {
+        "date": "2023-01-31",
+        "person": "Muzzaffar Hayat Piracha",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 500,
+        "price": 23.25,
+        "value": 11625
+      },
+      {
+        "date": "2023-01-31",
+        "person": "Muzzaffar Hayat Piracha",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 50500,
+        "price": 22.14,
+        "value": 1118070
+      },
+      {
+        "date": "2023-01-31",
+        "person": "Muzzaffar Hayat Piracha",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 500,
+        "price": 22.09,
+        "value": 11045
+      },
+      {
+        "date": "2023-01-31",
+        "person": "Muzzaffar Hayat Piracha",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 50000,
+        "price": 22.0,
+        "value": 1100000
+      },
+      {
+        "date": "2023-01-25",
+        "person": "Muzzaffar Hayat Piracha",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 3000,
+        "price": 22.34,
+        "value": 67020
+      },
+      {
+        "date": "2023-01-25",
+        "person": "Muzzaffar Hayat Piracha",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 1000,
+        "price": 22.3,
+        "value": 22300
+      },
+      {
+        "date": "2023-01-25",
+        "person": "Muzzaffar Hayat Piracha",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 500,
+        "price": 22.25,
+        "value": 11125
+      },
+      {
+        "date": "2023-01-25",
+        "person": "Muzzaffar Hayat Piracha",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 1500,
+        "price": 22.0,
+        "value": 33000
+      },
+      {
+        "date": "2023-01-25",
+        "person": "Muzzaffar Hayat Piracha",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 1500,
+        "price": 21.99,
+        "value": 32985
+      },
+      {
+        "date": "2023-01-25",
+        "person": "Muzzaffar Hayat Piracha",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 3000,
+        "price": 21.98,
+        "value": 65940
+      },
+      {
+        "date": "2023-01-25",
+        "person": "Muzzaffar Hayat Piracha",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 1000,
+        "price": 21.97,
+        "value": 21970
+      },
+      {
+        "date": "2023-01-25",
+        "person": "Muzzaffar Hayat Piracha",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 500,
+        "price": 21.96,
+        "value": 10980
+      },
+      {
+        "date": "2023-01-25",
+        "person": "Muzzaffar Hayat Piracha",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 500,
+        "price": 21.94,
+        "value": 10970
+      },
+      {
+        "date": "2023-01-25",
+        "person": "Muzzaffar Hayat Piracha",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 500,
+        "price": 21.93,
+        "value": 10965
+      },
+      {
+        "date": "2023-01-25",
+        "person": "Muzzaffar Hayat Piracha",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 1500,
+        "price": 22.45,
+        "value": 33675
+      },
+      {
+        "date": "2023-01-25",
+        "person": "Muzzaffar Hayat Piracha",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 500,
+        "price": 22.44,
+        "value": 11220
+      },
+      {
+        "date": "2023-01-25",
+        "person": "Muzzaffar Hayat Piracha",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 10500,
+        "price": 22.4,
+        "value": 235200
+      },
+      {
+        "date": "2023-01-25",
+        "person": "Muzzaffar Hayat Piracha",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 2000,
+        "price": 22.39,
+        "value": 44780
+      },
+      {
+        "date": "2023-01-25",
+        "person": "Muzzaffar Hayat Piracha",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 2000,
+        "price": 22.35,
+        "value": 44700
+      },
+      {
+        "date": "2023-01-25",
+        "person": "Muzzaffar Hayat Piracha",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 500,
+        "price": 22.85,
+        "value": 11425
+      },
+      {
+        "date": "2023-01-25",
+        "person": "Muzzaffar Hayat Piracha",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 500,
+        "price": 22.95,
+        "value": 11475
+      },
+      {
+        "date": "2023-01-25",
+        "person": "Muzzaffar Hayat Piracha",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 1000,
+        "price": 22.96,
+        "value": 22960
+      },
+      {
+        "date": "2023-01-25",
+        "person": "Muzzaffar Hayat Piracha",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 1000,
+        "price": 22.97,
+        "value": 22970
+      },
+      {
+        "date": "2023-01-25",
+        "person": "Muzzaffar Hayat Piracha",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 440500,
+        "price": 22.99,
+        "value": 10127095
+      },
+      {
+        "date": "2023-01-25",
+        "person": "Muzzaffar Hayat Piracha",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 2500,
+        "price": 22.5,
+        "value": 56250
+      },
+      {
+        "date": "2023-01-25",
+        "person": "Muzzaffar Hayat Piracha",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 7000,
+        "price": 22.49,
+        "value": 157430
+      },
+      {
+        "date": "2023-01-25",
+        "person": "Muzzaffar Hayat Piracha",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 3000,
+        "price": 22.48,
+        "value": 67440
+      },
+      {
+        "date": "2023-01-25",
+        "person": "Muzzaffar Hayat Piracha",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 500,
+        "price": 22.35,
+        "value": 11175
+      },
+      {
+        "date": "2023-01-25",
+        "person": "Muzzaffar Hayat Piracha",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 2000,
+        "price": 22.34,
+        "value": 44680
+      },
+      {
+        "date": "2023-01-25",
+        "person": "Muzzaffar Hayat Piracha",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 1000,
+        "price": 22.19,
+        "value": 22190
+      },
+      {
+        "date": "2023-01-25",
+        "person": "Muzzaffar Hayat Piracha",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 7000,
+        "price": 22.2,
+        "value": 155400
+      },
+      {
+        "date": "2023-01-25",
+        "person": "Muzzaffar Hayat Piracha",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 7500,
+        "price": 21.99,
+        "value": 164925
+      },
+      {
+        "date": "2023-01-25",
+        "person": "Muzzaffar Hayat Piracha",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 500,
+        "price": 21.98,
+        "value": 10990
+      },
+      {
+        "date": "2023-01-25",
+        "person": "Muzzaffar Hayat Piracha",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 1000,
+        "price": 21.94,
+        "value": 21940
+      },
+      {
+        "date": "2023-01-25",
+        "person": "Muzzaffar Hayat Piracha",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 5000,
+        "price": 21.95,
+        "value": 109750
+      },
+      {
+        "date": "2023-01-25",
+        "person": "Muzzaffar Hayat Piracha",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 25000,
+        "price": 21.9,
+        "value": 547500
+      },
+      {
+        "date": "2023-01-25",
+        "person": "Muzzaffar Hayat Piracha",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 500,
+        "price": 21.89,
+        "value": 10945
+      },
+      {
+        "date": "2023-01-25",
+        "person": "Muzzaffar Hayat Piracha",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 1000,
+        "price": 21.7,
+        "value": 21700
+      },
+      {
+        "date": "2023-01-25",
+        "person": "Muzzaffar Hayat Piracha",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 1000,
+        "price": 21.88,
+        "value": 21880
+      },
+      {
+        "date": "2023-01-25",
+        "person": "Muzzaffar Hayat Piracha",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 1000,
+        "price": 21.55,
+        "value": 21550
+      },
+      {
+        "date": "2023-01-25",
+        "person": "Muzzaffar Hayat Piracha",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 3000,
+        "price": 21.5,
+        "value": 64500
+      },
+      {
+        "date": "2023-01-25",
+        "person": "Muzzaffar Hayat Piracha",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 416500,
+        "price": 22.79,
+        "value": 9492035
+      },
+      {
+        "date": "2023-01-25",
+        "person": "Muzzaffar Hayat Piracha",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 10500,
+        "price": 22.75,
+        "value": 238875
+      },
+      {
+        "date": "2023-01-25",
+        "person": "Muzzaffar Hayat Piracha",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 500,
+        "price": 22.69,
+        "value": 11345
+      },
+      {
+        "date": "2023-01-25",
+        "person": "Muzzaffar Hayat Piracha",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 30500,
+        "price": 22.7,
+        "value": 692350
+      },
+      {
+        "date": "2023-01-25",
+        "person": "Muzzaffar Hayat Piracha",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 500,
+        "price": 22.39,
+        "value": 11195
+      },
+      {
+        "date": "2023-01-25",
+        "person": "Muzzaffar Hayat Piracha",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 1000,
+        "price": 22.39,
+        "value": 22390
+      },
+      {
+        "date": "2023-01-25",
+        "person": "Muzzaffar Hayat Piracha",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 8000,
+        "price": 22.4,
+        "value": 179200
+      },
+      {
+        "date": "2023-01-25",
+        "person": "Muzzaffar Hayat Piracha",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 7500,
+        "price": 22.49,
+        "value": 168675
+      },
+      {
+        "date": "2023-01-25",
+        "person": "Muzzaffar Hayat Piracha",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 4000,
+        "price": 22.5,
+        "value": 90000
+      },
+      {
+        "date": "2023-01-25",
+        "person": "Muzzaffar Hayat Piracha",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 500,
+        "price": 22.65,
+        "value": 11325
+      },
+      {
+        "date": "2023-01-25",
+        "person": "Muzzaffar Hayat Piracha",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 21000,
+        "price": 22.7,
+        "value": 476700
+      },
+      {
+        "date": "2023-01-25",
+        "person": "Muzzaffar Hayat Piracha",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 500,
+        "price": 22.69,
+        "value": 11345
+      },
+      {
+        "date": "2023-01-25",
+        "person": "Muzzaffar Hayat Piracha",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 500,
+        "price": 22.72,
+        "value": 11360
+      },
+      {
+        "date": "2023-01-25",
+        "person": "Muzzaffar Hayat Piracha",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 500,
+        "price": 22.73,
+        "value": 11365
+      },
+      {
+        "date": "2023-01-25",
+        "person": "Muzzaffar Hayat Piracha",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 1500,
+        "price": 22.74,
+        "value": 34110
+      },
+      {
+        "date": "2023-01-25",
+        "person": "Muzzaffar Hayat Piracha",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 5000,
+        "price": 22.75,
+        "value": 113750
+      },
+      {
+        "date": "2022-12-23",
+        "person": "Muzzaffar Hayat Piracha",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 500,
+        "price": 27.48,
+        "value": 13740
+      },
+      {
+        "date": "2022-12-23",
+        "person": "Muzzaffar Hayat Piracha",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 1000,
+        "price": 27.47,
+        "value": 27470
+      },
+      {
+        "date": "2022-12-23",
+        "person": "Muzzaffar Hayat Piracha",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 500,
+        "price": 27.85,
+        "value": 13925
+      },
+      {
+        "date": "2022-12-23",
+        "person": "Muzzaffar Hayat Piracha",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 1000000,
+        "price": 27.99,
+        "value": 27990000
+      },
+      {
+        "date": "2022-12-23",
+        "person": "Muzzaffar Hayat Piracha",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 5000,
+        "price": 27.5,
+        "value": 137500
+      },
+      {
+        "date": "2022-12-23",
+        "person": "Muzzaffar Hayat Piracha",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 500,
+        "price": 27.84,
+        "value": 13920
+      },
+      {
+        "date": "2022-08-29",
+        "person": "Muzzaffar Hayat Piracha",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 280000,
+        "price": 40.55,
+        "value": 11354000
+      },
+      {
+        "date": "2022-08-25",
+        "person": "Muzzaffar Hayat Piracha",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 1000000,
+        "price": 39.6,
+        "value": 39600000
+      }
+    ]
+  },
+  "shareholding": {},
+  "fipi": {},
+  "monthly_sales": {}
+}

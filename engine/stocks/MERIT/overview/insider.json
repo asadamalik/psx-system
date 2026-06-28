@@ -1,0 +1,15 @@
+{
+  "source": "sarmaaya.pk (insider transactions, #insider-transactions table)",
+  "as_of": "2026-06-28",
+  "transactions": [
+    {
+      "date": "2024-08-19",
+      "person": "Mr. Ahmed Munaf",
+      "role": "Independent Director",
+      "action": "Sell",
+      "shares": 470878,
+      "price": 12.36,
+      "value": 5820052
+    }
+  ]
+}
