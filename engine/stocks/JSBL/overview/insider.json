@@ -1,0 +1,33 @@
+{
+  "source": "sarmaaya.pk (insider transactions, #insider-transactions table)",
+  "as_of": "2026-06-28",
+  "transactions": [
+    {
+      "date": "2023-07-06",
+      "person": "Adil Matcheswala",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 10000,
+      "price": 5.15,
+      "value": 51500
+    },
+    {
+      "date": "2023-07-06",
+      "person": "Adil Matcheswala",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 10000,
+      "price": 5.35,
+      "value": 53500
+    },
+    {
+      "date": "2023-07-06",
+      "person": "Adil Matcheswala",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 10000,
+      "price": 5.45,
+      "value": 54500
+    }
+  ]
+}

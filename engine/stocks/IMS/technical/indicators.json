@@ -1,0 +1,65 @@
+{
+  "as_of": "2026-06-24",
+  "bars": 259,
+  "close": 20.66,
+  "sma_20": 17.7515,
+  "sma_50": 17.2438,
+  "sma_200": 18.131050000000002,
+  "ema_20": 18.367565613566285,
+  "ema_50": 17.61810792266548,
+  "ema_100": 17.650244095330734,
+  "ema_200": 16.750961862896638,
+  "obv": 231012710.0,
+  "weekly_trend": "Up",
+  "monthly_trend": "Up",
+  "support_resistance": {
+    "price": 20.66,
+    "nearest_resistance": 22.7,
+    "nearest_support": 16.5,
+    "resistance_levels": [
+      22.7,
+      23.9,
+      25.84
+    ],
+    "support_levels": [
+      16.5,
+      16.05,
+      15.41
+    ]
+  },
+  "rsi_14": 68.63532420423178,
+  "macd": 1.027212825989455,
+  "macd_signal": 0.6012813415436863,
+  "macd_hist": 0.4259314844457688,
+  "adx_14": 23.46205665048456,
+  "plus_di": 29.645059337889617,
+  "minus_di": 11.294319871357866,
+  "atr_14": 1.2386301937913278,
+  "bb_upper": 21.27045595312026,
+  "bb_lower": 14.232544046879742,
+  "week52_high": 25.84,
+  "week52_low": 5.28,
+  "rsi_divergence": {
+    "type": null
+  },
+  "patterns": [
+    {
+      "name": "Inverse Head & Shoulders",
+      "type": "bullish",
+      "confidence": 0.85,
+      "status": "confirmed",
+      "neckline": 17.75,
+      "target": 21.0,
+      "note": "Three troughs, middle lowest; breaks up above the neckline."
+    },
+    {
+      "name": "Ascending Triangle",
+      "type": "bullish",
+      "confidence": 0.55,
+      "status": "forming",
+      "neckline": 18.0,
+      "target": 21.5,
+      "note": "Flat resistance with rising lows; bullish breakout bias."
+    }
+  ]
+}

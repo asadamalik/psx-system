@@ -1,0 +1,222 @@
+{
+  "source": "sarmaaya.pk (insider transactions, #insider-transactions table)",
+  "as_of": "2026-06-28",
+  "transactions": [
+    {
+      "date": "2023-08-21",
+      "person": "Kohinoor Textile Mills Limited",
+      "role": "Buy-Back",
+      "action": "Buy",
+      "shares": 1473000,
+      "price": 59.93,
+      "value": 88276890
+    },
+    {
+      "date": "2023-02-03",
+      "person": "Aamir Fayyaz Sheikh Director & Chief Executive",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 1000,
+      "price": 54.09,
+      "value": 54090
+    },
+    {
+      "date": "2023-02-02",
+      "person": "AAMIR FAYYAZ SHIEKH Director & Chief Executive",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 1000,
+      "price": 54.09,
+      "value": 54090
+    },
+    {
+      "date": "2023-02-02",
+      "person": "AAMIR FAYYAZ SHIEKH Director & Chief Executive",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 67500,
+      "price": 53.55,
+      "value": 3614625
+    },
+    {
+      "date": "2023-02-02",
+      "person": "Aamir Fayyaz Sheikh Director & Chief Executive",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 67500,
+      "price": 53.55,
+      "value": 3614625
+    },
+    {
+      "date": "2023-01-12",
+      "person": "AAMIR FAYYAZ SHIEKH Director & Chief Executive",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 3000,
+      "price": 50.09,
+      "value": 150270
+    },
+    {
+      "date": "2023-01-12",
+      "person": "AAMIR FAYYAZ SHIEKH Director & Chief Executive",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 41500,
+      "price": 50.01,
+      "value": 2075415
+    },
+    {
+      "date": "2023-01-09",
+      "person": "AAMIR FAYYAZ SHIEKH Director & Chief Executive",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 23500,
+      "price": 50.09,
+      "value": 1177115
+    },
+    {
+      "date": "2023-01-09",
+      "person": "AAMIR FAYYAZ SHIEKH Director & Chief Executive",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 71000,
+      "price": 49.41,
+      "value": 3508110
+    },
+    {
+      "date": "2023-01-05",
+      "person": "AAMIR FAYYAZ SHIEKH Director & Chief Executive",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 19000,
+      "price": 42.5,
+      "value": 807500
+    },
+    {
+      "date": "2023-01-05",
+      "person": "AAMIR FAYYAZ SHIEKH Director & Chief Executive",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 16000,
+      "price": 46.06,
+      "value": 736960
+    },
+    {
+      "date": "2022-12-23",
+      "person": "AAMIR FAYYAZ SHEIKH Director & Chief Executive",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 170500,
+      "price": 45.21,
+      "value": 7708305
+    },
+    {
+      "date": "2022-12-23",
+      "person": "AAMIR FAYYAZ SHEIKH Director & Chief Executive",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 103000,
+      "price": 42.06,
+      "value": 4332180
+    },
+    {
+      "date": "2022-12-21",
+      "person": "AAMIR FAYYAZ SHEIKH Director & Chief Executive",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 1500,
+      "price": 40.07,
+      "value": 60105
+    },
+    {
+      "date": "2022-12-21",
+      "person": "AAMIR FAYYAZ SHEIKH Director & Chief Executive",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 37000,
+      "price": 40.07,
+      "value": 1482590
+    },
+    {
+      "date": "2022-12-19",
+      "person": "AAMIR FAYYAZ SHEIKH (Director & Chief Executive)",
+      "role": "Exective Director",
+      "action": "Buy",
+      "shares": 37000,
+      "price": 40.07,
+      "value": 1482590
+    },
+    {
+      "date": "2022-12-08",
+      "person": "AAMIR FAYYAZ SHEIKH (Director & Chief Executive)",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 47000,
+      "price": 39.9,
+      "value": 1875300
+    },
+    {
+      "date": "2022-12-08",
+      "person": "AAMIR FAYYAZ SHEIKH (Director & Chief Executive)",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 25000,
+      "price": 37.14,
+      "value": 928500
+    },
+    {
+      "date": "2022-12-05",
+      "person": "AAMIR FAYYAZ SHEIKH",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 25000,
+      "price": 33.35,
+      "value": 833750
+    },
+    {
+      "date": "2022-12-05",
+      "person": "AAMIR FAYYAZ SHEIKH",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 20500,
+      "price": 35.83,
+      "value": 734515
+    },
+    {
+      "date": "2021-07-22",
+      "person": "AAMIR FAYYAZ SHEIKH Director & Chief Executiv",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 87000,
+      "price": 33.67,
+      "value": 2929290
+    },
+    {
+      "date": "2020-07-22",
+      "person": "AAMIR FAYYAZ SHEIKH Director & Chief Executiv",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 53500,
+      "price": 27.52,
+      "value": 1472320
+    },
+    {
+      "date": "2020-07-22",
+      "person": "AAMIR FAYYAZ SHEIKH Director & Chief Executiv",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 21000,
+      "price": 30.97,
+      "value": 650370
+    },
+    {
+      "date": "2014-03-22",
+      "person": "AAMIR FAYYAZ SHEIKH Director & Chief Executiv",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 375000,
+      "price": 29.0,
+      "value": 10875000
+    }
+  ]
+}

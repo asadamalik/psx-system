@@ -1,0 +1,33 @@
+{
+  "source": "sarmaaya.pk (insider transactions, #insider-transactions table)",
+  "as_of": "2026-06-28",
+  "transactions": [
+    {
+      "date": "2026-06-18",
+      "person": "First Florance Developers Pvt Limited",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 24720000,
+      "price": 1.4,
+      "value": 34608000
+    },
+    {
+      "date": "2025-11-27",
+      "person": "Mr. Ali A. Malik",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 2660000,
+      "price": 24.43,
+      "value": 64983800
+    },
+    {
+      "date": "2023-10-30",
+      "person": "Ali Nadeem",
+      "role": "Senior Management",
+      "action": "Sell",
+      "shares": 119000,
+      "price": 3.93,
+      "value": 467670
+    }
+  ]
+}

@@ -1,0 +1,357 @@
+{
+  "source": "sarmaaya.pk (insider transactions, #insider-transactions table)",
+  "as_of": "2026-06-28",
+  "transactions": [
+    {
+      "date": "2026-04-13",
+      "person": "Ali Pervez Ahmed",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 1957963,
+      "price": 8.57,
+      "value": 16779743
+    },
+    {
+      "date": "2026-01-02",
+      "person": "Ali Pervez Ahmed",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 2100000,
+      "price": 12.0,
+      "value": 25200000
+    },
+    {
+      "date": "2025-11-19",
+      "person": "Ali Pervez Ahmed",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 10000,
+      "price": 12.4,
+      "value": 124000
+    },
+    {
+      "date": "2025-11-19",
+      "person": "Ayesha Ahmed Mansoor",
+      "role": "Non-Executive Director",
+      "action": "Sell",
+      "shares": 10000,
+      "price": 12.5,
+      "value": 125000
+    },
+    {
+      "date": "2025-10-03",
+      "person": "Muhammad Javed Aslam",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 110938,
+      "price": 15.0,
+      "value": 1664070
+    },
+    {
+      "date": "2025-09-29",
+      "person": "Muhammad Javed Aslam",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 600000,
+      "price": 15.0,
+      "value": 9000000
+    },
+    {
+      "date": "2025-09-26",
+      "person": "Rehana Pervez Ahmed",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 1000,
+      "price": 11.66,
+      "value": 11660
+    },
+    {
+      "date": "2025-09-26",
+      "person": "Muhammad Javed Aslam",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 3175000,
+      "price": 12.3,
+      "value": 39052500
+    },
+    {
+      "date": "2025-09-26",
+      "person": "Muhammad Javed Aslam",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 2100000,
+      "price": 11.5,
+      "value": 24150000
+    },
+    {
+      "date": "2025-09-26",
+      "person": "Rehana Pervez Ahmed",
+      "role": "Non-Executive Director",
+      "action": "Sell",
+      "shares": 1000,
+      "price": 11.2,
+      "value": 11200
+    },
+    {
+      "date": "2024-01-10",
+      "person": "Haider Ali",
+      "role": "Independent Director",
+      "action": "Sell",
+      "shares": 500,
+      "price": 2.95,
+      "value": 1475
+    },
+    {
+      "date": "2022-12-05",
+      "person": "Sara Tanwir (Spouse of Hassan Ibrahim Ahmed)",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 1644500,
+      "price": 2.83,
+      "value": 4653935
+    },
+    {
+      "date": "2022-12-02",
+      "person": "Sara Tanwir (Spouse of Hassan Ibrahim Ahmed)",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 900000,
+      "price": 3.17,
+      "value": 2853000
+    },
+    {
+      "date": "2022-02-11",
+      "person": "HASSAN IBRAHIM AHMED",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 1450000,
+      "price": 6.82,
+      "value": 9889000
+    },
+    {
+      "date": "2022-02-11",
+      "person": "Rehana Pervez AHmed",
+      "role": "Non-Executive Director",
+      "action": "Sell",
+      "shares": 1469000,
+      "price": 6.82,
+      "value": 10018580
+    },
+    {
+      "date": "2022-01-31",
+      "person": "Rehana Pervez AHmed",
+      "role": "Non-Executive Director",
+      "action": "Sell",
+      "shares": 1100000,
+      "price": 6.99,
+      "value": 7689000
+    },
+    {
+      "date": "2022-01-26",
+      "person": "Rehana Pervez AHmed",
+      "role": "Non-Executive Director",
+      "action": "Sell",
+      "shares": 352500,
+      "price": 6.76,
+      "value": 2382900
+    },
+    {
+      "date": "2022-01-26",
+      "person": "Rehana Pervez AHmed",
+      "role": "Non-Executive Director",
+      "action": "Sell",
+      "shares": 65000,
+      "price": 7.71,
+      "value": 501150
+    },
+    {
+      "date": "2022-01-11",
+      "person": "Rehana Pervez AHmed",
+      "role": "Non-Executive Director",
+      "action": "Sell",
+      "shares": 300000,
+      "price": 7.8,
+      "value": 2340000
+    },
+    {
+      "date": "2019-05-22",
+      "person": "Sara Tanwir",
+      "role": "Spouse",
+      "action": "Buy",
+      "shares": 340000,
+      "price": 4.53,
+      "value": 1540200
+    },
+    {
+      "date": "2016-05-22",
+      "person": "Sara Tanwir",
+      "role": "Spouse",
+      "action": "Buy",
+      "shares": 175000,
+      "price": 4.79,
+      "value": 838250
+    },
+    {
+      "date": "2016-05-22",
+      "person": "Rehana Pervez AHmed",
+      "role": "Non-Executive Director",
+      "action": "Sell",
+      "shares": 175000,
+      "price": 4.79,
+      "value": 838250
+    },
+    {
+      "date": "2015-06-22",
+      "person": "Sara Tanwir",
+      "role": "Spouse",
+      "action": "Buy",
+      "shares": 23000,
+      "price": 3.89,
+      "value": 89470
+    },
+    {
+      "date": "2015-06-22",
+      "person": "Sara Tanwir",
+      "role": "Spouse",
+      "action": "Buy",
+      "shares": 2000,
+      "price": 3.85,
+      "value": 7700
+    },
+    {
+      "date": "2015-04-22",
+      "person": "Sara Tanwir",
+      "role": "Spouse",
+      "action": "Buy",
+      "shares": 100000,
+      "price": 5.59,
+      "value": 559000
+    },
+    {
+      "date": "2015-03-22",
+      "person": "HASSAN IBRAHIM AHMED",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 10000,
+      "price": 6.1,
+      "value": 61000
+    },
+    {
+      "date": "2014-04-22",
+      "person": "Sara Tanwir",
+      "role": "Spouse",
+      "action": "Buy",
+      "shares": 300000,
+      "price": 5.48,
+      "value": 1644000
+    },
+    {
+      "date": "2014-04-22",
+      "person": "Rehana Pervez AHmed",
+      "role": "Non-Executive Director",
+      "action": "Sell",
+      "shares": 300000,
+      "price": 5.48,
+      "value": 1644000
+    },
+    {
+      "date": "2014-04-22",
+      "person": "Sara Tanwir",
+      "role": "Spouse",
+      "action": "Buy",
+      "shares": 214500,
+      "price": 5.13,
+      "value": 1100385
+    },
+    {
+      "date": "2014-04-22",
+      "person": "Sara Tanwir",
+      "role": "Spouse",
+      "action": "Sell",
+      "shares": 75000,
+      "price": 5.63,
+      "value": 422250
+    },
+    {
+      "date": "2014-04-22",
+      "person": "Sara Tanwir",
+      "role": "Spouse",
+      "action": "Buy",
+      "shares": 95000,
+      "price": 5.35,
+      "value": 508250
+    },
+    {
+      "date": "2014-04-22",
+      "person": "Sara Tanwir",
+      "role": "Spouse",
+      "action": "Buy",
+      "shares": 185500,
+      "price": 5.67,
+      "value": 1051785
+    },
+    {
+      "date": "2014-04-22",
+      "person": "Sara Tanwir",
+      "role": "Spouse",
+      "action": "Buy",
+      "shares": 180000,
+      "price": 5.55,
+      "value": 999000
+    },
+    {
+      "date": "2014-04-22",
+      "person": "Sara Tanwir",
+      "role": "Spouse",
+      "action": "Buy",
+      "shares": 150000,
+      "price": 5.62,
+      "value": 843000
+    },
+    {
+      "date": "2013-05-22",
+      "person": "Sara Tanwir",
+      "role": "Spouse",
+      "action": "Buy",
+      "shares": 235000,
+      "price": 4.69,
+      "value": 1102150
+    },
+    {
+      "date": "2013-05-22",
+      "person": "Rehana Pervez AHmed",
+      "role": "Non-Executive Director",
+      "action": "Sell",
+      "shares": 225000,
+      "price": 4.68,
+      "value": 1053000
+    },
+    {
+      "date": "2007-04-22",
+      "person": "Rehana Pervez AHmed",
+      "role": "Non-Executive Director",
+      "action": "Sell",
+      "shares": 73500,
+      "price": 5.01,
+      "value": 368235
+    },
+    {
+      "date": "2002-03-22",
+      "person": "HASSAN IBRAHIM AHMED",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 900000,
+      "price": 5.89,
+      "value": 5301000
+    },
+    {
+      "date": "2002-03-22",
+      "person": "Rehana Pervez AHmed",
+      "role": "Non-Executive Director",
+      "action": "Sell",
+      "shares": 1800000,
+      "price": 6.04,
+      "value": 10872000
+    }
+  ]
+}

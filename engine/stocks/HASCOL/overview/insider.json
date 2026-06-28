@@ -1,0 +1,15 @@
+{
+  "source": "sarmaaya.pk (insider transactions, #insider-transactions table)",
+  "as_of": "2026-06-28",
+  "transactions": [
+    {
+      "date": "2025-05-27",
+      "person": "RASUL BUX PHULPOTO",
+      "role": "Independent Director",
+      "action": "Buy",
+      "shares": 50,
+      "price": 10.13,
+      "value": 507
+    }
+  ]
+}

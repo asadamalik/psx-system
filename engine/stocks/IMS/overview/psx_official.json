@@ -1,0 +1,27 @@
+{
+  "source": "PSX DPS via dashboard companies.json",
+  "basis": "unconsolidated",
+  "as_of": "2026-06-28",
+  "currency": "PKR",
+  "units": "millions",
+  "fiscal_year_end": "Dec",
+  "shares_outstanding": 1287.51,
+  "free_float_pct": 0.1,
+  "free_float_shares": 128.75,
+  "market_cap": 26600.0,
+  "pe_ratio_ttm": null,
+  "yearend_close": {
+    "2025": 25.66,
+    "2024": 7.4,
+    "2023": 1.27
+  },
+  "note": "Bulk Shariah onboard. Unconsolidated annual from companies.json (DPS). industry_pe null (Investing-only). H/L overlaid from stockanalysis (~50 bars).",
+  "annual": {
+    "sales": {},
+    "profit_after_tax": {},
+    "eps": {
+      "2025": 0.12,
+      "2024": 4.06
+    }
+  }
+}

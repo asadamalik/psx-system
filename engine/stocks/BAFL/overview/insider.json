@@ -1,0 +1,438 @@
+{
+  "source": "sarmaaya.pk (insider transactions, #insider-transactions table)",
+  "as_of": "2026-06-28",
+  "transactions": [
+    {
+      "date": "2026-05-07",
+      "person": "Mr. Shaykh Zeeshan Rauf",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 5000,
+      "price": 66.0,
+      "value": 330000
+    },
+    {
+      "date": "2026-01-28",
+      "person": "Mr. Fakhar Ahmad",
+      "role": "Executive",
+      "action": "Sell",
+      "shares": 160116,
+      "price": 127.5,
+      "value": 20414790
+    },
+    {
+      "date": "2026-01-22",
+      "person": "Mr. Fakhar Ahmad",
+      "role": "Executive",
+      "action": "Sell",
+      "shares": 18605,
+      "price": 124.8,
+      "value": 2321904
+    },
+    {
+      "date": "2025-09-02",
+      "person": "Mr. Muhammad Ashraf",
+      "role": "Executive",
+      "action": "Sell",
+      "shares": 202,
+      "price": 105.16,
+      "value": 21242
+    },
+    {
+      "date": "2025-08-21",
+      "person": "Mr. Abdulla Naseer Hawaileel Al Mansoori",
+      "role": "Non-Executive Director",
+      "action": "Sell",
+      "shares": 100,
+      "price": 103.21,
+      "value": 10321
+    },
+    {
+      "date": "2025-08-21",
+      "person": "H.H Sheikh Nahayan Mabarak Al Nahayan",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 4726499,
+      "price": 103.04,
+      "value": 487018457
+    },
+    {
+      "date": "2025-08-21",
+      "person": "Mr. Abdulla Naseer Hawaileel Al Mansoori",
+      "role": "Non-Executive Director",
+      "action": "Sell",
+      "shares": 4726499,
+      "price": 103.04,
+      "value": 487018457
+    },
+    {
+      "date": "2025-08-21",
+      "person": "Mr. Abdulla Naseer Hawaileel Al Mansoori",
+      "role": "Non-Executive Director",
+      "action": "Sell",
+      "shares": 73401,
+      "price": 103.1,
+      "value": 7567643
+    },
+    {
+      "date": "2025-08-20",
+      "person": "Mr. Abdulla Naseer Hawaileel Al Mansoori",
+      "role": "Non-Executive Director",
+      "action": "Sell",
+      "shares": 100000,
+      "price": 99.4,
+      "value": 9940000
+    },
+    {
+      "date": "2025-08-20",
+      "person": "Mr. Abdulla Naseer Hawaileel Al Mansoori",
+      "role": "Non-Executive Director",
+      "action": "Sell",
+      "shares": 50000,
+      "price": 99.5,
+      "value": 4975000
+    },
+    {
+      "date": "2025-08-20",
+      "person": "Mr. Abdulla Naseer Hawaileel Al Mansoori",
+      "role": "Non-Executive Director",
+      "action": "Sell",
+      "shares": 50000,
+      "price": 99.45,
+      "value": 4972500
+    },
+    {
+      "date": "2025-07-17",
+      "person": "Mr. Abdulla Naseer Hawaileel Al Mansoori",
+      "role": "Non-Executive Director",
+      "action": "Sell",
+      "shares": 50000,
+      "price": 92.9,
+      "value": 4645000
+    },
+    {
+      "date": "2025-07-16",
+      "person": "Mr. Abdulla Naseer Hawaileel Al Mansoori",
+      "role": "Non-Executive Director",
+      "action": "Sell",
+      "shares": 97263,
+      "price": 95.09,
+      "value": 9248739
+    },
+    {
+      "date": "2025-07-15",
+      "person": "Mr. Abdullah Nasser Hawaileel",
+      "role": "Non-Executive Director",
+      "action": "Sell",
+      "shares": 316738,
+      "price": 93.58,
+      "value": 29640342
+    },
+    {
+      "date": "2025-07-14",
+      "person": "Mr. Abdullah Nasser Hawaileel",
+      "role": "Non-Executive Director",
+      "action": "Sell",
+      "shares": 114688,
+      "price": 93.82,
+      "value": 10760028
+    },
+    {
+      "date": "2025-07-11",
+      "person": "Mr. Abdullah Nasser Hawaileel",
+      "role": "Non-Executive Director",
+      "action": "Sell",
+      "shares": 350000,
+      "price": 89.0,
+      "value": 31150000
+    },
+    {
+      "date": "2025-07-09",
+      "person": "Ms. Mehreen Ahmed",
+      "role": "Executive",
+      "action": "Sell",
+      "shares": 38000,
+      "price": 89.2,
+      "value": 3389600
+    },
+    {
+      "date": "2025-07-09",
+      "person": "Mr. Abdullah Nasser Hawaileel",
+      "role": "Non-Executive Director",
+      "action": "Sell",
+      "shares": 800000,
+      "price": 88.72,
+      "value": 70976000
+    },
+    {
+      "date": "2025-07-08",
+      "person": "Mr. Abdullah Nasser Hawaileel",
+      "role": "Non-Executive Director",
+      "action": "Sell",
+      "shares": 482441,
+      "price": 90.24,
+      "value": 43535476
+    },
+    {
+      "date": "2025-07-07",
+      "person": "Mr. Abdullah Nasser Hawaileel",
+      "role": "Non-Executive Director",
+      "action": "Sell",
+      "shares": 1400000,
+      "price": 84.72,
+      "value": 118608000
+    },
+    {
+      "date": "2025-07-04",
+      "person": "Mr. Abdullah Nasser Hawaileel",
+      "role": "Non-Executive Director",
+      "action": "Sell",
+      "shares": 950000,
+      "price": 84.38,
+      "value": 80161000
+    },
+    {
+      "date": "2025-07-03",
+      "person": "Mr. Abdullah Nasser Hawaileel",
+      "role": "Non-Executive Director",
+      "action": "Sell",
+      "shares": 1100000,
+      "price": 84.02,
+      "value": 92422000
+    },
+    {
+      "date": "2025-07-02",
+      "person": "Mr. Abdullah Nasser Hawaileel",
+      "role": "Non-Executive Director",
+      "action": "Sell",
+      "shares": 800000,
+      "price": 81.55,
+      "value": 65240000
+    },
+    {
+      "date": "2025-07-01",
+      "person": "Mr. Abd",
+      "role": "Non-Executive Director",
+      "action": "Sell",
+      "shares": 270490,
+      "price": 80.4,
+      "value": 21747396
+    },
+    {
+      "date": "2025-06-30",
+      "person": "Mr.Abdullah Naseer",
+      "role": "Non-Executive Director",
+      "action": "Sell",
+      "shares": 198519,
+      "price": 80.0,
+      "value": 15881520
+    },
+    {
+      "date": "2025-06-13",
+      "person": "Mr. Abdullah Nasser Hawaileel",
+      "role": "Non-Executive Director",
+      "action": "Sell",
+      "shares": 350108,
+      "price": 81.0,
+      "value": 28358748
+    },
+    {
+      "date": "2025-06-12",
+      "person": "Mr. Abdullah Nasser Hawaileel",
+      "role": "Non-Executive Director",
+      "action": "Sell",
+      "shares": 399949,
+      "price": 80.4,
+      "value": 32155900
+    },
+    {
+      "date": "2025-01-03",
+      "person": "Mr Syed Muhammad Asif",
+      "role": "Executive",
+      "action": "Sell",
+      "shares": 15000,
+      "price": 87.0,
+      "value": 1305000
+    },
+    {
+      "date": "2024-12-26",
+      "person": "Mr. Syed Muhammad Asif",
+      "role": "Executive",
+      "action": "Sell",
+      "shares": 25000,
+      "price": 81.4,
+      "value": 2035000
+    },
+    {
+      "date": "2024-12-20",
+      "person": "Mr. Syed Muhammad Asif",
+      "role": "Executive",
+      "action": "Sell",
+      "shares": 10000,
+      "price": 80.09,
+      "value": 800900
+    },
+    {
+      "date": "2024-07-03",
+      "person": "Mr. Faisal Farooq Khan",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 11800,
+      "price": 69.5,
+      "value": 820100
+    },
+    {
+      "date": "2024-06-14",
+      "person": "Mr. Syed Muhammad Asif",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 33227,
+      "price": 65.0,
+      "value": 2159755
+    },
+    {
+      "date": "2024-05-27",
+      "person": "Ms. Mehreen Ahmed",
+      "role": "Executive",
+      "action": "Sell",
+      "shares": 50000,
+      "price": 63.75,
+      "value": 3187500
+    },
+    {
+      "date": "2024-05-24",
+      "person": "Ms. Mehreen Ahmed",
+      "role": "Executive",
+      "action": "Sell",
+      "shares": 27716,
+      "price": 63.05,
+      "value": 1747494
+    },
+    {
+      "date": "2023-12-11",
+      "person": "Ms. Mehreen Ahmed",
+      "role": "Executive",
+      "action": "Sell",
+      "shares": 35000,
+      "price": 53.0,
+      "value": 1855000
+    },
+    {
+      "date": "2023-08-28",
+      "person": "Ms. Mehreen Ahmed",
+      "role": "Executive",
+      "action": "Sell",
+      "shares": 150000,
+      "price": 42.05,
+      "value": 6307500
+    },
+    {
+      "date": "2023-08-25",
+      "person": "Mr. Haroon Khalid",
+      "role": "Senior Management",
+      "action": "Sell",
+      "shares": 50000,
+      "price": 41.0,
+      "value": 2050000
+    },
+    {
+      "date": "2022-12-29",
+      "person": "International Finance Corporation",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 13872577,
+      "price": 30.17,
+      "value": 418535648
+    },
+    {
+      "date": "2022-12-21",
+      "person": "International Finance Corporation",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 25750000,
+      "price": 30.72,
+      "value": 791040000
+    },
+    {
+      "date": "2022-12-21",
+      "person": "International Finance Corporation",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 15829398,
+      "price": 30.74,
+      "value": 486595695
+    },
+    {
+      "date": "2022-12-21",
+      "person": "International Finance Corporation",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 27332071,
+      "price": 30.66,
+      "value": 838001297
+    },
+    {
+      "date": "2022-12-21",
+      "person": "International Finance Corporation",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 3125080,
+      "price": 31.18,
+      "value": 97439994
+    },
+    {
+      "date": "2022-12-16",
+      "person": "International Finance Corporation",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 15829398,
+      "price": 30.74,
+      "value": 486595695
+    },
+    {
+      "date": "2022-08-22",
+      "person": "H.H. Sheikh Nahayan Mabarak Al Nahayan",
+      "role": "Non-Executive Director",
+      "action": "Gift In",
+      "shares": 35364941,
+      "price": 0.0,
+      "value": 0
+    },
+    {
+      "date": "2022-08-22",
+      "person": "H.H. Sheikh Nahayan Mabarak Al Nahayan",
+      "role": "Non-Executive Director",
+      "action": "Gift-In",
+      "shares": 35364941,
+      "price": 0.0,
+      "value": 0
+    },
+    {
+      "date": "2022-08-22",
+      "person": "H.H. Sheikh Nahayan Mabarak Al Nahayan",
+      "role": "Non-Executive Director",
+      "action": "Gift-In",
+      "shares": 113528781,
+      "price": 0.0,
+      "value": 0
+    },
+    {
+      "date": "2022-08-22",
+      "person": "H.H. Sheikh Nahayan Mabarak Al Nahayan",
+      "role": "Non-Executive Director",
+      "action": "Gift In",
+      "shares": 113528781,
+      "price": 0.0,
+      "value": 0
+    },
+    {
+      "date": "2010-05-22",
+      "person": "Ms. Mehreen Ahmed",
+      "role": "Executive",
+      "action": "Sell",
+      "shares": 77000,
+      "price": 35.25,
+      "value": 2714250
+    }
+  ]
+}

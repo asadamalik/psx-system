@@ -1,0 +1,63 @@
+{
+  "symbol": "HIRAT",
+  "growth": {
+    "revenue_growth_5y": -0.5276634130386095,
+    "net_income_growth_5y": 0.018540768293887247,
+    "equity_growth_5y": -2.342708031313424,
+    "debt_change_5y": 0.002011060834590246
+  },
+  "latest": {
+    "revenue": 72.82,
+    "net_income": -281.26,
+    "equity": -577.42,
+    "total_assets": 2948.0,
+    "total_debt": 1993.0,
+    "operating_cash_flow": -6.86,
+    "capex": 1.86
+  },
+  "metrics": {
+    "revenue_growth_5y": -0.5276634130386095,
+    "net_income_growth_5y": 0.018540768293887247,
+    "eps_growth": null,
+    "sales_growth": -0.5276634130386095,
+    "roe": 0.4871,
+    "roa": -0.0954,
+    "gross_margin": -2.3042,
+    "operating_margin": -2.6087613293051364,
+    "net_margin": -3.8624004394397145,
+    "debt_to_equity": -3.451560389318001,
+    "current_ratio": 0.04152638190954774,
+    "interest_coverage": -1.5988049149974752,
+    "fcf_margin": -0.11974732216424061,
+    "pe_ratio": null,
+    "price_to_book": -0.77,
+    "peg": null
+  },
+  "extended": {
+    "effective_tax_rate": 0.29,
+    "roic": -0.09528158069483886,
+    "quick_ratio": 0.041400753768844216,
+    "ps_ratio": 21.458876069966504,
+    "ev_ebitda": null,
+    "peg": null,
+    "revenue_cagr_3y": -0.6329859902333641,
+    "net_income_cagr_3y": -0.2099752743007263,
+    "eps_cagr_3y": -0.21105527638190955,
+    "revenue_qoq": -0.5987261146496815,
+    "revenue_yoy": -0.6294117647058822,
+    "eps_qoq": -0.12698412698412692,
+    "eps_yoy": 0.13414634146341461,
+    "ocf_cagr_5y": -0.27418899858956275,
+    "fcf_cagr_5y": -0.7960743801652892,
+    "cash_conversion": 0.024390243902439025,
+    "ttm_revenue": 26.87,
+    "ttm_net_income": -240.82,
+    "dividend_last_year": null,
+    "dividend_latest_annual": null
+  },
+  "derived": {
+    "free_cash_flow": -8.72,
+    "market_cap": 576.6,
+    "current_price": 6.66
+  }
+}

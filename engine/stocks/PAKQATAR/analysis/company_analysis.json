@@ -1,0 +1,63 @@
+{
+  "symbol": "PAKQATAR",
+  "growth": {
+    "revenue_growth_5y": null,
+    "net_income_growth_5y": 0.135336996343276,
+    "equity_growth_5y": 0.18336838552196766,
+    "debt_change_5y": 0.0008181632235630834
+  },
+  "latest": {
+    "revenue": null,
+    "net_income": 291.31,
+    "equity": 4426.0,
+    "total_assets": 71310.0,
+    "total_debt": 195.72,
+    "operating_cash_flow": 757.15,
+    "capex": 212.55
+  },
+  "metrics": {
+    "revenue_growth_5y": null,
+    "net_income_growth_5y": 0.135336996343276,
+    "eps_growth": null,
+    "sales_growth": null,
+    "roe": 0.0658,
+    "roa": 0.0041,
+    "gross_margin": null,
+    "operating_margin": null,
+    "net_margin": null,
+    "debt_to_equity": 0.044220515137821964,
+    "current_ratio": null,
+    "interest_coverage": 12.29264099037139,
+    "fcf_margin": null,
+    "pe_ratio": 10.72,
+    "price_to_book": 1.12,
+    "peg": null
+  },
+  "extended": {
+    "effective_tax_rate": 0.29,
+    "roic": 0.0549154210986386,
+    "quick_ratio": null,
+    "ps_ratio": null,
+    "ev_ebitda": null,
+    "peg": null,
+    "revenue_cagr_3y": null,
+    "net_income_cagr_3y": 0.2501696731244665,
+    "eps_cagr_3y": 0.20001624409459673,
+    "revenue_qoq": null,
+    "revenue_yoy": null,
+    "eps_qoq": -0.9622166246851386,
+    "eps_yoy": -0.8684210526315789,
+    "ocf_cagr_5y": -0.15612031957275285,
+    "fcf_cagr_5y": -0.21499662848946044,
+    "cash_conversion": 2.5991212110809787,
+    "ttm_revenue": null,
+    "ttm_net_income": 243.41,
+    "dividend_last_year": null,
+    "dividend_latest_annual": 1
+  },
+  "derived": {
+    "free_cash_flow": 544.5999999999999,
+    "market_cap": 5036.5,
+    "current_price": 21.83
+  }
+}

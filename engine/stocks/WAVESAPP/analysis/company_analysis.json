@@ -1,0 +1,63 @@
+{
+  "symbol": "WAVESAPP",
+  "growth": {
+    "revenue_growth_5y": 0.1517369466757572,
+    "net_income_growth_5y": 0.6270067023043875,
+    "equity_growth_5y": 0.034572201665589164,
+    "debt_change_5y": 0.5032362459546925
+  },
+  "latest": {
+    "revenue": 3667.0,
+    "net_income": 189.2,
+    "equity": 8095.0,
+    "total_assets": 19558.0,
+    "total_debt": 7432.0,
+    "operating_cash_flow": 15.5,
+    "capex": 16.71
+  },
+  "metrics": {
+    "revenue_growth_5y": 0.1517369466757572,
+    "net_income_growth_5y": 0.6270067023043875,
+    "eps_growth": null,
+    "sales_growth": 0.1517369466757572,
+    "roe": 0.0234,
+    "roa": 0.0097,
+    "gross_margin": 0.273,
+    "operating_margin": 0.06048813744205073,
+    "net_margin": 0.051595309517316605,
+    "debt_to_equity": 0.9180975911056207,
+    "current_ratio": 1.0974452045232443,
+    "interest_coverage": 0.3809597416872767,
+    "fcf_margin": -0.00032997000272702505,
+    "pe_ratio": 12.28,
+    "price_to_book": 0.29,
+    "peg": null
+  },
+  "extended": {
+    "effective_tax_rate": 0.29,
+    "roic": 0.010142661170863656,
+    "quick_ratio": 0.8048303783331007,
+    "ps_ratio": 0.6480477297128334,
+    "ev_ebitda": null,
+    "peg": null,
+    "revenue_cagr_3y": -0.20948433003944122,
+    "net_income_cagr_3y": 1.4334296870036125,
+    "eps_cagr_3y": 1.4215649100038203,
+    "revenue_qoq": 0.1467548668413885,
+    "revenue_yoy": 0.012837359749317746,
+    "eps_qoq": 1.8888888888888888,
+    "eps_yoy": 0.09090909090909087,
+    "ocf_cagr_5y": -0.4300039703338929,
+    "fcf_cagr_5y": -0.25488454706927177,
+    "cash_conversion": 0.08192389006342496,
+    "ttm_revenue": 3679.05,
+    "ttm_net_income": 192.83,
+    "dividend_last_year": null,
+    "dividend_latest_annual": null
+  },
+  "derived": {
+    "free_cash_flow": -1.2100000000000009,
+    "market_cap": 2384.2,
+    "current_price": 8.9
+  }
+}

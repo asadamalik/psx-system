@@ -1,0 +1,63 @@
+{
+  "symbol": "PSX",
+  "growth": {
+    "revenue_growth_5y": 0.13846189016246235,
+    "net_income_growth_5y": 0.21568408464185107,
+    "equity_growth_5y": 0.05550279623982002,
+    "debt_change_5y": null
+  },
+  "latest": {
+    "revenue": 2461.0,
+    "net_income": 1521.0,
+    "equity": 12078.0,
+    "total_assets": 15001.0,
+    "total_debt": null,
+    "operating_cash_flow": 756.56,
+    "capex": 177.94
+  },
+  "metrics": {
+    "revenue_growth_5y": 0.13846189016246235,
+    "net_income_growth_5y": 0.21568408464185107,
+    "eps_growth": null,
+    "sales_growth": 0.13846189016246235,
+    "roe": 0.1259,
+    "roa": 0.1014,
+    "gross_margin": 0.9321,
+    "operating_margin": 0.179211702559935,
+    "net_margin": 0.6180414465664364,
+    "debt_to_equity": null,
+    "current_ratio": 1.665359477124183,
+    "interest_coverage": null,
+    "fcf_margin": 0.2351158065826899,
+    "pe_ratio": 19.9,
+    "price_to_book": 3.25,
+    "peg": null
+  },
+  "extended": {
+    "effective_tax_rate": 0.29,
+    "roic": null,
+    "quick_ratio": null,
+    "ps_ratio": 13.92391175216811,
+    "ev_ebitda": null,
+    "peg": null,
+    "revenue_cagr_3y": 0.19174243121549317,
+    "net_income_cagr_3y": 0.56251440047591,
+    "eps_cagr_3y": 0.5604907507078847,
+    "revenue_qoq": -0.1103534177979642,
+    "revenue_yoy": 0.17108314011262019,
+    "eps_qoq": 0.10909090909090897,
+    "eps_yoy": 0.29787234042553196,
+    "ocf_cagr_5y": 0.2008429629258004,
+    "fcf_cagr_5y": 0.849510436253351,
+    "cash_conversion": 0.49740959894806047,
+    "ttm_revenue": 2861.94,
+    "ttm_net_income": 1998.8700000000001,
+    "dividend_last_year": null,
+    "dividend_latest_annual": 1.7
+  },
+  "derived": {
+    "free_cash_flow": 578.6199999999999,
+    "market_cap": 39849.4,
+    "current_price": 49.72
+  }
+}

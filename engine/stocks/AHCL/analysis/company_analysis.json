@@ -1,0 +1,63 @@
+{
+  "symbol": "AHCL",
+  "growth": {
+    "revenue_growth_5y": 0.07801593457826428,
+    "net_income_growth_5y": 0.08537791613831058,
+    "equity_growth_5y": 0.12782388404842115,
+    "debt_change_5y": -0.1688559828039169
+  },
+  "latest": {
+    "revenue": 11578.0,
+    "net_income": 10389.0,
+    "equity": 53216.0,
+    "total_assets": 76624.0,
+    "total_debt": 10440.0,
+    "operating_cash_flow": 6403.0,
+    "capex": 61.96
+  },
+  "metrics": {
+    "revenue_growth_5y": 0.07801593457826428,
+    "net_income_growth_5y": 0.08537791613831058,
+    "eps_growth": null,
+    "sales_growth": 0.07801593457826428,
+    "roe": 0.1952,
+    "roa": 0.1356,
+    "gross_margin": null,
+    "operating_margin": 0.6086543444463638,
+    "net_margin": 0.8973052340646053,
+    "debt_to_equity": 0.19618159951894168,
+    "current_ratio": null,
+    "interest_coverage": null,
+    "fcf_margin": 0.5476800829158749,
+    "pe_ratio": 5.54,
+    "price_to_book": 1.12,
+    "peg": null
+  },
+  "extended": {
+    "effective_tax_rate": 0.29,
+    "roic": 0.07860013195928113,
+    "quick_ratio": null,
+    "ps_ratio": 6.1810706755889635,
+    "ev_ebitda": null,
+    "peg": null,
+    "revenue_cagr_3y": 0.43587040110705244,
+    "net_income_cagr_3y": 0.4407257246550489,
+    "eps_cagr_3y": 0.4250783003342262,
+    "revenue_qoq": -0.39216832261835183,
+    "revenue_yoy": -0.12236286919831224,
+    "eps_qoq": 0.3529411764705881,
+    "eps_yoy": 0.9166666666666666,
+    "ocf_cagr_5y": 0.11237153850314141,
+    "fcf_cagr_5y": 0.11155063334409676,
+    "cash_conversion": 0.6163249590913467,
+    "ttm_revenue": 10909,
+    "ttm_net_income": 12178,
+    "dividend_last_year": null,
+    "dividend_latest_annual": 1
+  },
+  "derived": {
+    "free_cash_flow": 6341.04,
+    "market_cap": 67429.3,
+    "current_price": 15.99
+  }
+}

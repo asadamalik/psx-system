@@ -22,7 +22,13 @@ def has_annual(sym):
     if not os.path.exists(fp):
         return False
     b = json.load(open(fp))
-    return len(b.get("annual", {}).get("income", {}).get("revenue", {})) >= 2
+    inc = b.get("annual", {}).get("income", {})
+    # Insurers / REITs / takaful have no top-line "revenue" row on stockanalysis
+    # (their income statement leads with net_income / eps). Accept >=2 yrs of any
+    # of these as a valid annual series so they aren't false-flagged NO_DATA.
+    return (len(inc.get("revenue", {})) >= 2
+            or len(inc.get("net_income", {})) >= 2
+            or len(inc.get("eps", {})) >= 2)
 
 def onboard(sym):
     rc, _ = run(["fetch_sa.py", sym], 90)

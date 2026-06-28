@@ -1,0 +1,87 @@
+{
+  "source": "sarmaaya.pk (insider transactions, #insider-transactions table)",
+  "as_of": "2026-06-28",
+  "transactions": [
+    {
+      "date": "2025-12-03",
+      "person": "Dewan M. Yousuf Farooqui",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 3250000,
+      "price": 25.24,
+      "value": 82030000
+    },
+    {
+      "date": "2025-10-24",
+      "person": "Dewan M. Yousaf Farooqui",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 6638861,
+      "price": 30.96,
+      "value": 205539137
+    },
+    {
+      "date": "2025-10-13",
+      "person": "Dewan M. Yousuf Farooqui",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 6946084,
+      "price": 33.7,
+      "value": 234083031
+    },
+    {
+      "date": "2025-10-13",
+      "person": "Dewan M. Yousuf Farooqui",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 1494715,
+      "price": 31.1,
+      "value": 46485636
+    },
+    {
+      "date": "2024-05-02",
+      "person": "Abdul Basit",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 10000,
+      "price": 19.35,
+      "value": 193500
+    },
+    {
+      "date": "2024-05-02",
+      "person": "Abdul Basit",
+      "role": "Non-Executive Director",
+      "action": "Sell",
+      "shares": 4000,
+      "price": 25.71,
+      "value": 102840
+    },
+    {
+      "date": "2024-05-02",
+      "person": "Abdul Basit",
+      "role": "Non-Executive Director",
+      "action": "Sell",
+      "shares": 3000,
+      "price": 23.15,
+      "value": 69450
+    },
+    {
+      "date": "2024-05-02",
+      "person": "Abdul Basit",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 3000,
+      "price": 23.02,
+      "value": 69060
+    },
+    {
+      "date": "2024-05-02",
+      "person": "Abdul Basit",
+      "role": "Non-Executive Director",
+      "action": "Sell",
+      "shares": 6000,
+      "price": 23.4,
+      "value": 140400
+    }
+  ]
+}

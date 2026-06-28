@@ -1,0 +1,861 @@
+{
+  "symbol": "TRG",
+  "income_statement_annual": {
+    "revenue": {
+      "2021": 154.44,
+      "2022": 8.55,
+      "2023": 0.95,
+      "2024": 2.56,
+      "2025": 1.95
+    },
+    "gross_profit": {
+      "2021": 154.44,
+      "2022": 8.55,
+      "2023": 0.95,
+      "2024": 2.56,
+      "2025": 1.95
+    },
+    "operating_income": {
+      "2021": 122.1,
+      "2022": -36.57,
+      "2023": -171.93,
+      "2024": -337.88,
+      "2025": -526.82
+    },
+    "net_income": {
+      "2021": 25852,
+      "2022": -4981,
+      "2023": -1336,
+      "2024": -30848,
+      "2025": 3924
+    },
+    "eps": {
+      "2021": 47.4,
+      "2022": -9.13,
+      "2023": -2.45,
+      "2024": -56.56,
+      "2025": 7.19
+    }
+  },
+  "balance_sheet_annual": {
+    "current_assets": {
+      "2021": 609.26,
+      "2022": 35.31,
+      "2023": 25.71,
+      "2024": 36.18,
+      "2025": 33.02
+    },
+    "cash_and_equivalents": {
+      "2021": 598.43,
+      "2022": 34.88,
+      "2023": 22.35,
+      "2024": 31.65,
+      "2025": 27.16
+    },
+    "total_assets": {
+      "2021": 50230,
+      "2022": 56753,
+      "2023": 78085,
+      "2024": 40582,
+      "2025": 46689
+    },
+    "current_liabilities": {
+      "2021": 615.57,
+      "2022": 34.21,
+      "2023": 214.26,
+      "2024": 551.96,
+      "2025": 1094
+    },
+    "total_liabilities": {
+      "2021": 8721,
+      "2022": 9204,
+      "2023": 12585,
+      "2024": 7296,
+      "2025": 8755
+    },
+    "total_equity": {
+      "2021": 41509,
+      "2022": 47549,
+      "2023": 65499,
+      "2024": 33286,
+      "2025": 37934
+    }
+  },
+  "cashflow_annual": {
+    "cash_from_operations": {
+      "2021": 121.86,
+      "2022": -490.24,
+      "2023": -9.29,
+      "2024": 12.45,
+      "2025": -3.89
+    },
+    "cash_from_investing": {
+      "2021": 2464,
+      "2023": -1.52,
+      "2024": -0.55
+    },
+    "cash_from_financing": {
+      "2021": -1991,
+      "2022": -73.3,
+      "2023": -1.72,
+      "2024": -2.6,
+      "2025": -0.61
+    },
+    "capex": {
+      "2023": 1.52,
+      "2024": 0.55
+    }
+  },
+  "income_statement_quarterly": {
+    "revenue": {
+      "2026-03": 0.01,
+      "2025-12": 0.43,
+      "2025-09": 0.3,
+      "2025-06": 0.25,
+      "2025-03": 0.56,
+      "2024-12": 0.63,
+      "2024-09": 0.51,
+      "2024-06": 0.72,
+      "2024-03": 0.52,
+      "2023-12": 0.73,
+      "2023-09": 0.59,
+      "2023-06": 0.27,
+      "2023-03": 0.08,
+      "2022-12": 0.23,
+      "2022-09": 0.38,
+      "2022-06": 0.61,
+      "2022-03": 0.86,
+      "2021-12": 3.25,
+      "2021-09": 3.83,
+      "2021-06": 36.82
+    },
+    "gross_profit": {
+      "2026-03": 0.01,
+      "2025-12": 0.43,
+      "2025-09": 0.3,
+      "2025-06": 0.25,
+      "2025-03": 0.56,
+      "2024-12": 0.63,
+      "2024-09": 0.51,
+      "2024-06": 0.72,
+      "2024-03": 0.52,
+      "2023-12": 0.73,
+      "2023-09": 0.59,
+      "2023-06": 0.27,
+      "2023-03": 0.08,
+      "2022-12": 0.23,
+      "2022-09": 0.38,
+      "2022-06": 0.61,
+      "2022-03": 0.86,
+      "2021-12": 3.25,
+      "2021-09": 3.83,
+      "2021-06": 36.82
+    },
+    "operating_income": {
+      "2026-03": -75.26,
+      "2025-12": -81.13,
+      "2025-09": -191.03,
+      "2025-06": -72.09,
+      "2025-03": -173.43,
+      "2024-12": -146.08,
+      "2024-09": -135.22,
+      "2024-06": -140.91,
+      "2024-03": -63.18,
+      "2023-12": -45.45,
+      "2023-09": -88.34,
+      "2023-06": -54.96,
+      "2023-03": -51.5,
+      "2022-12": -46.08,
+      "2022-09": -19.38,
+      "2022-06": -6.7,
+      "2022-03": -20.22,
+      "2021-12": -3.63,
+      "2021-09": -6.02,
+      "2021-06": 32.06
+    },
+    "net_income": {
+      "2026-03": -8964,
+      "2025-12": -2621,
+      "2025-09": 6868,
+      "2025-06": -90.68,
+      "2025-03": -299.75,
+      "2024-12": 1907,
+      "2024-09": 2407,
+      "2024-06": -14120,
+      "2024-03": -6129,
+      "2023-12": -1507,
+      "2023-09": -9091,
+      "2023-06": -7036,
+      "2023-03": -3458,
+      "2022-12": 4491,
+      "2022-09": 4666,
+      "2022-06": 5408,
+      "2022-03": 2186,
+      "2021-12": -12606,
+      "2021-09": 31.6,
+      "2021-06": 18627
+    },
+    "eps": {
+      "2026-03": -16.44,
+      "2025-12": -4.81,
+      "2025-09": 12.59,
+      "2025-06": -0.17,
+      "2025-03": -0.55,
+      "2024-12": 3.5,
+      "2024-09": 4.41,
+      "2024-06": -25.89,
+      "2024-03": -11.24,
+      "2023-12": -2.76,
+      "2023-09": -15.66,
+      "2023-06": -12.9,
+      "2023-03": -6.34,
+      "2022-12": 8.24,
+      "2022-09": 8.55,
+      "2022-06": 9.91,
+      "2022-03": 4.01,
+      "2021-12": -23.11,
+      "2021-09": 0.06,
+      "2021-06": 34.14
+    }
+  },
+  "balance_sheet_quarterly": {
+    "current_assets": {
+      "2026-03": 34.59,
+      "2025-12": 32.21,
+      "2025-09": 40.27,
+      "2025-06": 33.02,
+      "2025-03": 35.61,
+      "2024-12": 39.16,
+      "2024-09": 34.65,
+      "2024-06": 36.18,
+      "2024-03": 31.13,
+      "2023-12": 30.95,
+      "2023-09": 28.72,
+      "2023-06": 25.71,
+      "2023-03": 19.55,
+      "2022-09": 16.86,
+      "2022-06": 35.31,
+      "2022-03": 47.54,
+      "2021-12": 65.81,
+      "2021-09": 265.81,
+      "2021-06": 609.26
+    },
+    "cash_and_equivalents": {
+      "2026-03": 28.14,
+      "2025-12": 24.8,
+      "2025-09": 34.95,
+      "2025-06": 27.16,
+      "2025-03": 28.92,
+      "2024-12": 32.15,
+      "2024-09": 30.68,
+      "2024-06": 31.65,
+      "2024-03": 26.2,
+      "2023-12": 25.5,
+      "2023-09": 23.22,
+      "2023-06": 22.35,
+      "2023-03": 19.01,
+      "2022-09": 15.73,
+      "2022-06": 34.88,
+      "2022-03": 46.78,
+      "2021-12": 63.96,
+      "2021-09": 264.75,
+      "2021-06": 598.43
+    },
+    "total_assets": {
+      "2026-03": 40833,
+      "2025-12": 51391,
+      "2025-09": 54581,
+      "2025-06": 46689,
+      "2025-03": 46132,
+      "2024-12": 46004,
+      "2024-09": 43456,
+      "2024-06": 40582,
+      "2024-03": 56783,
+      "2023-12": 64749,
+      "2023-09": 68146,
+      "2023-06": 78085,
+      "2023-03": 87131,
+      "2022-09": 70327,
+      "2022-06": 56753,
+      "2022-03": 45024,
+      "2021-12": 40250,
+      "2021-09": 54265,
+      "2021-06": 50230
+    },
+    "current_liabilities": {
+      "2026-03": 1443,
+      "2025-12": 1365,
+      "2025-09": 1292,
+      "2025-06": 1094,
+      "2025-03": 1007,
+      "2024-12": 837.05,
+      "2024-09": 686.64,
+      "2024-06": 551.96,
+      "2024-03": 416.7,
+      "2023-12": 353.52,
+      "2023-09": 306.01,
+      "2023-06": 214.26,
+      "2023-03": 135.65,
+      "2022-09": 35.14,
+      "2022-06": 34.21,
+      "2022-03": 83.7,
+      "2021-12": 81.75,
+      "2021-09": 278.13,
+      "2021-06": 615.57
+    },
+    "total_liabilities": {
+      "2026-03": 8225,
+      "2025-12": 9731,
+      "2025-09": 10136,
+      "2025-06": 8755,
+      "2025-03": 8583,
+      "2024-12": 8394,
+      "2024-09": 7862,
+      "2024-06": 7296,
+      "2024-03": 9592,
+      "2023-12": 10723,
+      "2023-09": 11186,
+      "2023-06": 12585,
+      "2023-03": 13865,
+      "2022-09": 11244,
+      "2022-06": 9204,
+      "2022-03": 7493,
+      "2021-12": 6772,
+      "2021-09": 9041,
+      "2021-06": 8721
+    },
+    "total_equity": {
+      "2026-03": 32608,
+      "2025-12": 41660,
+      "2025-09": 44445,
+      "2025-06": 37934,
+      "2025-03": 37548,
+      "2024-12": 37610,
+      "2024-09": 35594,
+      "2024-06": 33286,
+      "2024-03": 47191,
+      "2023-12": 54025,
+      "2023-09": 56961,
+      "2023-06": 65499,
+      "2023-03": 73266,
+      "2022-09": 59083,
+      "2022-06": 47549,
+      "2022-03": 37532,
+      "2021-12": 33479,
+      "2021-09": 45224,
+      "2021-06": 41509
+    }
+  },
+  "cashflow_quarterly": {
+    "cash_from_operations": {
+      "2026-03": 3.34,
+      "2025-12": -9.8,
+      "2025-09": 7.79,
+      "2025-06": -1.7,
+      "2025-03": -2.73,
+      "2024-12": 1.46,
+      "2024-09": -0.92,
+      "2024-06": 7.91,
+      "2024-03": 0.79,
+      "2023-12": 2.31,
+      "2023-09": 1.45,
+      "2023-06": 6.32,
+      "2023-03": 1.69,
+      "2022-12": 1.85,
+      "2022-09": -19.15,
+      "2022-06": -9.2,
+      "2022-03": 53.43,
+      "2021-12": -200.79,
+      "2021-09": -333.68,
+      "2021-06": -884.35
+    },
+    "cash_from_investing": {
+      "2023-12": -0.0,
+      "2023-09": -0.55,
+      "2023-06": -1.27,
+      "2022-12": -0.26,
+      "2021-06": 884.65
+    },
+    "cash_from_financing": {
+      "2025-12": -0.35,
+      "2025-06": -0.06,
+      "2025-03": -0.5,
+      "2024-09": -0.05,
+      "2024-06": -2.45,
+      "2024-03": -0.09,
+      "2023-12": -0.02,
+      "2023-09": -0.03,
+      "2023-06": -1.72,
+      "2022-06": -2.69,
+      "2022-03": -70.61,
+      "2021-06": -1991
+    },
+    "capex": {
+      "2023-12": 0,
+      "2023-09": 0.55,
+      "2023-06": 1.27,
+      "2022-12": 0.26
+    }
+  },
+  "ratios": {
+    "pe_ratio": null,
+    "price_to_book": 1.08,
+    "roe": 0.1034,
+    "roa": 0.084,
+    "gross_margin": 1.0,
+    "industry_pe": null
+  },
+  "earnings": {
+    "source": "stockanalysis.com (statistics + quarterly)",
+    "as_of": "2026-06-28",
+    "latest_eps": -16.44,
+    "eps_ttm": null,
+    "next_earnings_date": "Sep 30, 2026",
+    "history": [
+      {
+        "period_end": "Mar 2026",
+        "eps": -16.44,
+        "eps_forecast": null,
+        "eps_surprise_pct": null
+      },
+      {
+        "period_end": "Dec 2025",
+        "eps": -4.81,
+        "eps_forecast": null,
+        "eps_surprise_pct": null
+      },
+      {
+        "period_end": "Sep 2025",
+        "eps": 12.59,
+        "eps_forecast": null,
+        "eps_surprise_pct": null
+      },
+      {
+        "period_end": "Jun 2025",
+        "eps": -0.17,
+        "eps_forecast": null,
+        "eps_surprise_pct": null
+      },
+      {
+        "period_end": "Mar 2025",
+        "eps": -0.55,
+        "eps_forecast": null,
+        "eps_surprise_pct": null
+      },
+      {
+        "period_end": "Dec 2024",
+        "eps": 3.5,
+        "eps_forecast": null,
+        "eps_surprise_pct": null
+      },
+      {
+        "period_end": "Sep 2024",
+        "eps": 4.41,
+        "eps_forecast": null,
+        "eps_surprise_pct": null
+      },
+      {
+        "period_end": "Jun 2024",
+        "eps": -25.89,
+        "eps_forecast": null,
+        "eps_surprise_pct": null
+      }
+    ]
+  },
+  "dividends": {
+    "source": "stockanalysis.com (statistics + dividend page)",
+    "as_of": "2026-06-28",
+    "yield": null,
+    "per_share_ttm": null,
+    "payout_ratio": null,
+    "history": [
+      {
+        "ex_date": "2021-06-10",
+        "amount": 4.4,
+        "type": null,
+        "yield": null
+      }
+    ]
+  },
+  "overview": {
+    "company_name": "TRG Pakistan Limited",
+    "sector": "Technology & Communication",
+    "industry": "Technology & Communication",
+    "market_cap": 35123.2,
+    "shares_outstanding": 545.39,
+    "current_price": 64.4,
+    "currency": "PKR"
+  },
+  "profile": {},
+  "ownership": {},
+  "announcements": {},
+  "insider": {
+    "source": "sarmaaya.pk (insider transactions, #insider-transactions table)",
+    "as_of": "2026-06-28",
+    "transactions": [
+      {
+        "date": "2024-12-26",
+        "person": "Greentree Holdings Limited",
+        "role": "Substantial Shareholder",
+        "action": "Buy",
+        "shares": 2000000,
+        "price": 54.1,
+        "value": 108200000
+      },
+      {
+        "date": "2023-10-12",
+        "person": "SARAH JENNIFER POBERESKIN (Spouse of Muhammad Ziaullah Khan Chishti)",
+        "role": "Substantial Shareholder",
+        "action": "Buy",
+        "shares": 900000,
+        "price": 89.95,
+        "value": 80955000
+      },
+      {
+        "date": "2023-09-27",
+        "person": "SARAH JENNIFER POBERESKIN (Spouse of Muhammad Ziaullah Khan Chishti)",
+        "role": "Substantial Shareholder",
+        "action": "Buy",
+        "shares": 2750000,
+        "price": 89.81,
+        "value": 246977500
+      },
+      {
+        "date": "2023-06-27",
+        "person": "SARAH JENNIFER POBERESKIN (Spouse of Muhammad Ziaullah Khan Chishti)",
+        "role": "Substantial Shareholder",
+        "action": "Buy",
+        "shares": 1000000,
+        "price": 89.39,
+        "value": 89390000
+      },
+      {
+        "date": "2023-06-27",
+        "person": "Muhammad Ziaullah Khan Chisti",
+        "role": "Substantial Shareholder",
+        "action": "Sell",
+        "shares": 1000000,
+        "price": 89.39,
+        "value": 89390000
+      },
+      {
+        "date": "2023-03-29",
+        "person": "SARAH JENNIFER POBERESKIN (Spouse of Muhammad Ziaullah Khan Chishti)",
+        "role": "Substantial Shareholder",
+        "action": "Sell",
+        "shares": 13060000,
+        "price": 112.73,
+        "value": 1472253800
+      },
+      {
+        "date": "2023-03-29",
+        "person": "SARAH JENNIFER POBERESKIN (Spouse of Muhammad Ziaullah Khan Chishti)",
+        "role": "Substantial Shareholder",
+        "action": "Buy",
+        "shares": 13060000,
+        "price": 112.73,
+        "value": 1472253800
+      },
+      {
+        "date": "2021-09-22",
+        "person": "Zafar Iqbal Sobani",
+        "role": "Non-Executive Director",
+        "action": "Sell",
+        "shares": 105000,
+        "price": 114.86,
+        "value": 12060300
+      },
+      {
+        "date": "2020-06-22",
+        "person": "Greentree Holdings Limited",
+        "role": "Substantial Shareholder",
+        "action": "Buy",
+        "shares": 2310627,
+        "price": 76.84,
+        "value": 177548579
+      },
+      {
+        "date": "2019-05-22",
+        "person": "Greentree Holdings Limited",
+        "role": "Substantial Shareholder",
+        "action": "Buy",
+        "shares": 921435,
+        "price": 74.73,
+        "value": 68858838
+      },
+      {
+        "date": "2018-05-22",
+        "person": "Greentree Holdings Limited",
+        "role": "Substantial Shareholder",
+        "action": "Buy",
+        "shares": 2762149,
+        "price": 73.31,
+        "value": 202493143
+      },
+      {
+        "date": "2018-03-22",
+        "person": "Greentree Holdings Limited",
+        "role": "Substantial Shareholder",
+        "action": "Buy",
+        "shares": 63338,
+        "price": 77.61,
+        "value": 4915662
+      },
+      {
+        "date": "2018-03-22",
+        "person": "Greentree Holdings Limited",
+        "role": "Substantial Shareholder",
+        "action": "Buy",
+        "shares": 281954,
+        "price": 76.41,
+        "value": 21544105
+      },
+      {
+        "date": "2018-03-22",
+        "person": "Greentree Holdings Limited",
+        "role": "Substantial Shareholder",
+        "action": "Buy",
+        "shares": 327205,
+        "price": 74.89,
+        "value": 24504382
+      },
+      {
+        "date": "2017-06-22",
+        "person": "Greentree Holdings Limited",
+        "role": "Substantial Shareholder",
+        "action": "Buy",
+        "shares": 1112794,
+        "price": 75.0,
+        "value": 83459550
+      },
+      {
+        "date": "2017-06-22",
+        "person": "Greentree Holdings Limited",
+        "role": "Substantial Shareholder",
+        "action": "Buy",
+        "shares": 844913,
+        "price": 75.42,
+        "value": 63723338
+      },
+      {
+        "date": "2016-05-22",
+        "person": "Greentree Holdings Limited",
+        "role": "Substantial Shareholder",
+        "action": "Buy",
+        "shares": 4215403,
+        "price": 77.25,
+        "value": 325639882
+      },
+      {
+        "date": "2015-06-22",
+        "person": "Greentree Holdings Limited",
+        "role": "Substantial Shareholder",
+        "action": "Buy",
+        "shares": 461955,
+        "price": 76.75,
+        "value": 35455046
+      },
+      {
+        "date": "2014-03-22",
+        "person": "Greentree Holdings Limited",
+        "role": "Substantial Shareholder",
+        "action": "Buy",
+        "shares": 830000,
+        "price": 79.21,
+        "value": 65744300
+      },
+      {
+        "date": "2014-03-22",
+        "person": "Greentree Holdings Limited",
+        "role": "Substantial Shareholder",
+        "action": "Buy",
+        "shares": 1805000,
+        "price": 76.81,
+        "value": 138642050
+      },
+      {
+        "date": "2012-05-22",
+        "person": "Greentree Holdings Limited",
+        "role": "Substantial Shareholder",
+        "action": "Buy",
+        "shares": 860306,
+        "price": 75.49,
+        "value": 64944500
+      },
+      {
+        "date": "2011-10-22",
+        "person": "Greentree Holdings Limited",
+        "role": "Substantial Shareholder",
+        "action": "Buy",
+        "shares": 10437753,
+        "price": 149.74,
+        "value": 1562949134
+      },
+      {
+        "date": "2011-05-22",
+        "person": "Greentree Holdings Limited",
+        "role": "Substantial Shareholder",
+        "action": "Buy",
+        "shares": 2393400,
+        "price": 74.26,
+        "value": 177733884
+      },
+      {
+        "date": "2008-06-22",
+        "person": "Greentree Holdings Limited",
+        "role": "Substantial Shareholder",
+        "action": "Buy",
+        "shares": 535000,
+        "price": 75.78,
+        "value": 40542300
+      },
+      {
+        "date": "2008-06-22",
+        "person": "Greentree Holdings Limited",
+        "role": "Substantial Shareholder",
+        "action": "Buy",
+        "shares": 257626,
+        "price": 75.96,
+        "value": 19569271
+      },
+      {
+        "date": "2008-06-22",
+        "person": "Greentree Holdings Limited",
+        "role": "Substantial Shareholder",
+        "action": "Buy",
+        "shares": 260064,
+        "price": 78.94,
+        "value": 20529452
+      },
+      {
+        "date": "2008-06-22",
+        "person": "Greentree Holdings Limited",
+        "role": "Substantial Shareholder",
+        "action": "Buy",
+        "shares": 350000,
+        "price": 80.51,
+        "value": 28178500
+      },
+      {
+        "date": "2006-05-22",
+        "person": "Greentree Holdings Limited",
+        "role": "Substantial Shareholder",
+        "action": "Buy",
+        "shares": 2621904,
+        "price": 78.06,
+        "value": 204665826
+      },
+      {
+        "date": "2004-07-22",
+        "person": "Greentree Holdings Limited",
+        "role": "Substantial Shareholder",
+        "action": "Buy",
+        "shares": 1739890,
+        "price": 73.84,
+        "value": 128473478
+      },
+      {
+        "date": "2004-07-22",
+        "person": "Greentree Holdings Limited",
+        "role": "Substantial Shareholder",
+        "action": "Buy",
+        "shares": 68802,
+        "price": 74.5,
+        "value": 5125749
+      },
+      {
+        "date": "2004-07-22",
+        "person": "Greentree Holdings Limited",
+        "role": "Substantial Shareholder",
+        "action": "Buy",
+        "shares": 51244,
+        "price": 77.15,
+        "value": 3953475
+      },
+      {
+        "date": "2004-07-22",
+        "person": "Greentree Holdings Limited",
+        "role": "Substantial Shareholder",
+        "action": "Buy",
+        "shares": 3315790,
+        "price": 75.36,
+        "value": 249877934
+      },
+      {
+        "date": "2004-07-22",
+        "person": "Greentree Holdings Limited",
+        "role": "Substantial Shareholder",
+        "action": "Buy",
+        "shares": 120280,
+        "price": 76.92,
+        "value": 9251938
+      },
+      {
+        "date": "2004-07-22",
+        "person": "Greentree Holdings Limited",
+        "role": "Substantial Shareholder",
+        "action": "Buy",
+        "shares": 1493385,
+        "price": 77.85,
+        "value": 116260022
+      },
+      {
+        "date": "2003-10-22",
+        "person": "Greentree Holdings Limited",
+        "role": "Substantial Shareholder",
+        "action": "Buy",
+        "shares": 11534814,
+        "price": 128.33,
+        "value": 1480262681
+      },
+      {
+        "date": "2002-08-22",
+        "person": "Greentree Holdings Limited",
+        "role": "Substantial Shareholder",
+        "action": "Buy",
+        "shares": 1617747,
+        "price": 90.59,
+        "value": 146551701
+      },
+      {
+        "date": "2002-08-22",
+        "person": "Greentree Holdings Limited",
+        "role": "Substantial Shareholder",
+        "action": "Buy",
+        "shares": 3794500,
+        "price": 91.15,
+        "value": 345868675
+      },
+      {
+        "date": "2001-08-22",
+        "person": "Greentree Holdings Limited",
+        "role": "Substantial Shareholder",
+        "action": "Buy",
+        "shares": 2783000,
+        "price": 83.87,
+        "value": 233410210
+      },
+      {
+        "date": "2001-08-22",
+        "person": "Greentree Holdings Limited",
+        "role": "Substantial Shareholder",
+        "action": "Buy",
+        "shares": 2038500,
+        "price": 84.08,
+        "value": 171397080
+      },
+      {
+        "date": "2001-06-22",
+        "person": "Greentree Holdings Limited",
+        "role": "Substantial Shareholder",
+        "action": "Buy",
+        "shares": 1900000,
+        "price": 81.71,
+        "value": 155249000
+      }
+    ]
+  },
+  "shareholding": {},
+  "fipi": {},
+  "monthly_sales": {}
+}

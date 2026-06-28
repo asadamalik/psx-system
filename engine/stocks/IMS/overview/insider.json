@@ -1,0 +1,42 @@
+{
+  "source": "sarmaaya.pk (insider transactions, #insider-transactions table)",
+  "as_of": "2026-06-28",
+  "transactions": [
+    {
+      "date": "2026-03-04",
+      "person": "Azneem Bilwani Spouse of Erum bilwani",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 20000,
+      "price": 16.0,
+      "value": 320000
+    },
+    {
+      "date": "2026-02-13",
+      "person": "Azneem Bilwani Spoune of Erum bilwani",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 13464,
+      "price": 21.05,
+      "value": 283417
+    },
+    {
+      "date": "2025-06-02",
+      "person": "Azneem Bilwani",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 5000,
+      "price": 58.25,
+      "value": 291250
+    },
+    {
+      "date": "2025-06-02",
+      "person": "Azneem Bilwani",
+      "role": "Non-Executive Director",
+      "action": "Sell",
+      "shares": 2276,
+      "price": 58.25,
+      "value": 132577
+    }
+  ]
+}

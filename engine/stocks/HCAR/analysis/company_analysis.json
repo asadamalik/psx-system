@@ -1,0 +1,63 @@
+{
+  "symbol": "HCAR",
+  "growth": {
+    "revenue_growth_5y": 0.03142425035741736,
+    "net_income_growth_5y": 0.06540952099181974,
+    "equity_growth_5y": 0.0624907727415005,
+    "debt_change_5y": -0.2227163872733493
+  },
+  "latest": {
+    "revenue": 122283.0,
+    "net_income": 3234.0,
+    "equity": 25438.0,
+    "total_assets": 59111.0,
+    "total_debt": 2272.0,
+    "operating_cash_flow": -1930.0,
+    "capex": 710.25
+  },
+  "metrics": {
+    "revenue_growth_5y": 0.03142425035741736,
+    "net_income_growth_5y": 0.06540952099181974,
+    "eps_growth": null,
+    "sales_growth": 0.03142425035741736,
+    "roe": 0.1271,
+    "roa": 0.0547,
+    "gross_margin": 0.077,
+    "operating_margin": 0.03947400701651088,
+    "net_margin": 0.026446848703417482,
+    "debt_to_equity": 0.08931519773567104,
+    "current_ratio": 1.5963220739416384,
+    "interest_coverage": 11.47264343775253,
+    "fcf_margin": -0.021591308685589984,
+    "pe_ratio": 10.62,
+    "price_to_book": 1.35,
+    "peg": null
+  },
+  "extended": {
+    "effective_tax_rate": 0.29,
+    "roic": 0.1236798989534464,
+    "quick_ratio": 0.6875039908051849,
+    "ps_ratio": 0.2807937325711669,
+    "ev_ebitda": null,
+    "peg": null,
+    "revenue_cagr_3y": 0.0874642278708686,
+    "net_income_cagr_3y": 1.3165639477707436,
+    "eps_cagr_3y": 1.3170478974384032,
+    "revenue_qoq": 0.1267860918949944,
+    "revenue_yoy": 0.3488590749647416,
+    "eps_qoq": 0.5359477124183006,
+    "eps_yoy": -0.4015280135823429,
+    "ocf_cagr_5y": -0.32413952059004303,
+    "fcf_cagr_5y": -0.434375,
+    "cash_conversion": -0.5967841682127396,
+    "ttm_revenue": 122283,
+    "ttm_net_income": 3234.09,
+    "dividend_last_year": null,
+    "dividend_latest_annual": 9
+  },
+  "derived": {
+    "free_cash_flow": -2640.25,
+    "market_cap": 34336.3,
+    "current_price": 240.45
+  }
+}

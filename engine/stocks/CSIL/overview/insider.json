@@ -1,0 +1,69 @@
+{
+  "source": "sarmaaya.pk (insider transactions, #insider-transactions table)",
+  "as_of": "2026-06-28",
+  "transactions": [
+    {
+      "date": "2026-04-28",
+      "person": "Mrs. Maimoona Tanveer (spouse of Mr. Tanveer ahmed)",
+      "role": "Senior Management",
+      "action": "Sell",
+      "shares": 700000,
+      "price": 7.21,
+      "value": 5047000
+    },
+    {
+      "date": "2026-04-17",
+      "person": "Mrs. Maimoona Tanveer (spouse of Mr. Tanveer ahmed)",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 700000,
+      "price": 4.97,
+      "value": 3479000
+    },
+    {
+      "date": "2026-04-16",
+      "person": "Komal Lodhi",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 20000,
+      "price": 3.0,
+      "value": 60000
+    },
+    {
+      "date": "2026-04-16",
+      "person": "Rabia Omar Hassan",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 33500,
+      "price": 3.0,
+      "value": 100500
+    },
+    {
+      "date": "2025-07-25",
+      "person": "Komal Lodhi",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 2000,
+      "price": 3.2,
+      "value": 6400
+    },
+    {
+      "date": "2023-09-04",
+      "person": "MRS. MAMOONA TANVEER (Spouse of MR. TANVEER AHMED)",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 15000,
+      "price": 2.14,
+      "value": 32100
+    },
+    {
+      "date": "2023-09-04",
+      "person": "MRS. MAMOONA TANVEER (Spouse of MR. TANVEER AHMED)",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 15000,
+      "price": 2.48,
+      "value": 37200
+    }
+  ]
+}

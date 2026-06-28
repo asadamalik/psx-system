@@ -1,0 +1,114 @@
+{
+  "source": "sarmaaya.pk (insider transactions, #insider-transactions table)",
+  "as_of": "2026-06-28",
+  "transactions": [
+    {
+      "date": "2026-05-18",
+      "person": "Muhammad Shayan Ghayas",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 10000000,
+      "price": 1.7,
+      "value": 17000000
+    },
+    {
+      "date": "2026-05-18",
+      "person": "Mr. Junaid Shehzad Ahmed",
+      "role": "Non-Executive Director",
+      "action": "Sell",
+      "shares": 10000000,
+      "price": 1.7,
+      "value": 17000000
+    },
+    {
+      "date": "2026-04-30",
+      "person": "Mr. Muhammad Talha Razi",
+      "role": "Independent Director",
+      "action": "Sell",
+      "shares": 175000,
+      "price": 1.81,
+      "value": 316750
+    },
+    {
+      "date": "2026-04-02",
+      "person": "Mr. Junaid Shehzad Ahmed",
+      "role": "Non-Executive Director",
+      "action": "Sell",
+      "shares": 10800000,
+      "price": 1.5,
+      "value": 16200000
+    },
+    {
+      "date": "2026-04-02",
+      "person": "Muhammad Shayan Ghayas",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 10800000,
+      "price": 1.5,
+      "value": 16200000
+    },
+    {
+      "date": "2025-11-04",
+      "person": "Mr. Khurram Faraz",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 500000,
+      "price": 25.0,
+      "value": 12500000
+    },
+    {
+      "date": "2025-10-22",
+      "person": "Muhammad Shayan Ghayas",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 1000,
+      "price": 12.01,
+      "value": 12010
+    },
+    {
+      "date": "2025-10-20",
+      "person": "Muhammad Shayan Ghayas",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 2032500,
+      "price": 12.0,
+      "value": 24390000
+    },
+    {
+      "date": "2024-11-21",
+      "person": "Muhammad Shayan Ghayas",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 582000,
+      "price": 10.56,
+      "value": 6145920
+    },
+    {
+      "date": "2022-11-03",
+      "person": "Khizer Hayat Farooq",
+      "role": "lndependent Director",
+      "action": "Sell",
+      "shares": 500000,
+      "price": 10.17,
+      "value": 5085000
+    },
+    {
+      "date": "2022-11-02",
+      "person": "Mr. Khizer Hayat Farooq",
+      "role": "Independent Director",
+      "action": "Sell",
+      "shares": 2045500,
+      "price": 10.16,
+      "value": 20782280
+    },
+    {
+      "date": "2022-11-01",
+      "person": "Mr. Khizer Hayat Farooq",
+      "role": "Independent Director",
+      "action": "Sell",
+      "shares": 250000,
+      "price": 10.15,
+      "value": 2537500
+    }
+  ]
+}

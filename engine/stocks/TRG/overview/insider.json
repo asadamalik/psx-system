@@ -1,0 +1,366 @@
+{
+  "source": "sarmaaya.pk (insider transactions, #insider-transactions table)",
+  "as_of": "2026-06-28",
+  "transactions": [
+    {
+      "date": "2024-12-26",
+      "person": "Greentree Holdings Limited",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 2000000,
+      "price": 54.1,
+      "value": 108200000
+    },
+    {
+      "date": "2023-10-12",
+      "person": "SARAH JENNIFER POBERESKIN (Spouse of Muhammad Ziaullah Khan Chishti)",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 900000,
+      "price": 89.95,
+      "value": 80955000
+    },
+    {
+      "date": "2023-09-27",
+      "person": "SARAH JENNIFER POBERESKIN (Spouse of Muhammad Ziaullah Khan Chishti)",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 2750000,
+      "price": 89.81,
+      "value": 246977500
+    },
+    {
+      "date": "2023-06-27",
+      "person": "SARAH JENNIFER POBERESKIN (Spouse of Muhammad Ziaullah Khan Chishti)",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 1000000,
+      "price": 89.39,
+      "value": 89390000
+    },
+    {
+      "date": "2023-06-27",
+      "person": "Muhammad Ziaullah Khan Chisti",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 1000000,
+      "price": 89.39,
+      "value": 89390000
+    },
+    {
+      "date": "2023-03-29",
+      "person": "SARAH JENNIFER POBERESKIN (Spouse of Muhammad Ziaullah Khan Chishti)",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 13060000,
+      "price": 112.73,
+      "value": 1472253800
+    },
+    {
+      "date": "2023-03-29",
+      "person": "SARAH JENNIFER POBERESKIN (Spouse of Muhammad Ziaullah Khan Chishti)",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 13060000,
+      "price": 112.73,
+      "value": 1472253800
+    },
+    {
+      "date": "2021-09-22",
+      "person": "Zafar Iqbal Sobani",
+      "role": "Non-Executive Director",
+      "action": "Sell",
+      "shares": 105000,
+      "price": 114.86,
+      "value": 12060300
+    },
+    {
+      "date": "2020-06-22",
+      "person": "Greentree Holdings Limited",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 2310627,
+      "price": 76.84,
+      "value": 177548579
+    },
+    {
+      "date": "2019-05-22",
+      "person": "Greentree Holdings Limited",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 921435,
+      "price": 74.73,
+      "value": 68858838
+    },
+    {
+      "date": "2018-05-22",
+      "person": "Greentree Holdings Limited",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 2762149,
+      "price": 73.31,
+      "value": 202493143
+    },
+    {
+      "date": "2018-03-22",
+      "person": "Greentree Holdings Limited",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 63338,
+      "price": 77.61,
+      "value": 4915662
+    },
+    {
+      "date": "2018-03-22",
+      "person": "Greentree Holdings Limited",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 281954,
+      "price": 76.41,
+      "value": 21544105
+    },
+    {
+      "date": "2018-03-22",
+      "person": "Greentree Holdings Limited",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 327205,
+      "price": 74.89,
+      "value": 24504382
+    },
+    {
+      "date": "2017-06-22",
+      "person": "Greentree Holdings Limited",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 1112794,
+      "price": 75.0,
+      "value": 83459550
+    },
+    {
+      "date": "2017-06-22",
+      "person": "Greentree Holdings Limited",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 844913,
+      "price": 75.42,
+      "value": 63723338
+    },
+    {
+      "date": "2016-05-22",
+      "person": "Greentree Holdings Limited",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 4215403,
+      "price": 77.25,
+      "value": 325639882
+    },
+    {
+      "date": "2015-06-22",
+      "person": "Greentree Holdings Limited",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 461955,
+      "price": 76.75,
+      "value": 35455046
+    },
+    {
+      "date": "2014-03-22",
+      "person": "Greentree Holdings Limited",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 830000,
+      "price": 79.21,
+      "value": 65744300
+    },
+    {
+      "date": "2014-03-22",
+      "person": "Greentree Holdings Limited",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 1805000,
+      "price": 76.81,
+      "value": 138642050
+    },
+    {
+      "date": "2012-05-22",
+      "person": "Greentree Holdings Limited",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 860306,
+      "price": 75.49,
+      "value": 64944500
+    },
+    {
+      "date": "2011-10-22",
+      "person": "Greentree Holdings Limited",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 10437753,
+      "price": 149.74,
+      "value": 1562949134
+    },
+    {
+      "date": "2011-05-22",
+      "person": "Greentree Holdings Limited",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 2393400,
+      "price": 74.26,
+      "value": 177733884
+    },
+    {
+      "date": "2008-06-22",
+      "person": "Greentree Holdings Limited",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 535000,
+      "price": 75.78,
+      "value": 40542300
+    },
+    {
+      "date": "2008-06-22",
+      "person": "Greentree Holdings Limited",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 257626,
+      "price": 75.96,
+      "value": 19569271
+    },
+    {
+      "date": "2008-06-22",
+      "person": "Greentree Holdings Limited",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 260064,
+      "price": 78.94,
+      "value": 20529452
+    },
+    {
+      "date": "2008-06-22",
+      "person": "Greentree Holdings Limited",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 350000,
+      "price": 80.51,
+      "value": 28178500
+    },
+    {
+      "date": "2006-05-22",
+      "person": "Greentree Holdings Limited",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 2621904,
+      "price": 78.06,
+      "value": 204665826
+    },
+    {
+      "date": "2004-07-22",
+      "person": "Greentree Holdings Limited",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 1739890,
+      "price": 73.84,
+      "value": 128473478
+    },
+    {
+      "date": "2004-07-22",
+      "person": "Greentree Holdings Limited",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 68802,
+      "price": 74.5,
+      "value": 5125749
+    },
+    {
+      "date": "2004-07-22",
+      "person": "Greentree Holdings Limited",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 51244,
+      "price": 77.15,
+      "value": 3953475
+    },
+    {
+      "date": "2004-07-22",
+      "person": "Greentree Holdings Limited",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 3315790,
+      "price": 75.36,
+      "value": 249877934
+    },
+    {
+      "date": "2004-07-22",
+      "person": "Greentree Holdings Limited",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 120280,
+      "price": 76.92,
+      "value": 9251938
+    },
+    {
+      "date": "2004-07-22",
+      "person": "Greentree Holdings Limited",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 1493385,
+      "price": 77.85,
+      "value": 116260022
+    },
+    {
+      "date": "2003-10-22",
+      "person": "Greentree Holdings Limited",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 11534814,
+      "price": 128.33,
+      "value": 1480262681
+    },
+    {
+      "date": "2002-08-22",
+      "person": "Greentree Holdings Limited",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 1617747,
+      "price": 90.59,
+      "value": 146551701
+    },
+    {
+      "date": "2002-08-22",
+      "person": "Greentree Holdings Limited",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 3794500,
+      "price": 91.15,
+      "value": 345868675
+    },
+    {
+      "date": "2001-08-22",
+      "person": "Greentree Holdings Limited",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 2783000,
+      "price": 83.87,
+      "value": 233410210
+    },
+    {
+      "date": "2001-08-22",
+      "person": "Greentree Holdings Limited",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 2038500,
+      "price": 84.08,
+      "value": 171397080
+    },
+    {
+      "date": "2001-06-22",
+      "person": "Greentree Holdings Limited",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 1900000,
+      "price": 81.71,
+      "value": 155249000
+    }
+  ]
+}

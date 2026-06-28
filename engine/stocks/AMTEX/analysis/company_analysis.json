@@ -1,0 +1,63 @@
+{
+  "symbol": "AMTEX",
+  "growth": {
+    "revenue_growth_5y": 0.21865499366555152,
+    "net_income_growth_5y": 0.030018254343857735,
+    "equity_growth_5y": 0.016661230702326592,
+    "debt_change_5y": -0.14983598875351453
+  },
+  "latest": {
+    "revenue": 2371.0,
+    "net_income": -130.15,
+    "equity": -8585.0,
+    "total_assets": 3540.0,
+    "total_debt": 7257.0,
+    "operating_cash_flow": -274.69,
+    "capex": 32.62
+  },
+  "metrics": {
+    "revenue_growth_5y": 0.21865499366555152,
+    "net_income_growth_5y": 0.030018254343857735,
+    "eps_growth": null,
+    "sales_growth": 0.21865499366555152,
+    "roe": 0.0152,
+    "roa": -0.0368,
+    "gross_margin": 0.056,
+    "operating_margin": -0.014656263180092787,
+    "net_margin": -0.05489245044285112,
+    "debt_to_equity": -0.8453115899825276,
+    "current_ratio": 0.17843906692827557,
+    "interest_coverage": -0.4170166806672267,
+    "fcf_margin": -0.1296119780683256,
+    "pe_ratio": null,
+    "price_to_book": -0.14,
+    "peg": null
+  },
+  "extended": {
+    "effective_tax_rate": 0.29,
+    "roic": 0.018578689759036145,
+    "quick_ratio": 0.08597558316982777,
+    "ps_ratio": 0.3989809837117869,
+    "ev_ebitda": null,
+    "peg": null,
+    "revenue_cagr_3y": 0.23753668384546067,
+    "net_income_cagr_3y": -0.7525364769542952,
+    "eps_cagr_3y": -0.75,
+    "revenue_qoq": -0.23346398539178176,
+    "revenue_yoy": 0.6450590320245612,
+    "eps_qoq": -2.0,
+    "eps_yoy": 0.04166666666666659,
+    "ocf_cagr_5y": -1.7325669257340242,
+    "fcf_cagr_5y": -7.3505083179297594,
+    "cash_conversion": 2.110564733000384,
+    "ttm_revenue": 2991.12,
+    "ttm_net_income": -26.5,
+    "dividend_last_year": null,
+    "dividend_latest_annual": null
+  },
+  "derived": {
+    "free_cash_flow": -307.31,
+    "market_cap": 1193.4,
+    "current_price": 4.59
+  }
+}

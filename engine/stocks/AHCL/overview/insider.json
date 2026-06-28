@@ -1,0 +1,195 @@
+{
+  "source": "sarmaaya.pk (insider transactions, #insider-transactions table)",
+  "as_of": "2026-06-28",
+  "transactions": [
+    {
+      "date": "2026-03-10",
+      "person": "Khawaja Najam uddin Roomi",
+      "role": "Independent Director",
+      "action": "Buy",
+      "shares": 120000,
+      "price": 13.49,
+      "value": 1618800
+    },
+    {
+      "date": "2025-10-20",
+      "person": "MUHAMMAD ARIF HABIB",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 5716354,
+      "price": 16.04,
+      "value": 91690318
+    },
+    {
+      "date": "2025-10-09",
+      "person": "MUHAMMAD ARIF HABIB",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 10000000,
+      "price": 17.04,
+      "value": 170400000
+    },
+    {
+      "date": "2025-09-29",
+      "person": "Muhammad Arif Habib",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 2500000,
+      "price": 14.51,
+      "value": 36275000
+    },
+    {
+      "date": "2025-09-26",
+      "person": "Muhammad Arif Habib",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 5000000,
+      "price": 14.46,
+      "value": 72300000
+    },
+    {
+      "date": "2025-09-26",
+      "person": "Muhammad Arif Habib",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 6000000,
+      "price": 14.95,
+      "value": 89700000
+    },
+    {
+      "date": "2025-08-21",
+      "person": "Razi Haider",
+      "role": "Senior Management",
+      "action": "Buy",
+      "shares": 20000,
+      "price": 12.42,
+      "value": 248400
+    },
+    {
+      "date": "2025-07-25",
+      "person": "Muhammad Arif Habib",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 3000000,
+      "price": 12.46,
+      "value": 37380000
+    },
+    {
+      "date": "2025-07-25",
+      "person": "Muhammad Arif Habib",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 3044877,
+      "price": 12.23,
+      "value": 37238846
+    },
+    {
+      "date": "2025-07-25",
+      "person": "Muhammad Arif Habib",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 2955123,
+      "price": 12.23,
+      "value": 36141154
+    },
+    {
+      "date": "2024-07-15",
+      "person": "ARIF HABIB CORPORATION LIMITED",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 2331456,
+      "price": 61.37,
+      "value": 143081455
+    },
+    {
+      "date": "2024-03-07",
+      "person": "Khawaja Najam UdDin Roomi",
+      "role": "Independent Director",
+      "action": "Buy",
+      "shares": 7000,
+      "price": 34.7,
+      "value": 242900
+    },
+    {
+      "date": "2024-03-05",
+      "person": "Khawaja Najam UdDin Roomi",
+      "role": "Independent Director",
+      "action": "Buy",
+      "shares": 43500,
+      "price": 35.32,
+      "value": 1536420
+    },
+    {
+      "date": "2024-03-05",
+      "person": "Muhammad Arif Habib",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 3187500,
+      "price": 34.06,
+      "value": 108566250
+    },
+    {
+      "date": "2024-03-01",
+      "person": "Khawaja Najam UdDin Roomi",
+      "role": "Independent Director",
+      "action": "Buy",
+      "shares": 43500,
+      "price": 35.0,
+      "value": 1522500
+    },
+    {
+      "date": "2024-02-26",
+      "person": "Khawaja Najam UdDin Roomi",
+      "role": "Independent Director",
+      "action": "Buy",
+      "shares": 24000,
+      "price": 35.86,
+      "value": 860640
+    },
+    {
+      "date": "2024-02-26",
+      "person": "Khawaja Najam UdDin Roomi",
+      "role": "Independent Director",
+      "action": "Buy",
+      "shares": 24000,
+      "price": 35.86,
+      "value": 860640
+    },
+    {
+      "date": "2023-08-01",
+      "person": "KHAWAJA JALALUDDIN ROOMI",
+      "role": "Independent Director",
+      "action": "Sell",
+      "shares": 50000,
+      "price": 24.12,
+      "value": 1206000
+    },
+    {
+      "date": "2023-08-01",
+      "person": "KHAWAJA JALALUDDIN ROOMI",
+      "role": "Independent Director",
+      "action": "Buy",
+      "shares": 50000,
+      "price": 24.12,
+      "value": 1206000
+    },
+    {
+      "date": "2023-02-13",
+      "person": "LUBNA KHAWAJA (Spouse of ASADULLAH KHAWAJA)",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 5000,
+      "price": 32.94,
+      "value": 164700
+    },
+    {
+      "date": "2022-12-13",
+      "person": "Khawaja Jalaluddin Roomi",
+      "role": "Independent Director",
+      "action": "Buy",
+      "shares": 500,
+      "price": 34.85,
+      "value": 17425
+    }
+  ]
+}

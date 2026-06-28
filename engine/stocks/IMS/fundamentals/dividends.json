@@ -1,0 +1,15 @@
+{
+  "source": "stockanalysis.com (statistics + dividend page)",
+  "as_of": "2026-06-28",
+  "yield": 0.0097,
+  "per_share_ttm": 0.2,
+  "payout_ratio": 1.0306,
+  "history": [
+    {
+      "ex_date": "2025-05-12",
+      "amount": 0.2,
+      "type": null,
+      "yield": null
+    }
+  ]
+}

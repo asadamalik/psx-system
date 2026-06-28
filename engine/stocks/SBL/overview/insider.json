@@ -1,0 +1,78 @@
+{
+  "source": "sarmaaya.pk (insider transactions, #insider-transactions table)",
+  "as_of": "2026-06-28",
+  "transactions": [
+    {
+      "date": "2025-10-03",
+      "person": "Hafiz Mohammad Yousaf",
+      "role": "Independent Director",
+      "action": "Sell",
+      "shares": 900000,
+      "price": 12.18,
+      "value": 10962000
+    },
+    {
+      "date": "2025-07-14",
+      "person": "Shafqaat Ahmed",
+      "role": "Independent Director",
+      "action": "Buy",
+      "shares": 500,
+      "price": 10.59,
+      "value": 5295
+    },
+    {
+      "date": "2023-11-07",
+      "person": "Sarwat Khalid (Spouse of Khalid Zafar)",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 500,
+      "price": 9.0,
+      "value": 4500
+    },
+    {
+      "date": "2023-11-07",
+      "person": "Sarwat Khalid (Spouse of Khalid Zafar)",
+      "role": "Executive",
+      "action": "Sell",
+      "shares": 500,
+      "price": 9.45,
+      "value": 4725
+    },
+    {
+      "date": "2022-12-15",
+      "person": "Javed Kureishi",
+      "role": "Independent Director",
+      "action": "Buy",
+      "shares": 500,
+      "price": 7.82,
+      "value": 3910
+    },
+    {
+      "date": "2022-06-22",
+      "person": "Shahid Sattar",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 100000,
+      "price": 9.14,
+      "value": 914000
+    },
+    {
+      "date": "2014-04-22",
+      "person": "Sarwat Khalid",
+      "role": "Spouse",
+      "action": "Buy",
+      "shares": 10000,
+      "price": 12.0,
+      "value": 120000
+    },
+    {
+      "date": "2014-04-22",
+      "person": "Sarwat Khalid",
+      "role": "Spouse",
+      "action": "Buy",
+      "shares": 10000,
+      "price": 11.5,
+      "value": 115000
+    }
+  ]
+}

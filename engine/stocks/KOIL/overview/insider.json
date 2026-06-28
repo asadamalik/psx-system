@@ -1,0 +1,141 @@
+{
+  "source": "sarmaaya.pk (insider transactions, #insider-transactions table)",
+  "as_of": "2026-06-28",
+  "transactions": [
+    {
+      "date": "2026-04-13",
+      "person": "Sheikh Aftab Ahmad",
+      "role": "Independent Director",
+      "action": "Sell",
+      "shares": 30000,
+      "price": 94.96,
+      "value": 2848800
+    },
+    {
+      "date": "2025-11-21",
+      "person": "M. Murad Saigol",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 2287108,
+      "price": 40.0,
+      "value": 91484320
+    },
+    {
+      "date": "2025-11-21",
+      "person": "M. Zeid Yousuf Saigol",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 462892,
+      "price": 40.0,
+      "value": 18515680
+    },
+    {
+      "date": "2025-11-11",
+      "person": "Sheikh Aftab Ahmad",
+      "role": "Independent Director",
+      "action": "Sell",
+      "shares": 5000,
+      "price": 75.0,
+      "value": 375000
+    },
+    {
+      "date": "2025-11-10",
+      "person": "Sheikh Aftab Ahmad",
+      "role": "Independent Director",
+      "action": "Sell",
+      "shares": 5000,
+      "price": 68.3,
+      "value": 341500
+    },
+    {
+      "date": "2025-11-06",
+      "person": "Sheikh Aftab Ahmad",
+      "role": "Independent Director",
+      "action": "Sell",
+      "shares": 20000,
+      "price": 56.23,
+      "value": 1124600
+    },
+    {
+      "date": "2025-11-03",
+      "person": "Sheikh Aftab Ahmad",
+      "role": "Independent Director",
+      "action": "Sell",
+      "shares": 5000,
+      "price": 49.05,
+      "value": 245250
+    },
+    {
+      "date": "2025-10-30",
+      "person": "Sheikh Aftab Ahmad",
+      "role": "Independent Director",
+      "action": "Sell",
+      "shares": 5000,
+      "price": 51.0,
+      "value": 255000
+    },
+    {
+      "date": "2025-10-27",
+      "person": "Sheikh Aftab Ahmed",
+      "role": "Independent Director",
+      "action": "Sell",
+      "shares": 5000,
+      "price": 48.7,
+      "value": 243500
+    },
+    {
+      "date": "2025-10-13",
+      "person": "EFG Hermes UAE LLC",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 1800000,
+      "price": 17.4,
+      "value": 31320000
+    },
+    {
+      "date": "2025-10-02",
+      "person": "EFG Hermes UAE LLC",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 219677,
+      "price": 17.71,
+      "value": 3890480
+    },
+    {
+      "date": "2023-03-07",
+      "person": "EFG Hermes Oman LLC",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 6268500,
+      "price": 5.63,
+      "value": 35291655
+    },
+    {
+      "date": "2023-03-03",
+      "person": "EFG Hermes Oman LLC",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 6268500,
+      "price": 5.63,
+      "value": 35291655
+    },
+    {
+      "date": "2022-12-20",
+      "person": "EFG Hermes Oman LLC",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 76500,
+      "price": 6.24,
+      "value": 477360
+    },
+    {
+      "date": "2022-11-23",
+      "person": "EFG Hermes Oman LLC",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 171500,
+      "price": 5.1,
+      "value": 874650
+    }
+  ]
+}

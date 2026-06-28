@@ -1,0 +1,63 @@
+{
+  "symbol": "AKDSL",
+  "growth": {
+    "revenue_growth_5y": 0.7063209463310016,
+    "net_income_growth_5y": 1.0470530847641175,
+    "equity_growth_5y": 0.8948852785648456,
+    "debt_change_5y": 0.5431526739974548
+  },
+  "latest": {
+    "revenue": 5364.0,
+    "net_income": 3156.0,
+    "equity": 11994.0,
+    "total_assets": 20045.0,
+    "total_debt": 472.93,
+    "operating_cash_flow": 2152.0,
+    "capex": 1584.0
+  },
+  "metrics": {
+    "revenue_growth_5y": 0.7063209463310016,
+    "net_income_growth_5y": 1.0470530847641175,
+    "eps_growth": null,
+    "sales_growth": 0.7063209463310016,
+    "roe": 0.2631,
+    "roa": 0.1574,
+    "gross_margin": null,
+    "operating_margin": 0.767337807606264,
+    "net_margin": 0.5883668903803132,
+    "debt_to_equity": 0.03943054860763715,
+    "current_ratio": null,
+    "interest_coverage": null,
+    "fcf_margin": 0.1058911260253542,
+    "pe_ratio": 7.04,
+    "price_to_book": 1.62,
+    "peg": null
+  },
+  "extended": {
+    "effective_tax_rate": 0.29,
+    "roic": 0.23440895232426906,
+    "quick_ratio": null,
+    "ps_ratio": 4.003387303660031,
+    "ev_ebitda": null,
+    "peg": null,
+    "revenue_cagr_3y": 0.768063029820288,
+    "net_income_cagr_3y": 3.5779436408310974,
+    "eps_cagr_3y": 0.9156378600823044,
+    "revenue_qoq": -1.100785673021375,
+    "revenue_yoy": -1.2071282708837916,
+    "eps_qoq": -1.7344632768361583,
+    "eps_yoy": -2.756756756756757,
+    "ocf_cagr_5y": 1.6395879307312398,
+    "fcf_cagr_5y": -20.036957043436527,
+    "cash_conversion": 0.6818757921419518,
+    "ttm_revenue": 5620.99,
+    "ttm_net_income": 3193.54,
+    "dividend_last_year": null,
+    "dividend_latest_annual": 2
+  },
+  "derived": {
+    "free_cash_flow": 568.0,
+    "market_cap": 22503.0,
+    "current_price": 40.34
+  }
+}

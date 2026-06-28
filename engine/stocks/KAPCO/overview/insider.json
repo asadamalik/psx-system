@@ -1,0 +1,42 @@
+{
+  "source": "sarmaaya.pk (insider transactions, #insider-transactions table)",
+  "as_of": "2026-06-28",
+  "transactions": [
+    {
+      "date": "2025-05-26",
+      "person": "Shahab Qader Khan",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 30000,
+      "price": 32.36,
+      "value": 970800
+    },
+    {
+      "date": "2025-03-10",
+      "person": "Shahab Qader Khan",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 25000,
+      "price": 37.61,
+      "value": 940250
+    },
+    {
+      "date": "2025-03-07",
+      "person": "Shahab Qader Khan",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 50000,
+      "price": 37.39,
+      "value": 1869500
+    },
+    {
+      "date": "2023-11-24",
+      "person": "Rabnawaz Anjum",
+      "role": "Executive",
+      "action": "Sell",
+      "shares": 5000,
+      "price": 28.3,
+      "value": 141500
+    }
+  ]
+}

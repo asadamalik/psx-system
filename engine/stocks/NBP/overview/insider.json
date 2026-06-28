@@ -1,0 +1,87 @@
+{
+  "source": "sarmaaya.pk (insider transactions, #insider-transactions table)",
+  "as_of": "2026-06-28",
+  "transactions": [
+    {
+      "date": "2026-04-17",
+      "person": "Karim Akram Khan",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 54395,
+      "price": 184.0,
+      "value": 10008680
+    },
+    {
+      "date": "2026-04-17",
+      "person": "Karim Akram Khan",
+      "role": "Executive",
+      "action": "Sell",
+      "shares": 56000,
+      "price": 171.0,
+      "value": 9576000
+    },
+    {
+      "date": "2026-04-08",
+      "person": "Karim Akram Khan",
+      "role": "Executive",
+      "action": "Sell",
+      "shares": 238500,
+      "price": 158.0,
+      "value": 37683000
+    },
+    {
+      "date": "2026-04-08",
+      "person": "Karim Akram Khan",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 224000,
+      "price": 167.0,
+      "value": 37408000
+    },
+    {
+      "date": "2026-01-14",
+      "person": "Karim Akram Khan",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 155000,
+      "price": 261.02,
+      "value": 40458100
+    },
+    {
+      "date": "2026-01-01",
+      "person": "Karim Akram Khan",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 40500,
+      "price": 247.95,
+      "value": 10041975
+    },
+    {
+      "date": "2025-12-23",
+      "person": "Umair Khursheed",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 250,
+      "price": 390.0,
+      "value": 97500
+    },
+    {
+      "date": "2025-12-23",
+      "person": "Karim Akram Khan",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 21000,
+      "price": 239.98,
+      "value": 5039580
+    },
+    {
+      "date": "2025-11-04",
+      "person": "Karim Akram Khan",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 22000,
+      "price": 225.0,
+      "value": 4950000
+    }
+  ]
+}

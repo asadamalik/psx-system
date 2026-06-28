@@ -1,0 +1,249 @@
+{
+  "source": "sarmaaya.pk (insider transactions, #insider-transactions table)",
+  "as_of": "2026-06-28",
+  "transactions": [
+    {
+      "date": "2026-06-05",
+      "person": "Ms. Fehmida Amin",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 35000000,
+      "price": 10.0,
+      "value": 350000000
+    },
+    {
+      "date": "2026-05-06",
+      "person": "Muhamamd Azhar Ghauri",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 500,
+      "price": 10.83,
+      "value": 5415
+    },
+    {
+      "date": "2026-05-05",
+      "person": "Jalees Edhi",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 500,
+      "price": 11.0,
+      "value": 5500
+    },
+    {
+      "date": "2026-05-04",
+      "person": "Ms. Fehmida Amin",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 2800000,
+      "price": 10.68,
+      "value": 29904000
+    },
+    {
+      "date": "2026-03-24",
+      "person": "Sualeha Farrukh",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 50000,
+      "price": 9.77,
+      "value": 488500
+    },
+    {
+      "date": "2026-03-05",
+      "person": "Muhammad Farrukh",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 2040000,
+      "price": 9.39,
+      "value": 19155600
+    },
+    {
+      "date": "2026-02-20",
+      "person": "Muhammad Farrukh",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 160000,
+      "price": 9.96,
+      "value": 1593600
+    },
+    {
+      "date": "2026-02-17",
+      "person": "Muhammad Farrukh",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 3300000,
+      "price": 11.76,
+      "value": 38808000
+    },
+    {
+      "date": "2026-02-11",
+      "person": "Danish Elahi",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 6475000,
+      "price": 12.33,
+      "value": 79836750
+    },
+    {
+      "date": "2026-02-11",
+      "person": "Danish Elahi",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 6475000,
+      "price": 12.33,
+      "value": 79836750
+    },
+    {
+      "date": "2026-02-11",
+      "person": "Danish Elahi",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 6475000,
+      "price": 12.33,
+      "value": 79836750
+    },
+    {
+      "date": "2025-11-24",
+      "person": "Rizwan Ahmad",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 100,
+      "price": 14.74,
+      "value": 1474
+    },
+    {
+      "date": "2025-10-23",
+      "person": "Sunridge Foods Private Limited",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 30000000,
+      "price": 15.21,
+      "value": 456300000
+    },
+    {
+      "date": "2025-10-22",
+      "person": "Sunridge Foods Private Limited",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 30000000,
+      "price": 15.21,
+      "value": 456300000
+    },
+    {
+      "date": "2025-08-20",
+      "person": "Tasneem Yusuf",
+      "role": "Independent Director",
+      "action": "Buy",
+      "shares": 100,
+      "price": 12.37,
+      "value": 1237
+    },
+    {
+      "date": "2025-08-15",
+      "person": "Ghulam Farooq",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 100,
+      "price": 10.55,
+      "value": 1055
+    },
+    {
+      "date": "2025-08-15",
+      "person": "Imran Yunus",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 100,
+      "price": 10.55,
+      "value": 1055
+    },
+    {
+      "date": "2025-08-15",
+      "person": "Muhammad Ayub Khan Durrani",
+      "role": "Independent Director",
+      "action": "Buy",
+      "shares": 100,
+      "price": 10.55,
+      "value": 1055
+    },
+    {
+      "date": "2025-08-15",
+      "person": "Farhan Iqbal",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 100,
+      "price": 10.55,
+      "value": 1055
+    },
+    {
+      "date": "2025-01-03",
+      "person": "Muhammad Taha",
+      "role": "Independent Director",
+      "action": "Buy",
+      "shares": 300,
+      "price": 7.65,
+      "value": 2295
+    },
+    {
+      "date": "2025-01-03",
+      "person": "Quratulain Asghar",
+      "role": "Non Executive Director",
+      "action": "Buy",
+      "shares": 350,
+      "price": 7.62,
+      "value": 2667
+    },
+    {
+      "date": "2024-07-31",
+      "person": "Sunridge Foods Pvt limited",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 10000000,
+      "price": 6.96,
+      "value": 69600000
+    },
+    {
+      "date": "2024-01-17",
+      "person": "Umair Ahmed Khalili",
+      "role": "Non-Executive Director",
+      "action": "Sell",
+      "shares": 1496376,
+      "price": 11.0,
+      "value": 16460136
+    },
+    {
+      "date": "2024-01-17",
+      "person": "Kamran Ahmed Khalili",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 8503624,
+      "price": 11.0,
+      "value": 93539864
+    },
+    {
+      "date": "2023-12-20",
+      "person": "Kamran Ahmed Khalili",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 10000000,
+      "price": 11.0,
+      "value": 110000000
+    },
+    {
+      "date": "2023-12-20",
+      "person": "Amir Shehzad",
+      "role": "Independent Director",
+      "action": "Buy",
+      "shares": 10000000,
+      "price": 11.0,
+      "value": 110000000
+    },
+    {
+      "date": "2023-12-19",
+      "person": "Kamran Ahmed Khalili",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 10000000,
+      "price": 11.99,
+      "value": 119900000
+    }
+  ]
+}

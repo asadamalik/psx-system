@@ -1,0 +1,160 @@
+{
+  "symbol": "HCAR",
+  "generated": "2026-06-28 16:35",
+  "scores": {
+    "fundamental_score": 46.3,
+    "technical_score": 32.2,
+    "overall_score": 42.1,
+    "rating": "Reduce",
+    "risk": "Low",
+    "risk_score": 76.7,
+    "weights": {
+      "fundamental": 0.7,
+      "technical": 0.3
+    },
+    "fundamental_detail": {
+      "fundamental_score": 46.3,
+      "pillars": {
+        "growth": 33.0,
+        "profitability": 33.0,
+        "financial_strength": 66.5,
+        "valuation": 66.0
+      },
+      "coverage": {
+        "growth": {
+          "used": [
+            "revenue_growth_5y",
+            "net_income_growth_5y",
+            "sales_growth"
+          ],
+          "missing": [
+            "eps_growth"
+          ]
+        },
+        "profitability": {
+          "used": [
+            "roe",
+            "roa",
+            "gross_margin",
+            "operating_margin",
+            "net_margin"
+          ],
+          "missing": []
+        },
+        "financial_strength": {
+          "used": [
+            "debt_to_equity",
+            "current_ratio",
+            "interest_coverage",
+            "fcf_margin"
+          ],
+          "missing": []
+        },
+        "valuation": {
+          "used": [
+            "pe_ratio",
+            "price_to_book"
+          ],
+          "missing": [
+            "peg"
+          ]
+        }
+      },
+      "weight_covered": 1.0
+    }
+  },
+  "technical": {
+    "technical_score": 32.2,
+    "trend": "Sideways",
+    "momentum": "Neutral",
+    "adx_strength": "Strong",
+    "rsi_divergence": {
+      "type": null
+    },
+    "notes": [
+      "Trend: Sideways",
+      "EMA20 > EMA50",
+      "ADX 27.6 (Strong); DI - dominant",
+      "RSI 45.8 (Neutral)",
+      "MACD below signal"
+    ]
+  },
+  "technical_snapshot": {
+    "as_of": "2026-06-24",
+    "bars": 1236,
+    "close": 240.45,
+    "sma_20": 259.79150000000004,
+    "sma_50": 227.49740000000003,
+    "sma_200": 247.46040000000002,
+    "ema_20": 251.42192571267435,
+    "ema_50": 234.79043833268557,
+    "ema_100": 229.4484011811834,
+    "ema_200": 240.29417528403906,
+    "obv": 156270562.0,
+    "weekly_trend": "Up",
+    "monthly_trend": "Up",
+    "support_resistance": {
+      "price": 240.45,
+      "nearest_resistance": 251.0,
+      "nearest_support": 231.99,
+      "resistance_levels": [
+        251.0,
+        284.31
+      ],
+      "support_levels": [
+        231.99,
+        206.05,
+        176.05
+      ]
+    },
+    "rsi_14": 45.767802625141115,
+    "macd": 5.3053124704713355,
+    "macd_signal": 10.779517913785623,
+    "macd_hist": -5.474205443314288,
+    "adx_14": 27.61689017440109,
+    "plus_di": 22.60019197018285,
+    "minus_di": 26.805528542472693,
+    "atr_14": 11.270012140556158,
+    "bb_upper": 288.48865196670386,
+    "bb_lower": 231.09434803329623,
+    "week52_high": 315.0,
+    "week52_low": 149.56,
+    "rsi_divergence": {
+      "type": null
+    },
+    "patterns": []
+  },
+  "growth": {
+    "revenue_growth_5y": 0.03142425035741736,
+    "net_income_growth_5y": 0.06540952099181974,
+    "equity_growth_5y": 0.0624907727415005,
+    "debt_change_5y": -0.2227163872733493
+  },
+  "metrics": {
+    "revenue_growth_5y": 0.03142425035741736,
+    "net_income_growth_5y": 0.06540952099181974,
+    "eps_growth": null,
+    "sales_growth": 0.03142425035741736,
+    "roe": 0.1271,
+    "roa": 0.0547,
+    "gross_margin": 0.077,
+    "operating_margin": 0.03947400701651088,
+    "net_margin": 0.026446848703417482,
+    "debt_to_equity": 0.08931519773567104,
+    "current_ratio": 1.5963220739416384,
+    "interest_coverage": 11.47264343775253,
+    "fcf_margin": -0.021591308685589984,
+    "pe_ratio": 10.62,
+    "price_to_book": 1.35,
+    "peg": null
+  },
+  "latest": {
+    "revenue": 122283.0,
+    "net_income": 3234.0,
+    "equity": 25438.0,
+    "total_assets": 59111.0,
+    "total_debt": 2272.0,
+    "operating_cash_flow": -1930.0,
+    "capex": 710.25
+  }
+}

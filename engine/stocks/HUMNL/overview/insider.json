@@ -1,0 +1,402 @@
+{
+  "source": "sarmaaya.pk (insider transactions, #insider-transactions table)",
+  "as_of": "2026-06-28",
+  "transactions": [
+    {
+      "date": "2026-02-16",
+      "person": "Sultana Siddiqui",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 22000000,
+      "price": 10.5,
+      "value": 231000000
+    },
+    {
+      "date": "2024-02-20",
+      "person": "Duraid Qureshi",
+      "role": "executive director",
+      "action": "Buy",
+      "shares": 3500000,
+      "price": 6.53,
+      "value": 22855000
+    },
+    {
+      "date": "2024-02-19",
+      "person": "Duraid Qureshi",
+      "role": "executive director",
+      "action": "Buy",
+      "shares": 5500000,
+      "price": 6.56,
+      "value": 36080000
+    },
+    {
+      "date": "2024-01-26",
+      "person": "SULTANA SIDDIQUI",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 5000000,
+      "price": 6.43,
+      "value": 32150000
+    },
+    {
+      "date": "2024-01-26",
+      "person": "DURAID QURESHI",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 10000000,
+      "price": 6.43,
+      "value": 64300000
+    },
+    {
+      "date": "2023-11-24",
+      "person": "SULTANA SIDDIQUI",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 545500,
+      "price": 7.16,
+      "value": 3905780
+    },
+    {
+      "date": "2023-11-16",
+      "person": "SULTANA SIDDIQUI",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 875000,
+      "price": 7.14,
+      "value": 6247500
+    },
+    {
+      "date": "2023-11-13",
+      "person": "SULTANA SIDDIQUI",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 5891500,
+      "price": 7.24,
+      "value": 42654460
+    },
+    {
+      "date": "2022-11-28",
+      "person": "SULTANA SIDDIQUI",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 330500,
+      "price": 5.95,
+      "value": 1966475
+    },
+    {
+      "date": "2022-11-28",
+      "person": "SULTANA SIDDIQUI",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 2000,
+      "price": 5.74,
+      "value": 11480
+    },
+    {
+      "date": "2022-11-28",
+      "person": "SULTANA SIDDIQUI",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 510500,
+      "price": 6.15,
+      "value": 3139575
+    },
+    {
+      "date": "2022-11-28",
+      "person": "SULTANA SIDDIQUI",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 201500,
+      "price": 6.1,
+      "value": 1229150
+    },
+    {
+      "date": "2022-11-28",
+      "person": "SULTANA SIDDIQUI",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 207500,
+      "price": 6.13,
+      "value": 1271975
+    },
+    {
+      "date": "2022-11-28",
+      "person": "SULTANA SIDDIQUI",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 23000,
+      "price": 5.75,
+      "value": 132250
+    },
+    {
+      "date": "2022-11-28",
+      "person": "SULTANA SIDDIQUI",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 204500,
+      "price": 5.8,
+      "value": 1186100
+    },
+    {
+      "date": "2022-11-28",
+      "person": "SULTANA SIDDIQUI",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 196500,
+      "price": 5.93,
+      "value": 1165245
+    },
+    {
+      "date": "2022-11-28",
+      "person": "SULTANA SIDDIQUI",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 59500,
+      "price": 5.83,
+      "value": 346885
+    },
+    {
+      "date": "2022-11-28",
+      "person": "SULTANA SIDDIQUI",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 244000,
+      "price": 5.94,
+      "value": 1449360
+    },
+    {
+      "date": "2022-11-28",
+      "person": "SULTANA SIDDIQUI",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 21000,
+      "price": 5.82,
+      "value": 122220
+    },
+    {
+      "date": "2022-11-28",
+      "person": "SULTANA SIDDIQUI",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 992000,
+      "price": 6.14,
+      "value": 6090880
+    },
+    {
+      "date": "2022-11-28",
+      "person": "SULTANA SIDDIQUI",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 9000,
+      "price": 6.18,
+      "value": 55620
+    },
+    {
+      "date": "2022-11-28",
+      "person": "SULTANA SIDDIQUI",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 72000,
+      "price": 5.87,
+      "value": 422640
+    },
+    {
+      "date": "2022-11-28",
+      "person": "SULTANA SIDDIQUI",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 37500,
+      "price": 6.07,
+      "value": 227625
+    },
+    {
+      "date": "2022-11-28",
+      "person": "SULTANA SIDDIQUI",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 200000,
+      "price": 5.99,
+      "value": 1198000
+    },
+    {
+      "date": "2022-11-28",
+      "person": "SULTANA SIDDIQUI",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 15000,
+      "price": 6.11,
+      "value": 91650
+    },
+    {
+      "date": "2022-11-28",
+      "person": "SULTANA SIDDIQUI",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 111500,
+      "price": 5.79,
+      "value": 645585
+    },
+    {
+      "date": "2022-11-28",
+      "person": "SULTANA SIDDIQUI",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 74500,
+      "price": 5.92,
+      "value": 441040
+    },
+    {
+      "date": "2022-11-28",
+      "person": "SULTANA SIDDIQUI",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 91000,
+      "price": 5.86,
+      "value": 533260
+    },
+    {
+      "date": "2022-11-28",
+      "person": "SULTANA SIDDIQUI",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 50000,
+      "price": 6.05,
+      "value": 302500
+    },
+    {
+      "date": "2022-11-28",
+      "person": "SULTANA SIDDIQUI",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 112000,
+      "price": 6.19,
+      "value": 693280
+    },
+    {
+      "date": "2022-11-28",
+      "person": "SULTANA SIDDIQUI",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 386000,
+      "price": 5.89,
+      "value": 2273540
+    },
+    {
+      "date": "2022-11-28",
+      "person": "SULTANA SIDDIQUI",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 2330000,
+      "price": 5.9,
+      "value": 13747000
+    },
+    {
+      "date": "2022-11-28",
+      "person": "SULTANA SIDDIQUI",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 54500,
+      "price": 6.08,
+      "value": 331360
+    },
+    {
+      "date": "2022-11-28",
+      "person": "SULTANA SIDDIQUI",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 5500,
+      "price": 5.78,
+      "value": 31790
+    },
+    {
+      "date": "2022-11-28",
+      "person": "SULTANA SIDDIQUI",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 28500,
+      "price": 6.06,
+      "value": 172710
+    },
+    {
+      "date": "2022-11-28",
+      "person": "SULTANA SIDDIQUI",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 527000,
+      "price": 6.12,
+      "value": 3225240
+    },
+    {
+      "date": "2022-11-28",
+      "person": "SULTANA SIDDIQUI",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 156000,
+      "price": 5.85,
+      "value": 912600
+    },
+    {
+      "date": "2022-11-28",
+      "person": "SULTANA SIDDIQUI",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 7500,
+      "price": 5.77,
+      "value": 43275
+    },
+    {
+      "date": "2022-11-28",
+      "person": "SULTANA SIDDIQUI",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 7000,
+      "price": 5.76,
+      "value": 40320
+    },
+    {
+      "date": "2022-11-28",
+      "person": "SULTANA SIDDIQUI",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 9000,
+      "price": 5.73,
+      "value": 51570
+    },
+    {
+      "date": "2022-11-28",
+      "person": "SULTANA SIDDIQUI",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 65500,
+      "price": 5.84,
+      "value": 382520
+    },
+    {
+      "date": "2022-11-28",
+      "person": "SULTANA SIDDIQUI",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 34500,
+      "price": 6.17,
+      "value": 212865
+    },
+    {
+      "date": "2022-11-28",
+      "person": "SULTANA SIDDIQUI",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 407500,
+      "price": 5.88,
+      "value": 2396100
+    },
+    {
+      "date": "2022-11-28",
+      "person": "SULTANA SIDDIQUI",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 142500,
+      "price": 6.09,
+      "value": 867825
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "source": "sarmaaya.pk (insider transactions, #insider-transactions table)",
+  "as_of": "2026-06-28",
+  "transactions": [
+    {
+      "date": "2025-11-20",
+      "person": "Mr.Aslam Sadruddin",
+      "role": "Senior Management",
+      "action": "Buy",
+      "shares": 4500,
+      "price": 94.12,
+      "value": 423540
+    }
+  ]
+}

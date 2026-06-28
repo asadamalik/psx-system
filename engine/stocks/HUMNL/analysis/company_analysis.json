@@ -1,0 +1,63 @@
+{
+  "symbol": "HUMNL",
+  "growth": {
+    "revenue_growth_5y": 0.23129999998738637,
+    "net_income_growth_5y": 0.055783910352077415,
+    "equity_growth_5y": 0.3030019803339803,
+    "debt_change_5y": -0.7739955132252387
+  },
+  "latest": {
+    "revenue": 11479.0,
+    "net_income": 1236.0,
+    "equity": 11562.0,
+    "total_assets": 14129.0,
+    "total_debt": 168.24,
+    "operating_cash_flow": 938.7,
+    "capex": 405.84
+  },
+  "metrics": {
+    "revenue_growth_5y": 0.23129999998738637,
+    "net_income_growth_5y": 0.055783910352077415,
+    "eps_growth": null,
+    "sales_growth": 0.23129999998738637,
+    "roe": 0.1069,
+    "roa": 0.0875,
+    "gross_margin": 0.2817,
+    "operating_margin": 0.07115602404390627,
+    "net_margin": 0.10767488457182682,
+    "debt_to_equity": 0.014551115723923197,
+    "current_ratio": 5.087031451960362,
+    "interest_coverage": 25.225447807288447,
+    "fcf_margin": 0.0464204198972036,
+    "pe_ratio": 112.26,
+    "price_to_book": 1.03,
+    "peg": null
+  },
+  "extended": {
+    "effective_tax_rate": 0.29,
+    "roic": 0.049438715661401636,
+    "quick_ratio": 4.479534683326152,
+    "ps_ratio": 1.4551292453923728,
+    "ev_ebitda": null,
+    "peg": null,
+    "revenue_cagr_3y": 0.20595601589431234,
+    "net_income_cagr_3y": -0.04430699828068452,
+    "eps_cagr_3y": -0.04462876379299652,
+    "revenue_qoq": -0.2625173852573018,
+    "revenue_yoy": -0.5324074074074074,
+    "eps_qoq": 5.333333333333334,
+    "eps_yoy": -0.6984126984126984,
+    "ocf_cagr_5y": 0.14941405930028617,
+    "fcf_cagr_5y": 0.05720266243366723,
+    "cash_conversion": 0.7594660194174757,
+    "ttm_revenue": 8627,
+    "ttm_net_income": 111.70000000000005,
+    "dividend_last_year": null,
+    "dividend_latest_annual": 0.5
+  },
+  "derived": {
+    "free_cash_flow": 532.8600000000001,
+    "market_cap": 12553.4,
+    "current_price": 11.07
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "as_of": "2026-06-24",
+  "bars": 96,
+  "close": 1.25,
+  "sma_20": 1.309,
+  "sma_50": 1.3666,
+  "sma_200": null,
+  "ema_20": 1.312210064077474,
+  "ema_50": 1.339719451017501,
+  "ema_100": null,
+  "ema_200": null,
+  "obv": 104490713.0,
+  "weekly_trend": "Down",
+  "monthly_trend": "n/a",
+  "support_resistance": {
+    "price": 1.25,
+    "nearest_resistance": 1.31,
+    "nearest_support": 1.15,
+    "resistance_levels": [
+      1.31,
+      1.45,
+      1.55
+    ],
+    "support_levels": [
+      1.15,
+      1.11
+    ]
+  },
+  "rsi_14": 37.152288916551974,
+  "macd": -0.0202802153640822,
+  "macd_signal": -0.014905518952580328,
+  "macd_hist": -0.005374696411501871,
+  "adx_14": 16.453420489110446,
+  "plus_di": 15.11523667952593,
+  "minus_di": 14.372924341571714,
+  "atr_14": 0.07357293736714346,
+  "bb_upper": 1.3603419906119685,
+  "bb_lower": 1.2576580093880314,
+  "week52_high": 1.75,
+  "week52_low": 1.11,
+  "rsi_divergence": {
+    "type": null
+  },
+  "patterns": [
+    {
+      "name": "Falling Wedge",
+      "type": "bullish",
+      "confidence": 0.5,
+      "status": "forming",
+      "neckline": 1.45,
+      "target": 1.55,
+      "note": "Lower highs and lows converging after a decline; bullish reversal bias."
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "symbol": "TSBL",
+  "growth": {
+    "revenue_growth_5y": -0.05594909655800917,
+    "net_income_growth_5y": -0.31687865952667416,
+    "equity_growth_5y": 0.05976308094273808,
+    "debt_change_5y": 0.2546355792179182
+  },
+  "latest": {
+    "revenue": 253.38,
+    "net_income": 19.17,
+    "equity": 382.34,
+    "total_assets": 883.62,
+    "total_debt": 68.34,
+    "operating_cash_flow": -200.43,
+    "capex": 2.13
+  },
+  "metrics": {
+    "revenue_growth_5y": -0.05594909655800917,
+    "net_income_growth_5y": -0.31687865952667416,
+    "eps_growth": null,
+    "sales_growth": -0.05594909655800917,
+    "roe": 0.0501,
+    "roa": 0.0217,
+    "gross_margin": null,
+    "operating_margin": -0.07186834004262373,
+    "net_margin": 0.07565711579445893,
+    "debt_to_equity": 0.1787414343254695,
+    "current_ratio": null,
+    "interest_coverage": null,
+    "fcf_margin": -0.7994316836372247,
+    "pe_ratio": 22.04,
+    "price_to_book": 1.56,
+    "peg": null
+  },
+  "extended": {
+    "effective_tax_rate": 0.29,
+    "roic": -0.028687982604064972,
+    "quick_ratio": null,
+    "ps_ratio": 4.041190205352332,
+    "ev_ebitda": null,
+    "peg": null,
+    "revenue_cagr_3y": 0.1092207754823371,
+    "net_income_cagr_3y": 0.8014652014652014,
+    "eps_cagr_3y": 0.7333333333333333,
+    "revenue_qoq": -0.38419903143101325,
+    "revenue_yoy": -0.024078254326561452,
+    "eps_qoq": -1.7058823529411766,
+    "eps_yoy": -2.3333333333333335,
+    "ocf_cagr_5y": -7.170925414364641,
+    "fcf_cagr_5y": -8.966006884681583,
+    "cash_conversion": -10.455399061032864,
+    "ttm_revenue": 334.06,
+    "ttm_net_income": 41.730000000000004,
+    "dividend_last_year": null,
+    "dividend_latest_annual": null
+  },
+  "derived": {
+    "free_cash_flow": -202.56,
+    "market_cap": 1350.0,
+    "current_price": 1.8
+  }
+}

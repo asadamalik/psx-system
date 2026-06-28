@@ -1,0 +1,60 @@
+{
+  "source": "sarmaaya.pk (insider transactions, #insider-transactions table)",
+  "as_of": "2026-06-28",
+  "transactions": [
+    {
+      "date": "2023-05-04",
+      "person": "Shahzad Saleem",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 20000000,
+      "price": 14.3,
+      "value": 286000000
+    },
+    {
+      "date": "2023-01-19",
+      "person": "Shahzad Saleem",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 484000,
+      "price": 14.99,
+      "value": 7255160
+    },
+    {
+      "date": "2023-01-18",
+      "person": "Shahzad Saleem",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 166000,
+      "price": 14.98,
+      "value": 2486680
+    },
+    {
+      "date": "2023-01-13",
+      "person": "Mr. Shahzad Saleem",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 447500,
+      "price": 14.52,
+      "value": 6497700
+    },
+    {
+      "date": "2023-01-11",
+      "person": "Mr. Shahzad Saleem",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 95500,
+      "price": 14.01,
+      "value": 1337955
+    },
+    {
+      "date": "2012-09-22",
+      "person": "Babar Ali Khan",
+      "role": "Non-Executive Director",
+      "action": "Sell",
+      "shares": 12500,
+      "price": 14.26,
+      "value": 178250
+    }
+  ]
+}

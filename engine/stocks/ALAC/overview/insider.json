@@ -1,0 +1,96 @@
+{
+  "source": "sarmaaya.pk (insider transactions, #insider-transactions table)",
+  "as_of": "2026-06-28",
+  "transactions": [
+    {
+      "date": "2026-05-11",
+      "person": "Jehanzeb Zafar",
+      "role": "Senior Management",
+      "action": "Buy",
+      "shares": 58973,
+      "price": 13.15,
+      "value": 775495
+    },
+    {
+      "date": "2026-05-11",
+      "person": "Jehanzeb Zafar",
+      "role": "Senior Management",
+      "action": "Buy",
+      "shares": 239076,
+      "price": 12.39,
+      "value": 2962152
+    },
+    {
+      "date": "2026-05-11",
+      "person": "Jehanzeb Zafar",
+      "role": "Senior Management",
+      "action": "Buy",
+      "shares": 40464,
+      "price": 11.9,
+      "value": 481522
+    },
+    {
+      "date": "2026-04-27",
+      "person": "Jehanzeb Zafar",
+      "role": "Senior Management",
+      "action": "Buy",
+      "shares": 55620,
+      "price": 13.83,
+      "value": 769225
+    },
+    {
+      "date": "2026-04-27",
+      "person": "Jehanzeb Zafar",
+      "role": "Senior Management",
+      "action": "Buy",
+      "shares": 106712,
+      "price": 13.34,
+      "value": 1423538
+    },
+    {
+      "date": "2026-04-27",
+      "person": "Jehanzeb Zafar",
+      "role": "Senior Management",
+      "action": "Buy",
+      "shares": 176730,
+      "price": 13.63,
+      "value": 2408830
+    },
+    {
+      "date": "2026-04-27",
+      "person": "Jehanzeb Zafar",
+      "role": "Senior Management",
+      "action": "Buy",
+      "shares": 37619,
+      "price": 14.18,
+      "value": 533437
+    },
+    {
+      "date": "2026-04-27",
+      "person": "Jehanzeb Zafar",
+      "role": "Senior Management",
+      "action": "Buy",
+      "shares": 105036,
+      "price": 13.98,
+      "value": 1468403
+    },
+    {
+      "date": "2025-10-01",
+      "person": "East West Holding Company Limited",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 4170000,
+      "price": 17.17,
+      "value": 71598900
+    },
+    {
+      "date": "2024-06-12",
+      "person": "TARIQ MAHMOOD SULEMAN",
+      "role": "Executive",
+      "action": "Buy",
+      "shares": 8169,
+      "price": 5.0,
+      "value": 40845
+    }
+  ]
+}

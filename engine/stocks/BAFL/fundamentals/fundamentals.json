@@ -1,0 +1,943 @@
+{
+  "symbol": "BAFL",
+  "income_statement_annual": {
+    "revenue": {
+      "2021": 60808,
+      "2022": 87335,
+      "2023": 146247,
+      "2024": 172244,
+      "2025": 179800
+    },
+    "net_income": {
+      "2021": 14437,
+      "2022": 18395,
+      "2023": 36511,
+      "2024": 39854,
+      "2025": 27802
+    },
+    "eps": {
+      "2021": 4.06,
+      "2022": 5.19,
+      "2023": 11.58,
+      "2024": 12.63,
+      "2025": 8.81
+    }
+  },
+  "balance_sheet_annual": {
+    "cash_and_equivalents": {
+      "2021": 62494,
+      "2022": 78450,
+      "2023": 90027,
+      "2024": 56083,
+      "2025": 64293
+    },
+    "total_assets": {
+      "2021": 1736773,
+      "2022": 2256720,
+      "2023": 3349668,
+      "2024": 3717056,
+      "2025": 3835085
+    },
+    "total_liabilities": {
+      "2021": 1634899,
+      "2022": 2154656,
+      "2023": 3210045,
+      "2024": 3535669,
+      "2025": 3634875
+    },
+    "total_debt": {
+      "2021": 405542,
+      "2022": 523619,
+      "2023": 949991,
+      "2024": 1186916,
+      "2025": 880581
+    },
+    "total_equity": {
+      "2021": 101874,
+      "2022": 102063,
+      "2023": 139623,
+      "2024": 181387,
+      "2025": 200211
+    }
+  },
+  "cashflow_annual": {
+    "cash_from_operations": {
+      "2021": 11488,
+      "2022": 122937,
+      "2023": 157917,
+      "2024": -126175,
+      "2025": -183017
+    },
+    "cash_from_investing": {
+      "2021": -242198,
+      "2022": -413359,
+      "2023": -681710,
+      "2024": 89731,
+      "2025": -133270
+    },
+    "cash_from_financing": {
+      "2021": 246908,
+      "2022": 341568,
+      "2023": 585754,
+      "2024": 21804,
+      "2025": 336765
+    },
+    "capex": {
+      "2021": 3872,
+      "2022": 8721,
+      "2023": 12791,
+      "2024": 19805,
+      "2025": 13628
+    }
+  },
+  "income_statement_quarterly": {
+    "revenue": {
+      "2026-03": 54528,
+      "2025-12": 44245,
+      "2025-09": 44526,
+      "2025-03": 43160,
+      "2024-12": 41205,
+      "2024-09": 47574,
+      "2024-06": 43738,
+      "2024-03": 39726,
+      "2023-12": 44820,
+      "2023-09": 33714,
+      "2023-06": 33620,
+      "2023-03": 34093,
+      "2022-12": 23385,
+      "2022-09": 24652,
+      "2022-06": 21062,
+      "2022-03": 18235,
+      "2021-12": 16088,
+      "2021-09": 15597,
+      "2021-06": 15106
+    },
+    "net_income": {
+      "2026-03": 10986,
+      "2025-12": 6403,
+      "2025-09": 6338,
+      "2025-03": 7076,
+      "2024-12": 4653,
+      "2024-09": 13282,
+      "2024-06": 11972,
+      "2024-03": 9946,
+      "2023-12": 9050,
+      "2023-09": 8848,
+      "2023-06": 7841,
+      "2023-03": 10772,
+      "2022-12": 4116,
+      "2022-09": 5519,
+      "2022-06": 3726,
+      "2022-03": 5033,
+      "2021-12": 3718,
+      "2021-09": 3716,
+      "2021-06": 3592
+    },
+    "eps": {
+      "2026-03": 3.48,
+      "2025-12": 2.03,
+      "2025-09": 2,
+      "2025-03": 2.24,
+      "2024-12": 1.48,
+      "2024-09": 4.21,
+      "2024-06": 3.8,
+      "2024-03": 3.15,
+      "2023-12": 2.87,
+      "2023-09": 2.81,
+      "2023-06": 2.49,
+      "2023-03": 3.42,
+      "2022-12": 1.17,
+      "2022-09": 1.55,
+      "2022-06": 1.05,
+      "2022-03": 1.41,
+      "2021-12": 1.05,
+      "2021-09": 1.04,
+      "2021-06": 1.01
+    }
+  },
+  "balance_sheet_quarterly": {
+    "cash_and_equivalents": {
+      "2026-03": 106117,
+      "2025-12": 64293,
+      "2025-09": 100418,
+      "2025-06": 115628,
+      "2025-03": 83232,
+      "2024-12": 56083,
+      "2024-09": 59297,
+      "2024-06": 99944,
+      "2024-03": 49953,
+      "2023-12": 90027,
+      "2023-09": 46282,
+      "2023-06": 54776,
+      "2023-03": 41463,
+      "2022-12": 78450,
+      "2022-09": 40266,
+      "2022-06": 42347,
+      "2022-03": 31620,
+      "2021-12": 62494,
+      "2021-09": 27907,
+      "2021-06": 32752
+    },
+    "total_assets": {
+      "2026-03": 3043046,
+      "2025-12": 3835085,
+      "2025-09": 3229097,
+      "2025-06": 3300158,
+      "2025-03": 3483696,
+      "2024-12": 3717056,
+      "2024-09": 3284318,
+      "2024-06": 3357855,
+      "2024-03": 2987674,
+      "2023-12": 3349668,
+      "2023-09": 2678862,
+      "2023-06": 2622849,
+      "2023-03": 2535436,
+      "2022-12": 2256720,
+      "2022-09": 2188767,
+      "2022-06": 2040832,
+      "2022-03": 1851158,
+      "2021-12": 1736773,
+      "2021-09": 1584842,
+      "2021-06": 1640722
+    },
+    "total_liabilities": {
+      "2026-03": 2852387,
+      "2025-12": 3634875,
+      "2025-09": 3033806,
+      "2025-06": 3110061,
+      "2025-03": 3301389,
+      "2024-12": 3535669,
+      "2024-09": 3113852,
+      "2024-06": 3206871,
+      "2024-03": 2845623,
+      "2023-12": 3210045,
+      "2023-09": 2556861,
+      "2023-06": 2506992,
+      "2023-03": 2429221,
+      "2022-12": 2154656,
+      "2022-09": 2083439,
+      "2022-06": 1934376,
+      "2022-03": 1748063,
+      "2021-12": 1634899,
+      "2021-09": 1490438,
+      "2021-06": 1546072
+    },
+    "total_debt": {
+      "2026-03": 182111,
+      "2025-12": 880581,
+      "2025-09": 668506,
+      "2025-06": 601391,
+      "2025-03": 1089263,
+      "2024-12": 1186916,
+      "2024-09": 768284,
+      "2024-06": 892642,
+      "2024-03": 623574,
+      "2023-12": 949991,
+      "2023-09": 548764,
+      "2023-06": 541702,
+      "2023-03": 707684,
+      "2022-12": 523619,
+      "2022-09": 566158,
+      "2022-06": 492477,
+      "2022-03": 465917,
+      "2021-12": 405542,
+      "2021-09": 359884,
+      "2021-06": 427067
+    },
+    "total_equity": {
+      "2026-03": 190659,
+      "2025-12": 200211,
+      "2025-09": 195291,
+      "2025-06": 190097,
+      "2025-03": 182307,
+      "2024-12": 181387,
+      "2024-09": 170466,
+      "2024-06": 150984,
+      "2024-03": 142052,
+      "2023-12": 139623,
+      "2023-09": 122001,
+      "2023-06": 115858,
+      "2023-03": 106215,
+      "2022-12": 102063,
+      "2022-09": 105328,
+      "2022-06": 106456,
+      "2022-03": 103095,
+      "2021-12": 101874,
+      "2021-09": 94404,
+      "2021-06": 94650
+    }
+  },
+  "cashflow_quarterly": {
+    "cash_from_operations": {
+      "2026-03": -659269,
+      "2025-12": 92974,
+      "2025-09": 13764,
+      "2025-03": 100436,
+      "2024-12": 63331,
+      "2024-09": -125040,
+      "2024-06": 148062,
+      "2024-03": -212527,
+      "2023-12": 42305,
+      "2023-09": 101291,
+      "2023-06": -4902,
+      "2023-03": 19224,
+      "2022-12": -27509,
+      "2022-09": 119739,
+      "2022-06": -48142,
+      "2022-03": 78849,
+      "2021-12": 23075,
+      "2021-09": -71086,
+      "2021-06": 101758
+    },
+    "cash_from_investing": {
+      "2026-03": 713923,
+      "2025-12": -419288,
+      "2025-09": 88964,
+      "2025-03": 31081,
+      "2024-12": -48815,
+      "2024-09": 32283,
+      "2024-06": -132950,
+      "2024-03": 239214,
+      "2023-12": -302896,
+      "2023-09": -111996,
+      "2023-06": -214255,
+      "2023-03": -52564,
+      "2022-12": -41999,
+      "2022-09": -190180,
+      "2022-06": -62490,
+      "2022-03": -118692,
+      "2021-12": -99509,
+      "2021-09": 35136,
+      "2021-06": -195293
+    },
+    "cash_from_financing": {
+      "2026-03": -25962,
+      "2025-12": 323352,
+      "2025-09": -127001,
+      "2025-03": -121508,
+      "2024-12": -4399,
+      "2024-09": 28402,
+      "2024-06": 48082,
+      "2024-03": -50282,
+      "2023-12": 262176,
+      "2023-09": 39143,
+      "2023-06": 220085,
+      "2023-03": 64350,
+      "2022-12": 101379,
+      "2022-09": 63626,
+      "2022-06": 138224,
+      "2022-03": 38339,
+      "2021-12": 99797,
+      "2021-09": 8186,
+      "2021-06": 111647
+    },
+    "capex": {
+      "2026-03": 1918,
+      "2025-12": 2976,
+      "2025-09": 2880,
+      "2025-03": 3969,
+      "2024-12": 3406,
+      "2024-09": 3501,
+      "2024-06": 4869,
+      "2024-03": 8029,
+      "2023-12": 3489,
+      "2023-09": 4780,
+      "2023-06": 2786,
+      "2023-03": 1736,
+      "2022-12": 2120,
+      "2022-09": 1583,
+      "2022-06": 1585,
+      "2022-03": 3434,
+      "2021-12": 1869,
+      "2021-09": 793.18,
+      "2021-06": 580.01
+    }
+  },
+  "ratios": {
+    "pe_ratio": 5.83,
+    "price_to_book": 0.97,
+    "roe": 0.1389,
+    "roa": 0.0072,
+    "gross_margin": null,
+    "industry_pe": null
+  },
+  "earnings": {
+    "source": "stockanalysis.com (statistics + quarterly)",
+    "as_of": "2026-06-28",
+    "latest_eps": 3.48,
+    "eps_ttm": 10.05,
+    "next_earnings_date": "Jul 31, 2026",
+    "history": [
+      {
+        "period_end": "Mar 2026",
+        "eps": 3.48,
+        "eps_forecast": null,
+        "eps_surprise_pct": null
+      },
+      {
+        "period_end": "Dec 2025",
+        "eps": 2.03,
+        "eps_forecast": null,
+        "eps_surprise_pct": null
+      },
+      {
+        "period_end": "Sep 2025",
+        "eps": 2,
+        "eps_forecast": null,
+        "eps_surprise_pct": null
+      },
+      {
+        "period_end": "Mar 2025",
+        "eps": 2.24,
+        "eps_forecast": null,
+        "eps_surprise_pct": null
+      },
+      {
+        "period_end": "Dec 2024",
+        "eps": 1.48,
+        "eps_forecast": null,
+        "eps_surprise_pct": null
+      },
+      {
+        "period_end": "Sep 2024",
+        "eps": 4.21,
+        "eps_forecast": null,
+        "eps_surprise_pct": null
+      },
+      {
+        "period_end": "Jun 2024",
+        "eps": 3.8,
+        "eps_forecast": null,
+        "eps_surprise_pct": null
+      },
+      {
+        "period_end": "Mar 2024",
+        "eps": 3.15,
+        "eps_forecast": null,
+        "eps_surprise_pct": null
+      }
+    ]
+  },
+  "dividends": {
+    "source": "stockanalysis.com (statistics + dividend page)",
+    "as_of": "2026-06-28",
+    "yield": 0.1021,
+    "per_share_ttm": 6,
+    "payout_ratio": 0.5471,
+    "history": [
+      {
+        "ex_date": "2026-05-05",
+        "amount": 1.5,
+        "type": null,
+        "yield": null
+      },
+      {
+        "ex_date": "2026-03-16",
+        "amount": 1.5,
+        "type": null,
+        "yield": null
+      },
+      {
+        "ex_date": "2025-11-03",
+        "amount": 1.25,
+        "type": null,
+        "yield": null
+      },
+      {
+        "ex_date": "2025-08-08",
+        "amount": 1.25,
+        "type": null,
+        "yield": null
+      },
+      {
+        "ex_date": "2025-04-28",
+        "amount": 1.25,
+        "type": null,
+        "yield": null
+      },
+      {
+        "ex_date": "2025-03-10",
+        "amount": 1.25,
+        "type": null,
+        "yield": null
+      },
+      {
+        "ex_date": "2024-10-29",
+        "amount": 1,
+        "type": null,
+        "yield": null
+      },
+      {
+        "ex_date": "2024-08-09",
+        "amount": 1,
+        "type": null,
+        "yield": null
+      },
+      {
+        "ex_date": "2024-05-03",
+        "amount": 1,
+        "type": null,
+        "yield": null
+      },
+      {
+        "ex_date": "2024-03-13",
+        "amount": 2.5,
+        "type": null,
+        "yield": null
+      }
+    ]
+  },
+  "overview": {
+    "company_name": "Bank Alfalah Limited",
+    "sector": "Commercial Banks",
+    "industry": "Commercial Banks",
+    "market_cap": 185443.1,
+    "shares_outstanding": 3154.33,
+    "current_price": 58.79,
+    "currency": "PKR"
+  },
+  "profile": {},
+  "ownership": {},
+  "announcements": {},
+  "insider": {
+    "source": "sarmaaya.pk (insider transactions, #insider-transactions table)",
+    "as_of": "2026-06-28",
+    "transactions": [
+      {
+        "date": "2026-05-07",
+        "person": "Mr. Shaykh Zeeshan Rauf",
+        "role": "Executive",
+        "action": "Buy",
+        "shares": 5000,
+        "price": 66.0,
+        "value": 330000
+      },
+      {
+        "date": "2026-01-28",
+        "person": "Mr. Fakhar Ahmad",
+        "role": "Executive",
+        "action": "Sell",
+        "shares": 160116,
+        "price": 127.5,
+        "value": 20414790
+      },
+      {
+        "date": "2026-01-22",
+        "person": "Mr. Fakhar Ahmad",
+        "role": "Executive",
+        "action": "Sell",
+        "shares": 18605,
+        "price": 124.8,
+        "value": 2321904
+      },
+      {
+        "date": "2025-09-02",
+        "person": "Mr. Muhammad Ashraf",
+        "role": "Executive",
+        "action": "Sell",
+        "shares": 202,
+        "price": 105.16,
+        "value": 21242
+      },
+      {
+        "date": "2025-08-21",
+        "person": "Mr. Abdulla Naseer Hawaileel Al Mansoori",
+        "role": "Non-Executive Director",
+        "action": "Sell",
+        "shares": 100,
+        "price": 103.21,
+        "value": 10321
+      },
+      {
+        "date": "2025-08-21",
+        "person": "H.H Sheikh Nahayan Mabarak Al Nahayan",
+        "role": "Non-Executive Director",
+        "action": "Buy",
+        "shares": 4726499,
+        "price": 103.04,
+        "value": 487018457
+      },
+      {
+        "date": "2025-08-21",
+        "person": "Mr. Abdulla Naseer Hawaileel Al Mansoori",
+        "role": "Non-Executive Director",
+        "action": "Sell",
+        "shares": 4726499,
+        "price": 103.04,
+        "value": 487018457
+      },
+      {
+        "date": "2025-08-21",
+        "person": "Mr. Abdulla Naseer Hawaileel Al Mansoori",
+        "role": "Non-Executive Director",
+        "action": "Sell",
+        "shares": 73401,
+        "price": 103.1,
+        "value": 7567643
+      },
+      {
+        "date": "2025-08-20",
+        "person": "Mr. Abdulla Naseer Hawaileel Al Mansoori",
+        "role": "Non-Executive Director",
+        "action": "Sell",
+        "shares": 100000,
+        "price": 99.4,
+        "value": 9940000
+      },
+      {
+        "date": "2025-08-20",
+        "person": "Mr. Abdulla Naseer Hawaileel Al Mansoori",
+        "role": "Non-Executive Director",
+        "action": "Sell",
+        "shares": 50000,
+        "price": 99.5,
+        "value": 4975000
+      },
+      {
+        "date": "2025-08-20",
+        "person": "Mr. Abdulla Naseer Hawaileel Al Mansoori",
+        "role": "Non-Executive Director",
+        "action": "Sell",
+        "shares": 50000,
+        "price": 99.45,
+        "value": 4972500
+      },
+      {
+        "date": "2025-07-17",
+        "person": "Mr. Abdulla Naseer Hawaileel Al Mansoori",
+        "role": "Non-Executive Director",
+        "action": "Sell",
+        "shares": 50000,
+        "price": 92.9,
+        "value": 4645000
+      },
+      {
+        "date": "2025-07-16",
+        "person": "Mr. Abdulla Naseer Hawaileel Al Mansoori",
+        "role": "Non-Executive Director",
+        "action": "Sell",
+        "shares": 97263,
+        "price": 95.09,
+        "value": 9248739
+      },
+      {
+        "date": "2025-07-15",
+        "person": "Mr. Abdullah Nasser Hawaileel",
+        "role": "Non-Executive Director",
+        "action": "Sell",
+        "shares": 316738,
+        "price": 93.58,
+        "value": 29640342
+      },
+      {
+        "date": "2025-07-14",
+        "person": "Mr. Abdullah Nasser Hawaileel",
+        "role": "Non-Executive Director",
+        "action": "Sell",
+        "shares": 114688,
+        "price": 93.82,
+        "value": 10760028
+      },
+      {
+        "date": "2025-07-11",
+        "person": "Mr. Abdullah Nasser Hawaileel",
+        "role": "Non-Executive Director",
+        "action": "Sell",
+        "shares": 350000,
+        "price": 89.0,
+        "value": 31150000
+      },
+      {
+        "date": "2025-07-09",
+        "person": "Ms. Mehreen Ahmed",
+        "role": "Executive",
+        "action": "Sell",
+        "shares": 38000,
+        "price": 89.2,
+        "value": 3389600
+      },
+      {
+        "date": "2025-07-09",
+        "person": "Mr. Abdullah Nasser Hawaileel",
+        "role": "Non-Executive Director",
+        "action": "Sell",
+        "shares": 800000,
+        "price": 88.72,
+        "value": 70976000
+      },
+      {
+        "date": "2025-07-08",
+        "person": "Mr. Abdullah Nasser Hawaileel",
+        "role": "Non-Executive Director",
+        "action": "Sell",
+        "shares": 482441,
+        "price": 90.24,
+        "value": 43535476
+      },
+      {
+        "date": "2025-07-07",
+        "person": "Mr. Abdullah Nasser Hawaileel",
+        "role": "Non-Executive Director",
+        "action": "Sell",
+        "shares": 1400000,
+        "price": 84.72,
+        "value": 118608000
+      },
+      {
+        "date": "2025-07-04",
+        "person": "Mr. Abdullah Nasser Hawaileel",
+        "role": "Non-Executive Director",
+        "action": "Sell",
+        "shares": 950000,
+        "price": 84.38,
+        "value": 80161000
+      },
+      {
+        "date": "2025-07-03",
+        "person": "Mr. Abdullah Nasser Hawaileel",
+        "role": "Non-Executive Director",
+        "action": "Sell",
+        "shares": 1100000,
+        "price": 84.02,
+        "value": 92422000
+      },
+      {
+        "date": "2025-07-02",
+        "person": "Mr. Abdullah Nasser Hawaileel",
+        "role": "Non-Executive Director",
+        "action": "Sell",
+        "shares": 800000,
+        "price": 81.55,
+        "value": 65240000
+      },
+      {
+        "date": "2025-07-01",
+        "person": "Mr. Abd",
+        "role": "Non-Executive Director",
+        "action": "Sell",
+        "shares": 270490,
+        "price": 80.4,
+        "value": 21747396
+      },
+      {
+        "date": "2025-06-30",
+        "person": "Mr.Abdullah Naseer",
+        "role": "Non-Executive Director",
+        "action": "Sell",
+        "shares": 198519,
+        "price": 80.0,
+        "value": 15881520
+      },
+      {
+        "date": "2025-06-13",
+        "person": "Mr. Abdullah Nasser Hawaileel",
+        "role": "Non-Executive Director",
+        "action": "Sell",
+        "shares": 350108,
+        "price": 81.0,
+        "value": 28358748
+      },
+      {
+        "date": "2025-06-12",
+        "person": "Mr. Abdullah Nasser Hawaileel",
+        "role": "Non-Executive Director",
+        "action": "Sell",
+        "shares": 399949,
+        "price": 80.4,
+        "value": 32155900
+      },
+      {
+        "date": "2025-01-03",
+        "person": "Mr Syed Muhammad Asif",
+        "role": "Executive",
+        "action": "Sell",
+        "shares": 15000,
+        "price": 87.0,
+        "value": 1305000
+      },
+      {
+        "date": "2024-12-26",
+        "person": "Mr. Syed Muhammad Asif",
+        "role": "Executive",
+        "action": "Sell",
+        "shares": 25000,
+        "price": 81.4,
+        "value": 2035000
+      },
+      {
+        "date": "2024-12-20",
+        "person": "Mr. Syed Muhammad Asif",
+        "role": "Executive",
+        "action": "Sell",
+        "shares": 10000,
+        "price": 80.09,
+        "value": 800900
+      },
+      {
+        "date": "2024-07-03",
+        "person": "Mr. Faisal Farooq Khan",
+        "role": "Executive",
+        "action": "Buy",
+        "shares": 11800,
+        "price": 69.5,
+        "value": 820100
+      },
+      {
+        "date": "2024-06-14",
+        "person": "Mr. Syed Muhammad Asif",
+        "role": "Executive",
+        "action": "Buy",
+        "shares": 33227,
+        "price": 65.0,
+        "value": 2159755
+      },
+      {
+        "date": "2024-05-27",
+        "person": "Ms. Mehreen Ahmed",
+        "role": "Executive",
+        "action": "Sell",
+        "shares": 50000,
+        "price": 63.75,
+        "value": 3187500
+      },
+      {
+        "date": "2024-05-24",
+        "person": "Ms. Mehreen Ahmed",
+        "role": "Executive",
+        "action": "Sell",
+        "shares": 27716,
+        "price": 63.05,
+        "value": 1747494
+      },
+      {
+        "date": "2023-12-11",
+        "person": "Ms. Mehreen Ahmed",
+        "role": "Executive",
+        "action": "Sell",
+        "shares": 35000,
+        "price": 53.0,
+        "value": 1855000
+      },
+      {
+        "date": "2023-08-28",
+        "person": "Ms. Mehreen Ahmed",
+        "role": "Executive",
+        "action": "Sell",
+        "shares": 150000,
+        "price": 42.05,
+        "value": 6307500
+      },
+      {
+        "date": "2023-08-25",
+        "person": "Mr. Haroon Khalid",
+        "role": "Senior Management",
+        "action": "Sell",
+        "shares": 50000,
+        "price": 41.0,
+        "value": 2050000
+      },
+      {
+        "date": "2022-12-29",
+        "person": "International Finance Corporation",
+        "role": "Substantial Shareholder",
+        "action": "Sell",
+        "shares": 13872577,
+        "price": 30.17,
+        "value": 418535648
+      },
+      {
+        "date": "2022-12-21",
+        "person": "International Finance Corporation",
+        "role": "Substantial Shareholder",
+        "action": "Sell",
+        "shares": 25750000,
+        "price": 30.72,
+        "value": 791040000
+      },
+      {
+        "date": "2022-12-21",
+        "person": "International Finance Corporation",
+        "role": "Substantial Shareholder",
+        "action": "Sell",
+        "shares": 15829398,
+        "price": 30.74,
+        "value": 486595695
+      },
+      {
+        "date": "2022-12-21",
+        "person": "International Finance Corporation",
+        "role": "Substantial Shareholder",
+        "action": "Sell",
+        "shares": 27332071,
+        "price": 30.66,
+        "value": 838001297
+      },
+      {
+        "date": "2022-12-21",
+        "person": "International Finance Corporation",
+        "role": "Substantial Shareholder",
+        "action": "Sell",
+        "shares": 3125080,
+        "price": 31.18,
+        "value": 97439994
+      },
+      {
+        "date": "2022-12-16",
+        "person": "International Finance Corporation",
+        "role": "Substantial Shareholder",
+        "action": "Buy",
+        "shares": 15829398,
+        "price": 30.74,
+        "value": 486595695
+      },
+      {
+        "date": "2022-08-22",
+        "person": "H.H. Sheikh Nahayan Mabarak Al Nahayan",
+        "role": "Non-Executive Director",
+        "action": "Gift In",
+        "shares": 35364941,
+        "price": 0.0,
+        "value": 0
+      },
+      {
+        "date": "2022-08-22",
+        "person": "H.H. Sheikh Nahayan Mabarak Al Nahayan",
+        "role": "Non-Executive Director",
+        "action": "Gift-In",
+        "shares": 35364941,
+        "price": 0.0,
+        "value": 0
+      },
+      {
+        "date": "2022-08-22",
+        "person": "H.H. Sheikh Nahayan Mabarak Al Nahayan",
+        "role": "Non-Executive Director",
+        "action": "Gift-In",
+        "shares": 113528781,
+        "price": 0.0,
+        "value": 0
+      },
+      {
+        "date": "2022-08-22",
+        "person": "H.H. Sheikh Nahayan Mabarak Al Nahayan",
+        "role": "Non-Executive Director",
+        "action": "Gift In",
+        "shares": 113528781,
+        "price": 0.0,
+        "value": 0
+      },
+      {
+        "date": "2010-05-22",
+        "person": "Ms. Mehreen Ahmed",
+        "role": "Executive",
+        "action": "Sell",
+        "shares": 77000,
+        "price": 35.25,
+        "value": 2714250
+      }
+    ]
+  },
+  "shareholding": {},
+  "fipi": {},
+  "monthly_sales": {}
+}

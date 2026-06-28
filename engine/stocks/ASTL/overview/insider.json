@@ -1,0 +1,15 @@
+{
+  "source": "sarmaaya.pk (insider transactions, #insider-transactions table)",
+  "as_of": "2026-06-28",
+  "transactions": [
+    {
+      "date": "2022-11-01",
+      "person": "Shayan Akberali",
+      "role": "Executive Director",
+      "action": "Gift In",
+      "shares": 1746283,
+      "price": 0.0,
+      "value": 0
+    }
+  ]
+}

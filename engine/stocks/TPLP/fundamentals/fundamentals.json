@@ -1,0 +1,1668 @@
+{
+  "symbol": "TPLP",
+  "income_statement_annual": {
+    "operating_income": {
+      "2021": -286.55,
+      "2022": 5130,
+      "2023": 3362,
+      "2024": -3673,
+      "2025": -1536
+    },
+    "net_income": {
+      "2021": 70.41,
+      "2022": 5327,
+      "2023": 2909,
+      "2024": -4021,
+      "2025": -1921
+    },
+    "eps": {
+      "2021": 0.13,
+      "2022": 9.62,
+      "2023": 4.81,
+      "2024": -7.17,
+      "2025": -3.42
+    },
+    "interest_expense": {
+      "2021": 423.72,
+      "2022": 333.44,
+      "2023": 170.6,
+      "2024": 595.55,
+      "2025": 489.89
+    }
+  },
+  "balance_sheet_annual": {
+    "cash_and_equivalents": {
+      "2021": 2953,
+      "2022": 1892,
+      "2023": 1852,
+      "2024": 1217,
+      "2025": 195.9
+    },
+    "total_assets": {
+      "2021": 9546,
+      "2022": 15168,
+      "2023": 19119,
+      "2024": 14808,
+      "2025": 12557
+    },
+    "total_liabilities": {
+      "2021": 3212,
+      "2022": 3481,
+      "2023": 5524,
+      "2024": 5354,
+      "2025": 4926
+    },
+    "total_debt": {
+      "2021": 2871,
+      "2022": 1102,
+      "2023": 3251,
+      "2024": 3158,
+      "2025": 2297
+    },
+    "total_equity": {
+      "2021": 6333,
+      "2022": 11687,
+      "2023": 13595,
+      "2024": 9454,
+      "2025": 7631
+    }
+  },
+  "cashflow_annual": {
+    "cash_from_operations": {
+      "2021": -864.86,
+      "2022": 3349,
+      "2023": -1163,
+      "2024": -1338,
+      "2025": -452.54
+    },
+    "cash_from_investing": {
+      "2021": 4442,
+      "2022": -2660,
+      "2023": -36.24,
+      "2024": 484.65,
+      "2025": 547.47
+    }
+  },
+  "income_statement_quarterly": {
+    "operating_income": {
+      "2026-03": -1809,
+      "2025-12": -4262,
+      "2025-09": 1596,
+      "2025-06": 68.75,
+      "2025-03": -1445,
+      "2024-12": 703.15,
+      "2024-09": -863.26,
+      "2024-06": -1920,
+      "2024-03": -125,
+      "2023-12": -1437,
+      "2023-09": -190.58,
+      "2023-06": -51.15,
+      "2023-03": -306.78,
+      "2022-12": 3933,
+      "2022-09": -212.08,
+      "2022-03": -1.76,
+      "2021-12": -114.91,
+      "2021-09": -26.74,
+      "2021-06": -454
+    },
+    "net_income": {
+      "2026-03": -1873,
+      "2025-12": -4330,
+      "2025-09": 1516,
+      "2025-06": 45.51,
+      "2025-03": -1468,
+      "2024-12": 542.3,
+      "2024-09": -1041,
+      "2024-06": -1824,
+      "2024-03": -289.99,
+      "2023-12": -1575,
+      "2023-09": -332.24,
+      "2023-06": -294.61,
+      "2023-03": -309.86,
+      "2022-12": 3726,
+      "2022-09": -212.89,
+      "2022-03": -18.94,
+      "2021-12": 3503,
+      "2021-09": -26.07,
+      "2021-06": 133.74
+    },
+    "eps": {
+      "2026-03": -3.35,
+      "2025-12": -7.72,
+      "2025-09": 2.7,
+      "2025-06": 0.08,
+      "2025-03": -2.62,
+      "2024-12": 0.97,
+      "2024-09": -1.85,
+      "2024-06": -3.24,
+      "2024-03": -0.52,
+      "2023-12": -2.81,
+      "2023-09": -0.59,
+      "2023-06": -0.72,
+      "2023-03": -0.55,
+      "2022-12": 6.64,
+      "2022-09": -0.38,
+      "2022-03": -0.03,
+      "2021-12": 6.63,
+      "2021-09": -0.05,
+      "2021-06": 0.24
+    },
+    "interest_expense": {
+      "2026-03": 57.84,
+      "2025-12": 39.12,
+      "2025-09": 74.1,
+      "2025-06": 96.86,
+      "2025-03": 84.26,
+      "2024-12": 138.85,
+      "2024-09": 170.02,
+      "2024-06": 159.26,
+      "2024-03": 160.26,
+      "2023-12": 132.07,
+      "2023-09": 143.97,
+      "2023-06": 74.97,
+      "2023-03": 37.56,
+      "2022-12": 34.69,
+      "2022-09": 31.13,
+      "2022-03": 128.63,
+      "2021-12": 38.99,
+      "2021-09": 34.85,
+      "2021-06": 122.25
+    }
+  },
+  "balance_sheet_quarterly": {
+    "cash_and_equivalents": {
+      "2026-03": 104.13,
+      "2025-12": 151.83,
+      "2025-09": 135.86,
+      "2025-06": 195.9,
+      "2025-03": 229.61,
+      "2024-12": 254.97,
+      "2024-09": 984.77,
+      "2024-06": 1217,
+      "2024-03": 499.81,
+      "2023-12": 990.85,
+      "2023-09": 835.28,
+      "2023-06": 1852,
+      "2023-03": 1001,
+      "2022-12": 1067,
+      "2022-09": 814.8,
+      "2022-06": 1892,
+      "2022-03": 2862,
+      "2021-12": 2939,
+      "2021-09": 3573,
+      "2021-06": 2953
+    },
+    "total_assets": {
+      "2026-03": 7924,
+      "2025-12": 9700,
+      "2025-09": 14145,
+      "2025-06": 12557,
+      "2025-03": 12226,
+      "2024-12": 13801,
+      "2024-09": 13927,
+      "2024-06": 14808,
+      "2024-03": 16067,
+      "2023-12": 16627,
+      "2023-09": 17983,
+      "2023-06": 19119,
+      "2023-03": 17029,
+      "2022-12": 17086,
+      "2022-09": 14625,
+      "2022-06": 15168,
+      "2022-03": 15593,
+      "2021-12": 15467,
+      "2021-09": 9689,
+      "2021-06": 9546
+    },
+    "total_liabilities": {
+      "2026-03": 4987,
+      "2025-12": 4886,
+      "2025-09": 5003,
+      "2025-06": 4926,
+      "2025-03": 4626,
+      "2024-12": 4846,
+      "2024-09": 5514,
+      "2024-06": 5354,
+      "2024-03": 4788,
+      "2023-12": 5056,
+      "2023-09": 4836,
+      "2023-06": 5524,
+      "2023-03": 2001,
+      "2022-12": 1832,
+      "2022-09": 3132,
+      "2022-06": 3481,
+      "2022-03": 5803,
+      "2021-12": 5590,
+      "2021-09": 3382,
+      "2021-06": 3212
+    },
+    "total_debt": {
+      "2026-03": 2196,
+      "2025-12": 2297,
+      "2025-09": 2463,
+      "2025-06": 2297,
+      "2025-03": 2429,
+      "2024-12": 2902,
+      "2024-09": 3281,
+      "2024-06": 3158,
+      "2024-03": 2758,
+      "2023-12": 2772,
+      "2023-09": 2747,
+      "2023-06": 3251,
+      "2023-03": 934.44,
+      "2022-12": 859.22,
+      "2022-09": 809.88,
+      "2022-06": 1102,
+      "2022-03": 5227,
+      "2021-12": 5234,
+      "2021-09": 2952,
+      "2021-06": 2871
+    },
+    "total_equity": {
+      "2026-03": 2937,
+      "2025-12": 4814,
+      "2025-09": 9142,
+      "2025-06": 7631,
+      "2025-03": 7600,
+      "2024-12": 8955,
+      "2024-09": 8413,
+      "2024-06": 9454,
+      "2024-03": 11279,
+      "2023-12": 11571,
+      "2023-09": 13147,
+      "2023-06": 13595,
+      "2023-03": 15028,
+      "2022-12": 15254,
+      "2022-09": 11493,
+      "2022-06": 11687,
+      "2022-03": 9790,
+      "2021-12": 9877,
+      "2021-09": 6307,
+      "2021-06": 6333
+    }
+  },
+  "cashflow_quarterly": {
+    "cash_from_operations": {
+      "2026-03": -104.02,
+      "2025-12": -303.64,
+      "2025-09": -89.51,
+      "2025-06": 363.8,
+      "2025-03": -144.17,
+      "2024-12": -350.62,
+      "2024-09": -321.55,
+      "2024-06": -610.17,
+      "2024-03": -501.49,
+      "2023-12": 112.37,
+      "2023-09": -339.01,
+      "2023-06": -4232,
+      "2023-03": -273.64,
+      "2022-12": 4109,
+      "2022-09": -766.2,
+      "2022-03": 53.74,
+      "2021-12": 629.44,
+      "2021-09": 100.31,
+      "2021-06": 71.21
+    },
+    "cash_from_investing": {
+      "2026-03": 156.72,
+      "2025-12": 479.96,
+      "2025-09": 262.84,
+      "2025-06": 95.5,
+      "2025-03": 319.1,
+      "2024-12": 135.73,
+      "2024-09": -2.85,
+      "2024-06": 467.95,
+      "2024-03": 22.82,
+      "2023-12": -3.15,
+      "2023-09": -2.97,
+      "2023-06": 5207,
+      "2023-03": 530.52,
+      "2022-12": -5793,
+      "2022-09": 18.94,
+      "2022-03": -124.37,
+      "2021-12": -3545,
+      "2021-09": 440.31,
+      "2021-06": 5153
+    }
+  },
+  "ratios": {
+    "pe_ratio": null,
+    "price_to_book": 2.02,
+    "roe": -0.2517,
+    "roa": -0.153,
+    "gross_margin": null,
+    "industry_pe": null
+  },
+  "earnings": {
+    "source": "stockanalysis.com (statistics + quarterly)",
+    "as_of": "2026-06-28",
+    "latest_eps": -3.35,
+    "eps_ttm": null,
+    "next_earnings_date": "Nov 13, 2026",
+    "history": [
+      {
+        "period_end": "Mar 2026",
+        "eps": -3.35,
+        "eps_forecast": null,
+        "eps_surprise_pct": null
+      },
+      {
+        "period_end": "Dec 2025",
+        "eps": -7.72,
+        "eps_forecast": null,
+        "eps_surprise_pct": null
+      },
+      {
+        "period_end": "Sep 2025",
+        "eps": 2.7,
+        "eps_forecast": null,
+        "eps_surprise_pct": null
+      },
+      {
+        "period_end": "Jun 2025",
+        "eps": 0.08,
+        "eps_forecast": null,
+        "eps_surprise_pct": null
+      },
+      {
+        "period_end": "Mar 2025",
+        "eps": -2.62,
+        "eps_forecast": null,
+        "eps_surprise_pct": null
+      },
+      {
+        "period_end": "Dec 2024",
+        "eps": 0.97,
+        "eps_forecast": null,
+        "eps_surprise_pct": null
+      },
+      {
+        "period_end": "Sep 2024",
+        "eps": -1.85,
+        "eps_forecast": null,
+        "eps_surprise_pct": null
+      },
+      {
+        "period_end": "Jun 2024",
+        "eps": -3.24,
+        "eps_forecast": null,
+        "eps_surprise_pct": null
+      }
+    ]
+  },
+  "dividends": {
+    "source": "stockanalysis.com (statistics + dividend page)",
+    "as_of": "2026-06-28",
+    "yield": null,
+    "per_share_ttm": null,
+    "payout_ratio": null,
+    "history": [
+      {
+        "ex_date": "2023-06-19",
+        "amount": 2,
+        "type": null,
+        "yield": null
+      },
+      {
+        "ex_date": "2021-06-17",
+        "amount": 0.58275,
+        "type": null,
+        "yield": null
+      }
+    ]
+  },
+  "overview": {
+    "company_name": "TPL Properties Limited",
+    "sector": "Property",
+    "industry": "Property",
+    "market_cap": 5930.7,
+    "shares_outstanding": 561.09,
+    "current_price": 10.57,
+    "currency": "PKR"
+  },
+  "profile": {},
+  "ownership": {},
+  "announcements": {},
+  "insider": {
+    "source": "sarmaaya.pk (insider transactions, #insider-transactions table)",
+    "as_of": "2026-06-28",
+    "transactions": [
+      {
+        "date": "2026-06-24",
+        "person": "TPL Corp Limited",
+        "role": "Substantial Shareholder",
+        "action": "Sell",
+        "shares": 950000,
+        "price": 11.2,
+        "value": 10640000
+      },
+      {
+        "date": "2026-06-24",
+        "person": "TPL Corp Limited",
+        "role": "Substantial Shareholder",
+        "action": "Buy",
+        "shares": 950000,
+        "price": 11.2,
+        "value": 10640000
+      },
+      {
+        "date": "2026-06-09",
+        "person": "Mohammad Ali Jameel",
+        "role": "Executive Director",
+        "action": "Sell",
+        "shares": 2500000,
+        "price": 8.29,
+        "value": 20725000
+      },
+      {
+        "date": "2026-06-09",
+        "person": "TPL Corp Limited",
+        "role": "Substantial Shareholder",
+        "action": "Buy",
+        "shares": 1500000,
+        "price": 8.39,
+        "value": 12585000
+      },
+      {
+        "date": "2026-06-09",
+        "person": "TPL Corp Limited",
+        "role": "Substantial Shareholder",
+        "action": "Sell",
+        "shares": 1500000,
+        "price": 8.29,
+        "value": 12435000
+      },
+      {
+        "date": "2026-06-09",
+        "person": "Mohammad Ali Jameel",
+        "role": "Executive Director",
+        "action": "Sell",
+        "shares": 2500000,
+        "price": 8.38,
+        "value": 20950000
+      },
+      {
+        "date": "2026-06-09",
+        "person": "TPL Holdings Pvt. Ltd",
+        "role": "Substantial Shareholder",
+        "action": "Sell",
+        "shares": 5800000,
+        "price": 11.74,
+        "value": 68092000
+      },
+      {
+        "date": "2026-05-19",
+        "person": "TPL Corp Limited",
+        "role": "Substantial Shareholder",
+        "action": "Sell",
+        "shares": 1500000,
+        "price": 6.96,
+        "value": 10440000
+      },
+      {
+        "date": "2026-05-19",
+        "person": "Mohammad Ali Jameel",
+        "role": "Substantial Shareholder",
+        "action": "Buy",
+        "shares": 4996500,
+        "price": 6.95,
+        "value": 34725675
+      },
+      {
+        "date": "2026-05-19",
+        "person": "Mohammad Ali Jameel",
+        "role": "Executive Director",
+        "action": "Sell",
+        "shares": 4996500,
+        "price": 6.8,
+        "value": 33976200
+      },
+      {
+        "date": "2026-05-19",
+        "person": "TPL Corp Limited",
+        "role": "Substantial Shareholder",
+        "action": "Buy",
+        "shares": 1500000,
+        "price": 7.03,
+        "value": 10545000
+      },
+      {
+        "date": "2026-04-24",
+        "person": "Muhammad Ali Jameel",
+        "role": "Executive Director",
+        "action": "Sell",
+        "shares": 2640224,
+        "price": 8.37,
+        "value": 22098675
+      },
+      {
+        "date": "2026-04-22",
+        "person": "TPL Corp Limited",
+        "role": "Substantial Shareholder",
+        "action": "Buy",
+        "shares": 1000000,
+        "price": 7.27,
+        "value": 7270000
+      },
+      {
+        "date": "2026-04-22",
+        "person": "TPL Corp Limited",
+        "role": "Substantial Shareholder",
+        "action": "Sell",
+        "shares": 1000000,
+        "price": 7.21,
+        "value": 7210000
+      },
+      {
+        "date": "2026-04-08",
+        "person": "Muhammad Ali Jameel",
+        "role": "Executive Director",
+        "action": "Sell",
+        "shares": 559776,
+        "price": 6.42,
+        "value": 3593762
+      },
+      {
+        "date": "2026-03-19",
+        "person": "Mohammad Ali Jameel",
+        "role": "Executive Director",
+        "action": "Sell",
+        "shares": 900000,
+        "price": 6.98,
+        "value": 6282000
+      },
+      {
+        "date": "2026-03-18",
+        "person": "Mohammad Ali Jameel",
+        "role": "Executive Director",
+        "action": "Sell",
+        "shares": 900000,
+        "price": 6.98,
+        "value": 6282000
+      },
+      {
+        "date": "2026-03-06",
+        "person": "TPL Corp Limited",
+        "role": "Substantial Shareholder",
+        "action": "Sell",
+        "shares": 7110000,
+        "price": 7.42,
+        "value": 52756200
+      },
+      {
+        "date": "2026-01-30",
+        "person": "Mohammad Ali Jameel",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 8200000,
+        "price": 12.21,
+        "value": 100122000
+      },
+      {
+        "date": "2026-01-30",
+        "person": "TPL Corp Limited",
+        "role": "Substantial Shareholder",
+        "action": "Buy",
+        "shares": 1500000,
+        "price": 12.19,
+        "value": 18285000
+      },
+      {
+        "date": "2026-01-30",
+        "person": "TPL Corp Limited",
+        "role": "Substantial Shareholder",
+        "action": "Sell",
+        "shares": 1500000,
+        "price": 12.05,
+        "value": 18075000
+      },
+      {
+        "date": "2026-01-30",
+        "person": "Mohammad Ali Jameel",
+        "role": "Executive Director",
+        "action": "Sell",
+        "shares": 9400000,
+        "price": 12.11,
+        "value": 113834000
+      },
+      {
+        "date": "2026-01-12",
+        "person": "TPL Corp Limited",
+        "role": "Substantial Shareholder",
+        "action": "Buy",
+        "shares": 1500000,
+        "price": 12.28,
+        "value": 18420000
+      },
+      {
+        "date": "2026-01-07",
+        "person": "Mohammad Ali Jameel",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 3000000,
+        "price": 12.04,
+        "value": 36120000
+      },
+      {
+        "date": "2026-01-06",
+        "person": "TPL Corp Limited",
+        "role": "Substantial Shareholder",
+        "action": "Sell",
+        "shares": 4000000,
+        "price": 12.15,
+        "value": 48600000
+      },
+      {
+        "date": "2026-01-01",
+        "person": "TPL Corp Limited",
+        "role": "Substantial Shareholder",
+        "action": "Sell",
+        "shares": 7110000,
+        "price": 11.85,
+        "value": 84253500
+      },
+      {
+        "date": "2025-12-26",
+        "person": "TPL Corp Limited",
+        "role": "Substantial Shareholder",
+        "action": "Sell",
+        "shares": 1500000,
+        "price": 12.39,
+        "value": 18585000
+      },
+      {
+        "date": "2025-12-03",
+        "person": "TPL Corp Limited",
+        "role": "Substantial Shareholder",
+        "action": "Buy",
+        "shares": 12170000,
+        "price": 10.89,
+        "value": 132531300
+      },
+      {
+        "date": "2025-12-03",
+        "person": "TPL Corp Limited",
+        "role": "Substantial Shareholder",
+        "action": "Sell",
+        "shares": 9610000,
+        "price": 10.79,
+        "value": 103691900
+      },
+      {
+        "date": "2025-11-05",
+        "person": "TPL Corp Limited",
+        "role": "Substantial Shareholder",
+        "action": "Sell",
+        "shares": 1500000,
+        "price": 9.97,
+        "value": 14955000
+      },
+      {
+        "date": "2025-11-04",
+        "person": "Mohammad Ali Jameel",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 9500000,
+        "price": 10.2,
+        "value": 96900000
+      },
+      {
+        "date": "2025-10-23",
+        "person": "TPL Corp Limited",
+        "role": "Substantial Shareholder",
+        "action": "Sell",
+        "shares": 7446998,
+        "price": 11.6,
+        "value": 86385177
+      },
+      {
+        "date": "2025-10-22",
+        "person": "TPL Corp Limited",
+        "role": "Substantial Shareholder",
+        "action": "Sell",
+        "shares": 1650200,
+        "price": 11.88,
+        "value": 19604376
+      },
+      {
+        "date": "2025-10-21",
+        "person": "TPL Corp Limited",
+        "role": "Substantial Shareholder",
+        "action": "Sell",
+        "shares": 2862206,
+        "price": 11.88,
+        "value": 34003007
+      },
+      {
+        "date": "2025-10-21",
+        "person": "Mohammad Ali Jameel",
+        "role": "Executive Director",
+        "action": "Sell",
+        "shares": 430000,
+        "price": 11.99,
+        "value": 5155700
+      },
+      {
+        "date": "2025-10-20",
+        "person": "Mohammad Ali Jameel",
+        "role": "Executive Director",
+        "action": "Sell",
+        "shares": 1014485,
+        "price": 12.03,
+        "value": 12204255
+      },
+      {
+        "date": "2025-10-20",
+        "person": "TPL Corp Limited",
+        "role": "Substantial Shareholder",
+        "action": "Sell",
+        "shares": 918960,
+        "price": 11.92,
+        "value": 10954003
+      },
+      {
+        "date": "2025-10-17",
+        "person": "Mohammad Ali Jameel",
+        "role": "Executive Director",
+        "action": "Sell",
+        "shares": 950000,
+        "price": 11.95,
+        "value": 11352500
+      },
+      {
+        "date": "2025-10-17",
+        "person": "TPL Corp Limited",
+        "role": "Substantial Shareholder",
+        "action": "Sell",
+        "shares": 945000,
+        "price": 11.94,
+        "value": 11283300
+      },
+      {
+        "date": "2025-10-14",
+        "person": "TPL Corp Limited",
+        "role": "Substantial Shareholder",
+        "action": "Sell",
+        "shares": 500000,
+        "price": 10.89,
+        "value": 5445000
+      },
+      {
+        "date": "2025-10-13",
+        "person": "TPL Corp Limited",
+        "role": "Substantial Shareholder",
+        "action": "Sell",
+        "shares": 577840,
+        "price": 11.12,
+        "value": 6425581
+      },
+      {
+        "date": "2025-10-10",
+        "person": "Mohammad Ali Jameel",
+        "role": "Executive Director",
+        "action": "Sell",
+        "shares": 1700000,
+        "price": 11.53,
+        "value": 19601000
+      },
+      {
+        "date": "2025-10-09",
+        "person": "Mohammad Ali Jameel",
+        "role": "Executive Director",
+        "action": "Sell",
+        "shares": 1834363,
+        "price": 11.88,
+        "value": 21792232
+      },
+      {
+        "date": "2025-10-06",
+        "person": "TPL Corp Limited",
+        "role": "Substantial Shareholder",
+        "action": "Sell",
+        "shares": 5610000,
+        "price": 11.65,
+        "value": 65356500
+      },
+      {
+        "date": "2025-10-06",
+        "person": "Mohammad Ali Jameel",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 4500000,
+        "price": 11.94,
+        "value": 53730000
+      },
+      {
+        "date": "2025-10-03",
+        "person": "TPL Corp Limited",
+        "role": "Substantial Shareholder",
+        "action": "Buy",
+        "shares": 8610000,
+        "price": 12.0,
+        "value": 103320000
+      },
+      {
+        "date": "2025-10-03",
+        "person": "Mohammad Ali Jameel",
+        "role": "Executive Director",
+        "action": "Sell",
+        "shares": 4500000,
+        "price": 11.64,
+        "value": 52380000
+      },
+      {
+        "date": "2025-10-03",
+        "person": "TPL Corp Limited",
+        "role": "Substantial Shareholder",
+        "action": "Sell",
+        "shares": 1500000,
+        "price": 11.72,
+        "value": 17580000
+      },
+      {
+        "date": "2025-10-02",
+        "person": "Muhammad Ali Jameel",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 2500000,
+        "price": 12.13,
+        "value": 30325000
+      },
+      {
+        "date": "2025-10-02",
+        "person": "Muhammad Ali Jameel",
+        "role": "Executive Director",
+        "action": "Sell",
+        "shares": 2500000,
+        "price": 11.9,
+        "value": 29750000
+      },
+      {
+        "date": "2025-07-31",
+        "person": "TPL Corp Limited",
+        "role": "Substantial Shareholder",
+        "action": "Sell",
+        "shares": 50000,
+        "price": 9.78,
+        "value": 489000
+      },
+      {
+        "date": "2025-07-31",
+        "person": "TPL Corp Limited",
+        "role": "Substantial Shareholder",
+        "action": "Buy",
+        "shares": 2560000,
+        "price": 10.01,
+        "value": 25625600
+      },
+      {
+        "date": "2025-07-31",
+        "person": "TPL Corp Limited",
+        "role": "Substantial Shareholder",
+        "action": "Sell",
+        "shares": 2560000,
+        "price": 9.79,
+        "value": 25062400
+      },
+      {
+        "date": "2025-07-31",
+        "person": "TPL Corp Limited",
+        "role": "Substantial Shareholder",
+        "action": "Buy",
+        "shares": 1000000,
+        "price": 10.02,
+        "value": 10020000
+      },
+      {
+        "date": "2025-07-31",
+        "person": "TPL Corp Limited",
+        "role": "Substantial Shareholder",
+        "action": "Buy",
+        "shares": 2050000,
+        "price": 10.01,
+        "value": 20520500
+      },
+      {
+        "date": "2025-07-31",
+        "person": "TPL Corp Limited",
+        "role": "Substantial Shareholder",
+        "action": "Sell",
+        "shares": 994500,
+        "price": 9.8,
+        "value": 9746100
+      },
+      {
+        "date": "2025-07-31",
+        "person": "TPL Corp Limited",
+        "role": "Substantial Shareholder",
+        "action": "Sell",
+        "shares": 2004000,
+        "price": 9.79,
+        "value": 19619160
+      },
+      {
+        "date": "2025-07-31",
+        "person": "TPL Corp Limited",
+        "role": "Substantial Shareholder",
+        "action": "Sell",
+        "shares": 1500,
+        "price": 9.75,
+        "value": 14625
+      },
+      {
+        "date": "2025-07-17",
+        "person": "Mohammad Ali Jameel",
+        "role": "Executive Director",
+        "action": "Sell",
+        "shares": 1500000,
+        "price": 11.05,
+        "value": 16575000
+      },
+      {
+        "date": "2025-07-17",
+        "person": "Mohammad Ali Jameel",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 1000000,
+        "price": 11.5,
+        "value": 11500000
+      },
+      {
+        "date": "2025-07-17",
+        "person": "Mohammad Ali Jameel",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 500000,
+        "price": 11.3,
+        "value": 5650000
+      },
+      {
+        "date": "2025-07-17",
+        "person": "Mohammad Ali Jameel",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 500000,
+        "price": 11.25,
+        "value": 5625000
+      },
+      {
+        "date": "2025-07-17",
+        "person": "Mohammad Ali Jameel",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 2500000,
+        "price": 10.8,
+        "value": 27000000
+      },
+      {
+        "date": "2025-07-17",
+        "person": "Mohammad Ali Jameel",
+        "role": "Executive Director",
+        "action": "Sell",
+        "shares": 3000000,
+        "price": 10.54,
+        "value": 31620000
+      },
+      {
+        "date": "2025-04-10",
+        "person": "TPL Corp Limited",
+        "role": "Substantial Shareholder",
+        "action": "Sell",
+        "shares": 5000000,
+        "price": 10.59,
+        "value": 52950000
+      },
+      {
+        "date": "2025-04-03",
+        "person": "TPL Corp Limited",
+        "role": "Substantial Shareholder",
+        "action": "Buy",
+        "shares": 5610000,
+        "price": 11.03,
+        "value": 61878300
+      },
+      {
+        "date": "2025-03-27",
+        "person": "TPL Corp Limited",
+        "role": "Substantial Shareholder",
+        "action": "Sell",
+        "shares": 20000000,
+        "price": 10.59,
+        "value": 211800000
+      },
+      {
+        "date": "2025-03-27",
+        "person": "Muhammad Ali Jameel",
+        "role": "Executive Director",
+        "action": "Buy",
+        "shares": 10000000,
+        "price": 11.15,
+        "value": 111500000
+      },
+      {
+        "date": "2024-07-31",
+        "person": "TPL Crop Limited",
+        "role": "Substantial Shareholder",
+        "action": "Buy",
+        "shares": 5610000,
+        "price": 8.37,
+        "value": 46955700
+      },
+      {
+        "date": "2024-07-31",
+        "person": "TPL Crop Limited",
+        "role": "Substantial Shareholder",
+        "action": "Sell",
+        "shares": 5610000,
+        "price": 8.08,
+        "value": 45328800
+      },
+      {
+        "date": "2024-01-31",
+        "person": "TPL Crop Limited",
+        "role": "Substantial Shareholder",
+        "action": "Buy",
+        "shares": 5625000,
+        "price": 12.58,
+        "value": 70762500
+      },
+      {
+        "date": "2024-01-31",
+        "person": "TPL Crop Limited",
+        "role": "Substantial Shareholder",
+        "action": "Sell",
+        "shares": 5625000,
+        "price": 12.33,
+        "value": 69356250
+      },
+      {
+        "date": "2023-10-03",
+        "person": "TPL Crop Limited",
+        "role": "Substantial Shareholder",
+        "action": "Buy",
+        "shares": 5625000,
+        "price": 12.7,
+        "value": 71437500
+      },
+      {
+        "date": "2023-10-03",
+        "person": "TPL Crop Limited",
+        "role": "Substantial Shareholder",
+        "action": "Sell",
+        "shares": 5625000,
+        "price": 12.3,
+        "value": 69187500
+      },
+      {
+        "date": "2023-08-01",
+        "person": "TPL Corp Limited",
+        "role": "Substantial Shareholder",
+        "action": "Buy",
+        "shares": 8200000,
+        "price": 14.06,
+        "value": 115292000
+      },
+      {
+        "date": "2023-08-01",
+        "person": "TPL Crop Limited",
+        "role": "Substantial Shareholder",
+        "action": "Sell",
+        "shares": 8675000,
+        "price": 13.49,
+        "value": 117025750
+      },
+      {
+        "date": "2023-06-20",
+        "person": "TPL Crop Limited",
+        "role": "Substantial Shareholder",
+        "action": "Buy",
+        "shares": 3050000,
+        "price": 12.06,
+        "value": 36783000
+      },
+      {
+        "date": "2023-06-20",
+        "person": "TPL Crop Limited",
+        "role": "Substantial Shareholder",
+        "action": "Sell",
+        "shares": 1000000,
+        "price": 13.73,
+        "value": 13730000
+      },
+      {
+        "date": "2023-06-20",
+        "person": "TPL Crop Limited",
+        "role": "Substantial Shareholder",
+        "action": "Buy",
+        "shares": 1000000,
+        "price": 13.73,
+        "value": 13730000
+      },
+      {
+        "date": "2023-06-20",
+        "person": "TPL Crop Limited",
+        "role": "Substantial Shareholder",
+        "action": "Buy",
+        "shares": 2575000,
+        "price": 12.14,
+        "value": 31260500
+      },
+      {
+        "date": "2023-06-20",
+        "person": "TPL Crop Limited",
+        "role": "Substantial Shareholder",
+        "action": "Sell",
+        "shares": 2575000,
+        "price": 13.61,
+        "value": 35045750
+      },
+      {
+        "date": "2023-06-20",
+        "person": "TPL Crop Limited",
+        "role": "Substantial Shareholder",
+        "action": "Sell",
+        "shares": 3050000,
+        "price": 13.5,
+        "value": 41175000
+      },
+      {
+        "date": "2023-05-25",
+        "person": "TPL Crop Limited",
+        "role": "Substantial Shareholder",
+        "action": "Sell",
+        "shares": 1500000,
+        "price": 12.62,
+        "value": 18930000
+      },
+      {
+        "date": "2023-05-25",
+        "person": "TPL Crop Limited",
+        "role": "Substantial Shareholder",
+        "action": "Sell",
+        "shares": 3050000,
+        "price": 13.13,
+        "value": 40046500
+      },
+      {
+        "date": "2023-05-25",
+        "person": "TPL Crop Limited",
+        "role": "Substantial Shareholder",
+        "action": "Sell",
+        "shares": 1025000,
+        "price": 13.12,
+        "value": 13448000
+      },
+      {
+        "date": "2023-05-25",
+        "person": "TPL Crop Limited",
+        "role": "Substantial Shareholder",
+        "action": "Sell",
+        "shares": 3050000,
+        "price": 12.62,
+        "value": 38491000
+      },
+      {
+        "date": "2023-05-25",
+        "person": "TPL Crop Limited",
+        "role": "Substantial Shareholder",
+        "action": "Sell",
+        "shares": 1075000,
+        "price": 12.61,
+        "value": 13555750
+      },
+      {
+        "date": "2023-03-31",
+        "person": "TPL Crop Limited",
+        "role": "Substantial Shareholder",
+        "action": "Buy",
+        "shares": 3050000,
+        "price": 14.95,
+        "value": 45597500
+      },
+      {
+        "date": "2023-03-31",
+        "person": "TPL Crop Limited",
+        "role": "Substantial Shareholder",
+        "action": "Sell",
+        "shares": 3050000,
+        "price": 14.36,
+        "value": 43798000
+      },
+      {
+        "date": "2023-02-15",
+        "person": "TPL Corp Limited",
+        "role": "Substantial shareholder",
+        "action": "Buy",
+        "shares": 3459026,
+        "price": 15.8,
+        "value": 54652611
+      },
+      {
+        "date": "2023-02-15",
+        "person": "Mohammad Ali Jameel",
+        "role": "Executive Director",
+        "action": "Sell",
+        "shares": 1200000,
+        "price": 15.9,
+        "value": 19080000
+      },
+      {
+        "date": "2023-01-31",
+        "person": "TPL Corp Limited",
+        "role": "Substantial shareholder",
+        "action": "Sell",
+        "shares": 1000000,
+        "price": 16.05,
+        "value": 16050000
+      },
+      {
+        "date": "2023-01-31",
+        "person": "TPL Corp Limited",
+        "role": "Substantial shareholder",
+        "action": "Buy",
+        "shares": 1000000,
+        "price": 16.57,
+        "value": 16570000
+      },
+      {
+        "date": "2023-01-31",
+        "person": "TPL Corp Limited",
+        "role": "Substantial shareholder",
+        "action": "Buy",
+        "shares": 1550000,
+        "price": 16.55,
+        "value": 25652500
+      },
+      {
+        "date": "2023-01-31",
+        "person": "TPL Corp Limited",
+        "role": "Substantial shareholder",
+        "action": "Buy",
+        "shares": 25000,
+        "price": 16.54,
+        "value": 413500
+      },
+      {
+        "date": "2023-01-31",
+        "person": "TPL Corp Limited",
+        "role": "Substantial shareholder",
+        "action": "Sell",
+        "shares": 1475000,
+        "price": 16.03,
+        "value": 23644250
+      },
+      {
+        "date": "2023-01-31",
+        "person": "TPL Corp Limited",
+        "role": "Substantial shareholder",
+        "action": "Sell",
+        "shares": 25000,
+        "price": 16.02,
+        "value": 400500
+      },
+      {
+        "date": "2023-01-31",
+        "person": "TPL Corp Limited",
+        "role": "Substantial shareholder",
+        "action": "Buy",
+        "shares": 550000,
+        "price": 16.57,
+        "value": 9113500
+      },
+      {
+        "date": "2023-01-31",
+        "person": "TPL Corp Limited",
+        "role": "Substantial shareholder",
+        "action": "Buy",
+        "shares": 1000000,
+        "price": 16.55,
+        "value": 16550000
+      },
+      {
+        "date": "2023-01-31",
+        "person": "TPL Corp Limited",
+        "role": "Substantial shareholder",
+        "action": "Buy",
+        "shares": 1500000,
+        "price": 16.54,
+        "value": 24810000
+      },
+      {
+        "date": "2023-01-31",
+        "person": "TPL Corp Limited",
+        "role": "Substantial shareholder",
+        "action": "Sell",
+        "shares": 1500000,
+        "price": 16.02,
+        "value": 24030000
+      },
+      {
+        "date": "2023-01-31",
+        "person": "TPL Corp Limited",
+        "role": "Substantial shareholder",
+        "action": "Sell",
+        "shares": 1000000,
+        "price": 16.03,
+        "value": 16030000
+      },
+      {
+        "date": "2023-01-31",
+        "person": "TPL Corp Limited",
+        "role": "Substantial shareholder",
+        "action": "Sell",
+        "shares": 550000,
+        "price": 16.05,
+        "value": 8827500
+      },
+      {
+        "date": "2023-01-18",
+        "person": "Khalid Mahmood",
+        "role": "Independent Director",
+        "action": "Buy",
+        "shares": 2000,
+        "price": 19.4,
+        "value": 38800
+      },
+      {
+        "date": "2023-01-06",
+        "person": "Khalid Mahmood",
+        "role": "Independent Director",
+        "action": "Buy",
+        "shares": 2000,
+        "price": 19.4,
+        "value": 38800
+      },
+      {
+        "date": "2022-11-18",
+        "person": "TPL Corp Limited",
+        "role": "Substantial Shareholder",
+        "action": "Buy",
+        "shares": 1000000,
+        "price": 19.84,
+        "value": 19840000
+      },
+      {
+        "date": "2022-11-18",
+        "person": "TPL Corp Limited",
+        "role": "Substantial Shareholder",
+        "action": "Sell",
+        "shares": 1500000,
+        "price": 19.09,
+        "value": 28635000
+      },
+      {
+        "date": "2022-11-18",
+        "person": "TPL Corp Limited",
+        "role": "Substantial Shareholder",
+        "action": "Buy",
+        "shares": 1500000,
+        "price": 19.82,
+        "value": 29730000
+      },
+      {
+        "date": "2022-11-18",
+        "person": "TPL Corp Limited",
+        "role": "Substantial Shareholder",
+        "action": "Sell",
+        "shares": 70000,
+        "price": 19.12,
+        "value": 1338400
+      },
+      {
+        "date": "2022-11-18",
+        "person": "TPL Corp Limited",
+        "role": "Substantial Shareholder",
+        "action": "Sell",
+        "shares": 930000,
+        "price": 19.11,
+        "value": 17772300
+      },
+      {
+        "date": "2022-11-15",
+        "person": "TPL Corp Limited",
+        "role": "Substantial Shareholder",
+        "action": "Sell",
+        "shares": 1500000,
+        "price": 19.24,
+        "value": 28860000
+      },
+      {
+        "date": "2022-11-15",
+        "person": "TPL Corp Limited",
+        "role": "Substantial Shareholder",
+        "action": "Sell",
+        "shares": 1000000,
+        "price": 19.27,
+        "value": 19270000
+      },
+      {
+        "date": "2022-02-11",
+        "person": "Alpha Beta Capital (Private) Limited",
+        "role": "Substantial Shareholder",
+        "action": "Sell",
+        "shares": 1000000,
+        "price": 35.13,
+        "value": 35130000
+      },
+      {
+        "date": "2012-05-22",
+        "person": "TPL Corp Limited",
+        "role": "Substantial Shareholder",
+        "action": "Buy",
+        "shares": 16857,
+        "price": 16.48,
+        "value": 277803
+      },
+      {
+        "date": "2012-05-22",
+        "person": "TPL Corp Limited",
+        "role": "Substantial Shareholder",
+        "action": "Buy",
+        "shares": 409600,
+        "price": 16.5,
+        "value": 6758400
+      },
+      {
+        "date": "2012-05-22",
+        "person": "TPL Corp Limited",
+        "role": "Substantial Shareholder",
+        "action": "Buy",
+        "shares": 27000,
+        "price": 16.45,
+        "value": 444150
+      },
+      {
+        "date": "2012-05-22",
+        "person": "TPL Corp Limited",
+        "role": "Substantial Shareholder",
+        "action": "Buy",
+        "shares": 25041,
+        "price": 16.49,
+        "value": 412926
+      },
+      {
+        "date": "2012-05-22",
+        "person": "TPL Corp Limited",
+        "role": "Substantial Shareholder",
+        "action": "Buy",
+        "shares": 15011,
+        "price": 16.4,
+        "value": 246180
+      },
+      {
+        "date": "2012-05-22",
+        "person": "TPL Corp Limited",
+        "role": "Substantial Shareholder",
+        "action": "Buy",
+        "shares": 4900,
+        "price": 16.46,
+        "value": 80654
+      },
+      {
+        "date": "2012-05-22",
+        "person": "TPL Corp Limited",
+        "role": "Substantial Shareholder",
+        "action": "Buy",
+        "shares": 1000,
+        "price": 16.42,
+        "value": 16420
+      },
+      {
+        "date": "2012-05-22",
+        "person": "TPL Corp Limited",
+        "role": "Substantial Shareholder",
+        "action": "Buy",
+        "shares": 500,
+        "price": 16.47,
+        "value": 8235
+      },
+      {
+        "date": "2012-05-22",
+        "person": "TPL Corp Limited",
+        "role": "Substantial Shareholder",
+        "action": "Buy",
+        "shares": 90,
+        "price": 16.41,
+        "value": 1477
+      },
+      {
+        "date": "2012-05-22",
+        "person": "TPL Corp Limited",
+        "role": "Substantial Shareholder",
+        "action": "Buy",
+        "shares": 1,
+        "price": 16.44,
+        "value": 16
+      },
+      {
+        "date": "2012-04-22",
+        "person": "Alpha Beta Capital (Private) Limited",
+        "role": "Substantial Shareholder",
+        "action": "Sell",
+        "shares": 485000,
+        "price": 21.45,
+        "value": 10403250
+      },
+      {
+        "date": "2012-04-22",
+        "person": "Alpha Beta Capital (Private) Limited",
+        "role": "Substantial Shareholder",
+        "action": "Sell",
+        "shares": 30000,
+        "price": 20.15,
+        "value": 604500
+      },
+      {
+        "date": "2012-04-22",
+        "person": "Alpha Beta Capital (Private) Limited",
+        "role": "Substantial Shareholder",
+        "action": "Sell",
+        "shares": 4000,
+        "price": 20.13,
+        "value": 80520
+      },
+      {
+        "date": "2012-04-22",
+        "person": "Alpha Beta Capital (Private) Limited",
+        "role": "Substantial Shareholder",
+        "action": "Sell",
+        "shares": 40500,
+        "price": 20.11,
+        "value": 814455
+      },
+      {
+        "date": "2012-04-22",
+        "person": "Alpha Beta Capital (Private) Limited",
+        "role": "Substantial Shareholder",
+        "action": "Sell",
+        "shares": 423466,
+        "price": 20.1,
+        "value": 8511667
+      },
+      {
+        "date": "2012-04-22",
+        "person": "Alpha Beta Capital (Private) Limited",
+        "role": "Substantial Shareholder",
+        "action": "Sell",
+        "shares": 50,
+        "price": 20.01,
+        "value": 1001
+      },
+      {
+        "date": "2012-04-22",
+        "person": "Alpha Beta Capital (Private) Limited",
+        "role": "Substantial Shareholder",
+        "action": "Sell",
+        "shares": 16984,
+        "price": 20.0,
+        "value": 339680
+      },
+      {
+        "date": "2005-04-22",
+        "person": "Alpha Beta Capital (Private) Limited",
+        "role": "Substantial Shareholder",
+        "action": "Sell",
+        "shares": 10757,
+        "price": 20.81,
+        "value": 223853
+      },
+      {
+        "date": "2005-04-22",
+        "person": "Alpha Beta Capital (Private) Limited",
+        "role": "Substantial Shareholder",
+        "action": "Sell",
+        "shares": 8856,
+        "price": 20.91,
+        "value": 185179
+      },
+      {
+        "date": "2005-04-22",
+        "person": "Alpha Beta Capital (Private) Limited",
+        "role": "Substantial Shareholder",
+        "action": "Sell",
+        "shares": 18000,
+        "price": 20.9,
+        "value": 376200
+      },
+      {
+        "date": "2005-04-22",
+        "person": "Alpha Beta Capital (Private) Limited",
+        "role": "Substantial Shareholder",
+        "action": "Sell",
+        "shares": 150,
+        "price": 20.86,
+        "value": 3129
+      },
+      {
+        "date": "2005-04-22",
+        "person": "Alpha Beta Capital (Private) Limited",
+        "role": "Substantial Shareholder",
+        "action": "Sell",
+        "shares": 14542,
+        "price": 20.85,
+        "value": 303201
+      },
+      {
+        "date": "2005-04-22",
+        "person": "Alpha Beta Capital (Private) Limited",
+        "role": "Substantial Shareholder",
+        "action": "Sell",
+        "shares": 76424,
+        "price": 20.82,
+        "value": 1591148
+      },
+      {
+        "date": "2005-04-22",
+        "person": "Alpha Beta Capital (Private) Limited",
+        "role": "Substantial Shareholder",
+        "action": "Sell",
+        "shares": 871271,
+        "price": 20.8,
+        "value": 18122437
+      }
+    ]
+  },
+  "shareholding": {},
+  "fipi": {},
+  "monthly_sales": {}
+}

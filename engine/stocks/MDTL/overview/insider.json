@@ -1,0 +1,24 @@
+{
+  "source": "sarmaaya.pk (insider transactions, #insider-transactions table)",
+  "as_of": "2026-06-28",
+  "transactions": [
+    {
+      "date": "2026-01-27",
+      "person": "Salman Khalid Mian",
+      "role": "Independent Director",
+      "action": "Sell",
+      "shares": 50000,
+      "price": 7.12,
+      "value": 356000
+    },
+    {
+      "date": "2026-01-27",
+      "person": "Salman Khalid Mian",
+      "role": "Independent Director",
+      "action": "Buy",
+      "shares": 50000,
+      "price": 7.03,
+      "value": 351500
+    }
+  ]
+}

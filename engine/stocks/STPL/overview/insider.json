@@ -1,0 +1,852 @@
+{
+  "source": "sarmaaya.pk (insider transactions, #insider-transactions table)",
+  "as_of": "2026-06-28",
+  "transactions": [
+    {
+      "date": "2026-05-14",
+      "person": "Sheryar Sajjad",
+      "role": "Senior Management",
+      "action": "Buy",
+      "shares": 150000,
+      "price": 7.46,
+      "value": 1119000
+    },
+    {
+      "date": "2026-05-14",
+      "person": "Siddiqsons Limited",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 4864101,
+      "price": 7.42,
+      "value": 36091629
+    },
+    {
+      "date": "2026-05-14",
+      "person": "Muhammad Tariq Rafi",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 4864101,
+      "price": 7.42,
+      "value": 36091629
+    },
+    {
+      "date": "2023-11-23",
+      "person": "SIDDIQSONS LIMITED",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 100000,
+      "price": 8.21,
+      "value": 821000
+    },
+    {
+      "date": "2023-11-16",
+      "person": "SIDDIQSONS LIMITED",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 250000,
+      "price": 7.46,
+      "value": 1865000
+    },
+    {
+      "date": "2023-07-14",
+      "person": "MUHAMMAD TARIQ RAFI",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 100500,
+      "price": 6.5,
+      "value": 653250
+    },
+    {
+      "date": "2023-07-14",
+      "person": "MUHAMMAD TARIQ RAFI",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 9000,
+      "price": 6.8,
+      "value": 61200
+    },
+    {
+      "date": "2023-06-23",
+      "person": "SIDDIQSONS LIMITED",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 29500,
+      "price": 5.75,
+      "value": 169625
+    },
+    {
+      "date": "2023-06-22",
+      "person": "SIDDIQSONS LIMITED",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 50000,
+      "price": 5.8,
+      "value": 290000
+    },
+    {
+      "date": "2023-06-19",
+      "person": "SIDDIQSONS LIMITED",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 20000,
+      "price": 6.1,
+      "value": 122000
+    },
+    {
+      "date": "2023-06-19",
+      "person": "SIDDIQSONS LIMITED",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 20000,
+      "price": 6.1,
+      "value": 122000
+    },
+    {
+      "date": "2023-05-29",
+      "person": "Nighat Tariq (Spouse of MUHAMMAD TARIQ RAFI)",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 24500,
+      "price": 6.25,
+      "value": 153125
+    },
+    {
+      "date": "2023-05-16",
+      "person": "MUHAMMAD TARIQ RAFI",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 74000,
+      "price": 6.4,
+      "value": 473600
+    },
+    {
+      "date": "2023-05-16",
+      "person": "MUHAMMAD TARIQ RAFI",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 500,
+      "price": 6.41,
+      "value": 3205
+    },
+    {
+      "date": "2023-05-16",
+      "person": "MUHAMMAD TARIQ RAFI",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 1000,
+      "price": 6.39,
+      "value": 6390
+    },
+    {
+      "date": "2023-04-19",
+      "person": "SIDDIQSONS LIMITED",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 1000,
+      "price": 6.7,
+      "value": 6700
+    },
+    {
+      "date": "2023-04-18",
+      "person": "SIDDIQSONS LIMITED",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 10000,
+      "price": 6.7,
+      "value": 67000
+    },
+    {
+      "date": "2023-04-18",
+      "person": "SIDDIQSONS LIMITED",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 100000,
+      "price": 6.75,
+      "value": 675000
+    },
+    {
+      "date": "2023-04-18",
+      "person": "SIDDIQSONS LIMITED",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 30000,
+      "price": 6.75,
+      "value": 202500
+    },
+    {
+      "date": "2023-04-18",
+      "person": "SIDDIQSONS LIMITED",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 19500,
+      "price": 6.73,
+      "value": 131235
+    },
+    {
+      "date": "2023-04-18",
+      "person": "SIDDIQSONS LIMITED",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 500,
+      "price": 6.72,
+      "value": 3360
+    },
+    {
+      "date": "2023-04-10",
+      "person": "SIDDIQSONS LIMITED",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 14500,
+      "price": 6.75,
+      "value": 97875
+    },
+    {
+      "date": "2023-04-10",
+      "person": "SIDDIQSONS LIMITED",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 33500,
+      "price": 6.75,
+      "value": 226125
+    },
+    {
+      "date": "2023-04-10",
+      "person": "SIDDIQSONS LIMITED",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 10500,
+      "price": 6.7,
+      "value": 70350
+    },
+    {
+      "date": "2023-04-10",
+      "person": "SIDDIQSONS LIMITED",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 5500,
+      "price": 6.74,
+      "value": 37070
+    },
+    {
+      "date": "2023-04-10",
+      "person": "SIDDIQSONS LIMITED",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 500,
+      "price": 6.73,
+      "value": 3365
+    },
+    {
+      "date": "2023-04-07",
+      "person": "SIDDIQSONS LIMITED",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 5000,
+      "price": 6.4,
+      "value": 32000
+    },
+    {
+      "date": "2023-04-06",
+      "person": "SIDDIQSONS LIMITED",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 3000,
+      "price": 6.43,
+      "value": 19290
+    },
+    {
+      "date": "2023-04-06",
+      "person": "SIDDIQSONS LIMITED",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 17500,
+      "price": 6.3,
+      "value": 110250
+    },
+    {
+      "date": "2023-03-31",
+      "person": "SIDDIQSONS LIMITED",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 7500,
+      "price": 6.29,
+      "value": 47175
+    },
+    {
+      "date": "2023-03-31",
+      "person": "SIDDIQSONS LIMITED",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 40500,
+      "price": 6.25,
+      "value": 253125
+    },
+    {
+      "date": "2023-03-31",
+      "person": "SIDDIQSONS LIMITED",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 50000,
+      "price": 6.25,
+      "value": 312500
+    },
+    {
+      "date": "2023-03-30",
+      "person": "SIDDIQSONS LIMITED",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 5500,
+      "price": 6.38,
+      "value": 35090
+    },
+    {
+      "date": "2023-03-30",
+      "person": "SIDDIQSONS LIMITED",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 50000,
+      "price": 6.4,
+      "value": 320000
+    },
+    {
+      "date": "2023-03-30",
+      "person": "SIDDIQSONS LIMITED",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 39000,
+      "price": 6.4,
+      "value": 249600
+    },
+    {
+      "date": "2023-03-30",
+      "person": "SIDDIQSONS LIMITED",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 5500,
+      "price": 6.36,
+      "value": 34980
+    },
+    {
+      "date": "2023-03-09",
+      "person": "SIDDIQSONS LIMITED",
+      "role": "Substantial Shareholder",
+      "action": "Buy",
+      "shares": 54000,
+      "price": 5.95,
+      "value": 321300
+    },
+    {
+      "date": "2023-03-02",
+      "person": "MUHAMMAD TARIQ RAFI",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 50000,
+      "price": 6.0,
+      "value": 300000
+    },
+    {
+      "date": "2022-08-03",
+      "person": "MUHAMMAD TARIQ RAFI",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 46500,
+      "price": 10.45,
+      "value": 485925
+    },
+    {
+      "date": "2022-08-02",
+      "person": "MUHAMMAD TARIQ RAFI",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 26500,
+      "price": 10.6,
+      "value": 280900
+    },
+    {
+      "date": "2022-08-02",
+      "person": "MUHAMMAD TARIQ RAFI",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 34000,
+      "price": 10.55,
+      "value": 358700
+    },
+    {
+      "date": "2022-08-02",
+      "person": "MUHAMMAD TARIQ RAFI",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 5000,
+      "price": 10.54,
+      "value": 52700
+    },
+    {
+      "date": "2022-07-22",
+      "person": "MUHAMMAD TARIQ RAFI",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 10000,
+      "price": 9.82,
+      "value": 98200
+    },
+    {
+      "date": "2022-07-22",
+      "person": "MUHAMMAD TARIQ RAFI",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 70000,
+      "price": 9.8,
+      "value": 686000
+    },
+    {
+      "date": "2020-05-22",
+      "person": "MUHAMMAD TARIQ RAFI",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 191000,
+      "price": 10.5,
+      "value": 2005500
+    },
+    {
+      "date": "2020-05-22",
+      "person": "MUHAMMAD TARIQ RAFI",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 47000,
+      "price": 10.5,
+      "value": 493500
+    },
+    {
+      "date": "2020-05-22",
+      "person": "MUHAMMAD TARIQ RAFI",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 500,
+      "price": 10.39,
+      "value": 5195
+    },
+    {
+      "date": "2020-05-22",
+      "person": "MUHAMMAD TARIQ RAFI",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 500,
+      "price": 10.4,
+      "value": 5200
+    },
+    {
+      "date": "2020-05-22",
+      "person": "MUHAMMAD TARIQ RAFI",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 500,
+      "price": 10.43,
+      "value": 5215
+    },
+    {
+      "date": "2020-05-22",
+      "person": "MUHAMMAD TARIQ RAFI",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 5000,
+      "price": 10.44,
+      "value": 52200
+    },
+    {
+      "date": "2020-05-22",
+      "person": "MUHAMMAD TARIQ RAFI",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 1500,
+      "price": 10.45,
+      "value": 15675
+    },
+    {
+      "date": "2020-05-22",
+      "person": "MUHAMMAD TARIQ RAFI",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 1000,
+      "price": 10.49,
+      "value": 10490
+    },
+    {
+      "date": "2020-05-22",
+      "person": "MUHAMMAD TARIQ RAFI",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 20000,
+      "price": 11.1,
+      "value": 222000
+    },
+    {
+      "date": "2020-05-22",
+      "person": "MUHAMMAD TARIQ RAFI",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 90000,
+      "price": 11.15,
+      "value": 1003500
+    },
+    {
+      "date": "2020-05-22",
+      "person": "MUHAMMAD TARIQ RAFI",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 30000,
+      "price": 11.2,
+      "value": 336000
+    },
+    {
+      "date": "2020-05-22",
+      "person": "MUHAMMAD TARIQ RAFI",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 4500,
+      "price": 11.24,
+      "value": 50580
+    },
+    {
+      "date": "2020-05-22",
+      "person": "MUHAMMAD TARIQ RAFI",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 145500,
+      "price": 11.25,
+      "value": 1636875
+    },
+    {
+      "date": "2020-05-22",
+      "person": "MUHAMMAD TARIQ RAFI",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 10000,
+      "price": 11.26,
+      "value": 112600
+    },
+    {
+      "date": "2014-07-22",
+      "person": "MUHAMMAD TARIQ RAFI",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 1500,
+      "price": 10.35,
+      "value": 15525
+    },
+    {
+      "date": "2014-07-22",
+      "person": "MUHAMMAD TARIQ RAFI",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 1500,
+      "price": 10.3,
+      "value": 15450
+    },
+    {
+      "date": "2013-05-22",
+      "person": "MUHAMMAD TARIQ RAFI",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 66000,
+      "price": 10.3,
+      "value": 679800
+    },
+    {
+      "date": "2013-05-22",
+      "person": "MUHAMMAD TARIQ RAFI",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 3500,
+      "price": 10.25,
+      "value": 35875
+    },
+    {
+      "date": "2012-05-22",
+      "person": "MUHAMMAD TARIQ RAFI",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 120500,
+      "price": 10.75,
+      "value": 1295375
+    },
+    {
+      "date": "2012-05-22",
+      "person": "MUHAMMAD TARIQ RAFI",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 23500,
+      "price": 10.6,
+      "value": 249100
+    },
+    {
+      "date": "2012-05-22",
+      "person": "MUHAMMAD TARIQ RAFI",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 6000,
+      "price": 10.7,
+      "value": 64200
+    },
+    {
+      "date": "2011-05-22",
+      "person": "MUHAMMAD TARIQ RAFI",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 3000,
+      "price": 10.8,
+      "value": 32400
+    },
+    {
+      "date": "2011-05-22",
+      "person": "MUHAMMAD TARIQ RAFI",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 100500,
+      "price": 10.85,
+      "value": 1090425
+    },
+    {
+      "date": "2009-06-22",
+      "person": "MUHAMMAD TARIQ RAFI",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 100000,
+      "price": 11.1,
+      "value": 1110000
+    },
+    {
+      "date": "2007-03-22",
+      "person": "RAHMA IBRAHIM",
+      "role": "Spouse",
+      "action": "Buy",
+      "shares": 443956,
+      "price": 10.91,
+      "value": 4843560
+    },
+    {
+      "date": "2007-03-22",
+      "person": "NIGHAT TARIQ",
+      "role": "Spouse",
+      "action": "Buy",
+      "shares": 1331137,
+      "price": 10.91,
+      "value": 14522705
+    },
+    {
+      "date": "2007-03-22",
+      "person": "MUHAMMAD TARIQ RAFI",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 1776841,
+      "price": 10.91,
+      "value": 19385335
+    },
+    {
+      "date": "2007-03-22",
+      "person": "ALIA SAJJAD",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 443956,
+      "price": 10.91,
+      "value": 4843560
+    },
+    {
+      "date": "2006-06-22",
+      "person": "MUHAMMAD TARIQ RAFI",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 70000,
+      "price": 11.0,
+      "value": 770000
+    },
+    {
+      "date": "2006-06-22",
+      "person": "MUHAMMAD TARIQ RAFI",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 19000,
+      "price": 10.85,
+      "value": 206150
+    },
+    {
+      "date": "2006-06-22",
+      "person": "MUHAMMAD TARIQ RAFI",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 30000,
+      "price": 10.8,
+      "value": 324000
+    },
+    {
+      "date": "2003-08-22",
+      "person": "MUHAMMAD TARIQ RAFI",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 46500,
+      "price": 10.45,
+      "value": 485925
+    },
+    {
+      "date": "2003-06-22",
+      "person": "MUHAMMAD TARIQ RAFI",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 1500,
+      "price": 10.96,
+      "value": 16440
+    },
+    {
+      "date": "2003-06-22",
+      "person": "MUHAMMAD TARIQ RAFI",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 31500,
+      "price": 10.99,
+      "value": 346185
+    },
+    {
+      "date": "2003-06-22",
+      "person": "MUHAMMAD TARIQ RAFI",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 149000,
+      "price": 11.0,
+      "value": 1639000
+    },
+    {
+      "date": "2003-06-22",
+      "person": "MUHAMMAD TARIQ RAFI",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 10000,
+      "price": 11.01,
+      "value": 110100
+    },
+    {
+      "date": "2003-06-22",
+      "person": "MUHAMMAD TARIQ RAFI",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 5000,
+      "price": 11.05,
+      "value": 55250
+    },
+    {
+      "date": "2003-06-22",
+      "person": "MUHAMMAD TARIQ RAFI",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 5327025,
+      "price": 10.91,
+      "value": 58117843
+    },
+    {
+      "date": "2003-06-22",
+      "person": "NIGHAT TARIQ",
+      "role": "Spouse",
+      "action": "Buy",
+      "shares": 5327025,
+      "price": 10.91,
+      "value": 58117843
+    },
+    {
+      "date": "2003-06-22",
+      "person": "MUHAMMAD TARIQ RAFI",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 1000,
+      "price": 10.97,
+      "value": 10970
+    },
+    {
+      "date": "2003-06-22",
+      "person": "MUHAMMAD TARIQ RAFI",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 1000,
+      "price": 10.95,
+      "value": 10950
+    },
+    {
+      "date": "2003-06-22",
+      "person": "MUHAMMAD TARIQ RAFI",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 1000,
+      "price": 10.98,
+      "value": 10980
+    },
+    {
+      "date": "2002-08-22",
+      "person": "MUHAMMAD TARIQ RAFI",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 26500,
+      "price": 10.6,
+      "value": 280900
+    },
+    {
+      "date": "2002-08-22",
+      "person": "MUHAMMAD TARIQ RAFI",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 5000,
+      "price": 10.54,
+      "value": 52700
+    },
+    {
+      "date": "2002-08-22",
+      "person": "MUHAMMAD TARIQ RAFI",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 34000,
+      "price": 10.55,
+      "value": 358700
+    },
+    {
+      "date": "2002-06-22",
+      "person": "MUHAMMAD TARIQ RAFI",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 2000,
+      "price": 11.15,
+      "value": 22300
+    },
+    {
+      "date": "2002-06-22",
+      "person": "MUHAMMAD TARIQ RAFI",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 3000,
+      "price": 11.05,
+      "value": 33150
+    },
+    {
+      "date": "2001-08-22",
+      "person": "MUHAMMAD TARIQ RAFI",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 74000,
+      "price": 10.5,
+      "value": 777000
+    },
+    {
+      "date": "2001-06-22",
+      "person": "MUHAMMAD TARIQ RAFI",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 31500,
+      "price": 11.1,
+      "value": 349650
+    },
+    {
+      "date": "2001-06-22",
+      "person": "MUHAMMAD TARIQ RAFI",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 168500,
+      "price": 11.15,
+      "value": 1878775
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "symbol": "KAPCO",
+  "growth": {
+    "revenue_growth_5y": -0.6129373279914868,
+    "net_income_growth_5y": -0.29436678128850846,
+    "equity_growth_5y": -0.03271741956367902,
+    "debt_change_5y": -0.7258189037167752
+  },
+  "latest": {
+    "revenue": 1563.0,
+    "net_income": 2536.0,
+    "equity": 57098.0,
+    "total_assets": 65253.0,
+    "total_debt": 9944.0,
+    "operating_cash_flow": 2609.0,
+    "capex": 56.75
+  },
+  "metrics": {
+    "revenue_growth_5y": -0.6129373279914868,
+    "net_income_growth_5y": -0.29436678128850846,
+    "eps_growth": null,
+    "sales_growth": -0.6129373279914868,
+    "roe": 0.0444,
+    "roa": 0.0389,
+    "gross_margin": null,
+    "operating_margin": -2.417146513115803,
+    "net_margin": 1.6225207933461292,
+    "debt_to_equity": 0.1741567130197205,
+    "current_ratio": 7.826849733028222,
+    "interest_coverage": -15.377101225121088,
+    "fcf_margin": 1.6329174664107486,
+    "pe_ratio": 15.13,
+    "price_to_book": 0.45,
+    "peg": null
+  },
+  "extended": {
+    "effective_tax_rate": 0.29,
+    "roic": -0.04001044121595417,
+    "quick_ratio": 6.345537757437071,
+    "ps_ratio": 2.1587047216679545,
+    "ev_ebitda": null,
+    "peg": null,
+    "revenue_cagr_3y": -0.6129373279914868,
+    "net_income_cagr_3y": -0.364777634020066,
+    "eps_cagr_3y": -0.36485133122636126,
+    "revenue_qoq": 24.472667947973004,
+    "revenue_yoy": 40.48649632379704,
+    "eps_qoq": -0.16129032258064518,
+    "eps_yoy": 0.5,
+    "ocf_cagr_5y": -0.4775078184701559,
+    "fcf_cagr_5y": -0.48027814621210674,
+    "cash_conversion": 1.0287854889589905,
+    "ttm_revenue": 11531.73,
+    "ttm_net_income": 1644.8500000000001,
+    "dividend_last_year": null,
+    "dividend_latest_annual": 1.5
+  },
+  "derived": {
+    "free_cash_flow": 2552.25,
+    "market_cap": 24893.6,
+    "current_price": 28.28
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "symbol": "PIAHCLA",
+  "growth": {
+    "revenue_growth_5y": 0.24672488989755825,
+    "net_income_growth_5y": 0.16075651475146366,
+    "equity_growth_5y": -0.12708833744373305,
+    "debt_change_5y": 0.26209021290153733
+  },
+  "latest": {
+    "revenue": 239652.0,
+    "net_income": -15548.0,
+    "equity": -563284.0,
+    "total_assets": 396262.0,
+    "total_debt": 443655.0,
+    "operating_cash_flow": 25285.0,
+    "capex": 1736.0
+  },
+  "metrics": {
+    "revenue_growth_5y": 0.24672488989755825,
+    "net_income_growth_5y": 0.16075651475146366,
+    "eps_growth": null,
+    "sales_growth": 0.24672488989755825,
+    "roe": 0.0276,
+    "roa": -0.0392,
+    "gross_margin": 0.2148,
+    "operating_margin": 0.06447682472919065,
+    "net_margin": -0.06487740557141188,
+    "debt_to_equity": -0.7876222296390453,
+    "current_ratio": 0.13521509741949722,
+    "interest_coverage": 0.25802788678300076,
+    "fcf_margin": 0.09826331514028674,
+    "pe_ratio": null,
+    "price_to_book": -0.31,
+    "peg": null
+  },
+  "extended": {
+    "effective_tax_rate": 0.29,
+    "roic": -0.09170786347791923,
+    "quick_ratio": 0.126253919474322,
+    "ps_ratio": 0.6440722717135241,
+    "ev_ebitda": null,
+    "peg": null,
+    "revenue_cagr_3y": 0.3960033462268069,
+    "net_income_cagr_3y": 0.23623237281572798,
+    "eps_cagr_3y": 0.23627450980392153,
+    "revenue_qoq": -0.21480912512481756,
+    "revenue_yoy": -0.18691737456651078,
+    "eps_qoq": null,
+    "eps_yoy": 0.38846153846153847,
+    "ocf_cagr_5y": 0.7993395324585035,
+    "fcf_cagr_5y": 0.6500033972007067,
+    "cash_conversion": -1.6262541806020068,
+    "ttm_revenue": 238987,
+    "ttm_net_income": -25026.91,
+    "dividend_last_year": null,
+    "dividend_latest_annual": null
+  },
+  "derived": {
+    "free_cash_flow": 23549.0,
+    "market_cap": 153924.9,
+    "current_price": 29.41
+  }
+}

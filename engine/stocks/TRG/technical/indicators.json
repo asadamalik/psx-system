@@ -1,0 +1,53 @@
+{
+  "as_of": "2026-06-24",
+  "bars": 1237,
+  "close": 64.4,
+  "sma_20": 69.183,
+  "sma_50": 62.641000000000005,
+  "sma_200": 66.24380000000001,
+  "ema_20": 67.14336000927374,
+  "ema_50": 63.93688108859301,
+  "ema_100": 62.753401169815334,
+  "ema_200": 63.293896960041266,
+  "obv": 1208412910.0,
+  "weekly_trend": "Up",
+  "monthly_trend": "Up",
+  "support_resistance": {
+    "price": 64.4,
+    "nearest_resistance": 69.74,
+    "nearest_support": 57.44,
+    "resistance_levels": [
+      69.74,
+      75.19,
+      78.15
+    ],
+    "support_levels": [
+      57.44,
+      51.0,
+      45.91
+    ]
+  },
+  "rsi_14": 45.00044307819065,
+  "macd": 1.0003762317326448,
+  "macd_signal": 2.1586540151328153,
+  "macd_hist": -1.1582777834001705,
+  "adx_14": 20.967960721261402,
+  "plus_di": 20.865703276135754,
+  "minus_di": 24.868693240347366,
+  "atr_14": 2.8615819849437,
+  "bb_upper": 74.60345422450708,
+  "bb_lower": 63.76254577549294,
+  "week52_high": 82.98,
+  "week52_low": 40.83,
+  "rsi_divergence": {
+    "type": "bearish",
+    "label": "Bearish RSI divergence",
+    "note": "Price made a higher high (67.17\u219274.06) while RSI made a lower high (72.2\u219271.9) \u2014 upward momentum is fading; watch for a pullback.",
+    "price_from": 67.17,
+    "price_to": 74.06,
+    "rsi_from": 72.2,
+    "rsi_to": 71.9,
+    "bars_ago": 17
+  },
+  "patterns": []
+}

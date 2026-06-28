@@ -1,0 +1,15 @@
+{
+  "source": "sarmaaya.pk (insider transactions, #insider-transactions table)",
+  "as_of": "2026-06-28",
+  "transactions": [
+    {
+      "date": "2025-11-06",
+      "person": "National Bank of Pakistan",
+      "role": "Substantial Shareholder",
+      "action": "Sell",
+      "shares": 434900,
+      "price": 9.03,
+      "value": 3927147
+    }
+  ]
+}

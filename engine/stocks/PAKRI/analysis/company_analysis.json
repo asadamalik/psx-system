@@ -1,0 +1,63 @@
+{
+  "symbol": "PAKRI",
+  "growth": {
+    "revenue_growth_5y": null,
+    "net_income_growth_5y": 0.04839864208878275,
+    "equity_growth_5y": 0.18598724151170054,
+    "debt_change_5y": -0.295485636114911
+  },
+  "latest": {
+    "revenue": null,
+    "net_income": 3129.0,
+    "equity": 25862.0,
+    "total_assets": 76355.0,
+    "total_debt": 20.6,
+    "operating_cash_flow": -1898.0,
+    "capex": 95.25
+  },
+  "metrics": {
+    "revenue_growth_5y": null,
+    "net_income_growth_5y": 0.04839864208878275,
+    "eps_growth": null,
+    "sales_growth": null,
+    "roe": 0.121,
+    "roa": 0.041,
+    "gross_margin": null,
+    "operating_margin": null,
+    "net_margin": null,
+    "debt_to_equity": 0.0007965354574278865,
+    "current_ratio": null,
+    "interest_coverage": 2252.6829268292686,
+    "fcf_margin": null,
+    "pe_ratio": 4.79,
+    "price_to_book": 0.62,
+    "peg": null
+  },
+  "extended": {
+    "effective_tax_rate": 0.29,
+    "roic": 0.12667892715569534,
+    "quick_ratio": null,
+    "ps_ratio": null,
+    "ev_ebitda": null,
+    "peg": null,
+    "revenue_cagr_3y": null,
+    "net_income_cagr_3y": 0.060291838476180803,
+    "eps_cagr_3y": 0.060226847710841414,
+    "revenue_qoq": null,
+    "revenue_yoy": null,
+    "eps_qoq": -0.5555555555555556,
+    "eps_yoy": 0.06666666666666674,
+    "ocf_cagr_5y": -3.3026248069994857,
+    "fcf_cagr_5y": -3.5381062355658197,
+    "cash_conversion": -0.6065835730265261,
+    "ttm_revenue": null,
+    "ttm_net_income": 3150.02,
+    "dividend_last_year": null,
+    "dividend_latest_annual": 1
+  },
+  "derived": {
+    "free_cash_flow": -1993.25,
+    "market_cap": 15147.0,
+    "current_price": 16.82
+  }
+}

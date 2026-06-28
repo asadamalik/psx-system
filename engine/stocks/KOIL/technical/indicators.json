@@ -1,0 +1,63 @@
+{
+  "as_of": "2026-06-24",
+  "bars": 424,
+  "close": 48.04,
+  "sma_20": 47.273,
+  "sma_50": 53.46940000000001,
+  "sma_200": 47.61685000000001,
+  "ema_20": 48.19592204395684,
+  "ema_50": 51.323604385536555,
+  "ema_100": 52.15191685248507,
+  "ema_200": 46.281782794763224,
+  "obv": 50590791.0,
+  "weekly_trend": "Down",
+  "monthly_trend": "Down",
+  "support_resistance": {
+    "price": 48.04,
+    "nearest_resistance": 54.63,
+    "nearest_support": 47.03,
+    "resistance_levels": [
+      54.63,
+      64.89,
+      71.38
+    ],
+    "support_levels": [
+      47.03,
+      45.01,
+      44.01
+    ]
+  },
+  "rsi_14": 47.54721920431955,
+  "macd": -0.7691909672368595,
+  "macd_signal": -1.4180053813277853,
+  "macd_hist": 0.6488144140909258,
+  "adx_14": 18.71203064321463,
+  "plus_di": 20.286930031500095,
+  "minus_di": 35.540612884771534,
+  "atr_14": 2.6973221921225066,
+  "bb_upper": 50.134447885249536,
+  "bb_lower": 44.41155211475047,
+  "week52_high": 110.0,
+  "week52_low": 10.11,
+  "rsi_divergence": {
+    "type": "bullish",
+    "label": "Bullish RSI divergence",
+    "note": "Price made a lower low (46.11\u219245.57) while RSI made a higher low (37.0\u219237.7) \u2014 selling momentum is easing; watch for a bounce.",
+    "price_from": 46.11,
+    "price_to": 45.57,
+    "rsi_from": 37.0,
+    "rsi_to": 37.7,
+    "bars_ago": 12
+  },
+  "patterns": [
+    {
+      "name": "Falling Wedge",
+      "type": "bullish",
+      "confidence": 0.5,
+      "status": "forming",
+      "neckline": 54.63,
+      "target": 110.0,
+      "note": "Lower highs and lows converging after a decline; bullish reversal bias."
+    }
+  ]
+}

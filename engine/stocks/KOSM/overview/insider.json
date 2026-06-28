@@ -1,0 +1,177 @@
+{
+  "source": "sarmaaya.pk (insider transactions, #insider-transactions table)",
+  "as_of": "2026-06-28",
+  "transactions": [
+    {
+      "date": "2026-05-19",
+      "person": "Mohammad Naveed",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 500000,
+      "price": 5.7,
+      "value": 2850000
+    },
+    {
+      "date": "2025-10-16",
+      "person": "MOHAMMAD NAVEED",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 1000000,
+      "price": 7.09,
+      "value": 7090000
+    },
+    {
+      "date": "2025-08-25",
+      "person": "Mohammad Naveed",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 2000000,
+      "price": 6.56,
+      "value": 13120000
+    },
+    {
+      "date": "2025-03-19",
+      "person": "MOHAMMAD HAMZA YOUSAF",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 2000000,
+      "price": 6.12,
+      "value": 12240000
+    },
+    {
+      "date": "2024-05-24",
+      "person": "Mohammad Naveed",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 1990100,
+      "price": 4.4,
+      "value": 8756440
+    },
+    {
+      "date": "2023-06-27",
+      "person": "MOHAMMAD NAVEED",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 7212500,
+      "price": 3.1,
+      "value": 22358750
+    },
+    {
+      "date": "2023-02-01",
+      "person": "MOHAMMAD NAVEED",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 1500000,
+      "price": 2.29,
+      "value": 3435000
+    },
+    {
+      "date": "2023-01-26",
+      "person": "MUHAMMAD HAMZA YOUSAF",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 1489000,
+      "price": 2.18,
+      "value": 3246020
+    },
+    {
+      "date": "2023-01-26",
+      "person": "MOHAMMAD NAVEED",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 1500000,
+      "price": 2.18,
+      "value": 3270000
+    },
+    {
+      "date": "2022-12-30",
+      "person": "MUHAMMAD HAMZA YOUSAF",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 7000,
+      "price": 2.44,
+      "value": 17080
+    },
+    {
+      "date": "2022-12-29",
+      "person": "MOHAMMAD NAVEED",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 1593000,
+      "price": 2.44,
+      "value": 3886920
+    },
+    {
+      "date": "2022-12-29",
+      "person": "MUHAMMAD HAMZA YOUSAF",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 1593000,
+      "price": 2.44,
+      "value": 3886920
+    },
+    {
+      "date": "2022-08-25",
+      "person": "KHAWAJA MOHAMMAD KALEEM",
+      "role": "Non-Executive Director",
+      "action": "Sell",
+      "shares": 6500000,
+      "price": 3.38,
+      "value": 21970000
+    },
+    {
+      "date": "2022-08-25",
+      "person": "KHAWAJA MOHAMMAD KALEEM",
+      "role": "Non-Executive Director",
+      "action": "Sell",
+      "shares": 3500000,
+      "price": 3.47,
+      "value": 12145000
+    },
+    {
+      "date": "2022-08-25",
+      "person": "MOHAMMAD HAMZA YOUSAF",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 3000000,
+      "price": 3.38,
+      "value": 10140000
+    },
+    {
+      "date": "2022-01-27",
+      "person": "MOHAMMAD NAVEED",
+      "role": "Executive Director",
+      "action": "Sell",
+      "shares": 6000000,
+      "price": 3.5,
+      "value": 21000000
+    },
+    {
+      "date": "2020-06-22",
+      "person": "KHAWAJA MOHAMMAD KALEEM",
+      "role": "Non-Executive Director",
+      "action": "Sell",
+      "shares": 5000000,
+      "price": 1.35,
+      "value": 6750000
+    },
+    {
+      "date": "2012-09-22",
+      "person": "KHAWAJA MOHAMMAD KALEEM",
+      "role": "Non-Executive Director",
+      "action": "Sell",
+      "shares": 1016000,
+      "price": 3.23,
+      "value": 3281680
+    },
+    {
+      "date": "2012-09-22",
+      "person": "MOHAMMAD HAMZA YOUSAF",
+      "role": "Executive Director",
+      "action": "Buy",
+      "shares": 300000,
+      "price": 3.23,
+      "value": 969000
+    }
+  ]
+}

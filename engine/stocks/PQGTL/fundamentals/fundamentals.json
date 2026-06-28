@@ -1,0 +1,262 @@
+{
+  "symbol": "PQGTL",
+  "income_statement_annual": {
+    "operating_income": {
+      "2021": 56.33,
+      "2022": 62.93,
+      "2023": 138.29,
+      "2024": 174.36,
+      "2025": 182.35
+    },
+    "net_income": {
+      "2021": 54.41,
+      "2022": 61.82,
+      "2023": 141.78,
+      "2024": 161.1,
+      "2025": 146.99
+    },
+    "eps": {
+      "2021": 0.89,
+      "2022": 1.01,
+      "2023": 1.66,
+      "2024": 1.86,
+      "2025": 1.83
+    },
+    "interest_expense": {
+      "2024": 6.27,
+      "2025": 4.14
+    }
+  },
+  "balance_sheet_annual": {
+    "cash_and_equivalents": {
+      "2021": 236.58,
+      "2022": 312.51,
+      "2023": 494.07,
+      "2024": 184.84,
+      "2025": 283.27
+    },
+    "total_assets": {
+      "2021": 1937,
+      "2022": 2478,
+      "2023": 2464,
+      "2024": 1171,
+      "2025": 1361
+    },
+    "total_liabilities": {
+      "2021": 1444,
+      "2022": 1870,
+      "2023": 1809,
+      "2024": 441.7,
+      "2025": 476.59
+    },
+    "total_debt": {
+      "2021": 17.94,
+      "2022": 0.76,
+      "2023": 43.59,
+      "2024": 33.43,
+      "2025": 19.56
+    },
+    "total_equity": {
+      "2021": 492.57,
+      "2022": 608.34,
+      "2023": 654.9,
+      "2024": 729.41,
+      "2025": 884.84
+    }
+  },
+  "cashflow_annual": {
+    "cash_from_operations": {
+      "2021": 126.76,
+      "2022": 63.33,
+      "2023": -53.8,
+      "2024": -187.4,
+      "2025": -55.36
+    },
+    "cash_from_investing": {
+      "2021": -63.84,
+      "2022": 12.6,
+      "2023": 235.37,
+      "2024": 29.54,
+      "2025": 23.37
+    },
+    "cash_from_financing": {
+      "2021": -0.0
+    },
+    "capex": {
+      "2021": 5.19,
+      "2022": 9.4,
+      "2023": 11.89
+    }
+  },
+  "income_statement_quarterly": {
+    "operating_income": {
+      "2026-03": 38.99,
+      "2025-12": 76.25,
+      "2025-09": 16.29,
+      "2025-03": 30.21,
+      "2024-12": 80.72,
+      "2024-09": 23.63
+    },
+    "net_income": {
+      "2026-03": 31.51,
+      "2025-12": 51.26,
+      "2025-09": 12.59,
+      "2025-03": 24.72,
+      "2024-12": 71.26,
+      "2024-09": 25.9
+    },
+    "eps": {
+      "2026-03": 0.3,
+      "2025-12": 0.66,
+      "2025-09": 0.38,
+      "2025-03": 0.37,
+      "2024-12": 0.6,
+      "2024-09": 0.38
+    },
+    "interest_expense": {
+      "2025-12": 4.14,
+      "2024-12": 6.27
+    }
+  },
+  "balance_sheet_quarterly": {
+    "cash_and_equivalents": {
+      "2026-03": 285.86,
+      "2025-12": 283.27,
+      "2025-09": 409.37,
+      "2024-12": 184.84
+    },
+    "total_assets": {
+      "2026-03": 1769,
+      "2025-12": 1361,
+      "2025-09": 2699,
+      "2024-12": 1171
+    },
+    "total_liabilities": {
+      "2026-03": 477.83,
+      "2025-12": 476.59,
+      "2025-09": 1669,
+      "2024-12": 441.7
+    },
+    "total_debt": {
+      "2026-03": 16.09,
+      "2025-12": 19.56,
+      "2025-09": 23.03,
+      "2025-03": 33.43,
+      "2024-12": 33.43
+    },
+    "total_equity": {
+      "2026-03": 1291,
+      "2025-12": 884.84,
+      "2025-09": 1029,
+      "2025-03": 729.41,
+      "2024-12": 729.41
+    }
+  },
+  "cashflow_quarterly": {
+    "cash_from_operations": {
+      "2026-03": 127.33,
+      "2025-12": -119.2,
+      "2025-03": -40.76,
+      "2024-12": -187.84
+    },
+    "cash_from_investing": {
+      "2026-03": -410.43,
+      "2025-12": 15.4,
+      "2025-03": 100.38,
+      "2024-12": 157.55
+    },
+    "cash_from_financing": {
+      "2026-03": 380.13,
+      "2025-12": -49.08,
+      "2024-12": 44.77
+    },
+    "capex": {
+      "2025-12": 6.39,
+      "2024-12": 4.71
+    }
+  },
+  "ratios": {
+    "pe_ratio": 9.1,
+    "price_to_book": 1.21,
+    "roe": 0.1661,
+    "roa": 0.108,
+    "gross_margin": null,
+    "industry_pe": null
+  },
+  "earnings": {
+    "source": "stockanalysis.com (statistics + quarterly)",
+    "as_of": "2026-06-28",
+    "latest_eps": 0.3,
+    "eps_ttm": 1.7,
+    "next_earnings_date": "Jul 30, 2026",
+    "history": [
+      {
+        "period_end": "Mar 2026",
+        "eps": 0.3,
+        "eps_forecast": null,
+        "eps_surprise_pct": null
+      },
+      {
+        "period_end": "Dec 2025",
+        "eps": 0.66,
+        "eps_forecast": null,
+        "eps_surprise_pct": null
+      },
+      {
+        "period_end": "Sep 2025",
+        "eps": 0.38,
+        "eps_forecast": null,
+        "eps_surprise_pct": null
+      },
+      {
+        "period_end": "Mar 2025",
+        "eps": 0.37,
+        "eps_forecast": null,
+        "eps_surprise_pct": null
+      },
+      {
+        "period_end": "Dec 2024",
+        "eps": 0.6,
+        "eps_forecast": null,
+        "eps_surprise_pct": null
+      },
+      {
+        "period_end": "Sep 2024",
+        "eps": 0.38,
+        "eps_forecast": null,
+        "eps_surprise_pct": null
+      }
+    ]
+  },
+  "dividends": {
+    "source": "stockanalysis.com (statistics + dividend page)",
+    "as_of": "2026-06-28",
+    "yield": 0.0646,
+    "per_share_ttm": 1,
+    "payout_ratio": null,
+    "history": [
+      {
+        "ex_date": "2026-04-22",
+        "amount": 1,
+        "type": null,
+        "yield": null
+      }
+    ]
+  },
+  "overview": {
+    "company_name": "Pak Qatar General Takaful Limited",
+    "sector": "Insurance",
+    "industry": "Insurance",
+    "market_cap": 1566.1,
+    "shares_outstanding": 101.11,
+    "current_price": 15.49,
+    "currency": "PKR"
+  },
+  "profile": {},
+  "ownership": {},
+  "announcements": {},
+  "insider": {},
+  "shareholding": {},
+  "fipi": {},
+  "monthly_sales": {}
+}
