@@ -2122,6 +2122,8 @@ function dmOpenModal(prefill){
     +'<input type="number" step="0.01" id="dmInputSl" placeholder="e.g. 92.00" value="'+(prefill.sl||'')+'">'
     +'<label>Quantity (optional, for PKR P&amp;L)</label>'
     +'<input type="number" step="1" id="dmInputQty" placeholder="e.g. 100 shares">'
+    +'<label>Notes / reasoning</label>'
+    +'<textarea id="dmInputNote" placeholder="Why you\'re taking this trade...">'+(prefill.note?String(prefill.note).replace(/</g,'&lt;'):'')+'</textarea>'
     +'<div id="dmPreview" class="dt-note" style="margin-top:10px"></div>'
     +'<div class="wl-modal-actions"><button class="cancel" id="dmCancel">Cancel</button><button class="primary" id="dmSaveBtn">Create</button></div></div>';
   document.body.appendChild(back);
@@ -2154,10 +2156,11 @@ function dmOpenModal(prefill){
     const tp=parseFloat(tpEl.value), sl=parseFloat(slEl.value), qty=parseFloat(qtyEl.value)||null;
     if(!sym||!cur){ alert(sym?sym+" isn't in the currently tracked universe.":'Enter a symbol.'); return; }
     if(!entry||!tp||!sl||tp<=entry||sl>=entry){ alert('TP must be above entry and SL must be below entry.'); return; }
+    const note=(back.querySelector('#dmInputNote').value||'').trim();
     const trades=dmLoad();
     trades.push({
       id: Date.now()+'_'+sym,
-      symbol: sym, entry, tp, sl, qty,
+      symbol: sym, entry, tp, sl, qty, note,
       openedAt: new Date().toISOString(),
       status: 'open', closedAt: null, closeReason: null, closePrice: null
     });
@@ -2179,6 +2182,26 @@ function dmDeleteTrade(id){
   const trades=dmLoad().filter(x=>x.id!==id);
   dmSave(trades);
   renderDemoPage();
+}
+function dmEditNote(id){
+  const t=dmLoad().find(x=>x.id===id); if(!t) return;
+  const back=document.createElement('div');
+  back.className='wl-modal-backdrop';
+  back.innerHTML='<div class="wl-modal">'
+    +'<h3>Note — <span style="color:var(--accent)">'+t.symbol+'</span></h3>'
+    +'<label>Notes / reasoning</label>'
+    +'<textarea id="dmNoteText" placeholder="Why you\'re taking this trade...">'+(t.note?String(t.note).replace(/</g,'&lt;'):'')+'</textarea>'
+    +'<div class="wl-modal-actions"><button class="cancel" id="dmNoteCancel">Cancel</button><button class="primary" id="dmNoteSave">Save</button></div></div>';
+  document.body.appendChild(back);
+  back.addEventListener('click', e=>{ if(e.target===back) back.remove(); });
+  back.querySelector('#dmNoteCancel').onclick=()=>back.remove();
+  back.querySelector('#dmNoteSave').onclick=()=>{
+    const note=(back.querySelector('#dmNoteText').value||'').trim();
+    const trades=dmLoad(); const tr=trades.find(x=>x.id===id);
+    if(tr){ tr.note=note; dmSave(trades); }
+    back.remove();
+    renderDemoPage();
+  };
 }
 
 let _dmFilter='open';
@@ -2225,8 +2248,10 @@ function renderDemoPage(){
           +'<div class="pct">'+(pnlPct!=null?'<span class="'+(pnlPct>=0?'chg-pos':'chg-neg')+'">'+(pnlPct>=0?'+':'')+pnlPct+'%</span>'+(pnlPkr!=null?' / '+(pnlPkr>=0?'+':'')+pnlPkr+' PKR':''):'')+(t.status==='open'?' unrealized':' final')+'</div></div>'
       +'</div>'
       +'<div class="dt-row" style="margin-top:8px"><span class="k">Target / Stop</span><span class="v"><span style="color:var(--up)">'+t.tp.toFixed(2)+'</span> &middot; <span style="color:var(--down)">'+t.sl.toFixed(2)+'</span></span></div>'
+      +(t.note ? '<div class="wl-note">'+String(t.note).replace(/</g,'&lt;')+'</div>' : '<div class="wl-note empty">No notes yet.</div>')
       +'<div class="wl-actions">'
         +'<button data-act="open">View stock</button>'
+        +'<button data-act="note">'+(t.note?'Edit note':'Add note')+'</button>'
         +(t.status==='open'?'<button data-act="close-tp">Close at TP</button><button data-act="close-sl">Close at SL</button><button data-act="close-now">Close now</button>':'')
         +'<button class="danger" data-act="delete">Delete</button>'
       +'</div></div>';
@@ -2236,6 +2261,7 @@ function renderDemoPage(){
     const id=card.dataset.id;
     const trade=dmLoad().find(x=>x.id===id);
     Array.from(card.querySelectorAll('[data-act="open"]')).forEach(el=>el.addEventListener('click',()=>openDetail(trade.symbol)));
+    const noteBtn=card.querySelector('[data-act="note"]'); if(noteBtn) noteBtn.onclick=()=>dmEditNote(id);
     const tpBtn=card.querySelector('[data-act="close-tp"]'); if(tpBtn) tpBtn.onclick=()=>dmCloseTrade(id,'tp',trade.tp);
     const slBtn=card.querySelector('[data-act="close-sl"]'); if(slBtn) slBtn.onclick=()=>dmCloseTrade(id,'sl',trade.sl);
     const nowBtn=card.querySelector('[data-act="close-now"]'); if(nowBtn) nowBtn.onclick=()=>dmCloseTrade(id,'manual',dmCurrentPrice(trade.symbol));
