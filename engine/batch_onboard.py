@@ -6,7 +6,10 @@ import sys, subprocess, json, os, time
 
 ENGINE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.dirname(ENGINE)                          # monorepo root
-PY = os.path.join(ROOT, ".venv/bin/python")             # the monorepo venv
+# Prefer the monorepo venv locally; fall back to the current interpreter on CI
+# (GitHub Actions runs system Python with deps installed and has no .venv).
+_venv_py = os.path.join(ROOT, ".venv", "bin", "python")
+PY = _venv_py if os.path.exists(_venv_py) else sys.executable
 DASH_EXT = os.path.join(ROOT, "data", "external")
 SA_DIR = os.path.join(ROOT, ".cache", "sa")
 

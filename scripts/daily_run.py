@@ -21,7 +21,10 @@ import psx_auto, dev_rebuild  # noqa: E402  (dashboard modules)
 
 log = logging.getLogger("daily_run")
 logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(message)s")
-PY = str(ROOT / ".venv" / "bin" / "python")
+# Prefer the monorepo venv locally; fall back to the current interpreter on CI
+# (GitHub Actions runs system Python with deps installed and has no .venv).
+_venv_py = ROOT / ".venv" / "bin" / "python"
+PY = str(_venv_py) if _venv_py.exists() else sys.executable
 STOCKS = ROOT / "engine" / "stocks"
 
 
