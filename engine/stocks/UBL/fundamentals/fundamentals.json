@@ -1,0 +1,2644 @@
+{
+  "symbol": "UBL",
+  "income_statement_annual": {
+    "revenue": {
+      "2021": 100309,
+      "2022": 127149,
+      "2023": 184067,
+      "2024": 244467,
+      "2025": 428910
+    },
+    "net_income": {
+      "2021": 30409,
+      "2022": 31535,
+      "2023": 55145,
+      "2024": 75156,
+      "2025": 130000
+    },
+    "eps": {
+      "2021": 12.42,
+      "2022": 12.88,
+      "2023": 22.52,
+      "2024": 30.7,
+      "2025": 52.13
+    }
+  },
+  "balance_sheet_annual": {
+    "cash_and_equivalents": {
+      "2021": 258071,
+      "2022": 109080,
+      "2023": 250008,
+      "2024": 263262,
+      "2025": 396150
+    },
+    "total_assets": {
+      "2021": 2781228,
+      "2022": 2978406,
+      "2023": 5904675,
+      "2024": 8069097,
+      "2025": 12628515
+    },
+    "total_liabilities": {
+      "2021": 2552914,
+      "2022": 2749214,
+      "2023": 5618802,
+      "2024": 7748289,
+      "2025": 12123223
+    },
+    "total_debt": {
+      "2021": 585319,
+      "2022": 586518,
+      "2023": 2847158,
+      "2024": 4879085,
+      "2025": 6580905
+    },
+    "total_equity": {
+      "2021": 228314,
+      "2022": 229192,
+      "2023": 285873,
+      "2024": 320808,
+      "2025": 505292
+    }
+  },
+  "cashflow_annual": {
+    "cash_from_operations": {
+      "2021": 206512,
+      "2022": -252555,
+      "2023": 2493283,
+      "2024": 1550816,
+      "2025": 1748060
+    },
+    "cash_from_investing": {
+      "2021": -285347,
+      "2022": -19589,
+      "2023": -2876342,
+      "2024": -1438509,
+      "2025": -3964554
+    },
+    "cash_from_financing": {
+      "2021": 95038,
+      "2022": 127940,
+      "2023": 534124,
+      "2024": -52289,
+      "2025": 2451678
+    },
+    "capex": {
+      "2021": 3833,
+      "2022": 6516,
+      "2023": 8913,
+      "2024": 16616,
+      "2025": 153708
+    }
+  },
+  "income_statement_quarterly": {
+    "revenue": {
+      "2026-03": 143268,
+      "2025-12": 109489,
+      "2025-09": 107054,
+      "2025-06": 109713,
+      "2025-03": 102654,
+      "2024-12": 81244,
+      "2024-09": 67070,
+      "2024-03": 51095,
+      "2023-12": 49306,
+      "2023-09": 48663,
+      "2023-06": 44610,
+      "2023-03": 41488,
+      "2022-12": 34247,
+      "2022-09": 31644,
+      "2022-06": 32452,
+      "2022-03": 28805,
+      "2021-12": 26303,
+      "2021-09": 25917,
+      "2021-06": 24704
+    },
+    "net_income": {
+      "2026-03": 48417,
+      "2025-12": 29922,
+      "2025-09": 35355,
+      "2025-06": 28616,
+      "2025-03": 36107,
+      "2024-12": 26043,
+      "2024-09": 18319,
+      "2024-03": 15977,
+      "2023-12": 13465,
+      "2023-09": 14737,
+      "2023-06": 12716,
+      "2023-03": 14227,
+      "2022-12": 13063,
+      "2022-09": 6514,
+      "2022-06": 2654,
+      "2022-03": 9304,
+      "2021-12": 8665,
+      "2021-09": 6756,
+      "2021-06": 7389
+    },
+    "eps": {
+      "2026-03": 19.33,
+      "2025-12": 11.95,
+      "2025-09": 14.12,
+      "2025-06": 11.43,
+      "2025-03": 14.67,
+      "2024-12": 10.64,
+      "2024-09": 7.48,
+      "2024-03": 6.53,
+      "2023-12": 5.5,
+      "2023-09": 6.02,
+      "2023-06": 5.2,
+      "2023-03": 5.81,
+      "2022-12": 5.34,
+      "2022-09": 2.66,
+      "2022-06": 1.08,
+      "2022-03": 3.8,
+      "2021-12": 3.54,
+      "2021-09": 2.76,
+      "2021-06": 3.02
+    }
+  },
+  "balance_sheet_quarterly": {
+    "cash_and_equivalents": {
+      "2026-03": 482245,
+      "2025-12": 396150,
+      "2025-09": 389692,
+      "2025-06": 313261,
+      "2025-03": 382180,
+      "2024-12": 263262,
+      "2024-09": 140418,
+      "2024-06": 186769,
+      "2024-03": 268961,
+      "2023-12": 250008,
+      "2023-09": 237923,
+      "2023-06": 162866,
+      "2023-03": 139523,
+      "2022-12": 109080,
+      "2022-09": 135887,
+      "2022-06": 156991,
+      "2022-03": 157403,
+      "2021-12": 258071,
+      "2021-09": 266604,
+      "2021-06": 282457
+    },
+    "total_assets": {
+      "2026-03": 12732073,
+      "2025-12": 12628515,
+      "2025-09": 11281408,
+      "2025-06": 11095530,
+      "2025-03": 9374256,
+      "2024-12": 8069097,
+      "2024-09": 7717805,
+      "2024-06": 7807890,
+      "2024-03": 6202371,
+      "2023-12": 5904675,
+      "2023-09": 4284777,
+      "2023-06": 3440938,
+      "2023-03": 3253358,
+      "2022-12": 2978406,
+      "2022-09": 2917192,
+      "2022-06": 3053248,
+      "2022-03": 2481044,
+      "2021-12": 2781228,
+      "2021-09": 2680361,
+      "2021-06": 2548108
+    },
+    "total_liabilities": {
+      "2026-03": 12309857,
+      "2025-12": 12123223,
+      "2025-09": 10830939,
+      "2025-06": 10663616,
+      "2025-03": 9022454,
+      "2024-12": 7748289,
+      "2024-09": 7401021,
+      "2024-06": 7521693,
+      "2024-03": 5927082,
+      "2023-12": 5618802,
+      "2023-09": 4033519,
+      "2023-06": 3191549,
+      "2023-03": 3012134,
+      "2022-12": 2749214,
+      "2022-09": 2693691,
+      "2022-06": 2831030,
+      "2022-03": 2254497,
+      "2021-12": 2552914,
+      "2021-09": 2470730,
+      "2021-06": 2343287
+    },
+    "total_debt": {
+      "2026-03": 6668929,
+      "2025-12": 6580905,
+      "2025-09": 5767696,
+      "2025-06": 6111491,
+      "2025-03": 5438099,
+      "2024-12": 4879085,
+      "2024-09": 4329608,
+      "2024-06": 4127739,
+      "2024-03": 3004844,
+      "2023-12": 2847158,
+      "2023-09": 1388720,
+      "2023-06": 655216,
+      "2023-03": 496790,
+      "2022-12": 586518,
+      "2022-09": 220598,
+      "2022-06": 579541,
+      "2022-03": 234328,
+      "2021-12": 585319,
+      "2021-09": 438850,
+      "2021-06": 291402
+    },
+    "total_equity": {
+      "2026-03": 422216,
+      "2025-12": 505292,
+      "2025-09": 450468,
+      "2025-06": 431914,
+      "2025-03": 351802,
+      "2024-12": 320808,
+      "2024-09": 316783,
+      "2024-06": 286197,
+      "2024-03": 275289,
+      "2023-12": 285873,
+      "2023-09": 251258,
+      "2023-06": 249389,
+      "2023-03": 241224,
+      "2022-12": 229192,
+      "2022-09": 223501,
+      "2022-06": 222218,
+      "2022-03": 226547,
+      "2021-12": 228314,
+      "2021-09": 209631,
+      "2021-06": 204821
+    }
+  },
+  "cashflow_quarterly": {
+    "cash_from_operations": {
+      "2026-03": -89776,
+      "2025-12": 918175,
+      "2025-09": -362510,
+      "2025-06": 357041,
+      "2025-03": 834757,
+      "2024-12": 15971,
+      "2024-09": 273575,
+      "2024-03": 220508,
+      "2023-12": 1577011,
+      "2023-09": 675159,
+      "2023-06": 134138,
+      "2023-03": 106975,
+      "2022-12": 147560,
+      "2022-09": -349816,
+      "2022-06": 326654,
+      "2022-03": -376953,
+      "2021-12": 105085,
+      "2021-09": 38453,
+      "2021-06": -11375
+    },
+    "cash_from_investing": {
+      "2026-03": -86541,
+      "2025-12": -1292105,
+      "2025-09": 7300,
+      "2025-06": -1128048,
+      "2025-03": -1551278,
+      "2024-12": 511241,
+      "2024-09": -225243,
+      "2024-03": -294707,
+      "2023-12": -1705883,
+      "2023-09": -741767,
+      "2023-06": -116713,
+      "2023-03": -311979,
+      "2022-12": 46568,
+      "2022-09": 162927,
+      "2022-06": -516371,
+      "2022-03": 287287,
+      "2021-12": -5380,
+      "2021-09": -24424,
+      "2021-06": -124863
+    },
+    "cash_from_financing": {
+      "2026-03": 212151,
+      "2025-12": 377237,
+      "2025-09": 453872,
+      "2025-06": 874132,
+      "2025-03": 746442,
+      "2024-12": -541845,
+      "2024-09": -87642,
+      "2024-03": 125368,
+      "2023-12": 126105,
+      "2023-09": 51420,
+      "2023-06": 12110,
+      "2023-03": 344488,
+      "2022-12": -320297,
+      "2022-09": 200627,
+      "2022-06": 221704,
+      "2022-03": 25905,
+      "2021-12": -62384,
+      "2021-09": -29882,
+      "2021-06": 196282
+    },
+    "capex": {
+      "2026-03": 16319,
+      "2025-12": 59071,
+      "2025-09": 9513,
+      "2025-06": 16801,
+      "2025-03": 68309,
+      "2024-12": 1539,
+      "2024-09": 9015,
+      "2024-03": 1931,
+      "2023-12": 2523,
+      "2023-09": 2829,
+      "2023-06": 1810,
+      "2023-03": 1750,
+      "2022-12": 829.29,
+      "2022-09": 2665,
+      "2022-06": 1769,
+      "2022-03": 1251,
+      "2021-12": 265.12,
+      "2021-09": 1452,
+      "2021-06": 1481
+    }
+  },
+  "ratios": {
+    "pe_ratio": 7.79,
+    "price_to_book": 2.63,
+    "roe": 0.2573,
+    "roa": 0.0103,
+    "gross_margin": null,
+    "industry_pe": null
+  },
+  "earnings": {
+    "source": "stockanalysis.com (statistics + quarterly)",
+    "as_of": "2026-06-28",
+    "latest_eps": 19.33,
+    "eps_ttm": 56.82,
+    "next_earnings_date": "Jul 8, 2026",
+    "history": [
+      {
+        "period_end": "Mar 2026",
+        "eps": 19.33,
+        "eps_forecast": null,
+        "eps_surprise_pct": null
+      },
+      {
+        "period_end": "Dec 2025",
+        "eps": 11.95,
+        "eps_forecast": null,
+        "eps_surprise_pct": null
+      },
+      {
+        "period_end": "Sep 2025",
+        "eps": 14.12,
+        "eps_forecast": null,
+        "eps_surprise_pct": null
+      },
+      {
+        "period_end": "Jun 2025",
+        "eps": 11.43,
+        "eps_forecast": null,
+        "eps_surprise_pct": null
+      },
+      {
+        "period_end": "Mar 2025",
+        "eps": 14.67,
+        "eps_forecast": null,
+        "eps_surprise_pct": null
+      },
+      {
+        "period_end": "Dec 2024",
+        "eps": 10.64,
+        "eps_forecast": null,
+        "eps_surprise_pct": null
+      },
+      {
+        "period_end": "Sep 2024",
+        "eps": 7.48,
+        "eps_forecast": null,
+        "eps_surprise_pct": null
+      },
+      {
+        "period_end": "Mar 2024",
+        "eps": 6.53,
+        "eps_forecast": null,
+        "eps_surprise_pct": null
+      }
+    ]
+  },
+  "dividends": {
+    "source": "stockanalysis.com (statistics + dividend page)",
+    "as_of": "2026-06-28",
+    "yield": 0.0722,
+    "per_share_ttm": 32,
+    "payout_ratio": 0.5014,
+    "history": [
+      {
+        "ex_date": "2026-04-23",
+        "amount": 8,
+        "type": null,
+        "yield": null
+      },
+      {
+        "ex_date": "2026-03-19",
+        "amount": 8,
+        "type": null,
+        "yield": null
+      },
+      {
+        "ex_date": "2025-10-23",
+        "amount": 8,
+        "type": null,
+        "yield": null
+      },
+      {
+        "ex_date": "2025-07-18",
+        "amount": 8,
+        "type": null,
+        "yield": null
+      },
+      {
+        "ex_date": "2025-04-28",
+        "amount": 5.5,
+        "type": null,
+        "yield": null
+      },
+      {
+        "ex_date": "2025-03-11",
+        "amount": 5.5,
+        "type": null,
+        "yield": null
+      },
+      {
+        "ex_date": "2024-11-01",
+        "amount": 5.5,
+        "type": null,
+        "yield": null
+      },
+      {
+        "ex_date": "2024-08-08",
+        "amount": 5.5,
+        "type": null,
+        "yield": null
+      },
+      {
+        "ex_date": "2024-04-25",
+        "amount": 5.5,
+        "type": null,
+        "yield": null
+      },
+      {
+        "ex_date": "2024-03-07",
+        "amount": 5.5,
+        "type": null,
+        "yield": null
+      }
+    ]
+  },
+  "overview": {
+    "company_name": "United Bank Limited",
+    "sector": "Commercial Banks",
+    "industry": "Commercial Banks",
+    "market_cap": 1108855.9,
+    "shares_outstanding": 2504.25,
+    "current_price": 442.79,
+    "currency": "PKR"
+  },
+  "profile": {},
+  "ownership": {},
+  "announcements": {},
+  "insider": {
+    "source": "sarmaaya.pk (insider transactions, #insider-transactions table)",
+    "as_of": "2026-06-29",
+    "transactions": [
+      {
+        "date": "2026-06-24",
+        "person": "Hafsay Abbasy",
+        "role": "Senior Management",
+        "action": "Sell",
+        "shares": 7126,
+        "price": 405.0,
+        "value": 2886030
+      },
+      {
+        "date": "2026-06-22",
+        "person": "Munawar Raza Shah",
+        "role": "Senior Management",
+        "action": "Buy",
+        "shares": 65000,
+        "price": 434.25,
+        "value": 28226250
+      },
+      {
+        "date": "2026-06-17",
+        "person": "Mehdi Hassan Siddiqui",
+        "role": "Executive",
+        "action": "Sell",
+        "shares": 3406,
+        "price": 455.0,
+        "value": 1549730
+      },
+      {
+        "date": "2026-06-16",
+        "person": "Munawar Raza Shah",
+        "role": "Senior Management",
+        "action": "Buy",
+        "shares": 5000,
+        "price": 417.5,
+        "value": 2087500
+      },
+      {
+        "date": "2026-05-21",
+        "person": "Muhammad Awais Ahmad",
+        "role": "Executive",
+        "action": "Buy",
+        "shares": 722,
+        "price": 412.5,
+        "value": 297825
+      },
+      {
+        "date": "2026-05-21",
+        "person": "Mehdi Hassan Siddiqui",
+        "role": "Executive",
+        "action": "Buy",
+        "shares": 24,
+        "price": 378.0,
+        "value": 9072
+      },
+      {
+        "date": "2026-05-21",
+        "person": "Mehdi Hassan Siddiqui",
+        "role": "Executive",
+        "action": "Sell",
+        "shares": 12,
+        "price": 377.6,
+        "value": 4531
+      },
+      {
+        "date": "2026-05-15",
+        "person": "Farhan Najeeb",
+        "role": "Executive",
+        "action": "Buy",
+        "shares": 800,
+        "price": 385.51,
+        "value": 308408
+      },
+      {
+        "date": "2026-05-08",
+        "person": "Asad Raza Rizvi",
+        "role": "Executive",
+        "action": "Buy",
+        "shares": 1500,
+        "price": 394.69,
+        "value": 592035
+      },
+      {
+        "date": "2026-05-08",
+        "person": "Irfan Masood",
+        "role": "Executive",
+        "action": "Sell",
+        "shares": 754,
+        "price": 415.4,
+        "value": 313212
+      },
+      {
+        "date": "2026-05-04",
+        "person": "Farhan Najeeb",
+        "role": "Executive",
+        "action": "Buy",
+        "shares": 1000,
+        "price": 376.91,
+        "value": 376910
+      },
+      {
+        "date": "2026-04-29",
+        "person": "Asad Raza Rizvi",
+        "role": "Executive",
+        "action": "Buy",
+        "shares": 1685,
+        "price": 404.5,
+        "value": 681582
+      },
+      {
+        "date": "2026-04-27",
+        "person": "Farhan Najeeb",
+        "role": "Executive",
+        "action": "Buy",
+        "shares": 1100,
+        "price": 405.6,
+        "value": 446160
+      },
+      {
+        "date": "2026-04-21",
+        "person": "Munawar Raza Shah",
+        "role": "Senior Management",
+        "action": "Buy",
+        "shares": 6131,
+        "price": 409.5,
+        "value": 2510644
+      },
+      {
+        "date": "2026-04-13",
+        "person": "Suleman Pervez",
+        "role": "Senior Management",
+        "action": "Buy",
+        "shares": 9800,
+        "price": 309.75,
+        "value": 3035550
+      },
+      {
+        "date": "2026-04-08",
+        "person": "Tahira Sheikh (Spouse of Muhammad Irfan Anwar Sheikh)",
+        "role": "Non-Executive Director",
+        "action": "Buy",
+        "shares": 6000,
+        "price": 309.05,
+        "value": 1854300
+      },
+      {
+        "date": "2026-04-08",
+        "person": "Muhammad Irfan Anwar Sheikh",
+        "role": "Non-Executive Director",
+        "action": "Buy",
+        "shares": 50000,
+        "price": 309.25,
+        "value": 15462500
+      },
+      {
+        "date": "2026-04-07",
+        "person": "Abdul Aleem Qureshi",
+        "role": "Senior Management",
+        "action": "Buy",
+        "shares": 22699,
+        "price": 316.0,
+        "value": 7172884
+      },
+      {
+        "date": "2026-04-07",
+        "person": "Khurram Mumtaz",
+        "role": "Senior Management",
+        "action": "Buy",
+        "shares": 15000,
+        "price": 309.0,
+        "value": 4635000
+      },
+      {
+        "date": "2026-04-07",
+        "person": "Farrukh Karim Khan",
+        "role": "Senior Management",
+        "action": "Buy",
+        "shares": 10000,
+        "price": 297.45,
+        "value": 2974500
+      },
+      {
+        "date": "2026-04-03",
+        "person": "Farrukh Karim Khan",
+        "role": "Senior Management",
+        "action": "Buy",
+        "shares": 30000,
+        "price": 340.82,
+        "value": 10224600
+      },
+      {
+        "date": "2026-04-02",
+        "person": "Adil Haroon",
+        "role": "Senior Management",
+        "action": "Buy",
+        "shares": 10000,
+        "price": 339.18,
+        "value": 3391800
+      },
+      {
+        "date": "2026-04-01",
+        "person": "Abdul Aleem Qureshi",
+        "role": "Senior Management",
+        "action": "Buy",
+        "shares": 50000,
+        "price": 340.1,
+        "value": 17005000
+      },
+      {
+        "date": "2026-03-31",
+        "person": "Munawar Raza Shah",
+        "role": "Senior Management",
+        "action": "Buy",
+        "shares": 102956,
+        "price": 351.09,
+        "value": 36146822
+      },
+      {
+        "date": "2026-03-31",
+        "person": "Munawar Raza Shah",
+        "role": "Senior Management",
+        "action": "Buy",
+        "shares": 65000,
+        "price": 341.93,
+        "value": 22225450
+      },
+      {
+        "date": "2026-03-31",
+        "person": "Adil Haroon",
+        "role": "Senior Management",
+        "action": "Buy",
+        "shares": 20000,
+        "price": 344.6,
+        "value": 6892000
+      },
+      {
+        "date": "2026-03-18",
+        "person": "TrueNorth Advisors (Pvt) Limited",
+        "role": "Substantial Shareholder",
+        "action": "Buy",
+        "shares": 13500,
+        "price": 372.92,
+        "value": 5034420
+      },
+      {
+        "date": "2026-03-16",
+        "person": "Abdul Aleem Qureshi",
+        "role": "Senior Management",
+        "action": "Buy",
+        "shares": 25000,
+        "price": 365.7,
+        "value": 9142500
+      },
+      {
+        "date": "2026-03-13",
+        "person": "Munawar Raza Shah",
+        "role": "Senior Management",
+        "action": "Buy",
+        "shares": 10000,
+        "price": 366.0,
+        "value": 3660000
+      },
+      {
+        "date": "2026-03-09",
+        "person": "Munawar Raza Shah",
+        "role": "Senior Management",
+        "action": "Buy",
+        "shares": 15000,
+        "price": 443.25,
+        "value": 6648750
+      },
+      {
+        "date": "2026-01-13",
+        "person": "Syed Abdul Sami",
+        "role": "Executive",
+        "action": "Sell",
+        "shares": 249,
+        "price": 496.0,
+        "value": 123504
+      },
+      {
+        "date": "2026-01-06",
+        "person": "Syed Abdul Sami",
+        "role": "Executive",
+        "action": "Sell",
+        "shares": 6200,
+        "price": 413.0,
+        "value": 2560600
+      },
+      {
+        "date": "2026-01-06",
+        "person": "Syed Abdul Sami",
+        "role": "Executive",
+        "action": "Buy",
+        "shares": 5000,
+        "price": 465.0,
+        "value": 2325000
+      },
+      {
+        "date": "2025-12-30",
+        "person": "Irfan Masood",
+        "role": "Executive",
+        "action": "Sell",
+        "shares": 1224,
+        "price": 414.0,
+        "value": 506736
+      },
+      {
+        "date": "2025-12-25",
+        "person": "Zameer Mohammad Choudrey",
+        "role": "Non-Executive Director",
+        "action": "Buy",
+        "shares": 200000,
+        "price": 374.06,
+        "value": 74812000
+      },
+      {
+        "date": "2025-12-10",
+        "person": "Syed Amir Ali",
+        "role": "Executive",
+        "action": "Sell",
+        "shares": 2100,
+        "price": 376.06,
+        "value": 789726
+      },
+      {
+        "date": "2025-12-09",
+        "person": "Syed Amir Ali",
+        "role": "Executive",
+        "action": "Buy",
+        "shares": 2100,
+        "price": 376.26,
+        "value": 790146
+      },
+      {
+        "date": "2025-12-09",
+        "person": "Syed Amir Ali",
+        "role": "Executive",
+        "action": "Sell",
+        "shares": 2100,
+        "price": 375.78,
+        "value": 789138
+      },
+      {
+        "date": "2025-12-08",
+        "person": "Haider Zameer Choudrey",
+        "role": "Non-Executive Director",
+        "action": "Buy",
+        "shares": 300000,
+        "price": 379.44,
+        "value": 113832000
+      },
+      {
+        "date": "2025-12-08",
+        "person": "Umair Zameer Choudrey",
+        "role": "Substantial Shareholder",
+        "action": "Buy",
+        "shares": 300000,
+        "price": 379.44,
+        "value": 113832000
+      },
+      {
+        "date": "2025-12-03",
+        "person": "Irfan Masood",
+        "role": "Executive",
+        "action": "Sell",
+        "shares": 800,
+        "price": 380.0,
+        "value": 304000
+      },
+      {
+        "date": "2025-11-24",
+        "person": "Umair Zameer Choudrey",
+        "role": "Substantial Shareholder",
+        "action": "Buy",
+        "shares": 483445,
+        "price": 371.8,
+        "value": 179744851
+      },
+      {
+        "date": "2025-11-14",
+        "person": "Umair Zameer Choudrey",
+        "role": "Substantial Shareholder",
+        "action": "Buy",
+        "shares": 276983,
+        "price": 371.59,
+        "value": 102924113
+      },
+      {
+        "date": "2025-09-19",
+        "person": "Adil Haroon",
+        "role": "Executive",
+        "action": "Buy",
+        "shares": 15000,
+        "price": 367.94,
+        "value": 5519100
+      },
+      {
+        "date": "2025-09-17",
+        "person": "Tahira Sheikh (Spouse of Muhammad Irfan Anwar Sheikh)",
+        "role": "Non-Executive Director",
+        "action": "Buy",
+        "shares": 3300,
+        "price": 365.5,
+        "value": 1206150
+      },
+      {
+        "date": "2025-09-11",
+        "person": "Adil Haroon",
+        "role": "Executive",
+        "action": "Buy",
+        "shares": 20000,
+        "price": 375.0,
+        "value": 7500000
+      },
+      {
+        "date": "2025-09-01",
+        "person": "Umair Zameer Choudrey",
+        "role": "Substantial Shareholder",
+        "action": "Buy",
+        "shares": 33318,
+        "price": 380.5,
+        "value": 12677499
+      },
+      {
+        "date": "2025-09-01",
+        "person": "Umair Zameer Choudrey",
+        "role": "Substantial Shareholder",
+        "action": "Buy",
+        "shares": 57674,
+        "price": 380.05,
+        "value": 21919004
+      },
+      {
+        "date": "2025-09-01",
+        "person": "Umair Zameer Choudrey",
+        "role": "Substantial Shareholder",
+        "action": "Buy",
+        "shares": 100000,
+        "price": 380.82,
+        "value": 38082000
+      },
+      {
+        "date": "2025-09-01",
+        "person": "Haider Zameer Choudrey",
+        "role": "Non-Executive Director",
+        "action": "Buy",
+        "shares": 63000,
+        "price": 380.61,
+        "value": 23978430
+      },
+      {
+        "date": "2025-09-01",
+        "person": "Haider Zameer Choudrey",
+        "role": "Non-Executive Director",
+        "action": "Buy",
+        "shares": 53305,
+        "price": 380.47,
+        "value": 20280953
+      },
+      {
+        "date": "2025-09-01",
+        "person": "Haider Zameer Choudrey",
+        "role": "Non-Executive Director",
+        "action": "Buy",
+        "shares": 100000,
+        "price": 380.3,
+        "value": 38030000
+      },
+      {
+        "date": "2025-09-01",
+        "person": "Haider Zameer Choudrey",
+        "role": "Non-Executive Director",
+        "action": "Buy",
+        "shares": 23951,
+        "price": 381.45,
+        "value": 9136109
+      },
+      {
+        "date": "2025-08-26",
+        "person": "Umair Zameer Choudrey",
+        "role": "Substantial Shareholder",
+        "action": "Buy",
+        "shares": 118073,
+        "price": 380.89,
+        "value": 44972825
+      },
+      {
+        "date": "2025-08-26",
+        "person": "Haider Zameer Choudrey",
+        "role": "Non-Executive Director",
+        "action": "Buy",
+        "shares": 157000,
+        "price": 380.59,
+        "value": 59752630
+      },
+      {
+        "date": "2025-08-26",
+        "person": "Haider Zameer Choudrey",
+        "role": "Non-Executive Director",
+        "action": "Buy",
+        "shares": 163731,
+        "price": 377.63,
+        "value": 61829738
+      },
+      {
+        "date": "2025-08-18",
+        "person": "Haider Zameer Choudrey",
+        "role": "Non-Executive Director",
+        "action": "Buy",
+        "shares": 3042,
+        "price": 380.0,
+        "value": 1155960
+      },
+      {
+        "date": "2025-08-18",
+        "person": "Umair Zameer Choudrey",
+        "role": "Substantial Shareholder",
+        "action": "Buy",
+        "shares": 140174,
+        "price": 379.5,
+        "value": 53196033
+      },
+      {
+        "date": "2025-08-18",
+        "person": "Umair Zameer Choudrey",
+        "role": "Substantial Shareholder",
+        "action": "Buy",
+        "shares": 200000,
+        "price": 367.98,
+        "value": 73596000
+      },
+      {
+        "date": "2025-08-18",
+        "person": "Zameer Mohammed Choudrey",
+        "role": "Non-Executive Director",
+        "action": "Buy",
+        "shares": 204751,
+        "price": 380.82,
+        "value": 77973276
+      },
+      {
+        "date": "2025-08-04",
+        "person": "Umair Zameer Choudrey",
+        "role": "Substantial Shareholder",
+        "action": "Buy",
+        "shares": 175494,
+        "price": 368.49,
+        "value": 64667784
+      },
+      {
+        "date": "2025-08-04",
+        "person": "Umair Zameer Choudrey",
+        "role": "Substantial Shareholder",
+        "action": "Buy",
+        "shares": 500000,
+        "price": 367.94,
+        "value": 183970000
+      },
+      {
+        "date": "2025-08-04",
+        "person": "Umair Zameer Choudrey",
+        "role": "Substantial Shareholder",
+        "action": "Buy",
+        "shares": 219058,
+        "price": 362.21,
+        "value": 79344998
+      },
+      {
+        "date": "2025-07-22",
+        "person": "Umair Zameer Choudrey",
+        "role": "Substantial Shareholder",
+        "action": "Buy",
+        "shares": 401508,
+        "price": 372.71,
+        "value": 149646047
+      },
+      {
+        "date": "2025-07-22",
+        "person": "Haider Zameer Choudrey",
+        "role": "Non-Executive Director",
+        "action": "Buy",
+        "shares": 500000,
+        "price": 372.18,
+        "value": 186090000
+      },
+      {
+        "date": "2025-07-04",
+        "person": "Umair Zameer Choudrey",
+        "role": "Substantial Shareholder",
+        "action": "Buy",
+        "shares": 287739,
+        "price": 290.5,
+        "value": 83588180
+      },
+      {
+        "date": "2025-07-04",
+        "person": "Haider Zameer Choudrey",
+        "role": "Non-Executive Director",
+        "action": "Buy",
+        "shares": 435133,
+        "price": 270.5,
+        "value": 117703476
+      },
+      {
+        "date": "2025-07-04",
+        "person": "Zameer Mohammad Choudrey",
+        "role": "Non-Executive Director",
+        "action": "Buy",
+        "shares": 110000,
+        "price": 270.5,
+        "value": 29755000
+      },
+      {
+        "date": "2025-07-03",
+        "person": "Imran Sultan",
+        "role": "Senior Management",
+        "action": "Buy",
+        "shares": 63000,
+        "price": 302.97,
+        "value": 19087110
+      },
+      {
+        "date": "2025-05-27",
+        "person": "Imran Sarwar",
+        "role": "Senior Management",
+        "action": "Buy",
+        "shares": 850,
+        "price": 516.52,
+        "value": 439042
+      },
+      {
+        "date": "2025-04-24",
+        "person": "Irfan Masood",
+        "role": "Executive",
+        "action": "Buy",
+        "shares": 840,
+        "price": 539.94,
+        "value": 453550
+      },
+      {
+        "date": "2025-04-23",
+        "person": "Muhammad Irfan Anwar Sheikh",
+        "role": "Non-Executive Director",
+        "action": "Buy",
+        "shares": 5000,
+        "price": 380.0,
+        "value": 1900000
+      },
+      {
+        "date": "2025-04-09",
+        "person": "Tahir Javed",
+        "role": "Executive",
+        "action": "Sell",
+        "shares": 5170,
+        "price": 450.0,
+        "value": 2326500
+      },
+      {
+        "date": "2025-04-09",
+        "person": "Tahir Javed",
+        "role": "Executive",
+        "action": "Buy",
+        "shares": 4807,
+        "price": 477.0,
+        "value": 2292939
+      },
+      {
+        "date": "2025-04-08",
+        "person": "Umair Zameer Choudrey",
+        "role": "Non-Executive Director",
+        "action": "Buy",
+        "shares": 1702815,
+        "price": 477.14,
+        "value": 812481149
+      },
+      {
+        "date": "2025-03-27",
+        "person": "Abdul Aleem Qureshi",
+        "role": "Senior Management",
+        "action": "Buy",
+        "shares": 7676,
+        "price": 400.0,
+        "value": 3070400
+      },
+      {
+        "date": "2025-03-24",
+        "person": "Tahira Sheikh",
+        "role": "Non-Executive Director",
+        "action": "Buy",
+        "shares": 4000,
+        "price": 382.0,
+        "value": 1528000
+      },
+      {
+        "date": "2025-03-24",
+        "person": "Muhammad Irfan Anwar Sheikh",
+        "role": "Non-Executive Director",
+        "action": "Buy",
+        "shares": 30000,
+        "price": 382.02,
+        "value": 11460600
+      },
+      {
+        "date": "2025-03-24",
+        "person": "Umair Zameer Choudrey",
+        "role": "Substantial Shareholder",
+        "action": "Buy",
+        "shares": 669311,
+        "price": 385.52,
+        "value": 258032777
+      },
+      {
+        "date": "2025-03-24",
+        "person": "Haider Zameer Choudrey",
+        "role": "Non-Executive Director",
+        "action": "Buy",
+        "shares": 14791,
+        "price": 383.78,
+        "value": 5676490
+      },
+      {
+        "date": "2025-03-21",
+        "person": "Adil Haroon",
+        "role": "Executive",
+        "action": "Buy",
+        "shares": 20126,
+        "price": 386.25,
+        "value": 7773668
+      },
+      {
+        "date": "2025-03-21",
+        "person": "Hamida Lalani",
+        "role": "Executive",
+        "action": "Buy",
+        "shares": 2500,
+        "price": 385.68,
+        "value": 964200
+      },
+      {
+        "date": "2025-01-23",
+        "person": "Providus Capital (Pvt) Limited",
+        "role": "SUBSTANTIAL SHAREHOLDERS",
+        "action": "Buy",
+        "shares": 550000,
+        "price": 391.38,
+        "value": 215259000
+      },
+      {
+        "date": "2024-12-27",
+        "person": "Providus Capital (Pvt) Limited",
+        "role": "Substantial Shareholder",
+        "action": "Buy",
+        "shares": 4970000,
+        "price": 365.76,
+        "value": 1817827200
+      },
+      {
+        "date": "2024-12-27",
+        "person": "Providus Capital (Pvt) Limited",
+        "role": "Substantial Shareholder",
+        "action": "Buy",
+        "shares": 4970000,
+        "price": 365.76,
+        "value": 1817827200
+      },
+      {
+        "date": "2024-12-12",
+        "person": "Imran Sultan (spouse of Nadia Tabassum)",
+        "role": "Senior Management",
+        "action": "Buy",
+        "shares": 30000,
+        "price": 363.95,
+        "value": 10918500
+      },
+      {
+        "date": "2024-12-12",
+        "person": "Nadia Tabassum",
+        "role": "Senior Management",
+        "action": "Buy",
+        "shares": 70000,
+        "price": 364.14,
+        "value": 25489800
+      },
+      {
+        "date": "2024-09-02",
+        "person": "Bestway Cement Limited",
+        "role": "Substantial Shareholder",
+        "action": "Buy",
+        "shares": 615436,
+        "price": 252.79,
+        "value": 155576066
+      },
+      {
+        "date": "2024-08-13",
+        "person": "Tahir Sheikh (Spouse of Muhammad Irfan Anwar Sheikh)",
+        "role": "Non-Executive Director",
+        "action": "Buy",
+        "shares": 2000,
+        "price": 253.2,
+        "value": 506400
+      },
+      {
+        "date": "2024-08-13",
+        "person": "Muhammad Irfan Anwar Sheikh",
+        "role": "Non-Executive Director",
+        "action": "Buy",
+        "shares": 5000,
+        "price": 251.0,
+        "value": 1255000
+      },
+      {
+        "date": "2024-08-13",
+        "person": "Muhammad Irfan Anwar Sheikh",
+        "role": "Non-Executive Director",
+        "action": "Buy",
+        "shares": 30000,
+        "price": 253.7,
+        "value": 7611000
+      },
+      {
+        "date": "2024-08-13",
+        "person": "Bestway Cement Limited",
+        "role": "Substantial Shareholder",
+        "action": "Buy",
+        "shares": 339641,
+        "price": 253.13,
+        "value": 85973326
+      },
+      {
+        "date": "2024-07-23",
+        "person": "Bestway Cement Limited",
+        "role": "Substantial Shareholder",
+        "action": "Buy",
+        "shares": 163328,
+        "price": 257.68,
+        "value": 42086359
+      },
+      {
+        "date": "2024-07-15",
+        "person": "BESTWAY CEMENT LIMITED",
+        "role": "Substantial Shareholder",
+        "action": "Buy",
+        "shares": 145805,
+        "price": 257.0,
+        "value": 37471885
+      },
+      {
+        "date": "2024-07-09",
+        "person": "Alee Khalid Ghaznavi",
+        "role": "Senior Management",
+        "action": "Sell",
+        "shares": 19500,
+        "price": 262.39,
+        "value": 5116605
+      },
+      {
+        "date": "2024-07-01",
+        "person": "Bestway Cement Limited",
+        "role": "Substantial Shareholder",
+        "action": "Buy",
+        "shares": 1555424,
+        "price": 257.36,
+        "value": 400303921
+      },
+      {
+        "date": "2024-06-13",
+        "person": "Tahir Sheikh (Spouse of Muhammad Irfan Anwar Sheikh)",
+        "role": "Non-Executive Director",
+        "action": "Buy",
+        "shares": 500,
+        "price": 219.5,
+        "value": 109750
+      },
+      {
+        "date": "2024-06-13",
+        "person": "Muhammad Irfan Anwar Sheikh",
+        "role": "Non-Executive Director",
+        "action": "Buy",
+        "shares": 25000,
+        "price": 219.07,
+        "value": 5476750
+      },
+      {
+        "date": "2024-06-13",
+        "person": "Irfan Farooq Memon",
+        "role": "Senior Management",
+        "action": "Sell",
+        "shares": 5000,
+        "price": 226.0,
+        "value": 1130000
+      },
+      {
+        "date": "2024-05-21",
+        "person": "Umair Zameer Choudrey",
+        "role": "Substantial Shareholder",
+        "action": "Buy",
+        "shares": 95000,
+        "price": 200.15,
+        "value": 19014250
+      },
+      {
+        "date": "2024-05-21",
+        "person": "Rakshanda Chaudrey Spouse of Zameer Mohammed Choudrey",
+        "role": "Non- Executive Director",
+        "action": "Buy",
+        "shares": 55000,
+        "price": 204.0,
+        "value": 11220000
+      },
+      {
+        "date": "2024-05-21",
+        "person": "Haider Zameer Choudrey",
+        "role": "Non-Executive Director",
+        "action": "Buy",
+        "shares": 75000,
+        "price": 198.05,
+        "value": 14853750
+      },
+      {
+        "date": "2024-05-21",
+        "person": "Zameer Mohammed Choudrey",
+        "role": "Non-Executive Director",
+        "action": "Buy",
+        "shares": 70000,
+        "price": 205.0,
+        "value": 14350000
+      },
+      {
+        "date": "2024-04-19",
+        "person": "Muhammad Jawaid Iqbal",
+        "role": "Senior Management",
+        "action": "Buy",
+        "shares": 435000,
+        "price": 194.19,
+        "value": 84472650
+      },
+      {
+        "date": "2024-02-21",
+        "person": "Abdul Malik Tunio",
+        "role": "executive",
+        "action": "Buy",
+        "shares": 2000,
+        "price": 183.99,
+        "value": 367980
+      },
+      {
+        "date": "2024-02-09",
+        "person": "Muhammad Nauman Ghani",
+        "role": "Executive",
+        "action": "Sell",
+        "shares": 2500,
+        "price": 183.06,
+        "value": 457650
+      },
+      {
+        "date": "2024-02-09",
+        "person": "Niaz Ahmed Siddiqui",
+        "role": "Executive",
+        "action": "Sell",
+        "shares": 7500,
+        "price": 182.23,
+        "value": 1366725
+      },
+      {
+        "date": "2023-12-21",
+        "person": "Moazzam Haider",
+        "role": "Executive",
+        "action": "Buy",
+        "shares": 1405,
+        "price": 176.64,
+        "value": 248179
+      },
+      {
+        "date": "2023-12-07",
+        "person": "Zameer Mohammed Choudrey",
+        "role": "Non-Executive Director",
+        "action": "Buy",
+        "shares": 100000,
+        "price": 175.55,
+        "value": 17555000
+      },
+      {
+        "date": "2023-11-30",
+        "person": "Mustafa zafar chaudhary",
+        "role": "Executive",
+        "action": "Buy",
+        "shares": 1500,
+        "price": 165.88,
+        "value": 248820
+      },
+      {
+        "date": "2023-11-28",
+        "person": "Muhammad Abdul Samad Naeem",
+        "role": "Executive",
+        "action": "Buy",
+        "shares": 9205,
+        "price": 172.01,
+        "value": 1583352
+      },
+      {
+        "date": "2023-11-27",
+        "person": "Shahzad Ahmed Qureshi",
+        "role": "Executive",
+        "action": "Buy",
+        "shares": 898,
+        "price": 159.02,
+        "value": 142800
+      },
+      {
+        "date": "2023-11-27",
+        "person": "Zameer Mohammed Choudrey",
+        "role": "Non-Executive Director",
+        "action": "Buy",
+        "shares": 460000,
+        "price": 165.05,
+        "value": 75923000
+      },
+      {
+        "date": "2023-11-27",
+        "person": "Bestway Cement Limited",
+        "role": "Substantial Shareholder",
+        "action": "Buy",
+        "shares": 899124,
+        "price": 163.25,
+        "value": 146781993
+      },
+      {
+        "date": "2023-11-27",
+        "person": "Muhammad Ali",
+        "role": "Executive",
+        "action": "Sell",
+        "shares": 15000,
+        "price": 160.7,
+        "value": 2410500
+      },
+      {
+        "date": "2023-11-27",
+        "person": "Shahzad Ahmed Qureshi",
+        "role": "Executive",
+        "action": "Sell",
+        "shares": 1796,
+        "price": 159.75,
+        "value": 286911
+      },
+      {
+        "date": "2023-11-20",
+        "person": "Beltway Cement Limited",
+        "role": "Substantial Shareholder",
+        "action": "Buy",
+        "shares": 890161,
+        "price": 158.62,
+        "value": 141197338
+      },
+      {
+        "date": "2023-11-20",
+        "person": "Muhammad Abdul Samad Naeem",
+        "role": "Executive",
+        "action": "Buy",
+        "shares": 400,
+        "price": 157.9,
+        "value": 63160
+      },
+      {
+        "date": "2023-11-20",
+        "person": "Zameer Mohammed Choudrey",
+        "role": "Non-Executive Director",
+        "action": "Buy",
+        "shares": 139648,
+        "price": 157.69,
+        "value": 22021093
+      },
+      {
+        "date": "2023-11-20",
+        "person": "Tahir Sheikh (Spouse of Muhammad Irfan Anwar Sheikh)",
+        "role": "Non-Executive Director",
+        "action": "Buy",
+        "shares": 6000,
+        "price": 157.18,
+        "value": 943080
+      },
+      {
+        "date": "2023-11-13",
+        "person": "Muhammad Irfan Anwar Sheikh",
+        "role": "Non-Executive Director",
+        "action": "Buy",
+        "shares": 50000,
+        "price": 159.99,
+        "value": 7999500
+      },
+      {
+        "date": "2023-11-13",
+        "person": "Bestway Cement Limited",
+        "role": "Substantial Shareholder",
+        "action": "Buy",
+        "shares": 600000,
+        "price": 159.64,
+        "value": 95784000
+      },
+      {
+        "date": "2023-11-13",
+        "person": "Haider Zameer Choudrey",
+        "role": "Non-Executive Director",
+        "action": "Buy",
+        "shares": 62500,
+        "price": 159.69,
+        "value": 9980625
+      },
+      {
+        "date": "2023-11-13",
+        "person": "Umair Zameer Choudrey",
+        "role": "Substantial Shareholder",
+        "action": "Buy",
+        "shares": 167500,
+        "price": 160.18,
+        "value": 26830150
+      },
+      {
+        "date": "2023-11-13",
+        "person": "Zameer Mohammed Choudrey",
+        "role": "Non-Executive Director",
+        "action": "Buy",
+        "shares": 1284514,
+        "price": 163.75,
+        "value": 210339168
+      },
+      {
+        "date": "2023-11-10",
+        "person": "Muhammad Ali",
+        "role": "Executive",
+        "action": "Sell",
+        "shares": 10000,
+        "price": 160.0,
+        "value": 1600000
+      },
+      {
+        "date": "2023-11-10",
+        "person": "Muhasher S Humayun",
+        "role": "Executive",
+        "action": "Buy",
+        "shares": 130,
+        "price": 161.62,
+        "value": 21011
+      },
+      {
+        "date": "2023-11-07",
+        "person": "Tahir Sheikh (Spouse of Muhammad Irfan Anwar Sheikh)",
+        "role": "Non-Executive Director",
+        "action": "Buy",
+        "shares": 10000,
+        "price": 160.61,
+        "value": 1606100
+      },
+      {
+        "date": "2023-11-07",
+        "person": "Muhammad Irfan Anwar Sheikh",
+        "role": "Non-Executive Director",
+        "action": "Buy",
+        "shares": 70000,
+        "price": 164.15,
+        "value": 11490500
+      },
+      {
+        "date": "2023-10-16",
+        "person": "Zameer Mohammed Choudrey",
+        "role": "Non-Executive Director",
+        "action": "Buy",
+        "shares": 540752,
+        "price": 154.33,
+        "value": 83454256
+      },
+      {
+        "date": "2023-06-27",
+        "person": "Rizwan Pervez",
+        "role": "Non-Executive Director",
+        "action": "Buy",
+        "shares": 417045,
+        "price": 110.1,
+        "value": 45916654
+      },
+      {
+        "date": "2023-06-27",
+        "person": "Sir Mohammad Anwar Pervez",
+        "role": "Non-Executive Director",
+        "action": "Buy",
+        "shares": 188098,
+        "price": 114.74,
+        "value": 21582365
+      },
+      {
+        "date": "2023-06-27",
+        "person": "Zameer Mohammed Choudrey",
+        "role": "Non-Executive Director",
+        "action": "Buy",
+        "shares": 938328,
+        "price": 113.12,
+        "value": 106143663
+      },
+      {
+        "date": "2023-06-06",
+        "person": "Sir Mohammad Anwar Pervez",
+        "role": "Non-Executive Director",
+        "action": "Buy",
+        "shares": 11902,
+        "price": 114.75,
+        "value": 1365754
+      },
+      {
+        "date": "2023-05-23",
+        "person": "Farooq Ahmed khan",
+        "role": "Executive",
+        "action": "Buy",
+        "shares": 325,
+        "price": 114.75,
+        "value": 37294
+      },
+      {
+        "date": "2023-05-19",
+        "person": "Farooq Ahmed khan",
+        "role": "Executive",
+        "action": "Buy",
+        "shares": 1000,
+        "price": 120.0,
+        "value": 120000
+      },
+      {
+        "date": "2023-05-04",
+        "person": "Ahmer Shamim",
+        "role": "Executive",
+        "action": "Sell",
+        "shares": 24,
+        "price": 122.61,
+        "value": 2943
+      },
+      {
+        "date": "2023-05-04",
+        "person": "Ahmer Shamim",
+        "role": "Executive",
+        "action": "Sell",
+        "shares": 2100,
+        "price": 124.55,
+        "value": 261555
+      },
+      {
+        "date": "2023-03-09",
+        "person": "Muhammad Ali",
+        "role": "Executive",
+        "action": "Buy",
+        "shares": 1500,
+        "price": 115.8,
+        "value": 173700
+      },
+      {
+        "date": "2023-01-25",
+        "person": "Zameer Mohammed Choudrey",
+        "role": "Non-Executive Director",
+        "action": "Buy",
+        "shares": 33445,
+        "price": 92.0,
+        "value": 3076940
+      },
+      {
+        "date": "2023-01-25",
+        "person": "Zameer Mohammed Choudrey",
+        "role": "Non-Executive Director",
+        "action": "Buy",
+        "shares": 25000,
+        "price": 92.5,
+        "value": 2312500
+      },
+      {
+        "date": "2023-01-25",
+        "person": "Zameer Mohammed Choudrey",
+        "role": "Non-Executive Director",
+        "action": "Buy",
+        "shares": 35000,
+        "price": 92.4,
+        "value": 3234000
+      },
+      {
+        "date": "2023-01-25",
+        "person": "Zameer Mohammed Choudrey",
+        "role": "Non-Executive Director",
+        "action": "Buy",
+        "shares": 20000,
+        "price": 92.35,
+        "value": 1847000
+      },
+      {
+        "date": "2023-01-25",
+        "person": "Zameer Mohammed Choudrey",
+        "role": "Non-Executive Director",
+        "action": "Buy",
+        "shares": 20000,
+        "price": 92.3,
+        "value": 1846000
+      },
+      {
+        "date": "2023-01-25",
+        "person": "Zameer Mohammed Choudrey",
+        "role": "Non-Executive Director",
+        "action": "Buy",
+        "shares": 877,
+        "price": 91.99,
+        "value": 80675
+      },
+      {
+        "date": "2022-09-22",
+        "person": "Farooq Ahmed Khan",
+        "role": "Executive",
+        "action": "Buy",
+        "shares": 2000,
+        "price": 115.5,
+        "value": 231000
+      },
+      {
+        "date": "2022-09-22",
+        "person": "Moazzam Haider",
+        "role": "Executive",
+        "action": "Sell",
+        "shares": 103,
+        "price": 116.4,
+        "value": 11989
+      },
+      {
+        "date": "2022-09-22",
+        "person": "Moazzam Haider",
+        "role": "Executive",
+        "action": "Sell",
+        "shares": 1,
+        "price": 116.41,
+        "value": 116
+      },
+      {
+        "date": "2022-09-22",
+        "person": "Moazzam Haider",
+        "role": "Executive",
+        "action": "Sell",
+        "shares": 2000,
+        "price": 116.4,
+        "value": 232800
+      },
+      {
+        "date": "2022-06-22",
+        "person": "Muhammad Faisal",
+        "role": "Executive",
+        "action": "Sell",
+        "shares": 3208,
+        "price": 121.25,
+        "value": 388970
+      },
+      {
+        "date": "2022-06-22",
+        "person": "Muhammad Faisal",
+        "role": "Executive",
+        "action": "Sell",
+        "shares": 178,
+        "price": 121.02,
+        "value": 21542
+      },
+      {
+        "date": "2022-06-22",
+        "person": "Muhammad Faisal",
+        "role": "Executive",
+        "action": "Sell",
+        "shares": 7000,
+        "price": 121.03,
+        "value": 847210
+      },
+      {
+        "date": "2022-06-22",
+        "person": "Muhammad Faisal",
+        "role": "Executive",
+        "action": "Sell",
+        "shares": 2500,
+        "price": 121.05,
+        "value": 302625
+      },
+      {
+        "date": "2022-06-22",
+        "person": "Muhammad Faisal",
+        "role": "Executive",
+        "action": "Sell",
+        "shares": 750,
+        "price": 121.06,
+        "value": 90795
+      },
+      {
+        "date": "2022-06-22",
+        "person": "Muhammad Faisal",
+        "role": "Executive",
+        "action": "Sell",
+        "shares": 110,
+        "price": 121.1,
+        "value": 13321
+      },
+      {
+        "date": "2022-06-22",
+        "person": "Muhammad Faisal",
+        "role": "Executive",
+        "action": "Sell",
+        "shares": 200,
+        "price": 121.15,
+        "value": 24230
+      },
+      {
+        "date": "2022-06-22",
+        "person": "Muhammad Faisal",
+        "role": "Executive",
+        "action": "Sell",
+        "shares": 15,
+        "price": 121.2,
+        "value": 1818
+      },
+      {
+        "date": "2022-06-22",
+        "person": "Muhammad Faisal",
+        "role": "Executive",
+        "action": "Sell",
+        "shares": 5,
+        "price": 121.26,
+        "value": 606
+      },
+      {
+        "date": "2017-06-22",
+        "person": "Zameer Mohammed Choudrey",
+        "role": "Non-Executive Director",
+        "action": "Buy",
+        "shares": 12070,
+        "price": 119.95,
+        "value": 1447796
+      },
+      {
+        "date": "2017-06-22",
+        "person": "Zameer Mohammed Choudrey",
+        "role": "Non-Executive Director",
+        "action": "Buy",
+        "shares": 78355,
+        "price": 117.5,
+        "value": 9206712
+      },
+      {
+        "date": "2017-06-22",
+        "person": "Zameer Mohammed Choudrey",
+        "role": "Non-Executive Director",
+        "action": "Buy",
+        "shares": 2500,
+        "price": 118.95,
+        "value": 297375
+      },
+      {
+        "date": "2017-06-22",
+        "person": "Zameer Mohammed Choudrey",
+        "role": "Non-Executive Director",
+        "action": "Buy",
+        "shares": 1000,
+        "price": 118.98,
+        "value": 118980
+      },
+      {
+        "date": "2017-06-22",
+        "person": "Zameer Mohammed Choudrey",
+        "role": "Non-Executive Director",
+        "action": "Buy",
+        "shares": 2699,
+        "price": 117.49,
+        "value": 317106
+      },
+      {
+        "date": "2017-06-22",
+        "person": "Zameer Mohammed Choudrey",
+        "role": "Non-Executive Director",
+        "action": "Buy",
+        "shares": 22886,
+        "price": 117.4,
+        "value": 2686816
+      },
+      {
+        "date": "2017-06-22",
+        "person": "Zameer Mohammed Choudrey",
+        "role": "Non-Executive Director",
+        "action": "Buy",
+        "shares": 200,
+        "price": 117.39,
+        "value": 23478
+      },
+      {
+        "date": "2017-06-22",
+        "person": "Zameer Mohammed Choudrey",
+        "role": "Non-Executive Director",
+        "action": "Buy",
+        "shares": 1000,
+        "price": 117.38,
+        "value": 117380
+      },
+      {
+        "date": "2017-06-22",
+        "person": "Zameer Mohammed Choudrey",
+        "role": "Non-Executive Director",
+        "action": "Buy",
+        "shares": 5000,
+        "price": 117.35,
+        "value": 586750
+      },
+      {
+        "date": "2017-06-22",
+        "person": "Zameer Mohammed Choudrey",
+        "role": "Non-Executive Director",
+        "action": "Buy",
+        "shares": 500,
+        "price": 117.34,
+        "value": 58670
+      },
+      {
+        "date": "2017-06-22",
+        "person": "Zameer Mohammed Choudrey",
+        "role": "Non-Executive Director",
+        "action": "Buy",
+        "shares": 500,
+        "price": 117.33,
+        "value": 58665
+      },
+      {
+        "date": "2017-06-22",
+        "person": "Zameer Mohammed Choudrey",
+        "role": "Non-Executive Director",
+        "action": "Buy",
+        "shares": 500,
+        "price": 117.32,
+        "value": 58660
+      },
+      {
+        "date": "2017-06-22",
+        "person": "Zameer Mohammed Choudrey",
+        "role": "Non-Executive Director",
+        "action": "Buy",
+        "shares": 500,
+        "price": 117.29,
+        "value": 58645
+      },
+      {
+        "date": "2017-06-22",
+        "person": "Zameer Mohammed Choudrey",
+        "role": "Non-Executive Director",
+        "action": "Buy",
+        "shares": 4032,
+        "price": 117.0,
+        "value": 471744
+      },
+      {
+        "date": "2017-06-22",
+        "person": "Zameer Mohammed Choudrey",
+        "role": "Non-Executive Director",
+        "action": "Buy",
+        "shares": 8122,
+        "price": 118.8,
+        "value": 964894
+      },
+      {
+        "date": "2017-06-22",
+        "person": "Zameer Mohammed Choudrey",
+        "role": "Non-Executive Director",
+        "action": "Buy",
+        "shares": 10,
+        "price": 118.7,
+        "value": 1187
+      },
+      {
+        "date": "2017-06-22",
+        "person": "Zameer Mohammed Choudrey",
+        "role": "Non-Executive Director",
+        "action": "Buy",
+        "shares": 621,
+        "price": 118.69,
+        "value": 73706
+      },
+      {
+        "date": "2017-06-22",
+        "person": "Zameer Mohammed Choudrey",
+        "role": "Non-Executive Director",
+        "action": "Buy",
+        "shares": 8698,
+        "price": 118.25,
+        "value": 1028538
+      },
+      {
+        "date": "2017-06-22",
+        "person": "Zameer Mohammed Choudrey",
+        "role": "Non-Executive Director",
+        "action": "Buy",
+        "shares": 50,
+        "price": 118.2,
+        "value": 5910
+      },
+      {
+        "date": "2017-06-22",
+        "person": "Zameer Mohammed Choudrey",
+        "role": "Non-Executive Director",
+        "action": "Buy",
+        "shares": 200,
+        "price": 118.15,
+        "value": 23630
+      },
+      {
+        "date": "2017-06-22",
+        "person": "Zameer Mohammed Choudrey",
+        "role": "Non-Executive Director",
+        "action": "Buy",
+        "shares": 118794,
+        "price": 120.0,
+        "value": 14255280
+      },
+      {
+        "date": "2017-06-22",
+        "person": "Zameer Mohammed Choudrey",
+        "role": "Non-Executive Director",
+        "action": "Buy",
+        "shares": 115,
+        "price": 119.95,
+        "value": 13794
+      },
+      {
+        "date": "2017-06-22",
+        "person": "Zameer Mohammed Choudrey",
+        "role": "Non-Executive Director",
+        "action": "Buy",
+        "shares": 2500,
+        "price": 118.85,
+        "value": 297125
+      },
+      {
+        "date": "2017-06-22",
+        "person": "Zameer Mohammed Choudrey",
+        "role": "Non-Executive Director",
+        "action": "Buy",
+        "shares": 37015,
+        "price": 119.9,
+        "value": 4438098
+      },
+      {
+        "date": "2017-06-22",
+        "person": "Zameer Mohammed Choudrey",
+        "role": "Non-Executive Director",
+        "action": "Buy",
+        "shares": 430,
+        "price": 119.89,
+        "value": 51553
+      },
+      {
+        "date": "2017-06-22",
+        "person": "Zameer Mohammed Choudrey",
+        "role": "Non-Executive Director",
+        "action": "Buy",
+        "shares": 485,
+        "price": 119.87,
+        "value": 58137
+      },
+      {
+        "date": "2017-06-22",
+        "person": "Zameer Mohammed Choudrey",
+        "role": "Non-Executive Director",
+        "action": "Buy",
+        "shares": 30966,
+        "price": 119.85,
+        "value": 3711275
+      },
+      {
+        "date": "2017-06-22",
+        "person": "Zameer Mohammed Choudrey",
+        "role": "Non-Executive Director",
+        "action": "Buy",
+        "shares": 70151,
+        "price": 119.8,
+        "value": 8404090
+      },
+      {
+        "date": "2017-06-22",
+        "person": "Zameer Mohammed Choudrey",
+        "role": "Non-Executive Director",
+        "action": "Buy",
+        "shares": 6192,
+        "price": 119.75,
+        "value": 741492
+      },
+      {
+        "date": "2017-06-22",
+        "person": "Zameer Mohammed Choudrey",
+        "role": "Non-Executive Director",
+        "action": "Buy",
+        "shares": 3480,
+        "price": 119.7,
+        "value": 416556
+      },
+      {
+        "date": "2017-06-22",
+        "person": "Zameer Mohammed Choudrey",
+        "role": "Non-Executive Director",
+        "action": "Buy",
+        "shares": 20302,
+        "price": 119.5,
+        "value": 2426089
+      },
+      {
+        "date": "2017-06-22",
+        "person": "Zameer Mohammed Choudrey",
+        "role": "Non-Executive Director",
+        "action": "Buy",
+        "shares": 2500,
+        "price": 119.15,
+        "value": 297875
+      },
+      {
+        "date": "2017-06-22",
+        "person": "Zameer Mohammed Choudrey",
+        "role": "Non-Executive Director",
+        "action": "Buy",
+        "shares": 234723,
+        "price": 119.0,
+        "value": 27932037
+      },
+      {
+        "date": "2017-06-22",
+        "person": "Zameer Mohammed Choudrey",
+        "role": "Non-Executive Director",
+        "action": "Buy",
+        "shares": 4700,
+        "price": 118.99,
+        "value": 559253
+      },
+      {
+        "date": "2017-06-22",
+        "person": "Zameer Mohammed Choudrey",
+        "role": "Non-Executive Director",
+        "action": "Buy",
+        "shares": 12495,
+        "price": 118.9,
+        "value": 1485656
+      },
+      {
+        "date": "2017-06-22",
+        "person": "Zameer Mohammed Choudrey",
+        "role": "Non-Executive Director",
+        "action": "Buy",
+        "shares": 35632,
+        "price": 118.8,
+        "value": 4233082
+      },
+      {
+        "date": "2017-06-22",
+        "person": "Zameer Mohammed Choudrey",
+        "role": "Non-Executive Director",
+        "action": "Buy",
+        "shares": 2925,
+        "price": 118.79,
+        "value": 347461
+      },
+      {
+        "date": "2017-06-22",
+        "person": "Zameer Mohammed Choudrey",
+        "role": "Non-Executive Director",
+        "action": "Buy",
+        "shares": 7491,
+        "price": 118.75,
+        "value": 889556
+      },
+      {
+        "date": "2017-06-22",
+        "person": "Zameer Mohammed Choudrey",
+        "role": "Non-Executive Director",
+        "action": "Buy",
+        "shares": 6005,
+        "price": 118.7,
+        "value": 712794
+      },
+      {
+        "date": "2017-06-22",
+        "person": "Zameer Mohammed Choudrey",
+        "role": "Non-Executive Director",
+        "action": "Buy",
+        "shares": 929,
+        "price": 118.6,
+        "value": 110179
+      },
+      {
+        "date": "2014-09-22",
+        "person": "Haider Zameer Choudrey",
+        "role": "Non-Executive Director",
+        "action": "Gift-In",
+        "shares": 1000000,
+        "price": 0.0,
+        "value": 0
+      },
+      {
+        "date": "2014-09-22",
+        "person": "Zameer Mohammed Choudrey",
+        "role": "Non-Executive Director",
+        "action": "Gift-Out",
+        "shares": 1000000,
+        "price": 0.0,
+        "value": 0
+      },
+      {
+        "date": "2013-07-22",
+        "person": "Zameer Mohammed Choudrey",
+        "role": "Non-Executive Director",
+        "action": "Buy",
+        "shares": 5000,
+        "price": 113.86,
+        "value": 569300
+      },
+      {
+        "date": "2013-07-22",
+        "person": "Zameer Mohammed Choudrey",
+        "role": "Non-Executive Director",
+        "action": "Buy",
+        "shares": 1,
+        "price": 113.9,
+        "value": 114
+      },
+      {
+        "date": "2013-07-22",
+        "person": "Zameer Mohammed Choudrey",
+        "role": "Non-Executive Director",
+        "action": "Buy",
+        "shares": 10000,
+        "price": 113.94,
+        "value": 1139400
+      },
+      {
+        "date": "2013-07-22",
+        "person": "Zameer Mohammed Choudrey",
+        "role": "Non-Executive Director",
+        "action": "Buy",
+        "shares": 2650,
+        "price": 113.95,
+        "value": 301968
+      },
+      {
+        "date": "2013-07-22",
+        "person": "Zameer Mohammed Choudrey",
+        "role": "Non-Executive Director",
+        "action": "Buy",
+        "shares": 1000,
+        "price": 112.8,
+        "value": 112800
+      },
+      {
+        "date": "2013-07-22",
+        "person": "Zameer Mohammed Choudrey",
+        "role": "Non-Executive Director",
+        "action": "Buy",
+        "shares": 1576,
+        "price": 113.99,
+        "value": 179648
+      },
+      {
+        "date": "2013-07-22",
+        "person": "Zameer Mohammed Choudrey",
+        "role": "Non-Executive Director",
+        "action": "Buy",
+        "shares": 22785,
+        "price": 114.0,
+        "value": 2597490
+      },
+      {
+        "date": "2013-07-22",
+        "person": "Zameer Mohammed Choudrey",
+        "role": "Non-Executive Director",
+        "action": "Buy",
+        "shares": 300,
+        "price": 112.79,
+        "value": 33837
+      },
+      {
+        "date": "2013-07-22",
+        "person": "Zameer Mohammed Choudrey",
+        "role": "Non-Executive Director",
+        "action": "Buy",
+        "shares": 9946,
+        "price": 113.81,
+        "value": 1131954
+      },
+      {
+        "date": "2013-07-22",
+        "person": "Zameer Mohammed Choudrey",
+        "role": "Non-Executive Director",
+        "action": "Buy",
+        "shares": 664586,
+        "price": 113.0,
+        "value": 75098218
+      },
+      {
+        "date": "2011-04-22",
+        "person": "Sajid Hussain",
+        "role": "Executive",
+        "action": "Buy",
+        "shares": 5000,
+        "price": 135.5,
+        "value": 677500
+      },
+      {
+        "date": "2010-06-22",
+        "person": "Zameer Mohammed Choudrey",
+        "role": "Non-Executive Director",
+        "action": "Buy",
+        "shares": 2000,
+        "price": 125.5,
+        "value": 251000
+      },
+      {
+        "date": "2010-06-22",
+        "person": "Zameer Mohammed Choudrey",
+        "role": "Non-Executive Director",
+        "action": "Buy",
+        "shares": 10536,
+        "price": 125.15,
+        "value": 1318580
+      },
+      {
+        "date": "2010-06-22",
+        "person": "Zameer Mohammed Choudrey",
+        "role": "Non-Executive Director",
+        "action": "Buy",
+        "shares": 5000,
+        "price": 126.0,
+        "value": 630000
+      },
+      {
+        "date": "2010-06-22",
+        "person": "Zameer Mohammed Choudrey",
+        "role": "Non-Executive Director",
+        "action": "Buy",
+        "shares": 1634,
+        "price": 125.75,
+        "value": 205476
+      },
+      {
+        "date": "2010-06-22",
+        "person": "Zameer Mohammed Choudrey",
+        "role": "Non-Executive Director",
+        "action": "Buy",
+        "shares": 20000,
+        "price": 126.5,
+        "value": 2530000
+      },
+      {
+        "date": "2010-06-22",
+        "person": "Zameer Mohammed Choudrey",
+        "role": "Non-Executive Director",
+        "action": "Buy",
+        "shares": 20000,
+        "price": 125.0,
+        "value": 2500000
+      },
+      {
+        "date": "2010-06-22",
+        "person": "Zameer Mohammed Choudrey",
+        "role": "Non-Executive Director",
+        "action": "Buy",
+        "shares": 19844,
+        "price": 127.75,
+        "value": 2535071
+      },
+      {
+        "date": "2010-06-22",
+        "person": "Zameer Mohammed Choudrey",
+        "role": "Non-Executive Director",
+        "action": "Buy",
+        "shares": 60000,
+        "price": 128.0,
+        "value": 7680000
+      },
+      {
+        "date": "2010-06-22",
+        "person": "Zameer Mohammed Choudrey",
+        "role": "Non-Executive Director",
+        "action": "Buy",
+        "shares": 34722,
+        "price": 125.5,
+        "value": 4357611
+      },
+      {
+        "date": "2010-06-22",
+        "person": "Zameer Mohammed Choudrey",
+        "role": "Non-Executive Director",
+        "action": "Buy",
+        "shares": 3192,
+        "price": 125.49,
+        "value": 400564
+      },
+      {
+        "date": "2010-06-22",
+        "person": "Zameer Mohammed Choudrey",
+        "role": "Non-Executive Director",
+        "action": "Buy",
+        "shares": 4500,
+        "price": 125.48,
+        "value": 564660
+      },
+      {
+        "date": "2010-06-22",
+        "person": "Zameer Mohammed Choudrey",
+        "role": "Non-Executive Director",
+        "action": "Buy",
+        "shares": 1000,
+        "price": 125.47,
+        "value": 125470
+      },
+      {
+        "date": "2010-06-22",
+        "person": "Zameer Mohammed Choudrey",
+        "role": "Non-Executive Director",
+        "action": "Buy",
+        "shares": 2500,
+        "price": 125.45,
+        "value": 313625
+      },
+      {
+        "date": "2010-06-22",
+        "person": "Zameer Mohammed Choudrey",
+        "role": "Non-Executive Director",
+        "action": "Buy",
+        "shares": 1000,
+        "price": 125.44,
+        "value": 125440
+      },
+      {
+        "date": "2010-06-22",
+        "person": "Zameer Mohammed Choudrey",
+        "role": "Non-Executive Director",
+        "action": "Buy",
+        "shares": 64770,
+        "price": 125.0,
+        "value": 8096250
+      },
+      {
+        "date": "2010-06-22",
+        "person": "Zameer Mohammed Choudrey",
+        "role": "Non-Executive Director",
+        "action": "Buy",
+        "shares": 933,
+        "price": 124.99,
+        "value": 116616
+      },
+      {
+        "date": "2010-06-22",
+        "person": "Zameer Mohammed Choudrey",
+        "role": "Non-Executive Director",
+        "action": "Buy",
+        "shares": 1586,
+        "price": 125.4,
+        "value": 198884
+      },
+      {
+        "date": "2010-06-22",
+        "person": "Zameer Mohammed Choudrey",
+        "role": "Non-Executive Director",
+        "action": "Buy",
+        "shares": 1000,
+        "price": 125.39,
+        "value": 125390
+      },
+      {
+        "date": "2010-06-22",
+        "person": "Zameer Mohammed Choudrey",
+        "role": "Non-Executive Director",
+        "action": "Buy",
+        "shares": 500,
+        "price": 125.35,
+        "value": 62675
+      },
+      {
+        "date": "2010-06-22",
+        "person": "Zameer Mohammed Choudrey",
+        "role": "Non-Executive Director",
+        "action": "Buy",
+        "shares": 20000,
+        "price": 124.5,
+        "value": 2490000
+      },
+      {
+        "date": "2010-05-22",
+        "person": "Farooq Ahmed Khan",
+        "role": "Executive",
+        "action": "Buy",
+        "shares": 1000,
+        "price": 133.7,
+        "value": 133700
+      },
+      {
+        "date": "2001-04-22",
+        "person": "Farooq Ahmed Khan",
+        "role": "Executive",
+        "action": "Buy",
+        "shares": 4109,
+        "price": 137.3,
+        "value": 564166
+      },
+      {
+        "date": "2001-04-22",
+        "person": "Farooq Ahmed Khan",
+        "role": "Executive",
+        "action": "Buy",
+        "shares": 1,
+        "price": 137.18,
+        "value": 137
+      },
+      {
+        "date": "2001-04-22",
+        "person": "Aameer Mustaaly Karachiwalla",
+        "role": "Senior Management",
+        "action": "Buy",
+        "shares": 2000,
+        "price": 136.95,
+        "value": 273900
+      },
+      {
+        "date": "2001-04-22",
+        "person": "Farooq Ahmed Khan",
+        "role": "Executive",
+        "action": "Buy",
+        "shares": 890,
+        "price": 137.05,
+        "value": 121975
+      },
+      {
+        "date": "2001-04-22",
+        "person": "Aameer Mustaaly Karachiwalla",
+        "role": "Senior Management",
+        "action": "Buy",
+        "shares": 3000,
+        "price": 137.0,
+        "value": 411000
+      }
+    ]
+  },
+  "shareholding": {},
+  "fipi": {},
+  "monthly_sales": {}
+}
