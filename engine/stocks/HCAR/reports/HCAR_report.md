@@ -1,5 +1,5 @@
 # Honda Atlas Cars (Pakistan) Limited (HCAR) — Analysis Report
-*Generated 2026-07-02 02:48* · Sector: XD Automobile Assembler  
+*Generated 2026-07-02 03:58* · Sector: XD Automobile Assembler  
 *Decision-support only — not financial advice.*
 
 ## Verdict

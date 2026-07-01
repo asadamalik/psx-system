@@ -1,5 +1,5 @@
 # Amtex Limited (AMTEX) — Analysis Report
-*Generated 2026-07-02 02:47* · Sector: Non-compliant Textile Spinning  
+*Generated 2026-07-02 03:57* · Sector: Non-compliant Textile Spinning  
 *Decision-support only — not financial advice.*
 
 ## Verdict

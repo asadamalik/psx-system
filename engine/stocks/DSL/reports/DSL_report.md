@@ -1,5 +1,5 @@
 # Dost Steels Limited (DSL) — Analysis Report
-*Generated 2026-07-02 02:48* · Sector: Non-compliant Engineering  
+*Generated 2026-07-02 03:57* · Sector: Non-compliant Engineering  
 *Decision-support only — not financial advice.*
 
 ## Verdict

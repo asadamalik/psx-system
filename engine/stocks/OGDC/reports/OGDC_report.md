@@ -1,5 +1,5 @@
 # Oil & Gas Development Company Limited (OGDC) — Analysis Report
-*Generated 2026-07-02 02:49* · Sector: OIL & GAS Exploration Companies  
+*Generated 2026-07-02 03:58* · Sector: OIL & GAS Exploration Companies  
 *Decision-support only — not financial advice.*
 
 ## Verdict

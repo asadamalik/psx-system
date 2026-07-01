@@ -1,5 +1,5 @@
 # LSE Ventures Limited (LSEVL) — Analysis Report
-*Generated 2026-07-02 02:48*  
+*Generated 2026-07-02 03:58*  
 *Decision-support only — not financial advice.*
 
 ## Verdict

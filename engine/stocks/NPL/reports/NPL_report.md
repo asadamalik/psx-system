@@ -1,5 +1,5 @@
 # Nishat Power Limited (NPL) — Analysis Report
-*Generated 2026-07-02 02:49* · Sector: Power Generation & Distribution  
+*Generated 2026-07-02 03:58* · Sector: Power Generation & Distribution  
 *Decision-support only — not financial advice.*
 
 ## Verdict

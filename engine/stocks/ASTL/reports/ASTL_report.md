@@ -1,5 +1,5 @@
 # Amreli Steels Limited (ASTL) — Analysis Report
-*Generated 2026-07-02 02:47* · Sector: Engineering  
+*Generated 2026-07-02 03:57* · Sector: Engineering  
 *Decision-support only — not financial advice.*
 
 ## Verdict

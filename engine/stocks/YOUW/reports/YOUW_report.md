@@ -1,5 +1,5 @@
 # Yousaf Weaving Mills Limited (YOUW) — Analysis Report
-*Generated 2026-07-02 02:50* · Sector: Textile Weaving  
+*Generated 2026-07-02 03:59* · Sector: Textile Weaving  
 *Decision-support only — not financial advice.*
 
 ## Verdict

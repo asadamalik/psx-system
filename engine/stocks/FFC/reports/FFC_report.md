@@ -1,5 +1,5 @@
 # Fauji Fertilizer Company Ltd (FFC) — Analysis Report
-*Generated 2026-07-02 02:48* · Sector: Basic Materials  
+*Generated 2026-07-02 03:57* · Sector: Basic Materials  
 *Decision-support only — not financial advice.*
 
 ## Verdict

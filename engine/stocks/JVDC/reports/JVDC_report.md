@@ -1,5 +1,5 @@
 # Javedan Corporation Limited (JVDC) — Analysis Report
-*Generated 2026-07-02 02:48* · Sector: Property  
+*Generated 2026-07-02 03:58* · Sector: Property  
 *Decision-support only — not financial advice.*
 
 ## Verdict

@@ -1,5 +1,5 @@
 # Blue-Ex Limited (BLUEX) — Analysis Report
-*Generated 2026-07-02 02:47* · Sector: Transport  
+*Generated 2026-07-02 03:57* · Sector: Transport  
 *Decision-support only — not financial advice.*
 
 ## Verdict

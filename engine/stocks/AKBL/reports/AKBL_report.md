@@ -1,5 +1,5 @@
 # Askari Bank Limited (AKBL) — Analysis Report
-*Generated 2026-07-02 02:47* · Sector: Commercial Banks  
+*Generated 2026-07-02 03:57* · Sector: Commercial Banks  
 *Decision-support only — not financial advice.*
 
 ## Verdict

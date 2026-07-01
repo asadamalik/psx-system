@@ -1,5 +1,5 @@
 # Systems Limited (SYS) — Analysis Report
-*Generated 2026-07-02 02:49* · Sector: Technology  
+*Generated 2026-07-02 03:59* · Sector: Technology  
 *Decision-support only — not financial advice.*
 
 ## Verdict

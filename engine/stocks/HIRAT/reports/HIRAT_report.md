@@ -1,5 +1,5 @@
 # Hira Textile Mills Limited (HIRAT) — Analysis Report
-*Generated 2026-07-02 02:48* · Sector: Non-compliant Textile Spinning  
+*Generated 2026-07-02 03:58* · Sector: Non-compliant Textile Spinning  
 *Decision-support only — not financial advice.*
 
 ## Verdict

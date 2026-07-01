@@ -1,5 +1,5 @@
 # WorldCall Telecom Limited (WTL) — Analysis Report
-*Generated 2026-07-02 02:50* · Sector: Communication Services  
+*Generated 2026-07-02 03:59* · Sector: Communication Services  
 *Decision-support only — not financial advice.*
 
 ## Verdict

@@ -1,5 +1,5 @@
 # Cnergyico PK Limited (CNERGY) — Analysis Report
-*Generated 2026-07-02 02:47* · Sector: Energy  
+*Generated 2026-07-02 03:57* · Sector: Energy  
 *Decision-support only — not financial advice.*
 
 ## Verdict

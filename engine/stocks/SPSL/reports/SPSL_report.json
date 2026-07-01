@@ -1,6 +1,6 @@
 {
   "symbol": "SPSL",
-  "generated": "2026-07-02 02:49",
+  "generated": "2026-07-02 03:59",
   "scores": {
     "fundamental_score": 66.4,
     "technical_score": 36.0,
@@ -106,9 +106,9 @@
     "macd_signal": null,
     "macd_hist": null,
     "adx_14": null,
-    "plus_di": 12.752448895794744,
-    "minus_di": 23.202904019790125,
-    "atr_14": 1.138281067497523,
+    "plus_di": 12.75244889579475,
+    "minus_di": 23.202904019790132,
+    "atr_14": 1.1382810674975228,
     "bb_upper": 22.650097946550346,
     "bb_lower": 18.578902053449653,
     "week52_high": 23.45,

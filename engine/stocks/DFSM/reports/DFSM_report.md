@@ -1,5 +1,5 @@
 # Dewan Farooque Spinning Mills Limited (DFSM) — Analysis Report
-*Generated 2026-07-02 02:48* · Sector: Textile Spinning  
+*Generated 2026-07-02 03:57* · Sector: Textile Spinning  
 *Decision-support only — not financial advice.*
 
 ## Verdict

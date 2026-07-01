@@ -1,5 +1,5 @@
 # Interloop Limited (ILP) — Analysis Report
-*Generated 2026-07-02 02:48* · Sector: Textile Composite  
+*Generated 2026-07-02 03:58* · Sector: Textile Composite  
 *Decision-support only — not financial advice.*
 
 ## Verdict

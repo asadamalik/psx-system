@@ -1,5 +1,5 @@
 # Globe Residency REIT (GRR) — Analysis Report
-*Generated 2026-07-02 02:48* · Sector: Real Estate Investment Trust  
+*Generated 2026-07-02 03:58* · Sector: Real Estate Investment Trust  
 *Decision-support only — not financial advice.*
 
 ## Verdict

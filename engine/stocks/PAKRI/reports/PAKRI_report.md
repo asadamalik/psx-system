@@ -1,5 +1,5 @@
 # Pakistan Reinsurance Company Limited (PAKRI) — Analysis Report
-*Generated 2026-07-02 02:49* · Sector: Insurance  
+*Generated 2026-07-02 03:58* · Sector: Insurance  
 *Decision-support only — not financial advice.*
 
 ## Verdict

@@ -1,5 +1,5 @@
 # The Searle Company Limited (SEARL) — Analysis Report
-*Generated 2026-07-02 02:49* · Sector: Pharmaceuticals  
+*Generated 2026-07-02 03:59* · Sector: Pharmaceuticals  
 *Decision-support only — not financial advice.*
 
 ## Verdict

@@ -1,5 +1,5 @@
 # Pakistan Refinery Limited (PRL) — Analysis Report
-*Generated 2026-07-02 02:49* · Sector: Refinery  
+*Generated 2026-07-02 03:59* · Sector: Refinery  
 *Decision-support only — not financial advice.*
 
 ## Verdict
