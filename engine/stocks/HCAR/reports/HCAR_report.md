@@ -1,16 +1,16 @@
 # Honda Atlas Cars (Pakistan) Limited (HCAR) — Analysis Report
-*Generated 2026-06-28 16:35* · Sector: XD Automobile Assembler  
+*Generated 2026-07-02 02:48* · Sector: XD Automobile Assembler  
 *Decision-support only — not financial advice.*
 
 ## Verdict
 
 | | |
 |---|---|
-| **Overall score** | **42.1 / 100** |
+| **Overall score** | **43.7 / 100** |
 | **Rating** | **Reduce** |
 | Risk | Low |
 | Fundamental score | 46.3 (70% weight) |
-| Technical score | 32.2 (30% weight) |
+| Technical score | 37.8 (30% weight) |
 | Trend / Momentum | Sideways / Neutral |
 
 ## Fundamental Analysis
@@ -59,21 +59,21 @@
 
 ## Technical Analysis
 
-As of **2026-06-24** (1236 bars). Trend **Sideways**, momentum **Neutral**, technical score **32.2/100**.
+As of **2026-07-01** (2469 bars). Trend **Sideways**, momentum **Neutral**, technical score **37.8/100**.
 
 | Indicator | Value |
 |---|---|
-| Close | 240.45 |
-| SMA 20 / 50 / 200 | 259.79 / 227.50 / 247.46 |
-| EMA 20 / 50 | 251.42 / 234.79 |
-| RSI (14) | 45.77 |
-| MACD / signal | 5.31 / 10.78 |
-| ADX (14) | 27.62 |
-| DI+ / DI− | 22.60 / 26.81 |
-| ATR (14) | 11.27 |
-| 52-week high / low | 315.00 / 149.56 |
+| Close | 241.38 |
+| SMA 20 / 50 / 200 | 259.02 / 231.16 / 246.58 |
+| EMA 20 / 50 | 248.23 / 235.27 |
+| RSI (14) | 47.15 |
+| MACD / signal | 1.62 / 6.67 |
+| ADX (14) | 23.28 |
+| DI+ / DI− | 22.38 / 26.23 |
+| ATR (14) | 10.43 |
+| 52-week high / low | 321.00 / 147.50 |
 
-Signals: Trend: Sideways; EMA20 > EMA50; ADX 27.6 (Strong); DI - dominant; RSI 45.8 (Neutral); MACD below signal
+Signals: Trend: Sideways; EMA20 > EMA50; ADX 23.3 (Developing); DI - dominant; RSI 47.1 (Neutral); MACD below signal
 
 ## Notes
 

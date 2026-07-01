@@ -1,5 +1,5 @@
 # Unity Foods Limited (UNITY) — Analysis Report
-*Generated 2026-06-28 01:04* · Sector: Food & Personal Care Products  
+*Generated 2026-07-02 02:50* · Sector: Food & Personal Care Products  
 *Decision-support only — not financial advice.*
 
 ## Verdict
@@ -59,21 +59,21 @@
 
 ## Technical Analysis
 
-As of **2026-06-24** (1237 bars). Trend **Bearish**, momentum **Weak**, technical score **16.7/100**.
+As of **2026-07-01** (2443 bars). Trend **Bearish**, momentum **Weak**, technical score **16.7/100**.
 
 | Indicator | Value |
 |---|---|
-| Close | 11.12 |
-| SMA 20 / 50 / 200 | 11.56 / 11.64 / 17.78 |
-| EMA 20 / 50 | 11.50 / 11.70 |
-| RSI (14) | 40.00 |
-| MACD / signal | -0.14 / -0.07 |
-| ADX (14) | 10.54 |
-| DI+ / DI− | 18.06 / 23.70 |
-| ATR (14) | 0.37 |
-| 52-week high / low | 31.65 / 7.80 |
+| Close | 10.91 |
+| SMA 20 / 50 / 200 | 11.37 / 11.79 / 17.53 |
+| EMA 20 / 50 | 11.32 / 11.60 |
+| RSI (14) | 39.35 |
+| MACD / signal | -0.22 / -0.14 |
+| ADX (14) | 14.14 |
+| DI+ / DI− | 18.08 / 26.96 |
+| ATR (14) | 0.38 |
+| 52-week high / low | 31.74 / 7.51 |
 
-Signals: Trend: Bearish; EMA20 < EMA50; ADX 10.5 (Weak); DI - dominant; RSI 40.0 (Weak); MACD below signal
+Signals: Trend: Bearish; EMA20 < EMA50; ADX 14.1 (Weak); DI - dominant; RSI 39.4 (Weak); MACD below signal
 
 ## Notes
 

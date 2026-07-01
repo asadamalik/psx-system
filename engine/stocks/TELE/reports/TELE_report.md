@@ -1,17 +1,17 @@
 # Telecard Limited (TELE) — Analysis Report
-*Generated 2026-06-28 01:09* · Sector: Technology & Communication  
+*Generated 2026-07-02 02:49* · Sector: Technology & Communication  
 *Decision-support only — not financial advice.*
 
 ## Verdict
 
 | | |
 |---|---|
-| **Overall score** | **57.6 / 100** |
+| **Overall score** | **58.0 / 100** |
 | **Rating** | **Hold** |
 | Risk | Medium |
 | Fundamental score | 59.0 (70% weight) |
-| Technical score | 54.4 (30% weight) |
-| Trend / Momentum | Sideways / Neutral |
+| Technical score | 55.6 (30% weight) |
+| Trend / Momentum | Sideways / Strong |
 
 ## Fundamental Analysis
 
@@ -59,21 +59,21 @@
 
 ## Technical Analysis
 
-As of **2026-06-24** (1237 bars). Trend **Sideways**, momentum **Neutral**, technical score **54.4/100**.
+As of **2026-07-01** (2470 bars). Trend **Sideways**, momentum **Strong**, technical score **55.6/100**.
 
 | Indicator | Value |
 |---|---|
-| Close | 8.86 |
-| SMA 20 / 50 / 200 | 8.82 / 8.54 / 9.83 |
-| EMA 20 / 50 | 8.87 / 8.67 |
-| RSI (14) | 51.92 |
-| MACD / signal | 0.20 / 0.22 |
-| ADX (14) | 25.24 |
-| DI+ / DI− | 27.17 / 17.63 |
-| ATR (14) | 0.38 |
-| 52-week high / low | 13.30 / 6.37 |
+| Close | 9.02 |
+| SMA 20 / 50 / 200 | 8.91 / 8.59 / 9.85 |
+| EMA 20 / 50 | 8.88 / 8.69 |
+| RSI (14) | 55.32 |
+| MACD / signal | 0.14 / 0.18 |
+| ADX (14) | 24.62 |
+| DI+ / DI− | 29.25 / 16.61 |
+| ATR (14) | 0.36 |
+| 52-week high / low | 14.09 / 6.22 |
 
-Signals: Trend: Sideways; EMA20 > EMA50; ADX 25.2 (Strong); DI + dominant; RSI 51.9 (Neutral); MACD below signal
+Signals: Trend: Sideways; EMA20 > EMA50; ADX 24.6 (Developing); DI + dominant; RSI 55.3 (Strong); MACD below signal
 
 ## Notes
 

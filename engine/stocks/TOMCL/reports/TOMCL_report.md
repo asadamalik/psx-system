@@ -1,5 +1,5 @@
 # The Organic Meat Company Limited (TOMCL) — Analysis Report
-*Generated 2026-06-28 01:18* · Sector: Food & Personal Care Products  
+*Generated 2026-07-02 02:49* · Sector: Food & Personal Care Products  
 *Decision-support only — not financial advice.*
 
 ## Verdict
@@ -59,21 +59,21 @@
 
 ## Technical Analysis
 
-As of **2026-06-24** (1237 bars). Trend **Sideways**, momentum **Overbought**, technical score **66.7/100**.
+As of **2026-07-01** (1461 bars). Trend **Sideways**, momentum **Overbought**, technical score **66.7/100**.
 
 | Indicator | Value |
 |---|---|
-| Close | 43.28 |
-| SMA 20 / 50 / 200 | 37.19 / 35.88 / 47.19 |
-| EMA 20 / 50 | 38.12 / 36.74 |
-| RSI (14) | 74.84 |
-| MACD / signal | 1.90 / 1.28 |
-| ADX (14) | 34.62 |
-| DI+ / DI− | 43.31 / 7.36 |
-| ATR (14) | 1.83 |
-| 52-week high / low | 72.88 / 29.44 |
+| Close | 43.57 |
+| SMA 20 / 50 / 200 | 38.59 / 36.37 / 46.40 |
+| EMA 20 / 50 | 39.62 / 37.55 |
+| RSI (14) | 71.60 |
+| MACD / signal | 2.35 / 1.77 |
+| ADX (14) | 41.43 |
+| DI+ / DI− | 38.03 / 9.01 |
+| ATR (14) | 1.98 |
+| 52-week high / low | 68.95 / 28.30 |
 
-Signals: Trend: Sideways; EMA20 > EMA50; ADX 34.6 (Strong); DI + dominant; RSI 74.8 (Overbought); MACD above signal
+Signals: Trend: Sideways; EMA20 > EMA50; ADX 41.4 (Strong); DI + dominant; RSI 71.6 (Overbought); MACD above signal
 
 ## Notes
 

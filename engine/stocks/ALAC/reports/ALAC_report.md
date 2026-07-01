@@ -1,17 +1,17 @@
 # Askari Life Assurance Company Limited (ALAC) — Analysis Report
-*Generated 2026-06-28 16:27* · Sector: Insurance  
+*Generated 2026-07-02 02:47* · Sector: Insurance  
 *Decision-support only — not financial advice.*
 
 ## Verdict
 
 | | |
 |---|---|
-| **Overall score** | **79.2 / 100** |
+| **Overall score** | **75.8 / 100** |
 | **Rating** | **Buy** |
 | Risk | Medium |
 | Fundamental score | 77.4 (70% weight) |
-| Technical score | 83.3 (30% weight) |
-| Trend / Momentum | Strong Bullish / Strong |
+| Technical score | 72.2 (30% weight) |
+| Trend / Momentum | Strong Bullish / Overbought |
 
 ## Fundamental Analysis
 
@@ -59,21 +59,21 @@
 
 ## Technical Analysis
 
-As of **2026-06-24** (428 bars). Trend **Strong Bullish**, momentum **Strong**, technical score **83.3/100**.
+As of **2026-06-30** (2044 bars). Trend **Strong Bullish**, momentum **Overbought**, technical score **72.2/100**.
 
 | Indicator | Value |
 |---|---|
-| Close | 22.94 |
-| SMA 20 / 50 / 200 | 21.81 / 17.61 / 14.28 |
-| EMA 20 / 50 | 21.75 / 18.75 |
-| RSI (14) | 63.81 |
-| MACD / signal | 1.68 / 1.98 |
-| ADX (14) | 29.82 |
-| DI+ / DI− | 29.62 / 16.88 |
-| ATR (14) | 1.48 |
-| 52-week high / low | 27.99 / 6.71 |
+| Close | 25.03 |
+| SMA 20 / 50 / 200 | 22.62 / 18.07 / 14.39 |
+| EMA 20 / 50 | 22.19 / 19.17 |
+| RSI (14) | 72.16 |
+| MACD / signal | 1.66 / 1.86 |
+| ADX (14) | 30.51 |
+| DI+ / DI− | 32.94 / 15.72 |
+| ATR (14) | 1.60 |
+| 52-week high / low | 27.99 / 6.26 |
 
-Signals: Trend: Strong Bullish; EMA20 > EMA50; ADX 29.8 (Strong); DI + dominant; RSI 63.8 (Strong); MACD below signal
+Signals: Trend: Strong Bullish; EMA20 > EMA50; ADX 30.5 (Strong); DI + dominant; RSI 72.2 (Overbought); MACD below signal
 
 ## Notes
 

@@ -1,5 +1,5 @@
 # First Dawood Properties Limited (FDPL) — Analysis Report
-*Generated 2026-06-28 11:53*  
+*Generated 2026-07-02 02:48*  
 *Decision-support only — not financial advice.*
 
 ## Verdict
@@ -59,21 +59,21 @@
 
 ## Technical Analysis
 
-As of **2026-06-24** (1228 bars). Trend **Sideways**, momentum **Neutral**, technical score **54.4/100**.
+As of **2026-07-01** (2461 bars). Trend **Sideways**, momentum **Neutral**, technical score **54.4/100**.
 
 | Indicator | Value |
 |---|---|
-| Close | 4.88 |
-| SMA 20 / 50 / 200 | 5.01 / 4.74 / 5.77 |
-| EMA 20 / 50 | 4.99 / 4.82 |
-| RSI (14) | 48.58 |
-| MACD / signal | 0.11 / 0.16 |
-| ADX (14) | 28.39 |
-| DI+ / DI− | 18.91 / 13.30 |
-| ATR (14) | 0.32 |
-| 52-week high / low | 8.79 / 3.20 |
+| Close | 4.93 |
+| SMA 20 / 50 / 200 | 5.06 / 4.78 / 5.74 |
+| EMA 20 / 50 | 4.95 / 4.82 |
+| RSI (14) | 50.60 |
+| MACD / signal | 0.05 / 0.11 |
+| ADX (14) | 25.09 |
+| DI+ / DI− | 21.34 / 14.02 |
+| ATR (14) | 0.29 |
+| 52-week high / low | 9.10 / 3.20 |
 
-Signals: Trend: Sideways; EMA20 > EMA50; ADX 28.4 (Strong); DI + dominant; RSI 48.6 (Neutral); MACD below signal
+Signals: Trend: Sideways; EMA20 > EMA50; ADX 25.1 (Strong); DI + dominant; RSI 50.6 (Neutral); MACD below signal
 
 ## Notes
 

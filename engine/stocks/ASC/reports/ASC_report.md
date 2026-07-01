@@ -1,17 +1,17 @@
 # Al Shaheer Corporation Limited (ASC) — Analysis Report
-*Generated 2026-06-28 16:34* · Sector: Non-compliant Food & Personal Care Products  
+*Generated 2026-07-02 02:47* · Sector: Non-compliant Food & Personal Care Products  
 *Decision-support only — not financial advice.*
 
 ## Verdict
 
 | | |
 |---|---|
-| **Overall score** | **19.6 / 100** |
+| **Overall score** | **24.5 / 100** |
 | **Rating** | **Sell** |
 | Risk | High |
 | Fundamental score | 4.1 (70% weight) |
-| Technical score | 55.6 (30% weight) |
-| Trend / Momentum | Sideways / Overbought |
+| Technical score | 72.2 (30% weight) |
+| Trend / Momentum | Bullish / Overbought |
 
 ## Fundamental Analysis
 
@@ -59,21 +59,21 @@
 
 ## Technical Analysis
 
-As of **2026-06-24** (1236 bars). Trend **Sideways**, momentum **Overbought**, technical score **55.6/100**.
+As of **2026-06-30** (2470 bars). Trend **Bullish**, momentum **Overbought**, technical score **72.2/100**.
 
 | Indicator | Value |
 |---|---|
-| Close | 12.20 |
-| SMA 20 / 50 / 200 | 10.93 / 10.81 / 12.67 |
-| EMA 20 / 50 | 11.01 / 10.84 |
-| RSI (14) | 73.54 |
-| MACD / signal | 0.14 / 0.07 |
-| ADX (14) | 15.05 |
-| DI+ / DI− | 28.96 / 8.35 |
-| ATR (14) | 0.45 |
-| 52-week high / low | 23.50 / 7.23 |
+| Close | 13.49 |
+| SMA 20 / 50 / 200 | 11.19 / 10.95 / 12.61 |
+| EMA 20 / 50 | 11.45 / 11.05 |
+| RSI (14) | 82.23 |
+| MACD / signal | 0.46 / 0.18 |
+| ADX (14) | 23.62 |
+| DI+ / DI− | 44.83 / 5.63 |
+| ATR (14) | 0.56 |
+| 52-week high / low | 23.65 / 7.10 |
 
-Signals: Trend: Sideways; EMA20 > EMA50; ADX 15.0 (Weak); DI + dominant; RSI 73.5 (Overbought); MACD above signal
+Signals: Trend: Bullish; EMA20 > EMA50; ADX 23.6 (Developing); DI + dominant; RSI 82.2 (Overbought); MACD above signal
 
 ## Notes
 

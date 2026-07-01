@@ -1,13 +1,13 @@
 {
   "symbol": "BNL",
-  "generated": "2026-06-28 01:07",
+  "generated": "2026-07-02 02:47",
   "scores": {
     "fundamental_score": 62.7,
-    "technical_score": 50.0,
-    "overall_score": 58.9,
+    "technical_score": 38.9,
+    "overall_score": 55.6,
     "rating": "Hold",
     "risk": "Low",
-    "risk_score": 76.7,
+    "risk_score": 86.7,
     "weights": {
       "fundamental": 0.7,
       "technical": 0.3
@@ -64,77 +64,77 @@
     }
   },
   "technical": {
-    "technical_score": 50.0,
+    "technical_score": 38.9,
     "trend": "Bearish",
     "momentum": "Weak",
-    "adx_strength": "Developing",
+    "adx_strength": "Weak",
     "rsi_divergence": {
       "type": "bullish",
       "label": "Bullish RSI divergence",
-      "note": "Price made a lower low (7.03\u21926.96) while RSI made a higher low (33.6\u219234.2) \u2014 selling momentum is easing; watch for a bounce.",
+      "note": "Price made a lower low (7.03\u21926.96) while RSI made a higher low (33.6\u219234.3) \u2014 selling momentum is easing; watch for a bounce.",
       "price_from": 7.03,
       "price_to": 6.96,
       "rsi_from": 33.6,
-      "rsi_to": 34.2,
-      "bars_ago": 12
+      "rsi_to": 34.3,
+      "bars_ago": 14
     },
     "notes": [
       "Trend: Bearish",
       "EMA20 < EMA50",
-      "ADX 23.5 (Developing); DI + dominant",
-      "RSI 43.8 (Weak)",
+      "ADX 19.8 (Weak); DI + dominant",
+      "RSI 42.6 (Weak)",
       "MACD above signal",
-      "\u26a0 Bullish RSI divergence (12 bars ago): Price made a lower low (7.03\u21926.96) while RSI made a higher low (33.6\u219234.2) \u2014 selling momentum is easing; watch for a bounce."
+      "\u26a0 Bullish RSI divergence (14 bars ago): Price made a lower low (7.03\u21926.96) while RSI made a higher low (33.6\u219234.3) \u2014 selling momentum is easing; watch for a bounce."
     ]
   },
   "technical_snapshot": {
-    "as_of": "2026-06-24",
-    "bars": 135,
-    "close": 7.11,
-    "sma_20": 7.0985,
-    "sma_50": 7.738,
-    "sma_200": null,
-    "ema_20": 7.217273470750305,
-    "ema_50": 7.660430093395846,
-    "ema_100": 8.621482344623232,
-    "ema_200": null,
-    "obv": -159544187.0,
+    "as_of": "2026-06-30",
+    "bars": 1387,
+    "close": 7.06,
+    "sma_20": 7.096499999999999,
+    "sma_50": 7.694,
+    "sma_200": 10.473875,
+    "ema_20": 7.187076381591017,
+    "ema_50": 7.607359255435718,
+    "ema_100": 8.387275227750235,
+    "ema_200": 8.808252440201898,
+    "obv": 1251827090.0,
     "weekly_trend": "Down",
     "monthly_trend": "Down",
     "support_resistance": {
-      "price": 7.11,
+      "price": 7.06,
       "nearest_resistance": 7.7,
       "nearest_support": 6.9,
       "resistance_levels": [
         7.7,
-        8.75,
-        9.82
+        8.54,
+        8.75
       ],
       "support_levels": [
         6.9
       ]
     },
-    "rsi_14": 43.774831336954364,
-    "macd": -0.11800582010145,
-    "macd_signal": -0.17656689860845695,
-    "macd_hist": 0.05856107850700695,
-    "adx_14": 23.540271101673518,
-    "plus_di": 21.362521822073578,
-    "minus_di": 20.79385933119505,
-    "atr_14": 0.2618586570497562,
-    "bb_upper": 7.375070063456311,
-    "bb_lower": 6.821929936543688,
-    "week52_high": 14.51,
+    "rsi_14": 42.62331708539991,
+    "macd": -0.1178047809120617,
+    "macd_signal": -0.1557916355758381,
+    "macd_hist": 0.03798685466377641,
+    "adx_14": 19.801713064528045,
+    "plus_di": 20.124822155124242,
+    "minus_di": 19.590943360125507,
+    "atr_14": 0.24152710631189844,
+    "bb_upper": 7.373575801904202,
+    "bb_lower": 6.8194241980957955,
+    "week52_high": 17.073,
     "week52_low": 6.9,
     "rsi_divergence": {
       "type": "bullish",
       "label": "Bullish RSI divergence",
-      "note": "Price made a lower low (7.03\u21926.96) while RSI made a higher low (33.6\u219234.2) \u2014 selling momentum is easing; watch for a bounce.",
+      "note": "Price made a lower low (7.03\u21926.96) while RSI made a higher low (33.6\u219234.3) \u2014 selling momentum is easing; watch for a bounce.",
       "price_from": 7.03,
       "price_to": 6.96,
       "rsi_from": 33.6,
-      "rsi_to": 34.2,
-      "bars_ago": 12
+      "rsi_to": 34.3,
+      "bars_ago": 14
     },
     "patterns": [
       {

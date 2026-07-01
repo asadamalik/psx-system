@@ -1,16 +1,16 @@
 # Loads Limited (LOADS) — Analysis Report
-*Generated 2026-06-28 01:05* · Sector: Automobile Parts & Accessories  
+*Generated 2026-07-02 02:48* · Sector: Automobile Parts & Accessories  
 *Decision-support only — not financial advice.*
 
 ## Verdict
 
 | | |
 |---|---|
-| **Overall score** | **58.8 / 100** |
+| **Overall score** | **53.8 / 100** |
 | **Rating** | **Hold** |
 | Risk | Medium |
 | Fundamental score | 50.7 (70% weight) |
-| Technical score | 77.8 (30% weight) |
+| Technical score | 61.1 (30% weight) |
 | Trend / Momentum | Sideways / Strong |
 
 ## Fundamental Analysis
@@ -59,21 +59,21 @@
 
 ## Technical Analysis
 
-As of **2026-06-24** (1237 bars). Trend **Sideways**, momentum **Strong**, technical score **77.8/100**.
+As of **2026-07-01** (2391 bars). Trend **Sideways**, momentum **Strong**, technical score **61.1/100**.
 
 | Indicator | Value |
 |---|---|
-| Close | 14.63 |
-| SMA 20 / 50 / 200 | 14.17 / 13.59 / 15.86 |
-| EMA 20 / 50 | 14.27 / 13.86 |
-| RSI (14) | 59.47 |
-| MACD / signal | 0.38 / 0.37 |
-| ADX (14) | 40.14 |
-| DI+ / DI− | 28.42 / 12.74 |
-| ATR (14) | 0.62 |
-| 52-week high / low | 21.25 / 10.93 |
+| Close | 14.48 |
+| SMA 20 / 50 / 200 | 14.29 / 13.73 / 15.82 |
+| EMA 20 / 50 | 14.30 / 13.92 |
+| RSI (14) | 56.16 |
+| MACD / signal | 0.28 / 0.33 |
+| ADX (14) | 37.93 |
+| DI+ / DI− | 24.56 / 13.36 |
+| ATR (14) | 0.58 |
+| 52-week high / low | 22.60 / 10.93 |
 
-Signals: Trend: Sideways; EMA20 > EMA50; ADX 40.1 (Strong); DI + dominant; RSI 59.5 (Strong); MACD above signal
+Signals: Trend: Sideways; EMA20 > EMA50; ADX 37.9 (Strong); DI + dominant; RSI 56.2 (Strong); MACD below signal
 
 ## Notes
 

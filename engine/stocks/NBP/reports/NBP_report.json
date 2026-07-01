@@ -1,11 +1,11 @@
 {
   "symbol": "NBP",
-  "generated": "2026-06-28 12:01",
+  "generated": "2026-07-02 02:49",
   "scores": {
     "fundamental_score": 64.9,
-    "technical_score": 55.6,
-    "overall_score": 62.1,
-    "rating": "Hold",
+    "technical_score": 66.7,
+    "overall_score": 65.4,
+    "rating": "Buy",
     "risk": "Medium",
     "risk_score": 53.3,
     "weights": {
@@ -66,7 +66,7 @@
     }
   },
   "technical": {
-    "technical_score": 55.6,
+    "technical_score": 66.7,
     "trend": "Sideways",
     "momentum": "Strong",
     "adx_strength": "Weak",
@@ -75,53 +75,53 @@
     },
     "notes": [
       "Trend: Sideways",
-      "EMA20 < EMA50",
-      "ADX 12.2 (Weak); DI + dominant",
-      "RSI 58.2 (Strong)",
+      "EMA20 > EMA50",
+      "ADX 10.4 (Weak); DI + dominant",
+      "RSI 60.5 (Strong)",
       "MACD above signal"
     ]
   },
   "technical_snapshot": {
-    "as_of": "2026-06-24",
-    "bars": 1237,
-    "close": 201.73,
-    "sma_20": 193.69250000000002,
-    "sma_50": 192.2408,
-    "sma_200": 216.4544,
-    "ema_20": 195.7043815550481,
-    "ema_50": 195.8878385344639,
-    "ema_100": 202.55115364204622,
-    "ema_200": 196.01899086982348,
-    "obv": 1042628864.0,
+    "as_of": "2026-07-01",
+    "bars": 2469,
+    "close": 205.01,
+    "sma_20": 194.94850000000002,
+    "sma_50": 193.1342,
+    "sma_200": 216.84575,
+    "ema_20": 197.14770505420336,
+    "ema_50": 196.48420008999358,
+    "ema_100": 202.46824681285315,
+    "ema_200": 196.1696448565179,
+    "obv": 1256482746.0,
     "weekly_trend": "Up",
-    "monthly_trend": "Down",
+    "monthly_trend": "Up",
     "support_resistance": {
-      "price": 201.73,
+      "price": 205.01,
       "nearest_resistance": 209.0,
-      "nearest_support": 180.0,
+      "nearest_support": 195.0,
       "resistance_levels": [
         209.0,
         224.49,
-        269.84
+        248.01
       ],
       "support_levels": [
+        195.0,
         180.0,
-        172.0,
-        157.25
+        172.0
       ]
     },
-    "rsi_14": 58.24520528447186,
-    "macd": 3.9839397168768187,
-    "macd_signal": 2.5544647721605442,
-    "macd_hist": 1.4294749447162745,
-    "adx_14": 12.176356764239024,
-    "plus_di": 27.31428399805919,
-    "minus_di": 24.81268183565229,
-    "atr_14": 6.743295322325437,
-    "bb_upper": 211.2836612749074,
-    "bb_lower": 176.10133872509266,
-    "week52_high": 286.42,
-    "week52_low": 105.74,
+    "rsi_14": 60.46622856032463,
+    "macd": 3.722781193200035,
+    "macd_signal": 3.0932633513530887,
+    "macd_hist": 0.6295178418469463,
+    "adx_14": 10.390372894059611,
+    "plus_di": 23.760234530490415,
+    "minus_di": 21.53070006524322,
+    "atr_14": 6.941662540606007,
+    "bb_upper": 213.28417808945238,
+    "bb_lower": 176.61282191054767,
+    "week52_high": 287.8,
+    "week52_low": 107.5,
     "rsi_divergence": {
       "type": null
     },
@@ -131,8 +131,8 @@
         "type": "bullish",
         "confidence": 0.54,
         "status": "forming",
-        "neckline": 206.61,
-        "target": 227.05,
+        "neckline": 207.47,
+        "target": 231.19,
         "note": "Strong pole then tight consolidation; bullish continuation bias."
       }
     ]

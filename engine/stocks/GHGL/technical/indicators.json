@@ -1,55 +1,44 @@
 {
-  "as_of": "2026-06-24",
-  "bars": 1237,
-  "close": 38.78,
-  "sma_20": 36.6185,
-  "sma_50": 36.6556,
-  "sma_200": 36.8992,
-  "ema_20": 37.234379045390554,
-  "ema_50": 36.29097666751324,
-  "ema_100": 35.93806413874358,
-  "ema_200": 36.038910422714146,
-  "obv": 154318390.0,
+  "as_of": "2026-07-01",
+  "bars": 2468,
+  "close": 40.83,
+  "sma_20": 37.2855,
+  "sma_50": 36.8494,
+  "sma_200": 36.7731,
+  "ema_20": 38.00376651325549,
+  "ema_50": 36.73158292115002,
+  "ema_100": 36.18582839543172,
+  "ema_200": 36.15879685997499,
+  "obv": 192564380.0,
   "weekly_trend": "Up",
   "monthly_trend": "Up",
   "support_resistance": {
-    "price": 38.78,
-    "nearest_resistance": 38.98,
-    "nearest_support": 35.96,
+    "price": 40.83,
+    "nearest_resistance": 40.9,
+    "nearest_support": 35.86,
     "resistance_levels": [
-      38.98,
       40.9
     ],
     "support_levels": [
-      35.96,
+      35.86,
       33.81,
-      30.08
+      30.0
     ]
   },
-  "rsi_14": 58.73371158963276,
-  "macd": 0.8368984315674268,
-  "macd_signal": 0.5762803376307457,
-  "macd_hist": 0.2606180939366811,
-  "adx_14": 23.96557937818365,
-  "plus_di": 20.49102679545364,
-  "minus_di": 18.565361740513808,
-  "atr_14": 1.7617306842470684,
-  "bb_upper": 40.340253753272535,
-  "bb_lower": 32.89674624672746,
-  "week52_high": 51.11,
-  "week52_low": 27.98,
+  "rsi_14": 65.8303981194251,
+  "macd": 1.1271523493242412,
+  "macd_signal": 0.7994098231127875,
+  "macd_hist": 0.3277425262114537,
+  "adx_14": 23.550002463156897,
+  "plus_di": 24.744172365135036,
+  "minus_di": 15.454645237017056,
+  "atr_14": 1.6920528212874715,
+  "bb_upper": 41.61957187296217,
+  "bb_lower": 32.95142812703783,
+  "week52_high": 52.25,
+  "week52_low": 27.78,
   "rsi_divergence": {
     "type": null
   },
-  "patterns": [
-    {
-      "name": "Bull Flag",
-      "type": "bullish",
-      "confidence": 0.55,
-      "status": "forming",
-      "neckline": 39.38,
-      "target": 43.8,
-      "note": "Strong pole then tight consolidation; bullish continuation bias."
-    }
-  ]
+  "patterns": []
 }

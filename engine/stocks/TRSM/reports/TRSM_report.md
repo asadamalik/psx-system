@@ -1,17 +1,17 @@
 # Trust Modaraba (TRSM) — Analysis Report
-*Generated 2026-06-28 01:27* · Sector: Modarabas  
+*Generated 2026-07-02 02:50* · Sector: Modarabas  
 *Decision-support only — not financial advice.*
 
 ## Verdict
 
 | | |
 |---|---|
-| **Overall score** | **48.6 / 100** |
-| **Rating** | **Reduce** |
+| **Overall score** | **56.6 / 100** |
+| **Rating** | **Hold** |
 | Risk | High |
 | Fundamental score | 64.7 (70% weight) |
-| Technical score | 11.1 (30% weight) |
-| Trend / Momentum | Bearish / Weak |
+| Technical score | 37.8 (30% weight) |
+| Trend / Momentum | Sideways / Neutral |
 
 ## Fundamental Analysis
 
@@ -59,21 +59,21 @@
 
 ## Technical Analysis
 
-As of **2026-06-24** (467 bars). Trend **Bearish**, momentum **Weak**, technical score **11.1/100**.
+As of **2026-07-01** (1851 bars). Trend **Sideways**, momentum **Neutral**, technical score **37.8/100**.
 
 | Indicator | Value |
 |---|---|
-| Close | 15.32 |
-| SMA 20 / 50 / 200 | 15.98 / 15.97 / 28.68 |
+| Close | 16.31 |
+| SMA 20 / 50 / 200 | 15.97 / 16.04 / 28.21 |
 | EMA 20 / 50 | 15.94 / 15.98 |
-| RSI (14) | 42.46 |
-| MACD / signal | -0.11 / 0.00 |
-| ADX (14) | 21.96 |
-| DI+ / DI− | 18.20 / 24.28 |
-| ATR (14) | 0.78 |
-| 52-week high / low | 69.00 / 6.00 |
+| RSI (14) | 54.01 |
+| MACD / signal | -0.05 / -0.04 |
+| ADX (14) | 20.98 |
+| DI+ / DI− | 23.52 / 17.61 |
+| ATR (14) | 0.85 |
+| 52-week high / low | 71.65 / 5.72 |
 
-Signals: Trend: Bearish; EMA20 < EMA50; ADX 22.0 (Developing); DI - dominant; RSI 42.5 (Weak); MACD below signal
+Signals: Trend: Sideways; EMA20 < EMA50; ADX 21.0 (Developing); DI + dominant; RSI 54.0 (Neutral); MACD below signal
 
 ## Notes
 

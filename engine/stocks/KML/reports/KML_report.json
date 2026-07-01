@@ -1,10 +1,10 @@
 {
   "symbol": "KML",
-  "generated": "2026-06-28 11:58",
+  "generated": "2026-07-02 02:48",
   "scores": {
     "fundamental_score": 40.0,
-    "technical_score": 88.9,
-    "overall_score": 54.7,
+    "technical_score": 77.8,
+    "overall_score": 51.3,
     "rating": "Hold",
     "risk": "High",
     "risk_score": 20.0,
@@ -64,9 +64,9 @@
     }
   },
   "technical": {
-    "technical_score": 88.9,
+    "technical_score": 77.8,
     "trend": "Bullish",
-    "momentum": "Strong",
+    "momentum": "Overbought",
     "adx_strength": "Strong",
     "rsi_divergence": {
       "type": null
@@ -74,49 +74,51 @@
     "notes": [
       "Trend: Bullish",
       "EMA20 > EMA50",
-      "ADX 32.8 (Strong); DI + dominant",
-      "RSI 69.7 (Strong)",
+      "ADX 40.5 (Strong); DI + dominant",
+      "RSI 75.3 (Overbought)",
       "MACD above signal"
     ]
   },
   "technical_snapshot": {
-    "as_of": "2026-06-24",
-    "bars": 180,
-    "close": 10.68,
-    "sma_20": 8.9575,
-    "sma_50": 8.7586,
-    "sma_200": null,
-    "ema_20": 9.2502256345861,
-    "ema_50": 9.032224460583876,
-    "ema_100": 9.690362522014837,
-    "ema_200": null,
-    "obv": 15757550.0,
+    "as_of": "2026-07-01",
+    "bars": 1979,
+    "close": 11.59,
+    "sma_20": 9.3955,
+    "sma_50": 8.9164,
+    "sma_200": 11.35611,
+    "ema_20": 9.759622201795551,
+    "ema_50": 9.275338536909906,
+    "ema_100": 9.610513264743389,
+    "ema_200": 9.68023623357214,
+    "obv": 104262342.0,
     "weekly_trend": "Up",
     "monthly_trend": "Up",
     "support_resistance": {
-      "price": 10.68,
-      "nearest_resistance": 13.17,
-      "nearest_support": 8.32,
+      "price": 11.59,
+      "nearest_resistance": 13.25,
+      "nearest_support": 8.4,
       "resistance_levels": [
-        13.17
+        13.25,
+        15.6
       ],
       "support_levels": [
-        8.32,
-        8.08
+        8.4,
+        8.08,
+        7.51
       ]
     },
-    "rsi_14": 69.6732834004966,
-    "macd": 0.4561480280658472,
-    "macd_signal": 0.23904979430922219,
-    "macd_hist": 0.21709823375662501,
-    "adx_14": 32.788458327030476,
-    "plus_di": 41.213127334675846,
-    "minus_di": 9.377099773306444,
-    "atr_14": 0.5658312046977328,
-    "bb_upper": 10.584274415830203,
-    "bb_lower": 7.330725584169795,
+    "rsi_14": 75.31026693591136,
+    "macd": 0.675275555163477,
+    "macd_signal": 0.4204961352541773,
+    "macd_hist": 0.25477941990929975,
+    "adx_14": 40.515488474563405,
+    "plus_di": 44.548094256740164,
+    "minus_di": 6.903641848522637,
+    "atr_14": 0.6172581301201304,
+    "bb_upper": 11.548706678421834,
+    "bb_lower": 7.242293321578168,
     "week52_high": 18.19,
-    "week52_low": 7.69,
+    "week52_low": 4.421,
     "rsi_divergence": {
       "type": null
     },

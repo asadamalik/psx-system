@@ -1,5 +1,5 @@
 # Interloop Limited (ILP) — Analysis Report
-*Generated 2026-06-28 01:23* · Sector: Textile Composite  
+*Generated 2026-07-02 02:48* · Sector: Textile Composite  
 *Decision-support only — not financial advice.*
 
 ## Verdict
@@ -59,21 +59,21 @@
 
 ## Technical Analysis
 
-As of **2026-06-24** (1237 bars). Trend **Strong Bullish**, momentum **Overbought**, technical score **88.9/100**.
+As of **2026-07-01** (1786 bars). Trend **Strong Bullish**, momentum **Overbought**, technical score **88.9/100**.
 
 | Indicator | Value |
 |---|---|
-| Close | 99.58 |
-| SMA 20 / 50 / 200 | 87.48 / 84.14 / 80.10 |
-| EMA 20 / 50 | 89.36 / 85.31 |
-| RSI (14) | 76.68 |
-| MACD / signal | 3.89 / 2.79 |
-| ADX (14) | 28.07 |
-| DI+ / DI− | 39.64 / 12.33 |
-| ATR (14) | 3.32 |
-| 52-week high / low | 101.38 / 63.49 |
+| Close | 106.18 |
+| SMA 20 / 50 / 200 | 91.27 / 85.71 / 80.64 |
+| EMA 20 / 50 | 94.01 / 87.80 |
+| RSI (14) | 77.16 |
+| MACD / signal | 5.95 / 4.14 |
+| ADX (14) | 33.85 |
+| DI+ / DI− | 41.32 / 15.94 |
+| ATR (14) | 3.92 |
+| 52-week high / low | 110.50 / 65.01 |
 
-Signals: Trend: Strong Bullish; EMA20 > EMA50; ADX 28.1 (Strong); DI + dominant; RSI 76.7 (Overbought); MACD above signal
+Signals: Trend: Strong Bullish; EMA20 > EMA50; ADX 33.9 (Strong); DI + dominant; RSI 77.2 (Overbought); MACD above signal
 
 ## Notes
 

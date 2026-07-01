@@ -1,5 +1,5 @@
 # Waves Corporation Limited (WAVES) — Analysis Report
-*Generated 2026-06-28 01:15* · Sector: Cable & Electrical Goods  
+*Generated 2026-07-02 02:50* · Sector: Cable & Electrical Goods  
 *Decision-support only — not financial advice.*
 
 ## Verdict
@@ -59,21 +59,21 @@
 
 ## Technical Analysis
 
-As of **2026-06-24** (1237 bars). Trend **Sideways**, momentum **Neutral**, technical score **43.3/100**.
+As of **2026-07-01** (2468 bars). Trend **Sideways**, momentum **Neutral**, technical score **43.3/100**.
 
 | Indicator | Value |
 |---|---|
-| Close | 10.90 |
-| SMA 20 / 50 / 200 | 10.81 / 10.46 / 12.08 |
-| EMA 20 / 50 | 10.86 / 10.69 |
-| RSI (14) | 52.85 |
-| MACD / signal | 0.22 / 0.24 |
-| ADX (14) | 19.91 |
-| DI+ / DI− | 20.89 / 15.19 |
-| ATR (14) | 0.46 |
-| 52-week high / low | 16.44 / 7.54 |
+| Close | 10.91 |
+| SMA 20 / 50 / 200 | 10.91 / 10.51 / 12.06 |
+| EMA 20 / 50 | 10.84 / 10.69 |
+| RSI (14) | 53.11 |
+| MACD / signal | 0.13 / 0.20 |
+| ADX (14) | 17.31 |
+| DI+ / DI− | 18.28 / 15.77 |
+| ATR (14) | 0.44 |
+| 52-week high / low | 16.95 / 7.70 |
 
-Signals: Trend: Sideways; EMA20 > EMA50; ADX 19.9 (Weak); DI + dominant; RSI 52.9 (Neutral); MACD below signal
+Signals: Trend: Sideways; EMA20 > EMA50; ADX 17.3 (Weak); DI + dominant; RSI 53.1 (Neutral); MACD below signal
 
 ## Notes
 

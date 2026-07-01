@@ -1,13 +1,13 @@
 {
   "symbol": "LOTCHEM",
-  "generated": "2026-06-28 01:18",
+  "generated": "2026-07-02 02:48",
   "scores": {
     "fundamental_score": 36.6,
     "technical_score": 71.1,
     "overall_score": 47.0,
     "rating": "Reduce",
     "risk": "Medium",
-    "risk_score": 53.3,
+    "risk_score": 63.3,
     "weights": {
       "fundamental": 0.7,
       "technical": 0.3
@@ -76,38 +76,38 @@
       "price_to": 29.19,
       "rsi_from": 65.4,
       "rsi_to": 62.7,
-      "bars_ago": 11
+      "bars_ago": 14
     },
     "notes": [
       "Trend: Strong Bullish",
       "EMA20 > EMA50",
-      "ADX 31.8 (Strong); DI + dominant",
-      "RSI 50.3 (Neutral)",
+      "ADX 30.8 (Strong); DI + dominant",
+      "RSI 51.8 (Neutral)",
       "MACD below signal",
-      "\u26a0 Bearish RSI divergence (11 bars ago): Price made a higher high (29.00\u219229.19) while RSI made a lower high (65.4\u219262.7) \u2014 upward momentum is fading; watch for a pullback."
+      "\u26a0 Bearish RSI divergence (14 bars ago): Price made a higher high (29.00\u219229.19) while RSI made a lower high (65.4\u219262.7) \u2014 upward momentum is fading; watch for a pullback."
     ]
   },
   "technical_snapshot": {
-    "as_of": "2026-06-24",
-    "bars": 1237,
-    "close": 28.07,
-    "sma_20": 28.470999999999997,
-    "sma_50": 27.582399999999996,
-    "sma_200": 26.722150000000003,
-    "ema_20": 28.235475515726584,
-    "ema_50": 27.416854932693074,
-    "ema_100": 26.737316522799578,
-    "ema_200": 25.81346298157499,
-    "obv": 701476595.0,
+    "as_of": "2026-07-01",
+    "bars": 2469,
+    "close": 28.19,
+    "sma_20": 28.390500000000003,
+    "sma_50": 27.7848,
+    "sma_200": 26.789049999999996,
+    "ema_20": 28.162665704295712,
+    "ema_50": 27.476256807546473,
+    "ema_100": 26.807294359411433,
+    "ema_200": 25.87634942111082,
+    "obv": 2027536378.0,
     "weekly_trend": "Up",
     "monthly_trend": "Up",
     "support_resistance": {
-      "price": 28.07,
+      "price": 28.19,
       "nearest_resistance": 28.45,
       "nearest_support": 27.87,
       "resistance_levels": [
         28.45,
-        30.26,
+        30.21,
         30.89
       ],
       "support_levels": [
@@ -116,18 +116,18 @@
         25.7
       ]
     },
-    "rsi_14": 50.298057675826826,
-    "macd": 0.31252336246512513,
-    "macd_signal": 0.4380210054161856,
-    "macd_hist": -0.12549764295106047,
-    "adx_14": 31.799541580006316,
-    "plus_di": 24.738328047703373,
-    "minus_di": 13.90553046895247,
-    "atr_14": 1.000586738136373,
-    "bb_upper": 29.31006853116958,
-    "bb_lower": 27.631931468830413,
-    "week52_high": 33.94,
-    "week52_low": 18.67,
+    "rsi_14": 51.78455197802001,
+    "macd": 0.17381195920467718,
+    "macd_signal": 0.31797875732289727,
+    "macd_hist": -0.14416679811822009,
+    "adx_14": 30.79664494060583,
+    "plus_di": 24.54678179212138,
+    "minus_di": 14.799822913615342,
+    "atr_14": 0.9588353147584002,
+    "bb_upper": 29.283998181308224,
+    "bb_lower": 27.497001818691782,
+    "week52_high": 34.3,
+    "week52_low": 18.41,
     "rsi_divergence": {
       "type": "bearish",
       "label": "Bearish RSI divergence",
@@ -136,17 +136,17 @@
       "price_to": 29.19,
       "rsi_from": 65.4,
       "rsi_to": 62.7,
-      "bars_ago": 11
+      "bars_ago": 14
     },
     "patterns": [
       {
-        "name": "Double Bottom",
-        "type": "bullish",
-        "confidence": 0.34,
+        "name": "Double Top",
+        "type": "bearish",
+        "confidence": 0.58,
         "status": "forming",
-        "neckline": 30.2,
-        "target": 33.1,
-        "note": "Two near-equal troughs; breaks up above the peak (neckline)."
+        "neckline": 27.87,
+        "target": 25.54,
+        "note": "Two near-equal peaks; breaks down below the trough (neckline)."
       }
     ]
   },

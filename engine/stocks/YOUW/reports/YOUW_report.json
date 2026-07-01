@@ -1,13 +1,13 @@
 {
   "symbol": "YOUW",
-  "generated": "2026-06-28 17:25",
+  "generated": "2026-07-02 02:50",
   "scores": {
     "fundamental_score": 0.0,
-    "technical_score": 60.0,
-    "overall_score": 18.0,
+    "technical_score": 65.6,
+    "overall_score": 19.7,
     "rating": "Sell",
-    "risk": "Medium",
-    "risk_score": 60.0,
+    "risk": "High",
+    "risk_score": 0.0,
     "weights": {
       "fundamental": 0.7,
       "technical": 0.3
@@ -64,83 +64,74 @@
     }
   },
   "technical": {
-    "technical_score": 60.0,
+    "technical_score": 65.6,
     "trend": "Bullish",
     "momentum": "Neutral",
-    "adx_strength": "Developing",
+    "adx_strength": "Strong",
     "rsi_divergence": {
       "type": null
     },
     "notes": [
       "Trend: Bullish",
       "EMA20 > EMA50",
-      "ADX 20.7 (Developing); DI + dominant",
-      "RSI 48.8 (Neutral)",
+      "ADX 26.4 (Strong); DI + dominant",
+      "RSI 47.7 (Neutral)",
       "MACD below signal"
     ]
   },
   "technical_snapshot": {
-    "as_of": "2026-06-24",
-    "bars": 1236,
-    "close": 5.9,
-    "sma_20": 5.929499999999999,
-    "sma_50": 5.999,
-    "sma_200": 5.5219,
-    "ema_20": 5.958982524203055,
-    "ema_50": 5.788904940236834,
-    "ema_100": 5.5620761693788205,
-    "ema_200": 5.3591574529660635,
-    "obv": 973977017.0,
+    "as_of": "2026-07-01",
+    "bars": 2454,
+    "close": 5.85,
+    "sma_20": 5.9415,
+    "sma_50": 6.084199999999999,
+    "sma_200": 5.525549999999999,
+    "ema_20": 5.929573005486851,
+    "ema_50": 5.7952665132412795,
+    "ema_100": 5.578683047421617,
+    "ema_200": 5.373700551137795,
+    "obv": 1058545588.0,
     "weekly_trend": "Down",
     "monthly_trend": "Up",
     "support_resistance": {
-      "price": 5.9,
-      "nearest_resistance": 6.07,
-      "nearest_support": 5.81,
+      "price": 5.85,
+      "nearest_resistance": 5.9,
+      "nearest_support": 5.63,
       "resistance_levels": [
-        6.07,
-        6.25,
-        6.57
+        5.9,
+        6.39,
+        9.59
       ],
       "support_levels": [
-        5.81,
-        5.18,
-        3.8
+        5.63,
+        5.41,
+        3.56
       ]
     },
-    "rsi_14": 48.80041922218571,
-    "macd": 0.020564610865455357,
-    "macd_signal": 0.03019776664179676,
-    "macd_hist": -0.009633155776341402,
-    "adx_14": 20.710812571670477,
-    "plus_di": 38.687369887295226,
-    "minus_di": 28.73895370503102,
-    "atr_14": 0.17381844700884377,
-    "bb_upper": 6.159497826076573,
-    "bb_lower": 5.699502173923425,
-    "week52_high": 9.0,
-    "week52_low": 3.33,
+    "rsi_14": 47.70536812621381,
+    "macd": -0.005081877295545212,
+    "macd_signal": 0.015211576134854153,
+    "macd_hist": -0.020293453430399365,
+    "adx_14": 26.37736655156588,
+    "plus_di": 19.927306177236254,
+    "minus_di": 13.87896653912725,
+    "atr_14": 0.307554317289949,
+    "bb_upper": 6.141427486854171,
+    "bb_lower": 5.741572513145828,
+    "week52_high": 9.59,
+    "week52_low": 3.19,
     "rsi_divergence": {
       "type": null
     },
     "patterns": [
       {
-        "name": "Inverse Head & Shoulders",
-        "type": "bullish",
-        "confidence": 0.6,
+        "name": "Symmetrical Triangle",
+        "type": "neutral",
+        "confidence": 0.45,
         "status": "forming",
-        "neckline": 6.16,
-        "target": 6.62,
-        "note": "Three troughs, middle lowest; breaks up above the neckline."
-      },
-      {
-        "name": "Double Bottom",
-        "type": "bullish",
-        "confidence": 0.54,
-        "status": "forming",
-        "neckline": 6.07,
-        "target": 6.44,
-        "note": "Two near-equal troughs; breaks up above the peak (neckline)."
+        "neckline": null,
+        "target": null,
+        "note": "Converging highs and lows; breakout direction undecided."
       }
     ]
   },

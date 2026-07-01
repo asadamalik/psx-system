@@ -1,16 +1,16 @@
 # Fauji Cement Company Limited (FCCL) — Analysis Report
-*Generated 2026-06-28 01:05* · Sector: Cement  
+*Generated 2026-07-02 02:48* · Sector: Cement  
 *Decision-support only — not financial advice.*
 
 ## Verdict
 
 | | |
 |---|---|
-| **Overall score** | **83.1 / 100** |
+| **Overall score** | **81.4 / 100** |
 | **Rating** | **Strong Buy** |
 | Risk | Low |
 | Fundamental score | 83.0 (70% weight) |
-| Technical score | 83.3 (30% weight) |
+| Technical score | 77.8 (30% weight) |
 | Trend / Momentum | Bullish / Strong |
 
 ## Fundamental Analysis
@@ -59,21 +59,21 @@
 
 ## Technical Analysis
 
-As of **2026-06-24** (1237 bars). Trend **Bullish**, momentum **Strong**, technical score **83.3/100**.
+As of **2026-07-01** (2468 bars). Trend **Bullish**, momentum **Strong**, technical score **77.8/100**.
 
 | Indicator | Value |
 |---|---|
-| Close | 58.36 |
-| SMA 20 / 50 / 200 | 54.92 / 52.01 / 53.08 |
-| EMA 20 / 50 | 55.03 / 52.42 |
-| RSI (14) | 65.87 |
-| MACD / signal | 1.91 / 1.72 |
-| ADX (14) | 22.68 |
-| DI+ / DI− | 34.20 / 17.48 |
-| ATR (14) | 1.90 |
-| 52-week high / low | 61.25 / 36.41 |
+| Close | 59.28 |
+| SMA 20 / 50 / 200 | 55.54 / 52.45 / 53.06 |
+| EMA 20 / 50 | 55.74 / 53.02 |
+| RSI (14) | 64.57 |
+| MACD / signal | 1.84 / 1.76 |
+| ADX (14) | 18.35 |
+| DI+ / DI− | 25.44 / 22.59 |
+| ATR (14) | 2.30 |
+| 52-week high / low | 62.84 / 36.26 |
 
-Signals: Trend: Bullish; EMA20 > EMA50; ADX 22.7 (Developing); DI + dominant; RSI 65.9 (Strong); MACD above signal
+Signals: Trend: Bullish; EMA20 > EMA50; ADX 18.4 (Weak); DI + dominant; RSI 64.6 (Strong); MACD above signal
 
 ## Notes
 

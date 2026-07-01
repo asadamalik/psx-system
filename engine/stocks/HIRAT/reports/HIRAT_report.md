@@ -1,5 +1,5 @@
 # Hira Textile Mills Limited (HIRAT) — Analysis Report
-*Generated 2026-06-28 16:37* · Sector: Non-compliant Textile Spinning  
+*Generated 2026-07-02 02:48* · Sector: Non-compliant Textile Spinning  
 *Decision-support only — not financial advice.*
 
 ## Verdict
@@ -59,21 +59,21 @@
 
 ## Technical Analysis
 
-As of **2026-06-24** (506 bars). Trend **Strong Bullish**, momentum **Neutral**, technical score **65.6/100**.
+As of **2026-06-30** (2410 bars). Trend **Strong Bullish**, momentum **Neutral**, technical score **65.6/100**.
 
 | Indicator | Value |
 |---|---|
-| Close | 6.66 |
-| SMA 20 / 50 / 200 | 6.86 / 6.23 / 4.99 |
-| EMA 20 / 50 | 6.79 / 6.25 |
-| RSI (14) | 48.89 |
-| MACD / signal | 0.03 / 0.14 |
-| ADX (14) | 12.32 |
-| DI+ / DI− | 18.53 / 22.67 |
-| ATR (14) | 0.46 |
+| Close | 6.96 |
+| SMA 20 / 50 / 200 | 6.83 / 6.36 / 5.01 |
+| EMA 20 / 50 | 6.80 / 6.30 |
+| RSI (14) | 54.58 |
+| MACD / signal | 0.04 / 0.10 |
+| ADX (14) | 11.89 |
+| DI+ / DI− | 20.25 / 20.95 |
+| ATR (14) | 0.47 |
 | 52-week high / low | 10.19 / 2.51 |
 
-Signals: Trend: Strong Bullish; EMA20 > EMA50; ADX 12.3 (Weak); DI - dominant; RSI 48.9 (Neutral); MACD below signal
+Signals: Trend: Strong Bullish; EMA20 > EMA50; ADX 11.9 (Weak); DI - dominant; RSI 54.6 (Neutral); MACD below signal
 
 ## Notes
 

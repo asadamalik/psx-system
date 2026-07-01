@@ -1,17 +1,17 @@
 # K-Electric Limited (KEL) — Analysis Report
-*Generated 2026-06-27 23:47* · Sector: Utilities  
+*Generated 2026-07-02 02:48* · Sector: Utilities  
 *Decision-support only — not financial advice.*
 
 ## Verdict
 
 | | |
 |---|---|
-| **Overall score** | **62.4 / 100** |
+| **Overall score** | **60.4 / 100** |
 | **Rating** | **Hold** |
 | Risk | High |
 | Fundamental score | 51.0 (70% weight) |
-| Technical score | 88.9 (30% weight) |
-| Trend / Momentum | Strong Bullish / Strong |
+| Technical score | 82.2 (30% weight) |
+| Trend / Momentum | Strong Bullish / Neutral |
 
 ## Fundamental Analysis
 
@@ -59,21 +59,21 @@
 
 ## Technical Analysis
 
-As of **2026-06-24** (1237 bars). Trend **Strong Bullish**, momentum **Strong**, technical score **88.9/100**.
+As of **2026-07-01** (2469 bars). Trend **Strong Bullish**, momentum **Neutral**, technical score **82.2/100**.
 
 | Indicator | Value |
 |---|---|
-| Close | 8.75 |
-| SMA 20 / 50 / 200 | 8.17 / 8.05 / 6.96 |
-| EMA 20 / 50 | 8.22 / 8.03 |
-| RSI (14) | 64.98 |
-| MACD / signal | 0.10 / 0.05 |
-| ADX (14) | 14.69 |
-| DI+ / DI− | 29.54 / 23.18 |
-| ATR (14) | 0.31 |
-| 52-week high / low | 9.42 / 4.95 |
+| Close | 8.33 |
+| SMA 20 / 50 / 200 | 8.19 / 8.11 / 7.00 |
+| EMA 20 / 50 | 8.29 / 8.08 |
+| RSI (14) | 52.47 |
+| MACD / signal | 0.11 / 0.09 |
+| ADX (14) | 13.49 |
+| DI+ / DI− | 23.90 / 25.74 |
+| ATR (14) | 0.32 |
+| 52-week high / low | 9.58 / 4.91 |
 
-Signals: Trend: Strong Bullish; EMA20 > EMA50; ADX 14.7 (Weak); DI + dominant; RSI 65.0 (Strong); MACD above signal
+Signals: Trend: Strong Bullish; EMA20 > EMA50; ADX 13.5 (Weak); DI - dominant; RSI 52.5 (Neutral); MACD above signal
 
 ## Notes
 

@@ -1,16 +1,16 @@
 # Amtex Limited (AMTEX) — Analysis Report
-*Generated 2026-06-28 16:33* · Sector: Non-compliant Textile Spinning  
+*Generated 2026-07-02 02:47* · Sector: Non-compliant Textile Spinning  
 *Decision-support only — not financial advice.*
 
 ## Verdict
 
 | | |
 |---|---|
-| **Overall score** | **50.9 / 100** |
-| **Rating** | **Hold** |
+| **Overall score** | **45.9 / 100** |
+| **Rating** | **Reduce** |
 | Risk | Medium |
 | Fundamental score | 46.5 (70% weight) |
-| Technical score | 61.1 (30% weight) |
+| Technical score | 44.4 (30% weight) |
 | Trend / Momentum | Bullish / Weak |
 
 ## Fundamental Analysis
@@ -59,21 +59,21 @@
 
 ## Technical Analysis
 
-As of **2026-06-24** (512 bars). Trend **Bullish**, momentum **Weak**, technical score **61.1/100**.
+As of **2026-06-30** (513 bars). Trend **Bullish**, momentum **Weak**, technical score **44.4/100**.
 
 | Indicator | Value |
 |---|---|
-| Close | 4.59 |
-| SMA 20 / 50 / 200 | 4.72 / 4.64 / 4.42 |
-| EMA 20 / 50 | 4.70 / 4.60 |
-| RSI (14) | 44.46 |
-| MACD / signal | 0.01 / 0.05 |
-| ADX (14) | 26.61 |
-| DI+ / DI− | 14.60 / 11.90 |
+| Close | 4.52 |
+| SMA 20 / 50 / 200 | 4.72 / 4.66 / 4.42 |
+| EMA 20 / 50 | 4.67 / 4.60 |
+| RSI (14) | 41.58 |
+| MACD / signal | -0.02 / 0.03 |
+| ADX (14) | 24.36 |
+| DI+ / DI− | 13.01 / 13.81 |
 | ATR (14) | 0.24 |
-| 52-week high / low | 6.46 / 3.05 |
+| 52-week high / low | 6.49 / 3.04 |
 
-Signals: Trend: Bullish; EMA20 > EMA50; ADX 26.6 (Strong); DI + dominant; RSI 44.5 (Weak); MACD below signal
+Signals: Trend: Bullish; EMA20 > EMA50; ADX 24.4 (Developing); DI - dominant; RSI 41.6 (Weak); MACD below signal
 
 ## Notes
 

@@ -1,5 +1,5 @@
 # Pak Qatar Family Takaful Limited (PAKQATAR) — Analysis Report
-*Generated 2026-07-01 20:42* · Sector: Insurance  
+*Generated 2026-07-02 02:49* · Sector: Insurance  
 *Decision-support only — not financial advice.*
 
 ## Verdict
@@ -59,21 +59,21 @@
 
 ## Technical Analysis
 
-As of **2026-07-01** (122 bars). Trend **Bullish**, momentum **Strong**, technical score **72.2/100**.
+As of **2026-07-01** (121 bars). Trend **Bullish**, momentum **Strong**, technical score **72.2/100**.
 
 | Indicator | Value |
 |---|---|
 | Close | 23.58 |
 | SMA 20 / 50 / 200 | 23.24 / 20.04 / — |
-| EMA 20 / 50 | 21.99 / 20.75 |
-| RSI (14) | 60.01 |
+| EMA 20 / 50 | 21.99 / 20.77 |
+| RSI (14) | 60.00 |
 | MACD / signal | 0.56 / 0.79 |
-| ADX (14) | 25.21 |
-| DI+ / DI− | 35.02 / 17.31 |
-| ATR (14) | 1.36 |
-| 52-week high / low | 29.40 / 15.78 |
+| ADX (14) | 25.38 |
+| DI+ / DI− | 34.76 / 17.17 |
+| ATR (14) | 1.37 |
+| 52-week high / low | 29.40 / 15.24 |
 
-Signals: Trend: Bullish; EMA20 > EMA50; ADX 25.2 (Strong); DI + dominant; RSI 60.0 (Strong); MACD below signal
+Signals: Trend: Bullish; EMA20 > EMA50; ADX 25.4 (Strong); DI + dominant; RSI 60.0 (Strong); MACD below signal
 
 ## Notes
 

@@ -1,55 +1,56 @@
 {
-  "as_of": "2026-06-24",
-  "bars": 1237,
-  "close": 28.28,
-  "sma_20": 27.835,
-  "sma_50": 27.730400000000003,
-  "sma_200": 31.295550000000002,
-  "ema_20": 27.892715567093806,
-  "ema_50": 27.940841580488232,
-  "ema_100": 28.895990376244356,
-  "ema_200": 30.36367930034995,
-  "obv": 294034935.0,
+  "as_of": "2026-07-01",
+  "bars": 2470,
+  "close": 28.36,
+  "sma_20": 27.948,
+  "sma_50": 27.719399999999997,
+  "sma_200": 31.1708,
+  "ema_20": 27.984740061248562,
+  "ema_50": 27.974842039163633,
+  "ema_100": 28.858005723248578,
+  "ema_200": 30.301450701842803,
+  "obv": 641751085.0,
   "weekly_trend": "Up",
-  "monthly_trend": "Down",
+  "monthly_trend": "Up",
   "support_resistance": {
-    "price": 28.28,
-    "nearest_resistance": 29.39,
-    "nearest_support": 27.12,
+    "price": 28.36,
+    "nearest_resistance": 28.74,
+    "nearest_support": 27.25,
     "resistance_levels": [
-      29.39,
-      30.21,
-      35.01
+      28.74,
+      30.1,
+      31.8
     ],
     "support_levels": [
-      27.12,
-      25.05
+      27.25,
+      26.59,
+      24.01
     ]
   },
-  "rsi_14": 60.266351018319746,
-  "macd": 0.21343583798313048,
-  "macd_signal": 0.14422866860676914,
-  "macd_hist": 0.06920716937636134,
-  "adx_14": 28.260602420771477,
-  "plus_di": 24.03549114670662,
-  "minus_di": 9.22095330144877,
-  "atr_14": 0.5179620927765296,
-  "bb_upper": 28.517627277511103,
-  "bb_lower": 27.1523727224889,
-  "week52_high": 40.09,
-  "week52_low": 25.05,
+  "rsi_14": 59.97857251390311,
+  "macd": 0.21102200261384496,
+  "macd_signal": 0.17386981174376587,
+  "macd_hist": 0.037152190870079094,
+  "adx_14": 29.179340191427354,
+  "plus_di": 21.80341870310453,
+  "minus_di": 9.477554787038446,
+  "atr_14": 0.5136396083279714,
+  "bb_upper": 28.608533118039393,
+  "bb_lower": 27.287466881960608,
+  "week52_high": 41.04,
+  "week52_low": 24.01,
   "rsi_divergence": {
     "type": null
   },
   "patterns": [
     {
-      "name": "Double Bottom",
-      "type": "bullish",
-      "confidence": 0.56,
-      "status": "confirmed",
-      "neckline": 28.1,
-      "target": 29.5,
-      "note": "Two near-equal troughs; breaks up above the peak (neckline)."
+      "name": "Double Top",
+      "type": "bearish",
+      "confidence": 0.15,
+      "status": "forming",
+      "neckline": 27.3,
+      "target": 25.65,
+      "note": "Two near-equal peaks; breaks down below the trough (neckline)."
     }
   ]
 }

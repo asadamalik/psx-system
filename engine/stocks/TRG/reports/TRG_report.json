@@ -1,10 +1,10 @@
 {
   "symbol": "TRG",
-  "generated": "2026-06-28 11:48",
+  "generated": "2026-07-02 02:50",
   "scores": {
     "fundamental_score": 29.8,
-    "technical_score": 32.2,
-    "overall_score": 30.5,
+    "technical_score": 37.8,
+    "overall_score": 32.2,
     "rating": "Sell",
     "risk": "High",
     "risk_score": 30.0,
@@ -65,10 +65,10 @@
     }
   },
   "technical": {
-    "technical_score": 32.2,
+    "technical_score": 37.8,
     "trend": "Sideways",
     "momentum": "Neutral",
-    "adx_strength": "Developing",
+    "adx_strength": "Weak",
     "rsi_divergence": {
       "type": "bearish",
       "label": "Bearish RSI divergence",
@@ -77,58 +77,58 @@
       "price_to": 74.06,
       "rsi_from": 72.2,
       "rsi_to": 71.9,
-      "bars_ago": 17
+      "bars_ago": 20
     },
     "notes": [
       "Trend: Sideways",
       "EMA20 > EMA50",
-      "ADX 21.0 (Developing); DI - dominant",
-      "RSI 45.0 (Neutral)",
+      "ADX 19.2 (Weak); DI - dominant",
+      "RSI 45.6 (Neutral)",
       "MACD below signal",
-      "\u26a0 Bearish RSI divergence (17 bars ago): Price made a higher high (67.17\u219274.06) while RSI made a lower high (72.2\u219271.9) \u2014 upward momentum is fading; watch for a pullback."
+      "\u26a0 Bearish RSI divergence (20 bars ago): Price made a higher high (67.17\u219274.06) while RSI made a lower high (72.2\u219271.9) \u2014 upward momentum is fading; watch for a pullback."
     ]
   },
   "technical_snapshot": {
-    "as_of": "2026-06-24",
-    "bars": 1237,
-    "close": 64.4,
-    "sma_20": 69.183,
-    "sma_50": 62.641000000000005,
-    "sma_200": 66.24380000000001,
-    "ema_20": 67.14336000927374,
-    "ema_50": 63.93688108859301,
-    "ema_100": 62.753401169815334,
-    "ema_200": 63.293896960041266,
-    "obv": 1208412910.0,
+    "as_of": "2026-07-01",
+    "bars": 2469,
+    "close": 64.31,
+    "sma_20": 68.43,
+    "sma_50": 63.0292,
+    "sma_200": 66.3069,
+    "ema_20": 66.2802039964571,
+    "ema_50": 63.92137732598886,
+    "ema_100": 62.814291424409184,
+    "ema_200": 63.30891024904983,
+    "obv": 3677591645.0,
     "weekly_trend": "Up",
     "monthly_trend": "Up",
     "support_resistance": {
-      "price": 64.4,
+      "price": 64.31,
       "nearest_resistance": 69.74,
       "nearest_support": 57.44,
       "resistance_levels": [
         69.74,
         75.19,
-        78.15
+        79.09
       ],
       "support_levels": [
         57.44,
         51.0,
-        45.91
+        45.6
       ]
     },
-    "rsi_14": 45.00044307819065,
-    "macd": 1.0003762317326448,
-    "macd_signal": 2.1586540151328153,
-    "macd_hist": -1.1582777834001705,
-    "adx_14": 20.967960721261402,
-    "plus_di": 20.865703276135754,
-    "minus_di": 24.868693240347366,
-    "atr_14": 2.8615819849437,
-    "bb_upper": 74.60345422450708,
-    "bb_lower": 63.76254577549294,
-    "week52_high": 82.98,
-    "week52_low": 40.83,
+    "rsi_14": 45.57206660188318,
+    "macd": 0.1185915032251188,
+    "macd_signal": 1.2543930876423368,
+    "macd_hist": -1.135801584417218,
+    "adx_14": 19.180023356267444,
+    "plus_di": 20.439677529271105,
+    "minus_di": 24.025814286257532,
+    "atr_14": 2.6248431401617753,
+    "bb_upper": 74.15801187149837,
+    "bb_lower": 62.70198812850164,
+    "week52_high": 84.39,
+    "week52_low": 40.12,
     "rsi_divergence": {
       "type": "bearish",
       "label": "Bearish RSI divergence",
@@ -137,7 +137,7 @@
       "price_to": 74.06,
       "rsi_from": 72.2,
       "rsi_to": 71.9,
-      "bars_ago": 17
+      "bars_ago": 20
     },
     "patterns": []
   },

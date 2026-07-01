@@ -1,17 +1,17 @@
 # Oilboy Energy Limited (OBOY) — Analysis Report
-*Generated 2026-06-28 17:25* · Sector: OIL & GAS Marketing Companies  
+*Generated 2026-07-02 02:49* · Sector: OIL & GAS Marketing Companies  
 *Decision-support only — not financial advice.*
 
 ## Verdict
 
 | | |
 |---|---|
-| **Overall score** | **60.8 / 100** |
+| **Overall score** | **58.8 / 100** |
 | **Rating** | **Hold** |
 | Risk | Medium |
 | Fundamental score | 51.1 (70% weight) |
-| Technical score | 83.3 (30% weight) |
-| Trend / Momentum | Strong Bullish / Strong |
+| Technical score | 76.7 (30% weight) |
+| Trend / Momentum | Strong Bullish / Neutral |
 
 ## Fundamental Analysis
 
@@ -59,21 +59,21 @@
 
 ## Technical Analysis
 
-As of **2026-06-24** (417 bars). Trend **Strong Bullish**, momentum **Strong**, technical score **83.3/100**.
+As of **2026-07-01** (2193 bars). Trend **Strong Bullish**, momentum **Neutral**, technical score **76.7/100**.
 
 | Indicator | Value |
 |---|---|
-| Close | 19.22 |
-| SMA 20 / 50 / 200 | 18.21 / 13.31 / 10.88 |
-| EMA 20 / 50 | 18.20 / 14.85 |
-| RSI (14) | 57.37 |
-| MACD / signal | 2.19 / 2.38 |
-| ADX (14) | 62.30 |
-| DI+ / DI− | 42.81 / 9.74 |
-| ATR (14) | 1.23 |
-| 52-week high / low | 23.11 / 7.21 |
+| Close | 18.27 |
+| SMA 20 / 50 / 200 | 18.97 / 13.91 / 11.03 |
+| EMA 20 / 50 | 18.38 / 15.31 |
+| RSI (14) | 53.04 |
+| MACD / signal | 1.61 / 2.09 |
+| ADX (14) | 59.45 |
+| DI+ / DI− | 29.03 / 11.84 |
+| ATR (14) | 1.73 |
+| 52-week high / low | 24.00 / 7.10 |
 
-Signals: Trend: Strong Bullish; EMA20 > EMA50; ADX 62.3 (Strong); DI + dominant; RSI 57.4 (Strong); MACD below signal
+Signals: Trend: Strong Bullish; EMA20 > EMA50; ADX 59.4 (Strong); DI + dominant; RSI 53.0 (Neutral); MACD below signal
 
 ## Notes
 

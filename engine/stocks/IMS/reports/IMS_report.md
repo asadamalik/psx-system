@@ -1,16 +1,16 @@
 # Intermarket Securities Limited (IMS) — Analysis Report
-*Generated 2026-06-28 11:56*  
+*Generated 2026-07-02 02:48*  
 *Decision-support only — not financial advice.*
 
 ## Verdict
 
 | | |
 |---|---|
-| **Overall score** | **76.9 / 100** |
+| **Overall score** | **78.5 / 100** |
 | **Rating** | **Buy** |
 | Risk | High |
 | Fundamental score | 74.1 (70% weight) |
-| Technical score | 83.3 (30% weight) |
+| Technical score | 88.9 (30% weight) |
 | Trend / Momentum | Bullish / Strong |
 
 ## Fundamental Analysis
@@ -59,21 +59,21 @@
 
 ## Technical Analysis
 
-As of **2026-06-24** (259 bars). Trend **Bullish**, momentum **Strong**, technical score **83.3/100**.
+As of **2026-07-01** (399 bars). Trend **Bullish**, momentum **Strong**, technical score **88.9/100**.
 
 | Indicator | Value |
 |---|---|
-| Close | 20.66 |
-| SMA 20 / 50 / 200 | 17.75 / 17.24 / 18.13 |
-| EMA 20 / 50 | 18.37 / 17.62 |
-| RSI (14) | 68.64 |
-| MACD / signal | 1.03 / 0.60 |
-| ADX (14) | 23.46 |
-| DI+ / DI− | 29.65 / 11.29 |
-| ATR (14) | 1.24 |
-| 52-week high / low | 25.84 / 5.28 |
+| Close | 20.49 |
+| SMA 20 / 50 / 200 | 18.32 / 17.46 / 18.23 |
+| EMA 20 / 50 | 18.86 / 17.92 |
+| RSI (14) | 65.10 |
+| MACD / signal | 1.04 / 0.82 |
+| ADX (14) | 27.94 |
+| DI+ / DI− | 28.39 / 9.29 |
+| ATR (14) | 1.30 |
+| 52-week high / low | 26.39 / 7.65 |
 
-Signals: Trend: Bullish; EMA20 > EMA50; ADX 23.5 (Developing); DI + dominant; RSI 68.6 (Strong); MACD above signal
+Signals: Trend: Bullish; EMA20 > EMA50; ADX 27.9 (Strong); DI + dominant; RSI 65.1 (Strong); MACD above signal
 
 ## Notes
 

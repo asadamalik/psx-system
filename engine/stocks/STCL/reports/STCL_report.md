@@ -1,17 +1,17 @@
 # Shabbir Tiles & Ceramics Limited (STCL) — Analysis Report
-*Generated 2026-06-28 01:34* · Sector: Glass & Ceramics  
+*Generated 2026-07-02 02:49* · Sector: Glass & Ceramics  
 *Decision-support only — not financial advice.*
 
 ## Verdict
 
 | | |
 |---|---|
-| **Overall score** | **29.9 / 100** |
+| **Overall score** | **31.2 / 100** |
 | **Rating** | **Sell** |
 | Risk | Medium |
 | Fundamental score | 35.5 (70% weight) |
-| Technical score | 16.7 (30% weight) |
-| Trend / Momentum | Bearish / Weak |
+| Technical score | 21.1 (30% weight) |
+| Trend / Momentum | Bearish / Neutral |
 
 ## Fundamental Analysis
 
@@ -59,21 +59,21 @@
 
 ## Technical Analysis
 
-As of **2026-06-24** (562 bars). Trend **Bearish**, momentum **Weak**, technical score **16.7/100**.
+As of **2026-07-01** (2465 bars). Trend **Bearish**, momentum **Neutral**, technical score **21.1/100**.
 
 | Indicator | Value |
 |---|---|
-| Close | 10.93 |
-| SMA 20 / 50 / 200 | 11.56 / 11.65 / 14.17 |
-| EMA 20 / 50 | 11.49 / 11.60 |
-| RSI (14) | 40.74 |
-| MACD / signal | -0.11 / -0.01 |
-| ADX (14) | 19.58 |
-| DI+ / DI− | 20.45 / 19.52 |
-| ATR (14) | 0.63 |
-| 52-week high / low | 19.57 / 9.00 |
+| Close | 11.20 |
+| SMA 20 / 50 / 200 | 11.44 / 11.64 / 14.08 |
+| EMA 20 / 50 | 11.35 / 11.53 |
+| RSI (14) | 46.61 |
+| MACD / signal | -0.16 / -0.08 |
+| ADX (14) | 19.00 |
+| DI+ / DI− | 21.06 / 16.79 |
+| ATR (14) | 0.60 |
+| 52-week high / low | 19.78 / 8.55 |
 
-Signals: Trend: Bearish; EMA20 < EMA50; ADX 19.6 (Weak); DI + dominant; RSI 40.7 (Weak); MACD below signal
+Signals: Trend: Bearish; EMA20 < EMA50; ADX 19.0 (Weak); DI + dominant; RSI 46.6 (Neutral); MACD below signal
 
 ## Notes
 

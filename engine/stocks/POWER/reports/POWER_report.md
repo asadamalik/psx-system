@@ -1,5 +1,5 @@
 # Power Cement Limited (POWER) — Analysis Report
-*Generated 2026-06-28 01:20* · Sector: Cement  
+*Generated 2026-07-02 02:49* · Sector: Cement  
 *Decision-support only — not financial advice.*
 
 ## Verdict
@@ -59,21 +59,21 @@
 
 ## Technical Analysis
 
-As of **2026-06-24** (1237 bars). Trend **Strong Bullish**, momentum **Strong**, technical score **100.0/100**.
+As of **2026-07-01** (2469 bars). Trend **Strong Bullish**, momentum **Strong**, technical score **100.0/100**.
 
 | Indicator | Value |
 |---|---|
-| Close | 23.30 |
-| SMA 20 / 50 / 200 | 21.55 / 20.13 / 18.84 |
-| EMA 20 / 50 | 21.70 / 20.43 |
-| RSI (14) | 66.84 |
-| MACD / signal | 0.95 / 0.79 |
-| ADX (14) | 34.30 |
-| DI+ / DI− | 32.06 / 10.02 |
-| ATR (14) | 0.90 |
-| 52-week high / low | 24.26 / 13.51 |
+| Close | 23.55 |
+| SMA 20 / 50 / 200 | 21.90 / 20.38 / 18.90 |
+| EMA 20 / 50 | 22.10 / 20.75 |
+| RSI (14) | 67.02 |
+| MACD / signal | 0.94 / 0.86 |
+| ADX (14) | 35.42 |
+| DI+ / DI− | 31.01 / 13.92 |
+| ATR (14) | 0.88 |
+| 52-week high / low | 24.26 / 13.40 |
 
-Signals: Trend: Strong Bullish; EMA20 > EMA50; ADX 34.3 (Strong); DI + dominant; RSI 66.8 (Strong); MACD above signal
+Signals: Trend: Strong Bullish; EMA20 > EMA50; ADX 35.4 (Strong); DI + dominant; RSI 67.0 (Strong); MACD above signal
 
 ## Notes
 

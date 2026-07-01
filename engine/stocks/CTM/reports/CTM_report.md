@@ -1,5 +1,5 @@
 # Colony Textile Mills Limited (CTM) — Analysis Report
-*Generated 2026-06-28 11:52* · Sector: Textile Spinning  
+*Generated 2026-07-02 02:48* · Sector: Textile Spinning  
 *Decision-support only — not financial advice.*
 
 ## Verdict
@@ -59,21 +59,21 @@
 
 ## Technical Analysis
 
-As of **2026-06-24** (791 bars). Trend **Strong Bullish**, momentum **Neutral**, technical score **60.0/100**.
+As of **2026-06-30** (2442 bars). Trend **Strong Bullish**, momentum **Neutral**, technical score **60.0/100**.
 
 | Indicator | Value |
 |---|---|
-| Close | 7.46 |
-| SMA 20 / 50 / 200 | 7.69 / 7.33 / 6.78 |
-| EMA 20 / 50 | 7.63 / 7.34 |
-| RSI (14) | 47.16 |
-| MACD / signal | 0.07 / 0.14 |
-| ADX (14) | 19.25 |
-| DI+ / DI− | 17.45 / 14.08 |
-| ATR (14) | 0.47 |
-| 52-week high / low | 9.44 / 4.21 |
+| Close | 7.45 |
+| SMA 20 / 50 / 200 | 7.67 / 7.38 / 6.79 |
+| EMA 20 / 50 | 7.59 / 7.35 |
+| RSI (14) | 47.47 |
+| MACD / signal | 0.02 / 0.10 |
+| ADX (14) | 16.01 |
+| DI+ / DI− | 15.83 / 15.13 |
+| ATR (14) | 0.44 |
+| 52-week high / low | 9.77 / 4.21 |
 
-Signals: Trend: Strong Bullish; EMA20 > EMA50; ADX 19.2 (Weak); DI + dominant; RSI 47.2 (Neutral); MACD below signal; ⚠ Bearish RSI divergence (8 bars ago): Price made a higher high (7.97→7.99) while RSI made a lower high (59.5→58.6) — upward momentum is fading; watch for a pullback.
+Signals: Trend: Strong Bullish; EMA20 > EMA50; ADX 16.0 (Weak); DI + dominant; RSI 47.5 (Neutral); MACD below signal; ⚠ Bearish RSI divergence (10 bars ago): Price made a higher high (7.97→7.99) while RSI made a lower high (59.5→58.6) — upward momentum is fading; watch for a pullback.
 
 ## Notes
 

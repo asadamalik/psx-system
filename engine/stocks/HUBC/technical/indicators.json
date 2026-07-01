@@ -1,56 +1,45 @@
 {
-  "as_of": "2026-06-24",
-  "bars": 1237,
-  "close": 231.41,
-  "sma_20": 221.65300000000002,
-  "sma_50": 219.4896,
-  "sma_200": 217.48940000000002,
-  "ema_20": 223.7345916271238,
-  "ema_50": 219.10866884920563,
-  "ema_100": 216.41471377385855,
-  "ema_200": 207.23569167856124,
-  "obv": 919305129.0,
+  "as_of": "2026-07-01",
+  "bars": 2468,
+  "close": 233.14,
+  "sma_20": 223.5695,
+  "sma_50": 220.6986,
+  "sma_200": 218.01245,
+  "ema_20": 225.75715840303036,
+  "ema_50": 220.5012260695719,
+  "ema_100": 217.286546461701,
+  "ema_200": 207.94907094360858,
+  "obv": 1120894965.0,
   "weekly_trend": "Up",
   "monthly_trend": "Up",
   "support_resistance": {
-    "price": 231.41,
-    "nearest_resistance": 233.54,
-    "nearest_support": 226.59,
+    "price": 233.14,
+    "nearest_resistance": 240.82,
+    "nearest_support": 224.0,
     "resistance_levels": [
-      233.54,
-      239.5,
-      246.0
+      240.82,
+      249.99
     ],
     "support_levels": [
-      226.59,
+      224.0,
       211.56,
       203.86
     ]
   },
-  "rsi_14": 62.72829369063405,
-  "macd": 4.574994419651404,
-  "macd_signal": 3.138037309484497,
-  "macd_hist": 1.4369571101669067,
-  "adx_14": 23.771870822899402,
-  "plus_di": 31.4583303275238,
-  "minus_di": 13.696393845173926,
-  "atr_14": 5.464546700909559,
-  "bb_upper": 237.2021325803136,
-  "bb_lower": 206.10386741968645,
-  "week52_high": 246.0,
-  "week52_low": 137.1,
+  "rsi_14": 62.09562274493684,
+  "macd": 4.574506244070875,
+  "macd_signal": 3.7887789742596416,
+  "macd_hist": 0.7857272698112334,
+  "adx_14": 24.94053581173486,
+  "plus_di": 28.45937654409212,
+  "minus_di": 14.749099336092055,
+  "atr_14": 5.539739194589298,
+  "bb_upper": 240.24537296067152,
+  "bb_lower": 206.8936270393285,
+  "week52_high": 249.99,
+  "week52_low": 137.02,
   "rsi_divergence": {
     "type": null
   },
-  "patterns": [
-    {
-      "name": "Symmetrical Triangle",
-      "type": "neutral",
-      "confidence": 0.45,
-      "status": "forming",
-      "neckline": null,
-      "target": null,
-      "note": "Converging highs and lows; breakout direction undecided."
-    }
-  ]
+  "patterns": []
 }

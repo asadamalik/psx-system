@@ -1,16 +1,16 @@
 # National Bank of Pakistan (NBP) — Analysis Report
-*Generated 2026-06-28 12:01* · Sector: Commercial Banks  
+*Generated 2026-07-02 02:49* · Sector: Commercial Banks  
 *Decision-support only — not financial advice.*
 
 ## Verdict
 
 | | |
 |---|---|
-| **Overall score** | **62.1 / 100** |
-| **Rating** | **Hold** |
+| **Overall score** | **65.4 / 100** |
+| **Rating** | **Buy** |
 | Risk | Medium |
 | Fundamental score | 64.9 (70% weight) |
-| Technical score | 55.6 (30% weight) |
+| Technical score | 66.7 (30% weight) |
 | Trend / Momentum | Sideways / Strong |
 
 ## Fundamental Analysis
@@ -59,21 +59,21 @@
 
 ## Technical Analysis
 
-As of **2026-06-24** (1237 bars). Trend **Sideways**, momentum **Strong**, technical score **55.6/100**.
+As of **2026-07-01** (2469 bars). Trend **Sideways**, momentum **Strong**, technical score **66.7/100**.
 
 | Indicator | Value |
 |---|---|
-| Close | 201.73 |
-| SMA 20 / 50 / 200 | 193.69 / 192.24 / 216.45 |
-| EMA 20 / 50 | 195.70 / 195.89 |
-| RSI (14) | 58.25 |
-| MACD / signal | 3.98 / 2.55 |
-| ADX (14) | 12.18 |
-| DI+ / DI− | 27.31 / 24.81 |
-| ATR (14) | 6.74 |
-| 52-week high / low | 286.42 / 105.74 |
+| Close | 205.01 |
+| SMA 20 / 50 / 200 | 194.95 / 193.13 / 216.85 |
+| EMA 20 / 50 | 197.15 / 196.48 |
+| RSI (14) | 60.47 |
+| MACD / signal | 3.72 / 3.09 |
+| ADX (14) | 10.39 |
+| DI+ / DI− | 23.76 / 21.53 |
+| ATR (14) | 6.94 |
+| 52-week high / low | 287.80 / 107.50 |
 
-Signals: Trend: Sideways; EMA20 < EMA50; ADX 12.2 (Weak); DI + dominant; RSI 58.2 (Strong); MACD above signal
+Signals: Trend: Sideways; EMA20 > EMA50; ADX 10.4 (Weak); DI + dominant; RSI 60.5 (Strong); MACD above signal
 
 ## Notes
 

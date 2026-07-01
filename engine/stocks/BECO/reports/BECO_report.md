@@ -1,16 +1,16 @@
 # Beco Steel Limited (BECO) — Analysis Report
-*Generated 2026-06-28 01:06* · Sector: Engineering  
+*Generated 2026-07-02 02:47* · Sector: Engineering  
 *Decision-support only — not financial advice.*
 
 ## Verdict
 
 | | |
 |---|---|
-| **Overall score** | **48.7 / 100** |
+| **Overall score** | **47.0 / 100** |
 | **Rating** | **Reduce** |
 | Risk | Medium |
 | Fundamental score | 53.4 (70% weight) |
-| Technical score | 37.8 (30% weight) |
+| Technical score | 32.2 (30% weight) |
 | Trend / Momentum | Bearish / Neutral |
 
 ## Fundamental Analysis
@@ -59,21 +59,21 @@
 
 ## Technical Analysis
 
-As of **2026-06-24** (150 bars). Trend **Bearish**, momentum **Neutral**, technical score **37.8/100**.
+As of **2026-07-01** (2387 bars). Trend **Bearish**, momentum **Neutral**, technical score **32.2/100**.
 
 | Indicator | Value |
 |---|---|
-| Close | 5.43 |
-| SMA 20 / 50 / 200 | 5.59 / 5.45 / — |
-| EMA 20 / 50 | 5.56 / 5.45 |
-| RSI (14) | 45.79 |
-| MACD / signal | 0.03 / 0.07 |
-| ADX (14) | 19.87 |
-| DI+ / DI− | 23.29 / 22.29 |
-| ATR (14) | 0.21 |
-| 52-week high / low | 8.18 / 3.90 |
+| Close | 5.39 |
+| SMA 20 / 50 / 200 | 5.59 / 5.49 / 5.50 |
+| EMA 20 / 50 | 5.51 / 5.44 |
+| RSI (14) | 45.11 |
+| MACD / signal | -0.01 / 0.03 |
+| ADX (14) | 17.00 |
+| DI+ / DI− | 20.16 / 21.36 |
+| ATR (14) | 0.20 |
+| 52-week high / low | 8.87 / 1.71 |
 
-Signals: Trend: Bearish; EMA20 > EMA50; ADX 19.9 (Weak); DI + dominant; RSI 45.8 (Neutral); MACD below signal
+Signals: Trend: Bearish; EMA20 > EMA50; ADX 17.0 (Weak); DI - dominant; RSI 45.1 (Neutral); MACD below signal
 
 ## Notes
 

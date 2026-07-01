@@ -1,5 +1,5 @@
 # Sui Southern Gas Company Limited (SSGC) — Analysis Report
-*Generated 2026-06-28 01:03* · Sector: OIL & GAS Marketing Companies  
+*Generated 2026-07-02 02:49* · Sector: OIL & GAS Marketing Companies  
 *Decision-support only — not financial advice.*
 
 ## Verdict
@@ -59,21 +59,21 @@
 
 ## Technical Analysis
 
-As of **2026-06-24** (1237 bars). Trend **Sideways**, momentum **Strong**, technical score **72.2/100**.
+As of **2026-07-01** (2469 bars). Trend **Sideways**, momentum **Strong**, technical score **72.2/100**.
 
 | Indicator | Value |
 |---|---|
-| Close | 32.04 |
-| SMA 20 / 50 / 200 | 28.57 / 27.73 / 32.66 |
-| EMA 20 / 50 | 29.28 / 27.93 |
-| RSI (14) | 67.27 |
-| MACD / signal | 1.46 / 0.94 |
-| ADX (14) | 23.21 |
-| DI+ / DI− | 35.95 / 15.80 |
-| ATR (14) | 1.28 |
-| 52-week high / low | 46.88 / 19.11 |
+| Close | 31.85 |
+| SMA 20 / 50 / 200 | 29.21 / 28.09 / 32.49 |
+| EMA 20 / 50 | 29.89 / 28.34 |
+| RSI (14) | 62.80 |
+| MACD / signal | 1.43 / 1.17 |
+| ADX (14) | 23.54 |
+| DI+ / DI− | 29.93 / 17.97 |
+| ATR (14) | 1.29 |
+| 52-week high / low | 47.45 / 19.02 |
 
-Signals: Trend: Sideways; EMA20 > EMA50; ADX 23.2 (Developing); DI + dominant; RSI 67.3 (Strong); MACD above signal
+Signals: Trend: Sideways; EMA20 > EMA50; ADX 23.5 (Developing); DI + dominant; RSI 62.8 (Strong); MACD above signal
 
 ## Notes
 

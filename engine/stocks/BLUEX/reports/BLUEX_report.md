@@ -1,5 +1,5 @@
 # Blue-Ex Limited (BLUEX) — Analysis Report
-*Generated 2026-06-29 23:07* · Sector: Transport  
+*Generated 2026-07-02 02:47* · Sector: Transport  
 *Decision-support only — not financial advice.*
 
 ## Verdict
@@ -59,21 +59,21 @@
 
 ## Technical Analysis
 
-As of **2026-06-29** (83 bars). Trend **Bullish**, momentum **Overbought**, technical score **72.2/100**.
+As of **2026-06-30** (633 bars). Trend **Bullish**, momentum **Overbought**, technical score **72.2/100**.
 
 | Indicator | Value |
 |---|---|
-| Close | 7.16 |
-| SMA 20 / 50 / 200 | 6.35 / 6.39 / — |
-| EMA 20 / 50 | 6.37 / 6.33 |
-| RSI (14) | 70.50 |
-| MACD / signal | 0.03 / -0.01 |
-| ADX (14) | 21.36 |
-| DI+ / DI− | 31.78 / 11.82 |
-| ATR (14) | 0.34 |
-| 52-week high / low | 7.38 / 5.17 |
+| Close | 8.16 |
+| SMA 20 / 50 / 200 | 6.44 / 6.43 / 6.89 |
+| EMA 20 / 50 | 6.54 / 6.44 |
+| RSI (14) | 80.64 |
+| MACD / signal | 0.17 / 0.02 |
+| ADX (14) | 24.38 |
+| DI+ / DI− | 44.03 / 9.58 |
+| ATR (14) | 0.39 |
+| 52-week high / low | 10.60 / 4.78 |
 
-Signals: Trend: Bullish; EMA20 > EMA50; ADX 21.4 (Developing); DI + dominant; RSI 70.5 (Overbought); MACD above signal
+Signals: Trend: Bullish; EMA20 > EMA50; ADX 24.4 (Developing); DI + dominant; RSI 80.6 (Overbought); MACD above signal
 
 ## Notes
 

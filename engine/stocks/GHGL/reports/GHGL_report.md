@@ -1,17 +1,17 @@
 # Ghani Glass Limited (GHGL) — Analysis Report
-*Generated 2026-06-28 01:29* · Sector: Glass & Ceramics  
+*Generated 2026-07-02 02:48* · Sector: Glass & Ceramics  
 *Decision-support only — not financial advice.*
 
 ## Verdict
 
 | | |
 |---|---|
-| **Overall score** | **85.4 / 100** |
+| **Overall score** | **88.7 / 100** |
 | **Rating** | **Strong Buy** |
 | Risk | Low |
 | Fundamental score | 86.3 (70% weight) |
-| Technical score | 83.3 (30% weight) |
-| Trend / Momentum | Bullish / Strong |
+| Technical score | 94.4 (30% weight) |
+| Trend / Momentum | Strong Bullish / Strong |
 
 ## Fundamental Analysis
 
@@ -59,21 +59,21 @@
 
 ## Technical Analysis
 
-As of **2026-06-24** (1237 bars). Trend **Bullish**, momentum **Strong**, technical score **83.3/100**.
+As of **2026-07-01** (2468 bars). Trend **Strong Bullish**, momentum **Strong**, technical score **94.4/100**.
 
 | Indicator | Value |
 |---|---|
-| Close | 38.78 |
-| SMA 20 / 50 / 200 | 36.62 / 36.66 / 36.90 |
-| EMA 20 / 50 | 37.23 / 36.29 |
-| RSI (14) | 58.73 |
-| MACD / signal | 0.84 / 0.58 |
-| ADX (14) | 23.97 |
-| DI+ / DI− | 20.49 / 18.57 |
-| ATR (14) | 1.76 |
-| 52-week high / low | 51.11 / 27.98 |
+| Close | 40.83 |
+| SMA 20 / 50 / 200 | 37.29 / 36.85 / 36.77 |
+| EMA 20 / 50 | 38.00 / 36.73 |
+| RSI (14) | 65.83 |
+| MACD / signal | 1.13 / 0.80 |
+| ADX (14) | 23.55 |
+| DI+ / DI− | 24.74 / 15.45 |
+| ATR (14) | 1.69 |
+| 52-week high / low | 52.25 / 27.78 |
 
-Signals: Trend: Bullish; EMA20 > EMA50; ADX 24.0 (Developing); DI + dominant; RSI 58.7 (Strong); MACD above signal
+Signals: Trend: Strong Bullish; EMA20 > EMA50; ADX 23.6 (Developing); DI + dominant; RSI 65.8 (Strong); MACD above signal
 
 ## Notes
 

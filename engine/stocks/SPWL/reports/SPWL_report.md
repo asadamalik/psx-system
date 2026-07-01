@@ -1,17 +1,17 @@
 # Saif Power Limited (SPWL) — Analysis Report
-*Generated 2026-06-28 12:08* · Sector: Power Generation & Distribution  
+*Generated 2026-07-02 02:49* · Sector: Power Generation & Distribution  
 *Decision-support only — not financial advice.*
 
 ## Verdict
 
 | | |
 |---|---|
-| **Overall score** | **40.7 / 100** |
+| **Overall score** | **38.7 / 100** |
 | **Rating** | **Reduce** |
-| Risk | Low |
+| Risk | Medium |
 | Fundamental score | 29.6 (70% weight) |
-| Technical score | 66.7 (30% weight) |
-| Trend / Momentum | Sideways / Strong |
+| Technical score | 60.0 (30% weight) |
+| Trend / Momentum | Bearish / Neutral |
 
 ## Fundamental Analysis
 
@@ -59,21 +59,21 @@
 
 ## Technical Analysis
 
-As of **2026-06-24** (1237 bars). Trend **Sideways**, momentum **Strong**, technical score **66.7/100**.
+As of **2026-07-01** (2469 bars). Trend **Bearish**, momentum **Neutral**, technical score **60.0/100**.
 
 | Indicator | Value |
 |---|---|
-| Close | 10.01 |
-| SMA 20 / 50 / 200 | 9.48 / 9.61 / 10.24 |
-| EMA 20 / 50 | 9.59 / 9.59 |
-| RSI (14) | 65.41 |
-| MACD / signal | 0.11 / 0.01 |
-| ADX (14) | 28.14 |
-| DI+ / DI− | 30.67 / 14.29 |
-| ATR (14) | 0.35 |
-| 52-week high / low | 12.49 / 8.31 |
+| Close | 9.53 |
+| SMA 20 / 50 / 200 | 9.53 / 9.57 / 10.22 |
+| EMA 20 / 50 | 9.62 / 9.61 |
+| RSI (14) | 48.10 |
+| MACD / signal | 0.09 / 0.06 |
+| ADX (14) | 26.22 |
+| DI+ / DI− | 23.92 / 22.51 |
+| ATR (14) | 0.36 |
+| 52-week high / low | 12.65 / 8.01 |
 
-Signals: Trend: Sideways; EMA20 < EMA50; ADX 28.1 (Strong); DI + dominant; RSI 65.4 (Strong); MACD above signal
+Signals: Trend: Bearish; EMA20 > EMA50; ADX 26.2 (Strong); DI + dominant; RSI 48.1 (Neutral); MACD above signal
 
 ## Notes
 

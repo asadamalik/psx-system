@@ -1,17 +1,17 @@
 # TPL Trakker Limited (TPLT) — Analysis Report
-*Generated 2026-06-28 12:14* · Sector: Technology & Communication  
+*Generated 2026-07-02 02:50* · Sector: Technology & Communication  
 *Decision-support only — not financial advice.*
 
 ## Verdict
 
 | | |
 |---|---|
-| **Overall score** | **52.7 / 100** |
-| **Rating** | **Hold** |
+| **Overall score** | **44.4 / 100** |
+| **Rating** | **Reduce** |
 | Risk | High |
 | Fundamental score | 37.2 (70% weight) |
-| Technical score | 88.9 (30% weight) |
-| Trend / Momentum | Strong Bullish / Overbought |
+| Technical score | 61.1 (30% weight) |
+| Trend / Momentum | Strong Bullish / Strong |
 
 ## Fundamental Analysis
 
@@ -59,21 +59,21 @@
 
 ## Technical Analysis
 
-As of **2026-06-24** (744 bars). Trend **Strong Bullish**, momentum **Overbought**, technical score **88.9/100**.
+As of **2026-07-01** (1410 bars). Trend **Strong Bullish**, momentum **Strong**, technical score **61.1/100**.
 
 | Indicator | Value |
 |---|---|
-| Close | 25.33 |
-| SMA 20 / 50 / 200 | 21.65 / 16.98 / 11.28 |
-| EMA 20 / 50 | 21.87 / 18.17 |
-| RSI (14) | 78.95 |
-| MACD / signal | 2.24 / 2.11 |
-| ADX (14) | 54.04 |
-| DI+ / DI− | 28.66 / 10.37 |
-| ATR (14) | 1.56 |
-| 52-week high / low | 26.25 / 6.62 |
+| Close | 22.16 |
+| SMA 20 / 50 / 200 | 22.26 / 17.73 / 11.50 |
+| EMA 20 / 50 | 21.94 / 18.62 |
+| RSI (14) | 55.40 |
+| MACD / signal | 1.58 / 1.94 |
+| ADX (14) | 45.71 |
+| DI+ / DI− | 22.04 / 24.78 |
+| ATR (14) | 1.62 |
+| 52-week high / low | 26.25 / 6.06 |
 
-Signals: Trend: Strong Bullish; EMA20 > EMA50; ADX 54.0 (Strong); DI + dominant; RSI 79.0 (Overbought); MACD above signal
+Signals: Trend: Strong Bullish; EMA20 > EMA50; ADX 45.7 (Strong); DI - dominant; RSI 55.4 (Strong); MACD below signal
 
 ## Notes
 

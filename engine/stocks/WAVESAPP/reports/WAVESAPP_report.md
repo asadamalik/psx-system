@@ -1,5 +1,5 @@
 # Waves Home Appliances Limited (WAVESAPP) — Analysis Report
-*Generated 2026-06-28 12:19* · Sector: Cable & Electrical Goods  
+*Generated 2026-07-02 02:50* · Sector: Cable & Electrical Goods  
 *Decision-support only — not financial advice.*
 
 ## Verdict
@@ -59,21 +59,21 @@
 
 ## Technical Analysis
 
-As of **2026-06-24** (1015 bars). Trend **Sideways**, momentum **Neutral**, technical score **54.4/100**.
+As of **2026-06-30** (2379 bars). Trend **Sideways**, momentum **Neutral**, technical score **54.4/100**.
 
 | Indicator | Value |
 |---|---|
-| Close | 8.90 |
-| SMA 20 / 50 / 200 | 8.86 / 8.39 / 9.24 |
-| EMA 20 / 50 | 8.90 / 8.60 |
-| RSI (14) | 52.52 |
-| MACD / signal | 0.25 / 0.29 |
-| ADX (14) | 28.69 |
-| DI+ / DI− | 22.28 / 15.26 |
-| ATR (14) | 0.42 |
-| 52-week high / low | 12.05 / 7.05 |
+| Close | 8.75 |
+| SMA 20 / 50 / 200 | 8.93 / 8.44 / 9.23 |
+| EMA 20 / 50 | 8.86 / 8.60 |
+| RSI (14) | 49.53 |
+| MACD / signal | 0.17 / 0.25 |
+| ADX (14) | 25.78 |
+| DI+ / DI− | 19.40 / 17.51 |
+| ATR (14) | 0.41 |
+| 52-week high / low | 12.30 / 6.99 |
 
-Signals: Trend: Sideways; EMA20 > EMA50; ADX 28.7 (Strong); DI + dominant; RSI 52.5 (Neutral); MACD below signal
+Signals: Trend: Sideways; EMA20 > EMA50; ADX 25.8 (Strong); DI + dominant; RSI 49.5 (Neutral); MACD below signal
 
 ## Notes
 

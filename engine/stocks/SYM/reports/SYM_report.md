@@ -1,16 +1,16 @@
 # Symmetry Group Limited (SYM) — Analysis Report
-*Generated 2026-06-28 01:18* · Sector: Technology & Communication  
+*Generated 2026-07-02 02:49* · Sector: Technology & Communication  
 *Decision-support only — not financial advice.*
 
 ## Verdict
 
 | | |
 |---|---|
-| **Overall score** | **77.4 / 100** |
-| **Rating** | **Buy** |
-| Risk | Low |
+| **Overall score** | **82.3 / 100** |
+| **Rating** | **Strong Buy** |
+| Risk | Medium |
 | Fundamental score | 86.7 (70% weight) |
-| Technical score | 55.6 (30% weight) |
+| Technical score | 72.2 (30% weight) |
 | Trend / Momentum | Sideways / Strong |
 
 ## Fundamental Analysis
@@ -59,21 +59,21 @@
 
 ## Technical Analysis
 
-As of **2026-06-24** (697 bars). Trend **Sideways**, momentum **Strong**, technical score **55.6/100**.
+As of **2026-07-01** (682 bars). Trend **Sideways**, momentum **Strong**, technical score **72.2/100**.
 
 | Indicator | Value |
 |---|---|
-| Close | 11.30 |
-| SMA 20 / 50 / 200 | 10.53 / 10.64 / 12.61 |
-| EMA 20 / 50 | 10.63 / 10.68 |
-| RSI (14) | 66.48 |
-| MACD / signal | 0.11 / 0.02 |
-| ADX (14) | 18.53 |
-| DI+ / DI− | 28.74 / 11.88 |
-| ATR (14) | 0.39 |
-| 52-week high / low | 16.80 / 9.01 |
+| Close | 11.70 |
+| SMA 20 / 50 / 200 | 10.69 / 10.68 / 12.54 |
+| EMA 20 / 50 | 10.88 / 10.78 |
+| RSI (14) | 63.99 |
+| MACD / signal | 0.25 / 0.11 |
+| ADX (14) | 22.76 |
+| DI+ / DI− | 30.91 / 9.11 |
+| ATR (14) | 0.50 |
+| 52-week high / low | 17.04 / 9.01 |
 
-Signals: Trend: Sideways; EMA20 < EMA50; ADX 18.5 (Weak); DI + dominant; RSI 66.5 (Strong); MACD above signal
+Signals: Trend: Sideways; EMA20 > EMA50; ADX 22.8 (Developing); DI + dominant; RSI 64.0 (Strong); MACD above signal
 
 ## Notes
 

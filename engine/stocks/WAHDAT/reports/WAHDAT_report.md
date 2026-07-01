@@ -1,17 +1,17 @@
 # Wahdat Poultry Farm Limited (WAHDAT) — Analysis Report
-*Generated 2026-06-28 01:16* · Sector: Food & Personal Care Products  
+*Generated 2026-07-02 02:50* · Sector: Food & Personal Care Products  
 *Decision-support only — not financial advice.*
 
 ## Verdict
 
 | | |
 |---|---|
-| **Overall score** | **52.4 / 100** |
-| **Rating** | **Hold** |
+| **Overall score** | **69.1 / 100** |
+| **Rating** | **Buy** |
 | Risk | Medium |
 | Fundamental score | 70.1 (70% weight) |
-| Technical score | 11.1 (30% weight) |
-| Trend / Momentum | Unknown / Overbought |
+| Technical score | 66.7 (30% weight) |
+| Trend / Momentum | Unknown / Strong |
 
 ## Fundamental Analysis
 
@@ -59,21 +59,21 @@
 
 ## Technical Analysis
 
-As of **2026-06-24** (31 bars). Trend **Unknown**, momentum **Overbought**, technical score **11.1/100**.
+As of **2026-07-01** (35 bars). Trend **Unknown**, momentum **Strong**, technical score **66.7/100**.
 
 | Indicator | Value |
 |---|---|
-| Close | 19.18 |
-| SMA 20 / 50 / 200 | 18.84 / — / — |
-| EMA 20 / 50 | 18.97 / — |
-| RSI (14) | 73.08 |
-| MACD / signal | -0.11 / — |
-| ADX (14) | 25.17 |
-| DI+ / DI− | 12.57 / 28.62 |
-| ATR (14) | 0.78 |
+| Close | 19.10 |
+| SMA 20 / 50 / 200 | 18.77 / — / — |
+| EMA 20 / 50 | 18.85 / — |
+| RSI (14) | 67.89 |
+| MACD / signal | 0.01 / -0.00 |
+| ADX (14) | 16.52 |
+| DI+ / DI− | 15.96 / 25.52 |
+| ATR (14) | 0.82 |
 | 52-week high / low | 21.78 / 17.61 |
 
-Signals: Trend: Unknown; ADX 25.2 (Strong); DI - dominant; RSI 73.1 (Overbought)
+Signals: Trend: Unknown; ADX 16.5 (Weak); DI - dominant; RSI 67.9 (Strong); MACD above signal
 
 ## Notes
 

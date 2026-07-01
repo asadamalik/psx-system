@@ -1,5 +1,5 @@
 # The Hub Power Company Limited (HUBC) — Analysis Report
-*Generated 2026-06-28 01:22* · Sector: Power Generation & Distribution  
+*Generated 2026-07-02 02:48* · Sector: Power Generation & Distribution  
 *Decision-support only — not financial advice.*
 
 ## Verdict
@@ -59,21 +59,21 @@
 
 ## Technical Analysis
 
-As of **2026-06-24** (1237 bars). Trend **Strong Bullish**, momentum **Strong**, technical score **94.4/100**.
+As of **2026-07-01** (2468 bars). Trend **Strong Bullish**, momentum **Strong**, technical score **94.4/100**.
 
 | Indicator | Value |
 |---|---|
-| Close | 231.41 |
-| SMA 20 / 50 / 200 | 221.65 / 219.49 / 217.49 |
-| EMA 20 / 50 | 223.73 / 219.11 |
-| RSI (14) | 62.73 |
-| MACD / signal | 4.57 / 3.14 |
-| ADX (14) | 23.77 |
-| DI+ / DI− | 31.46 / 13.70 |
-| ATR (14) | 5.46 |
-| 52-week high / low | 246.00 / 137.10 |
+| Close | 233.14 |
+| SMA 20 / 50 / 200 | 223.57 / 220.70 / 218.01 |
+| EMA 20 / 50 | 225.76 / 220.50 |
+| RSI (14) | 62.10 |
+| MACD / signal | 4.57 / 3.79 |
+| ADX (14) | 24.94 |
+| DI+ / DI− | 28.46 / 14.75 |
+| ATR (14) | 5.54 |
+| 52-week high / low | 249.99 / 137.02 |
 
-Signals: Trend: Strong Bullish; EMA20 > EMA50; ADX 23.8 (Developing); DI + dominant; RSI 62.7 (Strong); MACD above signal
+Signals: Trend: Strong Bullish; EMA20 > EMA50; ADX 24.9 (Developing); DI + dominant; RSI 62.1 (Strong); MACD above signal
 
 ## Notes
 

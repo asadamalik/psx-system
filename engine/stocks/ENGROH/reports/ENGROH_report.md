@@ -1,16 +1,16 @@
 # Engro Holdings Limited (ENGROH) — Analysis Report
-*Generated 2026-06-28 01:13*  
+*Generated 2026-07-02 02:48*  
 *Decision-support only — not financial advice.*
 
 ## Verdict
 
 | | |
 |---|---|
-| **Overall score** | **69.9 / 100** |
+| **Overall score** | **71.5 / 100** |
 | **Rating** | **Buy** |
 | Risk | Medium |
 | Fundamental score | 61.7 (70% weight) |
-| Technical score | 88.9 (30% weight) |
+| Technical score | 94.4 (30% weight) |
 | Trend / Momentum | Strong Bullish / Strong |
 
 ## Fundamental Analysis
@@ -59,21 +59,21 @@
 
 ## Technical Analysis
 
-As of **2026-06-24** (1220 bars). Trend **Strong Bullish**, momentum **Strong**, technical score **88.9/100**.
+As of **2026-07-01** (2451 bars). Trend **Strong Bullish**, momentum **Strong**, technical score **94.4/100**.
 
 | Indicator | Value |
 |---|---|
-| Close | 281.07 |
-| SMA 20 / 50 / 200 | 270.54 / 273.39 / 253.43 |
-| EMA 20 / 50 | 273.81 / 271.38 |
-| RSI (14) | 58.50 |
-| MACD / signal | 3.67 / 1.67 |
-| ADX (14) | 16.79 |
-| DI+ / DI− | 27.71 / 18.48 |
-| ATR (14) | 7.27 |
-| 52-week high / low | 298.02 / 174.62 |
+| Close | 294.09 |
+| SMA 20 / 50 / 200 | 273.41 / 274.04 / 254.09 |
+| EMA 20 / 50 | 277.68 / 273.32 |
+| RSI (14) | 67.96 |
+| MACD / signal | 5.32 / 3.13 |
+| ADX (14) | 20.15 |
+| DI+ / DI− | 35.19 / 15.07 |
+| ATR (14) | 7.15 |
+| 52-week high / low | 302.50 / 182.00 |
 
-Signals: Trend: Strong Bullish; EMA20 > EMA50; ADX 16.8 (Weak); DI + dominant; RSI 58.5 (Strong); MACD above signal
+Signals: Trend: Strong Bullish; EMA20 > EMA50; ADX 20.2 (Developing); DI + dominant; RSI 68.0 (Strong); MACD above signal
 
 ## Notes
 

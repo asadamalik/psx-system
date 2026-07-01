@@ -1,5 +1,5 @@
 # Fauji Foods Limited (FFL) — Analysis Report
-*Generated 2026-06-28 01:07* · Sector: Food & Personal Care Products  
+*Generated 2026-07-02 02:48* · Sector: Food & Personal Care Products  
 *Decision-support only — not financial advice.*
 
 ## Verdict
@@ -59,21 +59,21 @@
 
 ## Technical Analysis
 
-As of **2026-06-24** (1237 bars). Trend **Sideways**, momentum **Neutral**, technical score **43.3/100**.
+As of **2026-07-01** (2470 bars). Trend **Sideways**, momentum **Neutral**, technical score **43.3/100**.
 
 | Indicator | Value |
 |---|---|
-| Close | 17.84 |
-| SMA 20 / 50 / 200 | 18.00 / 17.67 / 18.76 |
-| EMA 20 / 50 | 17.93 / 17.66 |
-| RSI (14) | 49.79 |
-| MACD / signal | 0.13 / 0.18 |
-| ADX (14) | 13.58 |
-| DI+ / DI− | 24.78 / 22.23 |
-| ATR (14) | 0.49 |
-| 52-week high / low | 23.49 / 14.10 |
+| Close | 17.85 |
+| SMA 20 / 50 / 200 | 17.96 / 17.77 / 18.75 |
+| EMA 20 / 50 | 17.90 / 17.68 |
+| RSI (14) | 50.15 |
+| MACD / signal | 0.07 / 0.13 |
+| ADX (14) | 10.67 |
+| DI+ / DI− | 23.63 / 22.22 |
+| ATR (14) | 0.45 |
+| 52-week high / low | 23.93 / 14.00 |
 
-Signals: Trend: Sideways; EMA20 > EMA50; ADX 13.6 (Weak); DI + dominant; RSI 49.8 (Neutral); MACD below signal
+Signals: Trend: Sideways; EMA20 > EMA50; ADX 10.7 (Weak); DI + dominant; RSI 50.1 (Neutral); MACD below signal
 
 ## Notes
 

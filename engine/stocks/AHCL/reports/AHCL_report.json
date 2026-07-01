@@ -1,6 +1,6 @@
 {
   "symbol": "AHCL",
-  "generated": "2026-06-28 11:49",
+  "generated": "2026-07-02 02:47",
   "scores": {
     "fundamental_score": 78.1,
     "technical_score": 77.8,
@@ -76,66 +76,56 @@
     "notes": [
       "Trend: Bullish",
       "EMA20 > EMA50",
-      "ADX 18.1 (Weak); DI + dominant",
-      "RSI 65.6 (Strong)",
+      "ADX 19.2 (Weak); DI + dominant",
+      "RSI 66.5 (Strong)",
       "MACD above signal"
     ]
   },
   "technical_snapshot": {
-    "as_of": "2026-06-24",
-    "bars": 308,
-    "close": 15.99,
-    "sma_20": 15.0825,
-    "sma_50": 14.706600000000002,
-    "sma_200": 15.43075,
-    "ema_20": 15.275506558669138,
-    "ema_50": 14.883847904066299,
-    "ema_100": 14.910725970395509,
-    "ema_200": 14.702893609739734,
-    "obv": 453843497.0,
+    "as_of": "2026-07-01",
+    "bars": 2342,
+    "close": 16.27,
+    "sma_20": 15.3315,
+    "sma_50": 14.826400000000001,
+    "sma_200": 15.472000000000001,
+    "ema_20": 15.467435032747584,
+    "ema_50": 15.010772361421775,
+    "ema_100": 14.96662607534267,
+    "ema_200": 14.519899968695604,
+    "obv": 1266151961.0,
     "weekly_trend": "Up",
     "monthly_trend": "Up",
     "support_resistance": {
-      "price": 15.99,
-      "nearest_resistance": 17.5,
+      "price": 16.27,
+      "nearest_resistance": 16.79,
       "nearest_support": 14.15,
       "resistance_levels": [
-        17.5,
-        17.88,
-        18.98
+        16.79,
+        18.3,
+        19.33
       ],
       "support_levels": [
         14.15,
-        12.93,
-        12.17
+        12.98,
+        12.59
       ]
     },
-    "rsi_14": 65.5985216271392,
-    "macd": 0.43019440443235624,
-    "macd_signal": 0.3262898660677297,
-    "macd_hist": 0.10390453836462654,
-    "adx_14": 18.06141531879157,
-    "plus_di": 28.560126088792753,
-    "minus_di": 17.88698564972023,
-    "atr_14": 0.523435426929529,
-    "bb_upper": 16.427771348093184,
-    "bb_lower": 13.737228651906815,
-    "week52_high": 18.98,
-    "week52_low": 10.45,
+    "rsi_14": 66.45179681471404,
+    "macd": 0.43217589713876237,
+    "macd_signal": 0.372580448457785,
+    "macd_hist": 0.05959544868097738,
+    "adx_14": 19.180538404038188,
+    "plus_di": 27.796659449666226,
+    "minus_di": 15.181579149783312,
+    "atr_14": 0.5127747621731048,
+    "bb_upper": 16.660804705476057,
+    "bb_lower": 14.002195294523943,
+    "week52_high": 19.33,
+    "week52_low": 10.55,
     "rsi_divergence": {
       "type": null
     },
-    "patterns": [
-      {
-        "name": "Double Bottom",
-        "type": "bullish",
-        "confidence": 0.8,
-        "status": "confirmed",
-        "neckline": 15.4,
-        "target": 17.88,
-        "note": "Two near-equal troughs; breaks up above the peak (neckline)."
-      }
-    ]
+    "patterns": []
   },
   "growth": {
     "revenue_growth_5y": 0.07801593457826428,

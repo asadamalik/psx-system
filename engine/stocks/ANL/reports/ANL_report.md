@@ -1,5 +1,5 @@
 # Azgard Nine Limited (ANL) — Analysis Report
-*Generated 2026-06-28 01:34* · Sector: Textile Composite  
+*Generated 2026-07-02 02:47* · Sector: Textile Composite  
 *Decision-support only — not financial advice.*
 
 ## Verdict
@@ -59,21 +59,21 @@
 
 ## Technical Analysis
 
-As of **2026-06-24** (1237 bars). Trend **Bullish**, momentum **Strong**, technical score **88.9/100**.
+As of **2026-06-30** (2469 bars). Trend **Bullish**, momentum **Strong**, technical score **88.9/100**.
 
 | Indicator | Value |
 |---|---|
 | Close | 11.10 |
-| SMA 20 / 50 / 200 | 10.53 / 10.33 / 11.09 |
-| EMA 20 / 50 | 10.64 / 10.38 |
-| RSI (14) | 63.09 |
-| MACD / signal | 0.23 / 0.18 |
-| ADX (14) | 26.70 |
-| DI+ / DI− | 24.10 / 10.79 |
-| ATR (14) | 0.41 |
-| 52-week high / low | 13.29 / 8.01 |
+| SMA 20 / 50 / 200 | 10.61 / 10.38 / 11.07 |
+| EMA 20 / 50 | 10.72 / 10.44 |
+| RSI (14) | 62.89 |
+| MACD / signal | 0.24 / 0.20 |
+| ADX (14) | 28.67 |
+| DI+ / DI− | 21.90 / 9.78 |
+| ATR (14) | 0.40 |
+| 52-week high / low | 13.70 / 8.01 |
 
-Signals: Trend: Bullish; EMA20 > EMA50; ADX 26.7 (Strong); DI + dominant; RSI 63.1 (Strong); MACD above signal
+Signals: Trend: Bullish; EMA20 > EMA50; ADX 28.7 (Strong); DI + dominant; RSI 62.9 (Strong); MACD above signal
 
 ## Notes
 

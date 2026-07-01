@@ -1,5 +1,5 @@
 # Pakistan Petroleum Limited (PPL) — Analysis Report
-*Generated 2026-06-28 01:10* · Sector: OIL & GAS Exploration Companies  
+*Generated 2026-07-02 02:49* · Sector: OIL & GAS Exploration Companies  
 *Decision-support only — not financial advice.*
 
 ## Verdict
@@ -59,21 +59,21 @@
 
 ## Technical Analysis
 
-As of **2026-06-24** (1237 bars). Trend **Strong Bullish**, momentum **Strong**, technical score **88.9/100**.
+As of **2026-07-01** (2470 bars). Trend **Strong Bullish**, momentum **Strong**, technical score **88.9/100**.
 
 | Indicator | Value |
 |---|---|
-| Close | 247.98 |
-| SMA 20 / 50 / 200 | 234.61 / 229.93 / 219.19 |
-| EMA 20 / 50 | 236.32 / 230.84 |
-| RSI (14) | 62.98 |
-| MACD / signal | 4.88 / 3.29 |
-| ADX (14) | 15.49 |
-| DI+ / DI− | 34.61 / 19.54 |
-| ATR (14) | 6.46 |
-| 52-week high / low | 282.00 / 163.01 |
+| Close | 243.74 |
+| SMA 20 / 50 / 200 | 235.84 / 231.39 / 219.95 |
+| EMA 20 / 50 | 238.21 / 232.28 |
+| RSI (14) | 57.92 |
+| MACD / signal | 4.63 / 4.00 |
+| ADX (14) | 16.55 |
+| DI+ / DI− | 27.81 / 19.07 |
+| ATR (14) | 6.43 |
+| 52-week high / low | 284.60 / 161.13 |
 
-Signals: Trend: Strong Bullish; EMA20 > EMA50; ADX 15.5 (Weak); DI + dominant; RSI 63.0 (Strong); MACD above signal
+Signals: Trend: Strong Bullish; EMA20 > EMA50; ADX 16.5 (Weak); DI + dominant; RSI 57.9 (Strong); MACD above signal
 
 ## Notes
 

@@ -1,16 +1,16 @@
 # Amreli Steels Limited (ASTL) — Analysis Report
-*Generated 2026-06-28 11:50* · Sector: Engineering  
+*Generated 2026-07-02 02:47* · Sector: Engineering  
 *Decision-support only — not financial advice.*
 
 ## Verdict
 
 | | |
 |---|---|
-| **Overall score** | **31.2 / 100** |
+| **Overall score** | **27.8 / 100** |
 | **Rating** | **Sell** |
 | Risk | High |
 | Fundamental score | 21.2 (70% weight) |
-| Technical score | 54.4 (30% weight) |
+| Technical score | 43.3 (30% weight) |
 | Trend / Momentum | Sideways / Neutral |
 
 ## Fundamental Analysis
@@ -59,21 +59,21 @@
 
 ## Technical Analysis
 
-As of **2026-06-24** (1237 bars). Trend **Sideways**, momentum **Neutral**, technical score **54.4/100**.
+As of **2026-06-30** (2470 bars). Trend **Sideways**, momentum **Neutral**, technical score **43.3/100**.
 
 | Indicator | Value |
 |---|---|
-| Close | 16.44 |
-| SMA 20 / 50 / 200 | 16.46 / 16.26 / 20.29 |
-| EMA 20 / 50 | 16.48 / 16.48 |
-| RSI (14) | 50.21 |
-| MACD / signal | 0.12 / 0.14 |
-| ADX (14) | 26.13 |
-| DI+ / DI− | 21.39 / 10.93 |
-| ATR (14) | 0.64 |
-| 52-week high / low | 30.00 / 14.00 |
+| Close | 16.36 |
+| SMA 20 / 50 / 200 | 16.47 / 16.29 / 20.22 |
+| EMA 20 / 50 | 16.46 / 16.47 |
+| RSI (14) | 49.01 |
+| MACD / signal | 0.07 / 0.12 |
+| ADX (14) | 26.05 |
+| DI+ / DI− | 19.05 / 10.83 |
+| ATR (14) | 0.62 |
+| 52-week high / low | 30.27 / 13.84 |
 
-Signals: Trend: Sideways; EMA20 > EMA50; ADX 26.1 (Strong); DI + dominant; RSI 50.2 (Neutral); MACD below signal
+Signals: Trend: Sideways; EMA20 < EMA50; ADX 26.0 (Strong); DI + dominant; RSI 49.0 (Neutral); MACD below signal
 
 ## Notes
 

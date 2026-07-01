@@ -1,5 +1,5 @@
 # Pakistan Stock Exchange Limited (PSX) — Analysis Report
-*Generated 2026-06-28 12:06*  
+*Generated 2026-07-02 02:49*  
 *Decision-support only — not financial advice.*
 
 ## Verdict
@@ -59,21 +59,21 @@
 
 ## Technical Analysis
 
-As of **2026-06-24** (1237 bars). Trend **Bullish**, momentum **Strong**, technical score **88.9/100**.
+As of **2026-07-01** (2226 bars). Trend **Bullish**, momentum **Strong**, technical score **88.9/100**.
 
 | Indicator | Value |
 |---|---|
-| Close | 49.72 |
-| SMA 20 / 50 / 200 | 44.55 / 40.47 / 41.88 |
-| EMA 20 / 50 | 45.70 / 42.07 |
-| RSI (14) | 65.68 |
-| MACD / signal | 3.29 / 2.86 |
-| ADX (14) | 40.53 |
-| DI+ / DI− | 39.08 / 11.41 |
-| ATR (14) | 2.56 |
-| 52-week high / low | 57.97 / 26.65 |
+| Close | 51.87 |
+| SMA 20 / 50 / 200 | 46.59 / 41.44 / 42.09 |
+| EMA 20 / 50 | 47.23 / 43.14 |
+| RSI (14) | 64.94 |
+| MACD / signal | 3.35 / 3.07 |
+| ADX (14) | 44.35 |
+| DI+ / DI− | 42.16 / 9.15 |
+| ATR (14) | 2.74 |
+| 52-week high / low | 57.97 / 27.51 |
 
-Signals: Trend: Bullish; EMA20 > EMA50; ADX 40.5 (Strong); DI + dominant; RSI 65.7 (Strong); MACD above signal
+Signals: Trend: Bullish; EMA20 > EMA50; ADX 44.4 (Strong); DI + dominant; RSI 64.9 (Strong); MACD above signal
 
 ## Notes
 

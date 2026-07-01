@@ -1,5 +1,5 @@
 # Askari Bank Limited (AKBL) — Analysis Report
-*Generated 2026-06-28 11:49* · Sector: Commercial Banks  
+*Generated 2026-07-02 02:47* · Sector: Commercial Banks  
 *Decision-support only — not financial advice.*
 
 ## Verdict
@@ -59,21 +59,21 @@
 
 ## Technical Analysis
 
-As of **2026-06-24** (1236 bars). Trend **Strong Bullish**, momentum **Overbought**, technical score **88.9/100**.
+As of **2026-07-01** (2468 bars). Trend **Strong Bullish**, momentum **Overbought**, technical score **88.9/100**.
 
 | Indicator | Value |
 |---|---|
-| Close | 109.02 |
-| SMA 20 / 50 / 200 | 101.12 / 97.11 / 96.15 |
-| EMA 20 / 50 | 102.07 / 97.85 |
-| RSI (14) | 70.67 |
-| MACD / signal | 3.77 / 2.81 |
-| ADX (14) | 25.54 |
-| DI+ / DI− | 31.67 / 11.24 |
-| ATR (14) | 3.81 |
-| 52-week high / low | 125.98 / 48.47 |
+| Close | 112.99 |
+| SMA 20 / 50 / 200 | 102.75 / 98.13 / 96.54 |
+| EMA 20 / 50 | 104.26 / 99.28 |
+| RSI (14) | 73.82 |
+| MACD / signal | 4.17 / 3.38 |
+| ADX (14) | 31.58 |
+| DI+ / DI− | 31.50 / 8.10 |
+| ATR (14) | 4.24 |
+| 52-week high / low | 127.90 / 48.99 |
 
-Signals: Trend: Strong Bullish; EMA20 > EMA50; ADX 25.5 (Strong); DI + dominant; RSI 70.7 (Overbought); MACD above signal
+Signals: Trend: Strong Bullish; EMA20 > EMA50; ADX 31.6 (Strong); DI + dominant; RSI 73.8 (Overbought); MACD above signal
 
 ## Notes
 

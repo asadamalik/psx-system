@@ -47,6 +47,9 @@ def onboard(sym):
     rc, out = run(["assemble_sa.py", sym], 60)
     if rc != 0:
         return "ASSEMBLE_FAIL: " + out.strip().splitlines()[-1][:80]
+    # Prefer FULL stockanalysis OHLCV (real H/L, deep) over assemble's DPS-synth base.
+    # Best-effort: if stockanalysis has no history the assemble history is kept.
+    run(["refresh_history.py", sym, "--csv-only"], 60)
     run(["fetch_insider.py", sym], 60)              # best-effort (sarmaaya)
     if src == "dps":
         run(["fetch_industry_pe.py", sym], 90)      # best-effort (Investing -ratios, still public)

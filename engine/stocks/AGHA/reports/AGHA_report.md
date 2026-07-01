@@ -1,17 +1,17 @@
 # Agha Steel Ind.Ltd (AGHA) — Analysis Report
-*Generated 2026-06-28 11:49* · Sector: Engineering  
+*Generated 2026-07-02 02:47* · Sector: Engineering  
 *Decision-support only — not financial advice.*
 
 ## Verdict
 
 | | |
 |---|---|
-| **Overall score** | **26.6 / 100** |
+| **Overall score** | **21.6 / 100** |
 | **Rating** | **Sell** |
 | Risk | High |
 | Fundamental score | 17.1 (70% weight) |
-| Technical score | 48.9 (30% weight) |
-| Trend / Momentum | Sideways / Neutral |
+| Technical score | 32.2 (30% weight) |
+| Trend / Momentum | Bearish / Neutral |
 
 ## Fundamental Analysis
 
@@ -59,21 +59,21 @@
 
 ## Technical Analysis
 
-As of **2026-06-24** (1237 bars). Trend **Sideways**, momentum **Neutral**, technical score **48.9/100**.
+As of **2026-06-30** (1398 bars). Trend **Bearish**, momentum **Neutral**, technical score **32.2/100**.
 
 | Indicator | Value |
 |---|---|
-| Close | 8.01 |
-| SMA 20 / 50 / 200 | 8.08 / 7.85 / 8.18 |
-| EMA 20 / 50 | 8.08 / 7.88 |
-| RSI (14) | 49.45 |
-| MACD / signal | 0.07 / 0.11 |
-| ADX (14) | 21.12 |
-| DI+ / DI− | 22.36 / 16.94 |
-| ATR (14) | 0.30 |
-| 52-week high / low | 10.70 / 6.03 |
+| Close | 7.88 |
+| SMA 20 / 50 / 200 | 8.07 / 7.89 / 8.17 |
+| EMA 20 / 50 | 8.03 / 7.87 |
+| RSI (14) | 46.62 |
+| MACD / signal | 0.02 / 0.08 |
+| ADX (14) | 18.77 |
+| DI+ / DI− | 20.13 / 20.26 |
+| ATR (14) | 0.29 |
+| 52-week high / low | 10.85 / 5.85 |
 
-Signals: Trend: Sideways; EMA20 > EMA50; ADX 21.1 (Developing); DI + dominant; RSI 49.5 (Neutral); MACD below signal
+Signals: Trend: Bearish; EMA20 > EMA50; ADX 18.8 (Weak); DI - dominant; RSI 46.6 (Neutral); MACD below signal
 
 ## Notes
 

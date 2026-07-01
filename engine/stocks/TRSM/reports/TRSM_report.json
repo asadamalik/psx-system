@@ -1,11 +1,11 @@
 {
   "symbol": "TRSM",
-  "generated": "2026-06-28 01:27",
+  "generated": "2026-07-02 02:50",
   "scores": {
     "fundamental_score": 64.7,
-    "technical_score": 11.1,
-    "overall_score": 48.6,
-    "rating": "Reduce",
+    "technical_score": 37.8,
+    "overall_score": 56.6,
+    "rating": "Hold",
     "risk": "High",
     "risk_score": 33.3,
     "weights": {
@@ -65,62 +65,62 @@
     }
   },
   "technical": {
-    "technical_score": 11.1,
-    "trend": "Bearish",
-    "momentum": "Weak",
+    "technical_score": 37.8,
+    "trend": "Sideways",
+    "momentum": "Neutral",
     "adx_strength": "Developing",
     "rsi_divergence": {
       "type": null
     },
     "notes": [
-      "Trend: Bearish",
+      "Trend: Sideways",
       "EMA20 < EMA50",
-      "ADX 22.0 (Developing); DI - dominant",
-      "RSI 42.5 (Weak)",
+      "ADX 21.0 (Developing); DI + dominant",
+      "RSI 54.0 (Neutral)",
       "MACD below signal"
     ]
   },
   "technical_snapshot": {
-    "as_of": "2026-06-24",
-    "bars": 467,
-    "close": 15.32,
-    "sma_20": 15.975500000000002,
-    "sma_50": 15.9698,
-    "sma_200": 28.67895,
-    "ema_20": 15.939029124658328,
-    "ema_50": 15.981630385429638,
-    "ema_100": 17.75078455026269,
-    "ema_200": 20.33650791822328,
-    "obv": -19844045.0,
-    "weekly_trend": "Down",
+    "as_of": "2026-07-01",
+    "bars": 1851,
+    "close": 16.31,
+    "sma_20": 15.967999999999998,
+    "sma_50": 16.043,
+    "sma_200": 28.20555,
+    "ema_20": 15.941714284490756,
+    "ema_50": 15.976247461092417,
+    "ema_100": 17.644983380938108,
+    "ema_200": 20.202763531122113,
+    "obv": -16374570.0,
+    "weekly_trend": "Up",
     "monthly_trend": "Up",
     "support_resistance": {
-      "price": 15.32,
-      "nearest_resistance": 15.8,
-      "nearest_support": 15.12,
+      "price": 16.31,
+      "nearest_resistance": 16.85,
+      "nearest_support": 15.61,
       "resistance_levels": [
-        15.8,
         16.85,
-        17.39
+        17.39,
+        18.45
       ],
       "support_levels": [
+        15.61,
         15.12,
-        14.3,
-        14.0
+        14.3
       ]
     },
-    "rsi_14": 42.45917761559074,
-    "macd": -0.106275365736483,
-    "macd_signal": 0.0040219054233868335,
-    "macd_hist": -0.11029727115986983,
-    "adx_14": 21.96089995379597,
-    "plus_di": 18.20432518743733,
-    "minus_di": 24.278365726064557,
-    "atr_14": 0.7798914860366921,
-    "bb_upper": 16.62182731646223,
-    "bb_lower": 15.329172683537774,
-    "week52_high": 69.0,
-    "week52_low": 6.0,
+    "rsi_14": 54.01123322826003,
+    "macd": -0.05438779676343586,
+    "macd_signal": -0.04482673890212512,
+    "macd_hist": -0.009561057861310736,
+    "adx_14": 20.978476827309773,
+    "plus_di": 23.521871376589456,
+    "minus_di": 17.607923339187654,
+    "atr_14": 0.8542411274691388,
+    "bb_upper": 16.741164924191686,
+    "bb_lower": 15.19483507580831,
+    "week52_high": 71.65,
+    "week52_low": 5.72,
     "rsi_divergence": {
       "type": null
     },

@@ -1,16 +1,16 @@
 # Pak Elektron Limited (PAEL) — Analysis Report
-*Generated 2026-06-27 23:47* · Sector: Consumer Discretionary  
+*Generated 2026-07-02 02:49* · Sector: Consumer Discretionary  
 *Decision-support only — not financial advice.*
 
 ## Verdict
 
 | | |
 |---|---|
-| **Overall score** | **65.2 / 100** |
+| **Overall score** | **66.8 / 100** |
 | **Rating** | **Buy** |
 | Risk | Low |
 | Fundamental score | 64.5 (70% weight) |
-| Technical score | 66.7 (30% weight) |
+| Technical score | 72.2 (30% weight) |
 | Trend / Momentum | Sideways / Strong |
 
 ## Fundamental Analysis
@@ -59,21 +59,21 @@
 
 ## Technical Analysis
 
-As of **2026-06-24** (1237 bars). Trend **Sideways**, momentum **Strong**, technical score **66.7/100**.
+As of **2026-07-01** (2471 bars). Trend **Sideways**, momentum **Strong**, technical score **72.2/100**.
 
 | Indicator | Value |
 |---|---|
-| Close | 44.49 |
-| SMA 20 / 50 / 200 | 41.48 / 40.63 / 49.12 |
-| EMA 20 / 50 | 41.86 / 41.26 |
-| RSI (14) | 65.14 |
-| MACD / signal | 1.09 / 0.78 |
-| ADX (14) | 18.50 |
-| DI+ / DI− | 36.05 / 16.57 |
+| Close | 45.42 |
+| SMA 20 / 50 / 200 | 42.18 / 41.02 / 48.96 |
+| EMA 20 / 50 | 42.76 / 41.72 |
+| RSI (14) | 68.09 |
+| MACD / signal | 1.38 / 1.03 |
+| ADX (14) | 23.14 |
+| DI+ / DI− | 34.39 / 14.76 |
 | ATR (14) | 1.35 |
-| 52-week high / low | 63.45 / 32.01 |
+| 52-week high / low | 64.60 / 32.01 |
 
-Signals: Trend: Sideways; EMA20 > EMA50; ADX 18.5 (Weak); DI + dominant; RSI 65.1 (Strong); MACD above signal
+Signals: Trend: Sideways; EMA20 > EMA50; ADX 23.1 (Developing); DI + dominant; RSI 68.1 (Strong); MACD above signal
 
 ## Notes
 

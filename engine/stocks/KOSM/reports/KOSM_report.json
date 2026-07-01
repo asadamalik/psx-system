@@ -1,6 +1,6 @@
 {
   "symbol": "KOSM",
-  "generated": "2026-06-28 11:58",
+  "generated": "2026-07-02 02:48",
   "scores": {
     "fundamental_score": 0.0,
     "technical_score": 88.9,
@@ -74,81 +74,64 @@
     "notes": [
       "Trend: Bullish",
       "EMA20 > EMA50",
-      "ADX 29.2 (Strong); DI + dominant",
-      "RSI 64.5 (Strong)",
+      "ADX 30.7 (Strong); DI + dominant",
+      "RSI 60.5 (Strong)",
       "MACD above signal"
     ]
   },
   "technical_snapshot": {
-    "as_of": "2026-06-24",
-    "bars": 1237,
-    "close": 6.69,
-    "sma_20": 5.956,
-    "sma_50": 5.816400000000001,
-    "sma_200": 6.129,
-    "ema_20": 6.157663355334798,
-    "ema_50": 5.800094394110946,
-    "ema_100": 5.716195933449412,
-    "ema_200": 5.870623660925112,
-    "obv": 2476366209.0,
+    "as_of": "2026-07-01",
+    "bars": 2467,
+    "close": 6.63,
+    "sma_20": 6.1240000000000006,
+    "sma_50": 5.8908000000000005,
+    "sma_200": 6.12725,
+    "ema_20": 6.2778829548913775,
+    "ema_50": 5.892811064685052,
+    "ema_100": 5.768995456045508,
+    "ema_200": 5.893011073260221,
+    "obv": 2724878828.0,
     "weekly_trend": "Up",
     "monthly_trend": "Up",
     "support_resistance": {
-      "price": 6.69,
+      "price": 6.63,
       "nearest_resistance": 6.72,
-      "nearest_support": 6.5,
+      "nearest_support": 5.9,
       "resistance_levels": [
         6.72,
-        7.02
+        6.89,
+        7.12
       ],
       "support_levels": [
-        6.5,
+        5.9,
         5.33,
         5.2
       ]
     },
-    "rsi_14": 64.51339551141396,
-    "macd": 0.3134002190031975,
-    "macd_signal": 0.21775818395000107,
-    "macd_hist": 0.0956420350531964,
-    "adx_14": 29.207550382230565,
-    "plus_di": 30.209517551120182,
-    "minus_di": 11.992594206714042,
-    "atr_14": 0.3734522666049191,
-    "bb_upper": 7.07366542399777,
-    "bb_lower": 4.8383345760022305,
-    "week52_high": 8.18,
-    "week52_low": 3.4,
+    "rsi_14": 60.54518090118525,
+    "macd": 0.2981495363851714,
+    "macd_signal": 0.25837724873487344,
+    "macd_hist": 0.039772287650297944,
+    "adx_14": 30.65495357677378,
+    "plus_di": 24.655340430694697,
+    "minus_di": 11.30863578591506,
+    "atr_14": 0.3765531995096458,
+    "bb_upper": 7.2536441917701255,
+    "bb_lower": 4.994355808229876,
+    "week52_high": 8.46,
+    "week52_low": 3.31,
     "rsi_divergence": {
       "type": null
     },
     "patterns": [
       {
-        "name": "Double Bottom",
+        "name": "Bull Flag",
         "type": "bullish",
-        "confidence": 0.66,
-        "status": "confirmed",
-        "neckline": 6.22,
-        "target": 7.2,
-        "note": "Two near-equal troughs; breaks up above the peak (neckline)."
-      },
-      {
-        "name": "Descending Triangle",
-        "type": "bearish",
-        "confidence": 0.55,
+        "confidence": 0.7,
         "status": "forming",
-        "neckline": 5.24,
-        "target": 3.76,
-        "note": "Flat support with falling highs; bearish breakdown bias."
-      },
-      {
-        "name": "Falling Wedge",
-        "type": "bullish",
-        "confidence": 0.5,
-        "status": "forming",
-        "neckline": 6.22,
-        "target": 6.72,
-        "note": "Lower highs and lows converging after a decline; bullish reversal bias."
+        "neckline": 6.98,
+        "target": 8.28,
+        "note": "Strong pole then tight consolidation; bullish continuation bias."
       }
     ]
   },

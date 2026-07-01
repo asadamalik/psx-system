@@ -1,11 +1,11 @@
 {
   "symbol": "AMTEX",
-  "generated": "2026-06-28 16:33",
+  "generated": "2026-07-02 02:47",
   "scores": {
     "fundamental_score": 46.5,
-    "technical_score": 61.1,
-    "overall_score": 50.9,
-    "rating": "Hold",
+    "technical_score": 44.4,
+    "overall_score": 45.9,
+    "rating": "Reduce",
     "risk": "Medium",
     "risk_score": 50.0,
     "weights": {
@@ -64,62 +64,62 @@
     }
   },
   "technical": {
-    "technical_score": 61.1,
+    "technical_score": 44.4,
     "trend": "Bullish",
     "momentum": "Weak",
-    "adx_strength": "Strong",
+    "adx_strength": "Developing",
     "rsi_divergence": {
       "type": null
     },
     "notes": [
       "Trend: Bullish",
       "EMA20 > EMA50",
-      "ADX 26.6 (Strong); DI + dominant",
-      "RSI 44.5 (Weak)",
+      "ADX 24.4 (Developing); DI - dominant",
+      "RSI 41.6 (Weak)",
       "MACD below signal"
     ]
   },
   "technical_snapshot": {
-    "as_of": "2026-06-24",
-    "bars": 512,
-    "close": 4.59,
-    "sma_20": 4.723000000000001,
-    "sma_50": 4.6448,
-    "sma_200": 4.4196,
-    "ema_20": 4.704682043519807,
-    "ema_50": 4.601136207870196,
-    "ema_100": 4.480318318385738,
-    "ema_200": 4.2775834878019685,
-    "obv": 248853000.0,
+    "as_of": "2026-06-30",
+    "bars": 513,
+    "close": 4.52,
+    "sma_20": 4.7175,
+    "sma_50": 4.6578,
+    "sma_200": 4.424600000000001,
+    "ema_20": 4.671370246771344,
+    "ema_50": 4.595995040475594,
+    "ema_100": 4.48311949252397,
+    "ema_200": 4.289428423916864,
+    "obv": 237592665.0,
     "weekly_trend": "Down",
     "monthly_trend": "Up",
     "support_resistance": {
-      "price": 4.59,
+      "price": 4.52,
       "nearest_resistance": 4.75,
-      "nearest_support": 4.44,
+      "nearest_support": 4.25,
       "resistance_levels": [
         4.75,
-        5.08,
-        5.3
+        5.01,
+        5.12
       ],
       "support_levels": [
-        4.44,
-        4.28,
-        3.74
+        4.25,
+        4.15,
+        3.6
       ]
     },
-    "rsi_14": 44.456459253956325,
-    "macd": 0.014001099823766516,
-    "macd_signal": 0.04864560305843685,
-    "macd_hist": -0.03464450323467033,
-    "adx_14": 26.61407951951348,
-    "plus_di": 14.599570146065151,
-    "minus_di": 11.901877357987091,
-    "atr_14": 0.2438455675437623,
-    "bb_upper": 4.945180107120298,
-    "bb_lower": 4.500819892879703,
-    "week52_high": 6.46,
-    "week52_low": 3.05,
+    "rsi_14": 41.582638636768706,
+    "macd": -0.015416002942337137,
+    "macd_signal": 0.027449395073258227,
+    "macd_hist": -0.042865398015595364,
+    "adx_14": 24.36074430855591,
+    "plus_di": 13.007106229117603,
+    "minus_di": 13.806536316981523,
+    "atr_14": 0.23852674377114055,
+    "bb_upper": 4.9620301617388,
+    "bb_lower": 4.472969838261201,
+    "week52_high": 6.49,
+    "week52_low": 3.04,
     "rsi_divergence": {
       "type": null
     },
@@ -130,7 +130,7 @@
         "confidence": 0.55,
         "status": "forming",
         "neckline": 5.35,
-        "target": 6.98,
+        "target": 7.1,
         "note": "Flat resistance with rising lows; bullish breakout bias."
       },
       {

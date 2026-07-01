@@ -1,16 +1,16 @@
 # Treet Battery Limited. (TBL) — Analysis Report
-*Generated 2026-07-01 19:48* · Sector: Automobile Parts & Accessories  
+*Generated 2026-07-02 02:49* · Sector: Automobile Parts & Accessories  
 *Decision-support only — not financial advice.*
 
 ## Verdict
 
 | | |
 |---|---|
-| **Overall score** | **37.7 / 100** |
+| **Overall score** | **39.4 / 100** |
 | **Rating** | **Reduce** |
 | Risk | High |
 | Fundamental score | 35.3 (70% weight) |
-| Technical score | 43.3 (30% weight) |
+| Technical score | 48.9 (30% weight) |
 | Trend / Momentum | Sideways / Neutral |
 
 ## Fundamental Analysis
@@ -59,7 +59,7 @@
 
 ## Technical Analysis
 
-As of **2026-07-01** (627 bars). Trend **Sideways**, momentum **Neutral**, technical score **43.3/100**.
+As of **2026-07-01** (626 bars). Trend **Sideways**, momentum **Neutral**, technical score **48.9/100**.
 
 | Indicator | Value |
 |---|---|
@@ -68,12 +68,12 @@ As of **2026-07-01** (627 bars). Trend **Sideways**, momentum **Neutral**, techn
 | EMA 20 / 50 | 10.60 / 10.31 |
 | RSI (14) | 54.81 |
 | MACD / signal | 0.20 / 0.24 |
-| ADX (14) | 20.29 |
-| DI+ / DI− | 29.71 / 20.61 |
-| ATR (14) | 0.23 |
-| 52-week high / low | 14.95 / 8.05 |
+| ADX (14) | 32.80 |
+| DI+ / DI− | 26.49 / 10.93 |
+| ATR (14) | 0.40 |
+| 52-week high / low | 15.15 / 8.00 |
 
-Signals: Trend: Sideways; EMA20 > EMA50; ADX 20.3 (Developing); DI + dominant; RSI 54.8 (Neutral); MACD below signal; ⚠ Bearish RSI divergence (9 bars ago): Price made a higher high (10.82→11.09) while RSI made a lower high (66.6→65.0) — upward momentum is fading; watch for a pullback.
+Signals: Trend: Sideways; EMA20 > EMA50; ADX 32.8 (Strong); DI + dominant; RSI 54.8 (Neutral); MACD below signal; ⚠ Bearish RSI divergence (9 bars ago): Price made a higher high (10.82→11.09) while RSI made a lower high (66.6→65.0) — upward momentum is fading; watch for a pullback.
 
 ## Notes
 

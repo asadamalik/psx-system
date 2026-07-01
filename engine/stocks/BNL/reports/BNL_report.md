@@ -1,16 +1,16 @@
 # Bunnys Limited (BNL) — Analysis Report
-*Generated 2026-06-28 01:07* · Sector: Food & Personal Care Products  
+*Generated 2026-07-02 02:47* · Sector: Food & Personal Care Products  
 *Decision-support only — not financial advice.*
 
 ## Verdict
 
 | | |
 |---|---|
-| **Overall score** | **58.9 / 100** |
+| **Overall score** | **55.6 / 100** |
 | **Rating** | **Hold** |
 | Risk | Low |
 | Fundamental score | 62.7 (70% weight) |
-| Technical score | 50.0 (30% weight) |
+| Technical score | 38.9 (30% weight) |
 | Trend / Momentum | Bearish / Weak |
 
 ## Fundamental Analysis
@@ -59,21 +59,21 @@
 
 ## Technical Analysis
 
-As of **2026-06-24** (135 bars). Trend **Bearish**, momentum **Weak**, technical score **50.0/100**.
+As of **2026-06-30** (1387 bars). Trend **Bearish**, momentum **Weak**, technical score **38.9/100**.
 
 | Indicator | Value |
 |---|---|
-| Close | 7.11 |
-| SMA 20 / 50 / 200 | 7.10 / 7.74 / — |
-| EMA 20 / 50 | 7.22 / 7.66 |
-| RSI (14) | 43.77 |
-| MACD / signal | -0.12 / -0.18 |
-| ADX (14) | 23.54 |
-| DI+ / DI− | 21.36 / 20.79 |
-| ATR (14) | 0.26 |
-| 52-week high / low | 14.51 / 6.90 |
+| Close | 7.06 |
+| SMA 20 / 50 / 200 | 7.10 / 7.69 / 10.47 |
+| EMA 20 / 50 | 7.19 / 7.61 |
+| RSI (14) | 42.62 |
+| MACD / signal | -0.12 / -0.16 |
+| ADX (14) | 19.80 |
+| DI+ / DI− | 20.12 / 19.59 |
+| ATR (14) | 0.24 |
+| 52-week high / low | 17.07 / 6.90 |
 
-Signals: Trend: Bearish; EMA20 < EMA50; ADX 23.5 (Developing); DI + dominant; RSI 43.8 (Weak); MACD above signal; ⚠ Bullish RSI divergence (12 bars ago): Price made a lower low (7.03→6.96) while RSI made a higher low (33.6→34.2) — selling momentum is easing; watch for a bounce.
+Signals: Trend: Bearish; EMA20 < EMA50; ADX 19.8 (Weak); DI + dominant; RSI 42.6 (Weak); MACD above signal; ⚠ Bullish RSI divergence (14 bars ago): Price made a lower low (7.03→6.96) while RSI made a higher low (33.6→34.3) — selling momentum is easing; watch for a bounce.
 
 ## Notes
 

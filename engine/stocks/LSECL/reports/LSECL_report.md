@@ -1,17 +1,17 @@
 # LSE Capital Limited. (LSECL) — Analysis Report
-*Generated 2026-06-28 17:25*  
+*Generated 2026-07-02 02:48*  
 *Decision-support only — not financial advice.*
 
 ## Verdict
 
 | | |
 |---|---|
-| **Overall score** | **86.3 / 100** |
+| **Overall score** | **91.3 / 100** |
 | **Rating** | **Strong Buy** |
-| Risk | Low |
+| Risk | Medium |
 | Fundamental score | 100.0 (70% weight) |
-| Technical score | 54.4 (30% weight) |
-| Trend / Momentum | Bullish / Neutral |
+| Technical score | 71.1 (30% weight) |
+| Trend / Momentum | Strong Bullish / Neutral |
 
 ## Fundamental Analysis
 
@@ -59,21 +59,21 @@
 
 ## Technical Analysis
 
-As of **2026-06-24** (130 bars). Trend **Bullish**, momentum **Neutral**, technical score **54.4/100**.
+As of **2026-07-01** (519 bars). Trend **Strong Bullish**, momentum **Neutral**, technical score **71.1/100**.
 
 | Indicator | Value |
 |---|---|
-| Close | 5.51 |
-| SMA 20 / 50 / 200 | 5.51 / 5.49 / — |
+| Close | 5.57 |
+| SMA 20 / 50 / 200 | 5.51 / 5.51 / 5.02 |
 | EMA 20 / 50 | 5.52 / 5.50 |
-| RSI (14) | 49.91 |
+| RSI (14) | 52.33 |
 | MACD / signal | 0.01 / 0.02 |
-| ADX (14) | 15.79 |
-| DI+ / DI− | 39.91 / 24.90 |
-| ATR (14) | 0.11 |
-| 52-week high / low | 6.35 / 4.38 |
+| ADX (14) | 24.51 |
+| DI+ / DI− | 24.64 / 11.47 |
+| ATR (14) | 0.26 |
+| 52-week high / low | 6.72 / 2.75 |
 
-Signals: Trend: Bullish; EMA20 > EMA50; ADX 15.8 (Weak); DI + dominant; RSI 49.9 (Neutral); MACD below signal
+Signals: Trend: Strong Bullish; EMA20 > EMA50; ADX 24.5 (Developing); DI + dominant; RSI 52.3 (Neutral); MACD below signal
 
 ## Notes
 

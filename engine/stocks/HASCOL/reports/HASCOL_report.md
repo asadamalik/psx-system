@@ -1,5 +1,5 @@
 # Hascol Petroleum Limited (HASCOL) — Analysis Report
-*Generated 2026-06-28 16:35* · Sector: Non-compliant OIL & GAS Marketing Companies  
+*Generated 2026-07-02 02:48* · Sector: Non-compliant OIL & GAS Marketing Companies  
 *Decision-support only — not financial advice.*
 
 ## Verdict
@@ -59,21 +59,21 @@
 
 ## Technical Analysis
 
-As of **2026-06-24** (1236 bars). Trend **Bullish**, momentum **Weak**, technical score **50.0/100**.
+As of **2026-07-01** (2469 bars). Trend **Bullish**, momentum **Weak**, technical score **50.0/100**.
 
 | Indicator | Value |
 |---|---|
-| Close | 20.32 |
-| SMA 20 / 50 / 200 | 21.91 / 21.37 / 17.90 |
-| EMA 20 / 50 | 21.63 / 21.21 |
-| RSI (14) | 36.71 |
-| MACD / signal | -0.24 / 0.03 |
-| ADX (14) | 14.93 |
-| DI+ / DI− | 17.75 / 26.48 |
-| ATR (14) | 0.82 |
-| 52-week high / low | 28.49 / 9.35 |
+| Close | 20.56 |
+| SMA 20 / 50 / 200 | 21.51 / 21.55 / 18.04 |
+| EMA 20 / 50 | 21.26 / 21.09 |
+| RSI (14) | 44.13 |
+| MACD / signal | -0.40 / -0.18 |
+| ADX (14) | 16.34 |
+| DI+ / DI− | 21.12 / 26.99 |
+| ATR (14) | 0.94 |
+| 52-week high / low | 29.30 / 9.42 |
 
-Signals: Trend: Bullish; EMA20 > EMA50; ADX 14.9 (Weak); DI - dominant; RSI 36.7 (Weak); MACD below signal
+Signals: Trend: Bullish; EMA20 > EMA50; ADX 16.3 (Weak); DI - dominant; RSI 44.1 (Weak); MACD below signal
 
 ## Notes
 

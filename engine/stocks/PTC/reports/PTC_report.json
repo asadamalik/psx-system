@@ -1,10 +1,10 @@
 {
   "symbol": "PTC",
-  "generated": "2026-06-28 12:07",
+  "generated": "2026-07-02 02:49",
   "scores": {
     "fundamental_score": 23.4,
-    "technical_score": 77.8,
-    "overall_score": 39.7,
+    "technical_score": 66.7,
+    "overall_score": 36.4,
     "rating": "Reduce",
     "risk": "High",
     "risk_score": 15.0,
@@ -64,96 +64,85 @@
     }
   },
   "technical": {
-    "technical_score": 77.8,
+    "technical_score": 66.7,
     "trend": "Strong Bullish",
-    "momentum": "Strong",
+    "momentum": "Overbought",
     "adx_strength": "Strong",
     "rsi_divergence": {
       "type": "bearish",
       "label": "Bearish RSI divergence",
-      "note": "Price made a higher high (67.56\u219267.98) while RSI made a lower high (74.5\u219269.0) \u2014 upward momentum is fading; watch for a pullback.",
+      "note": "Price made a higher high (67.56\u219267.99) while RSI made a lower high (74.5\u219269.0) \u2014 upward momentum is fading; watch for a pullback.",
       "price_from": 67.56,
-      "price_to": 67.98,
+      "price_to": 67.99,
       "rsi_from": 74.5,
       "rsi_to": 69.0,
-      "bars_ago": 6
+      "bars_ago": 9
     },
     "notes": [
       "Trend: Strong Bullish",
       "EMA20 > EMA50",
-      "ADX 27.2 (Strong); DI + dominant",
-      "RSI 61.0 (Strong)",
+      "ADX 26.9 (Strong); DI + dominant",
+      "RSI 72.2 (Overbought)",
       "MACD below signal",
-      "\u26a0 Bearish RSI divergence (6 bars ago): Price made a higher high (67.56\u219267.98) while RSI made a lower high (74.5\u219269.0) \u2014 upward momentum is fading; watch for a pullback."
+      "\u26a0 Bearish RSI divergence (9 bars ago): Price made a higher high (67.56\u219267.99) while RSI made a lower high (74.5\u219269.0) \u2014 upward momentum is fading; watch for a pullback."
     ]
   },
   "technical_snapshot": {
-    "as_of": "2026-06-24",
-    "bars": 1237,
-    "close": 66.14,
-    "sma_20": 65.506,
-    "sma_50": 58.06320000000001,
-    "sma_200": 49.41045,
-    "ema_20": 64.15031059053433,
-    "ema_50": 60.041294463681574,
-    "ema_100": 56.438525443303725,
-    "ema_200": 49.80398076214516,
-    "obv": 2473804070.0,
+    "as_of": "2026-07-01",
+    "bars": 2469,
+    "close": 72.07,
+    "sma_20": 66.2,
+    "sma_50": 58.87179999999999,
+    "sma_200": 50.06134999999999,
+    "ema_20": 65.15459822097547,
+    "ema_50": 60.9297944244126,
+    "ema_100": 57.103611341873616,
+    "ema_200": 50.33717439011763,
+    "obv": 3204369709.0,
     "weekly_trend": "Up",
     "monthly_trend": "Up",
     "support_resistance": {
-      "price": 66.14,
-      "nearest_resistance": 69.26,
-      "nearest_support": 63.11,
-      "resistance_levels": [
-        69.26
-      ],
+      "price": 72.07,
+      "nearest_resistance": null,
+      "nearest_support": 63.55,
+      "resistance_levels": [],
       "support_levels": [
-        63.11,
-        60.43,
-        53.2
+        63.55,
+        59.8,
+        52.0
       ]
     },
-    "rsi_14": 61.00113716637477,
-    "macd": 2.4661830368754494,
-    "macd_signal": 2.8862756539237098,
-    "macd_hist": -0.4200926170482604,
-    "adx_14": 27.167573361893496,
-    "plus_di": 24.869312733532116,
-    "minus_di": 18.114025246118633,
-    "atr_14": 2.3339498826008613,
-    "bb_upper": 68.66975978860567,
-    "bb_lower": 62.34224021139432,
-    "week52_high": 69.85,
-    "week52_low": 21.91,
+    "rsi_14": 72.17042280334012,
+    "macd": 2.491550410016174,
+    "macd_signal": 2.612773523958019,
+    "macd_hist": -0.12122311394184493,
+    "adx_14": 26.88394041045414,
+    "plus_di": 33.88741364241291,
+    "minus_di": 13.382640603422738,
+    "atr_14": 2.6449612455540565,
+    "bb_upper": 69.82415231468222,
+    "bb_lower": 62.57584768531778,
+    "week52_high": 72.07,
+    "week52_low": 21.51,
     "rsi_divergence": {
       "type": "bearish",
       "label": "Bearish RSI divergence",
-      "note": "Price made a higher high (67.56\u219267.98) while RSI made a lower high (74.5\u219269.0) \u2014 upward momentum is fading; watch for a pullback.",
+      "note": "Price made a higher high (67.56\u219267.99) while RSI made a lower high (74.5\u219269.0) \u2014 upward momentum is fading; watch for a pullback.",
       "price_from": 67.56,
-      "price_to": 67.98,
+      "price_to": 67.99,
       "rsi_from": 74.5,
       "rsi_to": 69.0,
-      "bars_ago": 6
+      "bars_ago": 9
     },
     "patterns": [
       {
-        "name": "Ascending Triangle",
+        "name": "Double Bottom",
         "type": "bullish",
-        "confidence": 0.55,
-        "status": "forming",
+        "confidence": 0.72,
+        "status": "confirmed",
         "neckline": 69.23,
-        "target": 88.41,
-        "note": "Flat resistance with rising lows; bullish breakout bias."
-      },
-      {
-        "name": "Double Top",
-        "type": "bearish",
-        "confidence": 0.45,
-        "status": "forming",
-        "neckline": 63.11,
-        "target": 56.99,
-        "note": "Two near-equal peaks; breaks down below the trough (neckline)."
+        "target": 75.35,
+        "note": "Two near-equal troughs; breaks up above the peak (neckline)."
       }
     ]
   },

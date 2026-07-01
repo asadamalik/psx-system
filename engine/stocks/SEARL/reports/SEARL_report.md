@@ -1,5 +1,5 @@
 # The Searle Company Limited (SEARL) — Analysis Report
-*Generated 2026-06-28 01:23* · Sector: Pharmaceuticals  
+*Generated 2026-07-02 02:49* · Sector: Pharmaceuticals  
 *Decision-support only — not financial advice.*
 
 ## Verdict
@@ -59,21 +59,21 @@
 
 ## Technical Analysis
 
-As of **2026-06-24** (1237 bars). Trend **Sideways**, momentum **Strong**, technical score **66.7/100**.
+As of **2026-07-01** (2469 bars). Trend **Sideways**, momentum **Strong**, technical score **66.7/100**.
 
 | Indicator | Value |
 |---|---|
-| Close | 95.49 |
-| SMA 20 / 50 / 200 | 92.21 / 91.38 / 104.01 |
-| EMA 20 / 50 | 92.72 / 92.08 |
-| RSI (14) | 59.11 |
-| MACD / signal | 1.41 / 1.13 |
-| ADX (14) | 13.75 |
-| DI+ / DI− | 27.90 / 18.70 |
-| ATR (14) | 2.72 |
-| 52-week high / low | 135.99 / 76.37 |
+| Close | 94.58 |
+| SMA 20 / 50 / 200 | 92.92 / 91.48 / 102.15 |
+| EMA 20 / 50 | 93.16 / 92.33 |
+| RSI (14) | 56.04 |
+| MACD / signal | 1.26 / 1.21 |
+| ADX (14) | 15.72 |
+| DI+ / DI− | 25.75 / 15.71 |
+| ATR (14) | 2.58 |
+| 52-week high / low | 137.44 / 75.23 |
 
-Signals: Trend: Sideways; EMA20 > EMA50; ADX 13.8 (Weak); DI + dominant; RSI 59.1 (Strong); MACD above signal
+Signals: Trend: Sideways; EMA20 > EMA50; ADX 15.7 (Weak); DI + dominant; RSI 56.0 (Strong); MACD above signal
 
 ## Notes
 

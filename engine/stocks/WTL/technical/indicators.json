@@ -1,64 +1,55 @@
 {
-  "as_of": "2026-06-24",
-  "bars": 1237,
-  "close": 1.26,
-  "sma_20": 1.2785,
-  "sma_50": 1.3389999999999997,
-  "sma_200": 1.5708999999999997,
-  "ema_20": 1.2835380309610238,
-  "ema_50": 1.3145465525116593,
-  "ema_100": 1.3808061443055741,
-  "ema_200": 1.4555410104608433,
-  "obv": 5144881261.0,
+  "as_of": "2026-07-01",
+  "bars": 2469,
+  "close": 1.29,
+  "sma_20": 1.274,
+  "sma_50": 1.3259999999999998,
+  "sma_200": 1.5674000000000001,
+  "ema_20": 1.277871400360354,
+  "ema_50": 1.3084888919018454,
+  "ema_100": 1.3738654855321812,
+  "ema_200": 1.4498641640497423,
+  "obv": 9940841876.0,
   "weekly_trend": "Down",
-  "monthly_trend": "Down",
+  "monthly_trend": "Up",
   "support_resistance": {
-    "price": 1.26,
-    "nearest_resistance": 1.29,
-    "nearest_support": 1.19,
+    "price": 1.29,
+    "nearest_resistance": 1.33,
+    "nearest_support": 1.27,
     "resistance_levels": [
-      1.29,
-      1.32,
-      1.41
+      1.33,
+      1.41,
+      1.53
     ],
     "support_levels": [
-      1.19,
-      1.15,
-      1.1
+      1.27,
+      1.17,
+      1.13
     ]
   },
-  "rsi_14": 41.83443732014433,
-  "macd": -0.013704852010548052,
-  "macd_signal": -0.013952597778561988,
-  "macd_hist": 0.00024774576801393604,
-  "adx_14": 9.853527528713396,
-  "plus_di": 14.439317509788516,
-  "minus_di": 15.656982495174935,
-  "atr_14": 0.04505443740807041,
-  "bb_upper": 1.3090122926045094,
-  "bb_lower": 1.2479877073954906,
-  "week52_high": 2.34,
+  "rsi_14": 51.28251607349653,
+  "macd": -0.01300009492333598,
+  "macd_signal": -0.014301926876579111,
+  "macd_hist": 0.00130183195324313,
+  "adx_14": 10.50957006447654,
+  "plus_di": 17.463123750818784,
+  "minus_di": 14.958212495660584,
+  "atr_14": 0.04605556618342134,
+  "bb_upper": 1.3088711915481728,
+  "bb_lower": 1.2391288084518273,
+  "week52_high": 2.41,
   "week52_low": 1.1,
   "rsi_divergence": {
     "type": null
   },
   "patterns": [
     {
-      "name": "Double Bottom",
-      "type": "bullish",
-      "confidence": 0.59,
-      "status": "forming",
-      "neckline": 1.41,
-      "target": 1.56,
-      "note": "Two near-equal troughs; breaks up above the peak (neckline)."
-    },
-    {
       "name": "Descending Triangle",
       "type": "bearish",
       "confidence": 0.55,
       "status": "forming",
       "neckline": 1.26,
-      "target": 0.99,
+      "target": 1.11,
       "note": "Flat support with falling highs; bearish breakdown bias."
     }
   ]

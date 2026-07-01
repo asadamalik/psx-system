@@ -1,16 +1,16 @@
 # Yousaf Weaving Mills Limited (YOUW) — Analysis Report
-*Generated 2026-06-28 17:25* · Sector: Textile Weaving  
+*Generated 2026-07-02 02:50* · Sector: Textile Weaving  
 *Decision-support only — not financial advice.*
 
 ## Verdict
 
 | | |
 |---|---|
-| **Overall score** | **18.0 / 100** |
+| **Overall score** | **19.7 / 100** |
 | **Rating** | **Sell** |
-| Risk | Medium |
+| Risk | High |
 | Fundamental score | 0.0 (70% weight) |
-| Technical score | 60.0 (30% weight) |
+| Technical score | 65.6 (30% weight) |
 | Trend / Momentum | Bullish / Neutral |
 
 ## Fundamental Analysis
@@ -59,21 +59,21 @@
 
 ## Technical Analysis
 
-As of **2026-06-24** (1236 bars). Trend **Bullish**, momentum **Neutral**, technical score **60.0/100**.
+As of **2026-07-01** (2454 bars). Trend **Bullish**, momentum **Neutral**, technical score **65.6/100**.
 
 | Indicator | Value |
 |---|---|
-| Close | 5.90 |
-| SMA 20 / 50 / 200 | 5.93 / 6.00 / 5.52 |
-| EMA 20 / 50 | 5.96 / 5.79 |
-| RSI (14) | 48.80 |
-| MACD / signal | 0.02 / 0.03 |
-| ADX (14) | 20.71 |
-| DI+ / DI− | 38.69 / 28.74 |
-| ATR (14) | 0.17 |
-| 52-week high / low | 9.00 / 3.33 |
+| Close | 5.85 |
+| SMA 20 / 50 / 200 | 5.94 / 6.08 / 5.53 |
+| EMA 20 / 50 | 5.93 / 5.80 |
+| RSI (14) | 47.71 |
+| MACD / signal | -0.01 / 0.02 |
+| ADX (14) | 26.38 |
+| DI+ / DI− | 19.93 / 13.88 |
+| ATR (14) | 0.31 |
+| 52-week high / low | 9.59 / 3.19 |
 
-Signals: Trend: Bullish; EMA20 > EMA50; ADX 20.7 (Developing); DI + dominant; RSI 48.8 (Neutral); MACD below signal
+Signals: Trend: Bullish; EMA20 > EMA50; ADX 26.4 (Strong); DI + dominant; RSI 47.7 (Neutral); MACD below signal
 
 ## Notes
 

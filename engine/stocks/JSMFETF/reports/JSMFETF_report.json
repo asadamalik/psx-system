@@ -1,0 +1,169 @@
+{
+  "symbol": "JSMFETF",
+  "generated": "2026-07-02 02:48",
+  "scores": {
+    "fundamental_score": null,
+    "technical_score": 61.1,
+    "overall_score": 61.1,
+    "rating": "Hold",
+    "risk": "Medium",
+    "risk_score": 60.0,
+    "weights": {
+      "fundamental": 0.7,
+      "technical": 0.3
+    },
+    "fundamental_detail": {
+      "fundamental_score": null,
+      "pillars": {
+        "growth": null,
+        "profitability": null,
+        "financial_strength": null,
+        "valuation": null
+      },
+      "coverage": {
+        "growth": {
+          "used": [],
+          "missing": [
+            "revenue_growth_5y",
+            "net_income_growth_5y",
+            "eps_growth",
+            "sales_growth"
+          ]
+        },
+        "profitability": {
+          "used": [],
+          "missing": [
+            "roe",
+            "roa",
+            "gross_margin",
+            "operating_margin",
+            "net_margin"
+          ]
+        },
+        "financial_strength": {
+          "used": [],
+          "missing": [
+            "debt_to_equity",
+            "current_ratio",
+            "interest_coverage",
+            "fcf_margin"
+          ]
+        },
+        "valuation": {
+          "used": [],
+          "missing": [
+            "pe_ratio",
+            "price_to_book",
+            "peg"
+          ]
+        }
+      },
+      "weight_covered": 0.0
+    }
+  },
+  "technical": {
+    "technical_score": 61.1,
+    "trend": "Sideways",
+    "momentum": "Strong",
+    "adx_strength": "Developing",
+    "rsi_divergence": {
+      "type": null
+    },
+    "notes": [
+      "Trend: Sideways",
+      "EMA20 > EMA50",
+      "ADX 21.7 (Developing); DI - dominant",
+      "RSI 60.7 (Strong)",
+      "MACD above signal"
+    ]
+  },
+  "technical_snapshot": {
+    "as_of": "2026-07-01",
+    "bars": 887,
+    "close": 10.92,
+    "sma_20": 10.450999999999999,
+    "sma_50": 10.3946,
+    "sma_200": 11.55,
+    "ema_20": 10.54347772426698,
+    "ema_50": 10.4758711412334,
+    "ema_100": 10.724675555273498,
+    "ema_200": 11.184916688281152,
+    "obv": 19983000.0,
+    "weekly_trend": "Up",
+    "monthly_trend": "Up",
+    "support_resistance": {
+      "price": 10.92,
+      "nearest_resistance": 11.35,
+      "nearest_support": 9.91,
+      "resistance_levels": [
+        11.35,
+        11.75,
+        12.0
+      ],
+      "support_levels": [
+        9.91,
+        9.61,
+        9.22
+      ]
+    },
+    "rsi_14": 60.68859944463073,
+    "macd": 0.1381150545612666,
+    "macd_signal": 0.09071533092132013,
+    "macd_hist": 0.047399723639946476,
+    "adx_14": 21.74397059756079,
+    "plus_di": 23.749269468507812,
+    "minus_di": 28.280284393184413,
+    "atr_14": 0.3066811547918251,
+    "bb_upper": 11.041555670534022,
+    "bb_lower": 9.860444329465976,
+    "week52_high": 14.14,
+    "week52_low": 9.22,
+    "rsi_divergence": {
+      "type": null
+    },
+    "patterns": [
+      {
+        "name": "Double Bottom",
+        "type": "bullish",
+        "confidence": 0.15,
+        "status": "forming",
+        "neckline": 11.35,
+        "target": 13.14,
+        "note": "Two near-equal troughs; breaks up above the peak (neckline)."
+      }
+    ]
+  },
+  "growth": {
+    "revenue_growth_5y": null,
+    "net_income_growth_5y": null,
+    "equity_growth_5y": null,
+    "debt_change_5y": null
+  },
+  "metrics": {
+    "revenue_growth_5y": null,
+    "net_income_growth_5y": null,
+    "eps_growth": null,
+    "sales_growth": null,
+    "roe": null,
+    "roa": null,
+    "gross_margin": null,
+    "operating_margin": null,
+    "net_margin": null,
+    "debt_to_equity": null,
+    "current_ratio": null,
+    "interest_coverage": null,
+    "fcf_margin": null,
+    "pe_ratio": null,
+    "price_to_book": null,
+    "peg": null
+  },
+  "latest": {
+    "revenue": null,
+    "net_income": null,
+    "equity": null,
+    "total_assets": null,
+    "total_debt": null,
+    "operating_cash_flow": null,
+    "capex": null
+  }
+}

@@ -1,44 +1,55 @@
 {
-  "as_of": "2026-06-24",
-  "bars": 417,
-  "close": 19.22,
-  "sma_20": 18.2055,
-  "sma_50": 13.307,
-  "sma_200": 10.8816,
-  "ema_20": 18.202783918980845,
-  "ema_50": 14.851944326492832,
-  "ema_100": 12.807471909132907,
-  "ema_200": 11.400477050665456,
-  "obv": 167906832.0,
+  "as_of": "2026-07-01",
+  "bars": 2193,
+  "close": 18.27,
+  "sma_20": 18.9655,
+  "sma_50": 13.9056,
+  "sma_200": 11.030949999999997,
+  "ema_20": 18.376504560881106,
+  "ema_50": 15.309872227376152,
+  "ema_100": 13.163367663725593,
+  "ema_200": 11.625750316514866,
+  "obv": 217929808.0,
   "weekly_trend": "Up",
   "monthly_trend": "Up",
   "support_resistance": {
-    "price": 19.22,
-    "nearest_resistance": 23.11,
-    "nearest_support": 10.22,
+    "price": 18.27,
+    "nearest_resistance": 22.35,
+    "nearest_support": 12.52,
     "resistance_levels": [
-      23.11
+      22.35,
+      24.0
     ],
     "support_levels": [
-      10.22,
-      9.5,
-      9.16
+      12.52,
+      10.01,
+      9.41
     ]
   },
-  "rsi_14": 57.367031542646345,
-  "macd": 2.1879798340418084,
-  "macd_signal": 2.3761049692316236,
-  "macd_hist": -0.18812513518981522,
-  "adx_14": 62.30379469080913,
-  "plus_di": 42.813737381030165,
-  "minus_di": 9.744236097463968,
-  "atr_14": 1.2252518580485705,
-  "bb_upper": 24.05087928623965,
-  "bb_lower": 12.360120713760352,
-  "week52_high": 23.11,
-  "week52_low": 7.21,
+  "rsi_14": 53.03901530386868,
+  "macd": 1.608047846373264,
+  "macd_signal": 2.0918226231436097,
+  "macd_hist": -0.48377477677034575,
+  "adx_14": 59.446770784450486,
+  "plus_di": 29.03090598689057,
+  "minus_di": 11.84383579922794,
+  "atr_14": 1.733680987510467,
+  "bb_upper": 23.497852479673313,
+  "bb_lower": 14.433147520326683,
+  "week52_high": 24.0,
+  "week52_low": 7.1,
   "rsi_divergence": {
     "type": null
   },
-  "patterns": []
+  "patterns": [
+    {
+      "name": "Symmetrical Triangle",
+      "type": "neutral",
+      "confidence": 0.45,
+      "status": "forming",
+      "neckline": null,
+      "target": null,
+      "note": "Converging highs and lows; breakout direction undecided."
+    }
+  ]
 }

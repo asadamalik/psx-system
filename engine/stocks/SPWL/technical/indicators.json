@@ -1,65 +1,46 @@
 {
-  "as_of": "2026-06-24",
-  "bars": 1237,
-  "close": 10.01,
-  "sma_20": 9.4825,
-  "sma_50": 9.613999999999999,
-  "sma_200": 10.23555,
-  "ema_20": 9.586572470445809,
-  "ema_50": 9.593984017074883,
-  "ema_100": 9.816618575650837,
-  "ema_200": 10.379107148192118,
-  "obv": 89535501.0,
+  "as_of": "2026-07-01",
+  "bars": 2469,
+  "close": 9.53,
+  "sma_20": 9.525,
+  "sma_50": 9.5732,
+  "sma_200": 10.22185,
+  "ema_20": 9.616353499683088,
+  "ema_50": 9.607629775466899,
+  "ema_100": 9.811248817496686,
+  "ema_200": 10.36004329047576,
+  "obv": 95799080.0,
   "weekly_trend": "Up",
-  "monthly_trend": "Up",
+  "monthly_trend": "Down",
   "support_resistance": {
-    "price": 10.01,
-    "nearest_resistance": 10.82,
-    "nearest_support": 9.55,
+    "price": 9.53,
+    "nearest_resistance": 9.87,
+    "nearest_support": 9.5,
     "resistance_levels": [
-      10.82,
-      11.5,
-      12.49
+      9.87,
+      10.76,
+      12.65
     ],
     "support_levels": [
-      9.55,
-      9.13,
+      9.5,
+      9.14,
       8.75
     ]
   },
-  "rsi_14": 65.40601944081129,
-  "macd": 0.11459821395925651,
-  "macd_signal": 0.010773829962071386,
-  "macd_hist": 0.10382438399718513,
-  "adx_14": 28.140823752754507,
-  "plus_di": 30.674166076055666,
-  "minus_di": 14.287587835897757,
-  "atr_14": 0.347411028260879,
-  "bb_upper": 10.07562309009766,
-  "bb_lower": 8.88937690990234,
-  "week52_high": 12.49,
-  "week52_low": 8.31,
+  "rsi_14": 48.099076634768736,
+  "macd": 0.0907800583983569,
+  "macd_signal": 0.05744511567533448,
+  "macd_hist": 0.03333494272302242,
+  "adx_14": 26.21639297392027,
+  "plus_di": 23.917882796633783,
+  "minus_di": 22.50981470484269,
+  "atr_14": 0.35688887056987034,
+  "bb_upper": 10.140158516166274,
+  "bb_lower": 8.909841483833727,
+  "week52_high": 12.65,
+  "week52_low": 8.01,
   "rsi_divergence": {
     "type": null
   },
-  "patterns": [
-    {
-      "name": "Inverse Head & Shoulders",
-      "type": "bullish",
-      "confidence": 0.85,
-      "status": "confirmed",
-      "neckline": 9.75,
-      "target": 10.75,
-      "note": "Three troughs, middle lowest; breaks up above the neckline."
-    },
-    {
-      "name": "Ascending Triangle",
-      "type": "bullish",
-      "confidence": 0.55,
-      "status": "forming",
-      "neckline": 9.85,
-      "target": 10.95,
-      "note": "Flat resistance with rising lows; bullish breakout bias."
-    }
-  ]
+  "patterns": []
 }

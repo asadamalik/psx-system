@@ -1,5 +1,5 @@
 # Fast Cables Limited (FCL) — Analysis Report
-*Generated 2026-06-28 01:32* · Sector: Cable & Electrical Goods  
+*Generated 2026-07-02 02:48* · Sector: Cable & Electrical Goods  
 *Decision-support only — not financial advice.*
 
 ## Verdict
@@ -59,21 +59,21 @@
 
 ## Technical Analysis
 
-As of **2026-06-24** (507 bars). Trend **Bullish**, momentum **Strong**, technical score **66.7/100**.
+As of **2026-07-01** (509 bars). Trend **Bullish**, momentum **Strong**, technical score **66.7/100**.
 
 | Indicator | Value |
 |---|---|
-| Close | 24.47 |
-| SMA 20 / 50 / 200 | 24.24 / 23.32 / 23.85 |
-| EMA 20 / 50 | 24.17 / 23.61 |
-| RSI (14) | 55.56 |
-| MACD / signal | 0.30 / 0.37 |
-| ADX (14) | 20.41 |
-| DI+ / DI− | 24.42 / 19.31 |
-| ATR (14) | 0.63 |
-| 52-week high / low | 28.12 / 20.07 |
+| Close | 24.87 |
+| SMA 20 / 50 / 200 | 24.31 / 23.49 / 23.79 |
+| EMA 20 / 50 | 24.23 / 23.69 |
+| RSI (14) | 58.99 |
+| MACD / signal | 0.26 / 0.31 |
+| ADX (14) | 20.67 |
+| DI+ / DI− | 30.45 / 15.24 |
+| ATR (14) | 0.68 |
+| 52-week high / low | 28.56 / 19.65 |
 
-Signals: Trend: Bullish; EMA20 > EMA50; ADX 20.4 (Developing); DI + dominant; RSI 55.6 (Strong); MACD below signal
+Signals: Trend: Bullish; EMA20 > EMA50; ADX 20.7 (Developing); DI + dominant; RSI 59.0 (Strong); MACD below signal
 
 ## Notes
 

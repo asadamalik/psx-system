@@ -1,6 +1,6 @@
 {
   "symbol": "WAVESAPP",
-  "generated": "2026-06-28 12:19",
+  "generated": "2026-07-02 02:50",
   "scores": {
     "fundamental_score": 53.7,
     "technical_score": 54.4,
@@ -74,52 +74,52 @@
     "notes": [
       "Trend: Sideways",
       "EMA20 > EMA50",
-      "ADX 28.7 (Strong); DI + dominant",
-      "RSI 52.5 (Neutral)",
+      "ADX 25.8 (Strong); DI + dominant",
+      "RSI 49.5 (Neutral)",
       "MACD below signal"
     ]
   },
   "technical_snapshot": {
-    "as_of": "2026-06-24",
-    "bars": 1015,
-    "close": 8.9,
-    "sma_20": 8.861,
-    "sma_50": 8.394200000000001,
-    "sma_200": 9.2379,
-    "ema_20": 8.89827122848431,
-    "ema_50": 8.595778813906184,
-    "ema_100": 8.674567828032686,
-    "ema_200": 8.991339847367554,
-    "obv": 509486074.0,
+    "as_of": "2026-06-30",
+    "bars": 2379,
+    "close": 8.75,
+    "sma_20": 8.927,
+    "sma_50": 8.439,
+    "sma_200": 9.22705,
+    "ema_20": 8.863910462290145,
+    "ema_50": 8.604916597150932,
+    "ema_100": 8.67656940071114,
+    "ema_200": 8.98719526844455,
+    "obv": 517174396.0,
     "weekly_trend": "Up",
     "monthly_trend": "Up",
     "support_resistance": {
-      "price": 8.9,
-      "nearest_resistance": 9.78,
-      "nearest_support": 7.57,
+      "price": 8.75,
+      "nearest_resistance": 8.79,
+      "nearest_support": 7.6,
       "resistance_levels": [
-        9.78,
-        10.21,
-        12.05
+        8.79,
+        10.0,
+        10.21
       ],
       "support_levels": [
-        7.57,
-        7.26,
-        7.1
+        7.6,
+        7.42,
+        7.26
       ]
     },
-    "rsi_14": 52.51810907211067,
-    "macd": 0.2486287208453657,
-    "macd_signal": 0.29244118979529626,
-    "macd_hist": -0.04381246894993057,
-    "adx_14": 28.691240803618246,
-    "plus_di": 22.280552578880773,
-    "minus_di": 15.261267609303179,
-    "atr_14": 0.42083544953515667,
-    "bb_upper": 10.086673692301657,
-    "bb_lower": 7.635326307698344,
-    "week52_high": 12.05,
-    "week52_low": 7.05,
+    "rsi_14": 49.530682823284174,
+    "macd": 0.1652005903585696,
+    "macd_signal": 0.2521238122347069,
+    "macd_hist": -0.08692322187613732,
+    "adx_14": 25.77752976082139,
+    "plus_di": 19.396679221431338,
+    "minus_di": 17.50870800990604,
+    "atr_14": 0.41400235920301554,
+    "bb_upper": 10.038811135042184,
+    "bb_lower": 7.815188864957815,
+    "week52_high": 12.3,
+    "week52_low": 6.99,
     "rsi_divergence": {
       "type": null
     },
@@ -130,7 +130,7 @@
         "confidence": 0.64,
         "status": "forming",
         "neckline": 9.76,
-        "target": 10.79,
+        "target": 10.64,
         "note": "Strong pole then tight consolidation; bullish continuation bias."
       }
     ]

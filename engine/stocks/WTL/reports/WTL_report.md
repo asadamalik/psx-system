@@ -1,17 +1,17 @@
 # WorldCall Telecom Limited (WTL) — Analysis Report
-*Generated 2026-06-27 23:47* · Sector: Communication Services  
+*Generated 2026-07-02 02:50* · Sector: Communication Services  
 *Decision-support only — not financial advice.*
 
 ## Verdict
 
 | | |
 |---|---|
-| **Overall score** | **43.5 / 100** |
+| **Overall score** | **44.9 / 100** |
 | **Rating** | **Reduce** |
 | Risk | Medium |
 | Fundamental score | 47.9 (70% weight) |
-| Technical score | 33.3 (30% weight) |
-| Trend / Momentum | Bearish / Weak |
+| Technical score | 37.8 (30% weight) |
+| Trend / Momentum | Bearish / Neutral |
 
 ## Fundamental Analysis
 
@@ -59,21 +59,21 @@
 
 ## Technical Analysis
 
-As of **2026-06-24** (1237 bars). Trend **Bearish**, momentum **Weak**, technical score **33.3/100**.
+As of **2026-07-01** (2469 bars). Trend **Bearish**, momentum **Neutral**, technical score **37.8/100**.
 
 | Indicator | Value |
 |---|---|
-| Close | 1.26 |
-| SMA 20 / 50 / 200 | 1.28 / 1.34 / 1.57 |
+| Close | 1.29 |
+| SMA 20 / 50 / 200 | 1.27 / 1.33 / 1.57 |
 | EMA 20 / 50 | 1.28 / 1.31 |
-| RSI (14) | 41.83 |
+| RSI (14) | 51.28 |
 | MACD / signal | -0.01 / -0.01 |
-| ADX (14) | 9.85 |
-| DI+ / DI− | 14.44 / 15.66 |
+| ADX (14) | 10.51 |
+| DI+ / DI− | 17.46 / 14.96 |
 | ATR (14) | 0.05 |
-| 52-week high / low | 2.34 / 1.10 |
+| 52-week high / low | 2.41 / 1.10 |
 
-Signals: Trend: Bearish; EMA20 < EMA50; ADX 9.9 (Weak); DI - dominant; RSI 41.8 (Weak); MACD above signal
+Signals: Trend: Bearish; EMA20 < EMA50; ADX 10.5 (Weak); DI + dominant; RSI 51.3 (Neutral); MACD above signal
 
 ## Notes
 

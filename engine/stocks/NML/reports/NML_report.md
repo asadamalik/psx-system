@@ -1,16 +1,16 @@
 # Nishat Mills Limited (NML) — Analysis Report
-*Generated 2026-06-28 01:26* · Sector: Textile Composite  
+*Generated 2026-07-02 02:49* · Sector: Textile Composite  
 *Decision-support only — not financial advice.*
 
 ## Verdict
 
 | | |
 |---|---|
-| **Overall score** | **59.1 / 100** |
+| **Overall score** | **60.8 / 100** |
 | **Rating** | **Hold** |
 | Risk | Low |
 | Fundamental score | 51.1 (70% weight) |
-| Technical score | 77.8 (30% weight) |
+| Technical score | 83.3 (30% weight) |
 | Trend / Momentum | Bullish / Strong |
 
 ## Fundamental Analysis
@@ -59,21 +59,21 @@
 
 ## Technical Analysis
 
-As of **2026-06-24** (1237 bars). Trend **Bullish**, momentum **Strong**, technical score **77.8/100**.
+As of **2026-07-01** (2469 bars). Trend **Bullish**, momentum **Strong**, technical score **83.3/100**.
 
 | Indicator | Value |
 |---|---|
-| Close | 159.19 |
-| SMA 20 / 50 / 200 | 149.27 / 148.88 / 158.79 |
-| EMA 20 / 50 | 151.28 / 149.62 |
-| RSI (14) | 62.76 |
-| MACD / signal | 3.22 / 2.04 |
-| ADX (14) | 18.02 |
-| DI+ / DI− | 33.29 / 16.65 |
-| ATR (14) | 5.31 |
-| 52-week high / low | 205.49 / 118.00 |
+| Close | 160.42 |
+| SMA 20 / 50 / 200 | 151.41 / 149.48 / 158.77 |
+| EMA 20 / 50 | 153.31 / 150.69 |
+| RSI (14) | 63.32 |
+| MACD / signal | 3.62 / 2.75 |
+| ADX (14) | 21.59 |
+| DI+ / DI− | 29.80 / 14.05 |
+| ATR (14) | 5.26 |
+| 52-week high / low | 208.40 / 120.00 |
 
-Signals: Trend: Bullish; EMA20 > EMA50; ADX 18.0 (Weak); DI + dominant; RSI 62.8 (Strong); MACD above signal
+Signals: Trend: Bullish; EMA20 > EMA50; ADX 21.6 (Developing); DI + dominant; RSI 63.3 (Strong); MACD above signal
 
 ## Notes
 

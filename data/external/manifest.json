@@ -1,15 +1,15 @@
 {
-  "generated_ts": 1782920558,
+  "generated_ts": 1782942617,
   "count": 1,
   "symbols": [
     {
-      "symbol": "PAKQATAR",
-      "file": "1782920558_PAKQATAR.json",
+      "symbol": "YOUW",
+      "file": "1782942617_YOUW.json",
       "as_of": "2026-07-01",
-      "overall_score": 66.9,
-      "rating": "Buy",
-      "risk": "Low",
-      "ohlc_bars": 122
+      "overall_score": 19.7,
+      "rating": "Sell",
+      "risk": "High",
+      "ohlc_bars": 2454
     }
   ]
 }

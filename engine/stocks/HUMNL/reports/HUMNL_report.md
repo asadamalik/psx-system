@@ -1,17 +1,17 @@
 # Hum Network Limited (HUMNL) — Analysis Report
-*Generated 2026-06-28 11:55* · Sector: Technology & Communication  
+*Generated 2026-07-02 02:48* · Sector: Technology & Communication  
 *Decision-support only — not financial advice.*
 
 ## Verdict
 
 | | |
 |---|---|
-| **Overall score** | **53.2 / 100** |
+| **Overall score** | **56.5 / 100** |
 | **Rating** | **Hold** |
 | Risk | Medium |
 | Fundamental score | 66.9 (70% weight) |
-| Technical score | 21.1 (30% weight) |
-| Trend / Momentum | Bearish / Neutral |
+| Technical score | 32.2 (30% weight) |
+| Trend / Momentum | Sideways / Neutral |
 
 ## Fundamental Analysis
 
@@ -59,21 +59,21 @@
 
 ## Technical Analysis
 
-As of **2026-06-24** (1237 bars). Trend **Bearish**, momentum **Neutral**, technical score **21.1/100**.
+As of **2026-06-30** (2469 bars). Trend **Sideways**, momentum **Neutral**, technical score **32.2/100**.
 
 | Indicator | Value |
 |---|---|
-| Close | 11.07 |
-| SMA 20 / 50 / 200 | 11.18 / 11.08 / 13.24 |
-| EMA 20 / 50 | 11.19 / 11.21 |
-| RSI (14) | 47.27 |
-| MACD / signal | 0.06 / 0.07 |
-| ADX (14) | 9.44 |
-| DI+ / DI− | 16.23 / 21.44 |
+| Close | 11.17 |
+| SMA 20 / 50 / 200 | 11.18 / 11.08 / 13.19 |
+| EMA 20 / 50 | 11.16 / 11.19 |
+| RSI (14) | 50.59 |
+| MACD / signal | 0.03 / 0.06 |
+| ADX (14) | 10.87 |
+| DI+ / DI− | 15.85 / 20.35 |
 | ATR (14) | 0.34 |
-| 52-week high / low | 18.00 / 10.01 |
+| 52-week high / low | 18.65 / 10.00 |
 
-Signals: Trend: Bearish; EMA20 < EMA50; ADX 9.4 (Weak); DI - dominant; RSI 47.3 (Neutral); MACD below signal
+Signals: Trend: Sideways; EMA20 < EMA50; ADX 10.9 (Weak); DI - dominant; RSI 50.6 (Neutral); MACD below signal
 
 ## Notes
 

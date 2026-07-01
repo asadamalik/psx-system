@@ -91,15 +91,19 @@ def _ymd_int(date_iso: str) -> int:
 
 
 def attach_external_charts(charts: dict, external: dict | None = None) -> dict:
-    """Build a chart from an engine export's true OHLC for any engine symbol that has
-    no dashboard chart (i.e. never appeared in the tracked top-30 universe), so its
-    detail page still renders. Existing charts are left untouched."""
+    """Build a chart from an engine export's true OHLC for engine symbols.
+
+    Used for symbols with no dashboard chart (never in the tracked top-30) AND to REPLACE
+    a shallow windowed chart when the engine export carries deeper history — the export now
+    holds the full stockanalysis series (thousands of real-H/L bars), so we prefer it over
+    the ~180-day DPS window whenever it's longer. Non-engine symbols are left untouched."""
     for sym, ext in (external or {}).items():
-        if sym in charts:
-            continue
         bars = ext.get("ohlc") or []
         if not bars:
             continue
+        existing = charts.get(sym)
+        if existing is not None and len(bars) <= len(existing.get("c") or []):
+            continue  # keep the existing chart when it's already at least as deep
         charts[sym] = dict(
             d=[int(b["date"].replace("-", "")) for b in bars],
             o=[b.get("open") for b in bars],

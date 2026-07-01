@@ -1,6 +1,6 @@
 {
   "symbol": "KOIL",
-  "generated": "2026-06-28 16:26",
+  "generated": "2026-07-02 02:48",
   "scores": {
     "fundamental_score": 52.8,
     "technical_score": 65.6,
@@ -77,58 +77,58 @@
       "price_to": 45.57,
       "rsi_from": 37.0,
       "rsi_to": 37.7,
-      "bars_ago": 12
+      "bars_ago": 15
     },
     "notes": [
       "Trend: Bullish",
       "EMA20 < EMA50",
-      "ADX 18.7 (Weak); DI - dominant",
-      "RSI 47.5 (Neutral)",
+      "ADX 17.1 (Weak); DI - dominant",
+      "RSI 52.4 (Neutral)",
       "MACD above signal",
-      "\u26a0 Bullish RSI divergence (12 bars ago): Price made a lower low (46.11\u219245.57) while RSI made a higher low (37.0\u219237.7) \u2014 selling momentum is easing; watch for a bounce."
+      "\u26a0 Bullish RSI divergence (15 bars ago): Price made a lower low (46.11\u219245.57) while RSI made a higher low (37.0\u219237.7) \u2014 selling momentum is easing; watch for a bounce."
     ]
   },
   "technical_snapshot": {
-    "as_of": "2026-06-24",
-    "bars": 424,
-    "close": 48.04,
-    "sma_20": 47.273,
-    "sma_50": 53.46940000000001,
-    "sma_200": 47.61685000000001,
-    "ema_20": 48.19592204395684,
-    "ema_50": 51.323604385536555,
-    "ema_100": 52.15191685248507,
-    "ema_200": 46.281782794763224,
-    "obv": 50590791.0,
-    "weekly_trend": "Down",
+    "as_of": "2026-07-01",
+    "bars": 2392,
+    "close": 49.85,
+    "sma_20": 47.6365,
+    "sma_50": 50.5876,
+    "sma_200": 48.14054999999999,
+    "ema_20": 48.629164623762875,
+    "ema_50": 51.15713547403282,
+    "ema_100": 52.01799616896628,
+    "ema_200": 46.3897498273187,
+    "obv": 132541205.0,
+    "weekly_trend": "Up",
     "monthly_trend": "Down",
     "support_resistance": {
-      "price": 48.04,
-      "nearest_resistance": 54.63,
+      "price": 49.85,
+      "nearest_resistance": 54.34,
       "nearest_support": 47.03,
       "resistance_levels": [
-        54.63,
-        64.89,
-        71.38
+        54.34,
+        58.9,
+        65.0
       ],
       "support_levels": [
         47.03,
-        45.01,
-        44.01
+        44.63,
+        41.88
       ]
     },
-    "rsi_14": 47.54721920431955,
-    "macd": -0.7691909672368595,
-    "macd_signal": -1.4180053813277853,
-    "macd_hist": 0.6488144140909258,
-    "adx_14": 18.71203064321463,
-    "plus_di": 20.286930031500095,
-    "minus_di": 35.540612884771534,
-    "atr_14": 2.6973221921225066,
-    "bb_upper": 50.134447885249536,
-    "bb_lower": 44.41155211475047,
+    "rsi_14": 52.38526523069523,
+    "macd": -0.24988977125514822,
+    "macd_signal": -0.9179832956875059,
+    "macd_hist": 0.6680935244323577,
+    "adx_14": 17.096073650728624,
+    "plus_di": 22.58488628995512,
+    "minus_di": 29.39459705327277,
+    "atr_14": 2.611575520222079,
+    "bb_upper": 51.07740264319983,
+    "bb_lower": 44.195597356800164,
     "week52_high": 110.0,
-    "week52_low": 10.11,
+    "week52_low": 9.96,
     "rsi_divergence": {
       "type": "bullish",
       "label": "Bullish RSI divergence",
@@ -137,17 +137,26 @@
       "price_to": 45.57,
       "rsi_from": 37.0,
       "rsi_to": 37.7,
-      "bars_ago": 12
+      "bars_ago": 15
     },
     "patterns": [
       {
-        "name": "Falling Wedge",
-        "type": "bullish",
-        "confidence": 0.5,
+        "name": "Double Top",
+        "type": "bearish",
+        "confidence": 0.54,
         "status": "forming",
-        "neckline": 54.63,
-        "target": 110.0,
-        "note": "Lower highs and lows converging after a decline; bullish reversal bias."
+        "neckline": 41.66,
+        "target": 28.69,
+        "note": "Two near-equal peaks; breaks down below the trough (neckline)."
+      },
+      {
+        "name": "Bull Flag",
+        "type": "bullish",
+        "confidence": 0.53,
+        "status": "forming",
+        "neckline": 51.54,
+        "target": 55.82,
+        "note": "Strong pole then tight consolidation; bullish continuation bias."
       }
     ]
   },

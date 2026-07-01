@@ -1,13 +1,13 @@
 {
   "symbol": "GCIL",
-  "generated": "2026-06-28 17:25",
+  "generated": "2026-07-02 02:48",
   "scores": {
     "fundamental_score": 100.0,
-    "technical_score": 72.2,
-    "overall_score": 91.7,
+    "technical_score": 88.9,
+    "overall_score": 96.7,
     "rating": "Strong Buy",
-    "risk": "Low",
-    "risk_score": 80.0,
+    "risk": "Medium",
+    "risk_score": 65.0,
     "weights": {
       "fundamental": 0.7,
       "technical": 0.3
@@ -65,81 +65,81 @@
     }
   },
   "technical": {
-    "technical_score": 72.2,
+    "technical_score": 88.9,
     "trend": "Bullish",
-    "momentum": "Overbought",
-    "adx_strength": "Developing",
+    "momentum": "Strong",
+    "adx_strength": "Strong",
     "rsi_divergence": {
       "type": null
     },
     "notes": [
       "Trend: Bullish",
       "EMA20 > EMA50",
-      "ADX 23.5 (Developing); DI + dominant",
-      "RSI 72.8 (Overbought)",
+      "ADX 34.9 (Strong); DI + dominant",
+      "RSI 69.8 (Strong)",
       "MACD above signal"
     ]
   },
   "technical_snapshot": {
-    "as_of": "2026-06-24",
-    "bars": 895,
-    "close": 34.79,
-    "sma_20": 30.647000000000002,
-    "sma_50": 29.676399999999997,
-    "sma_200": 31.56455,
-    "ema_20": 31.1742621078401,
-    "ema_50": 30.03682738200206,
-    "ema_100": 30.01456140762907,
-    "ema_200": 29.35385992399334,
-    "obv": 454216562.0,
+    "as_of": "2026-07-01",
+    "bars": 897,
+    "close": 35.44,
+    "sma_20": 31.734,
+    "sma_50": 30.090999999999998,
+    "sma_200": 31.622249999999998,
+    "ema_20": 32.36793055016746,
+    "ema_50": 30.688228411394327,
+    "ema_100": 30.351805668132172,
+    "ema_200": 29.544169807490906,
+    "obv": 456546425.0,
     "weekly_trend": "Up",
     "monthly_trend": "Up",
     "support_resistance": {
-      "price": 34.79,
-      "nearest_resistance": 36.64,
-      "nearest_support": 34.2,
+      "price": 35.44,
+      "nearest_resistance": 37.38,
+      "nearest_support": 33.95,
       "resistance_levels": [
-        36.64
+        37.38
       ],
       "support_levels": [
-        34.2,
-        33.28,
-        29.09
+        33.95,
+        30.52,
+        27.57
       ]
     },
-    "rsi_14": 72.82720526060345,
-    "macd": 1.349136516762762,
-    "macd_signal": 0.8289538452047326,
-    "macd_hist": 0.5201826715580294,
-    "adx_14": 23.527181499812695,
-    "plus_di": 52.810640585759934,
-    "minus_di": 15.805219347310377,
-    "atr_14": 0.8275823561262241,
-    "bb_upper": 34.51821221324791,
-    "bb_lower": 26.775787786752097,
-    "week52_high": 39.5,
-    "week52_low": 19.8,
+    "rsi_14": 69.8340218657375,
+    "macd": 1.7521527857828438,
+    "macd_signal": 1.251100293693467,
+    "macd_hist": 0.5010524920893769,
+    "adx_14": 34.883594851012994,
+    "plus_di": 36.221906784653605,
+    "minus_di": 7.276398446873887,
+    "atr_14": 1.669892485269599,
+    "bb_upper": 36.597757395265,
+    "bb_lower": 26.870242604735004,
+    "week52_high": 39.87,
+    "week52_low": 23.81,
     "rsi_divergence": {
       "type": null
     },
     "patterns": [
       {
-        "name": "Inverse Head & Shoulders",
+        "name": "Double Bottom",
         "type": "bullish",
-        "confidence": 0.85,
+        "confidence": 0.95,
         "status": "confirmed",
-        "neckline": 29.93,
-        "target": 33.48,
-        "note": "Three troughs, middle lowest; breaks up above the neckline."
+        "neckline": 30.99,
+        "target": 34.45,
+        "note": "Two near-equal troughs; breaks up above the peak (neckline)."
       },
       {
-        "name": "Ascending Triangle",
-        "type": "bullish",
+        "name": "Descending Triangle",
+        "type": "bearish",
         "confidence": 0.55,
         "status": "forming",
-        "neckline": 30.1,
-        "target": 33.83,
-        "note": "Flat resistance with rising lows; bullish breakout bias."
+        "neckline": 27.53,
+        "target": 22.06,
+        "note": "Flat support with falling highs; bearish breakdown bias."
       }
     ]
   },

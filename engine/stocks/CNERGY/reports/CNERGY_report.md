@@ -1,5 +1,5 @@
 # Cnergyico PK Limited (CNERGY) — Analysis Report
-*Generated 2026-06-27 23:47* · Sector: Energy  
+*Generated 2026-07-02 02:47* · Sector: Energy  
 *Decision-support only — not financial advice.*
 
 ## Verdict
@@ -59,21 +59,21 @@
 
 ## Technical Analysis
 
-As of **2026-06-24** (1237 bars). Trend **Bullish**, momentum **Neutral**, technical score **54.4/100**.
+As of **2026-07-01** (2238 bars). Trend **Bullish**, momentum **Neutral**, technical score **54.4/100**.
 
 | Indicator | Value |
 |---|---|
-| Close | 8.19 |
-| SMA 20 / 50 / 200 | 8.24 / 8.21 / 7.76 |
-| EMA 20 / 50 | 8.25 / 8.12 |
-| RSI (14) | 48.22 |
-| MACD / signal | -0.00 / 0.02 |
-| ADX (14) | 19.89 |
-| DI+ / DI− | 20.91 / 17.95 |
-| ATR (14) | 0.25 |
-| 52-week high / low | 9.24 / 6.00 |
+| Close | 8.21 |
+| SMA 20 / 50 / 200 | 8.21 / 8.26 / 7.78 |
+| EMA 20 / 50 | 8.23 / 8.12 |
+| RSI (14) | 49.41 |
+| MACD / signal | -0.01 / 0.00 |
+| ADX (14) | 17.30 |
+| DI+ / DI− | 21.25 / 17.17 |
+| ATR (14) | 0.24 |
+| 52-week high / low | 9.39 / 5.87 |
 
-Signals: Trend: Bullish; EMA20 > EMA50; ADX 19.9 (Weak); DI + dominant; RSI 48.2 (Neutral); MACD below signal
+Signals: Trend: Bullish; EMA20 > EMA50; ADX 17.3 (Weak); DI + dominant; RSI 49.4 (Neutral); MACD below signal
 
 ## Notes
 

@@ -1,16 +1,16 @@
 # TRG Pakistan Limited (TRG) — Analysis Report
-*Generated 2026-06-28 11:48* · Sector: Technology & Communication  
+*Generated 2026-07-02 02:50* · Sector: Technology & Communication  
 *Decision-support only — not financial advice.*
 
 ## Verdict
 
 | | |
 |---|---|
-| **Overall score** | **30.5 / 100** |
+| **Overall score** | **32.2 / 100** |
 | **Rating** | **Sell** |
 | Risk | High |
 | Fundamental score | 29.8 (70% weight) |
-| Technical score | 32.2 (30% weight) |
+| Technical score | 37.8 (30% weight) |
 | Trend / Momentum | Sideways / Neutral |
 
 ## Fundamental Analysis
@@ -59,21 +59,21 @@
 
 ## Technical Analysis
 
-As of **2026-06-24** (1237 bars). Trend **Sideways**, momentum **Neutral**, technical score **32.2/100**.
+As of **2026-07-01** (2469 bars). Trend **Sideways**, momentum **Neutral**, technical score **37.8/100**.
 
 | Indicator | Value |
 |---|---|
-| Close | 64.40 |
-| SMA 20 / 50 / 200 | 69.18 / 62.64 / 66.24 |
-| EMA 20 / 50 | 67.14 / 63.94 |
-| RSI (14) | 45.00 |
-| MACD / signal | 1.00 / 2.16 |
-| ADX (14) | 20.97 |
-| DI+ / DI− | 20.87 / 24.87 |
-| ATR (14) | 2.86 |
-| 52-week high / low | 82.98 / 40.83 |
+| Close | 64.31 |
+| SMA 20 / 50 / 200 | 68.43 / 63.03 / 66.31 |
+| EMA 20 / 50 | 66.28 / 63.92 |
+| RSI (14) | 45.57 |
+| MACD / signal | 0.12 / 1.25 |
+| ADX (14) | 19.18 |
+| DI+ / DI− | 20.44 / 24.03 |
+| ATR (14) | 2.62 |
+| 52-week high / low | 84.39 / 40.12 |
 
-Signals: Trend: Sideways; EMA20 > EMA50; ADX 21.0 (Developing); DI - dominant; RSI 45.0 (Neutral); MACD below signal; ⚠ Bearish RSI divergence (17 bars ago): Price made a higher high (67.17→74.06) while RSI made a lower high (72.2→71.9) — upward momentum is fading; watch for a pullback.
+Signals: Trend: Sideways; EMA20 > EMA50; ADX 19.2 (Weak); DI - dominant; RSI 45.6 (Neutral); MACD below signal; ⚠ Bearish RSI divergence (20 bars ago): Price made a higher high (67.17→74.06) while RSI made a lower high (72.2→71.9) — upward momentum is fading; watch for a pullback.
 
 ## Notes
 

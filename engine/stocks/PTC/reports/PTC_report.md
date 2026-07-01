@@ -1,17 +1,17 @@
 # Pakistan Telecommunication Company Ltd (PTC) — Analysis Report
-*Generated 2026-06-28 12:07* · Sector: Technology & Communication  
+*Generated 2026-07-02 02:49* · Sector: Technology & Communication  
 *Decision-support only — not financial advice.*
 
 ## Verdict
 
 | | |
 |---|---|
-| **Overall score** | **39.7 / 100** |
+| **Overall score** | **36.4 / 100** |
 | **Rating** | **Reduce** |
 | Risk | High |
 | Fundamental score | 23.4 (70% weight) |
-| Technical score | 77.8 (30% weight) |
-| Trend / Momentum | Strong Bullish / Strong |
+| Technical score | 66.7 (30% weight) |
+| Trend / Momentum | Strong Bullish / Overbought |
 
 ## Fundamental Analysis
 
@@ -59,21 +59,21 @@
 
 ## Technical Analysis
 
-As of **2026-06-24** (1237 bars). Trend **Strong Bullish**, momentum **Strong**, technical score **77.8/100**.
+As of **2026-07-01** (2469 bars). Trend **Strong Bullish**, momentum **Overbought**, technical score **66.7/100**.
 
 | Indicator | Value |
 |---|---|
-| Close | 66.14 |
-| SMA 20 / 50 / 200 | 65.51 / 58.06 / 49.41 |
-| EMA 20 / 50 | 64.15 / 60.04 |
-| RSI (14) | 61.00 |
-| MACD / signal | 2.47 / 2.89 |
-| ADX (14) | 27.17 |
-| DI+ / DI− | 24.87 / 18.11 |
-| ATR (14) | 2.33 |
-| 52-week high / low | 69.85 / 21.91 |
+| Close | 72.07 |
+| SMA 20 / 50 / 200 | 66.20 / 58.87 / 50.06 |
+| EMA 20 / 50 | 65.15 / 60.93 |
+| RSI (14) | 72.17 |
+| MACD / signal | 2.49 / 2.61 |
+| ADX (14) | 26.88 |
+| DI+ / DI− | 33.89 / 13.38 |
+| ATR (14) | 2.64 |
+| 52-week high / low | 72.07 / 21.51 |
 
-Signals: Trend: Strong Bullish; EMA20 > EMA50; ADX 27.2 (Strong); DI + dominant; RSI 61.0 (Strong); MACD below signal; ⚠ Bearish RSI divergence (6 bars ago): Price made a higher high (67.56→67.98) while RSI made a lower high (74.5→69.0) — upward momentum is fading; watch for a pullback.
+Signals: Trend: Strong Bullish; EMA20 > EMA50; ADX 26.9 (Strong); DI + dominant; RSI 72.2 (Overbought); MACD below signal; ⚠ Bearish RSI divergence (9 bars ago): Price made a higher high (67.56→67.99) while RSI made a lower high (74.5→69.0) — upward momentum is fading; watch for a pullback.
 
 ## Notes
 

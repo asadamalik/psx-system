@@ -1,5 +1,5 @@
 # JS Bank Limited (JSBL) — Analysis Report
-*Generated 2026-06-28 11:56* · Sector: Commercial Banks  
+*Generated 2026-07-02 02:48* · Sector: Commercial Banks  
 *Decision-support only — not financial advice.*
 
 ## Verdict
@@ -59,21 +59,21 @@
 
 ## Technical Analysis
 
-As of **2026-06-24** (1212 bars). Trend **Bearish**, momentum **Neutral**, technical score **21.1/100**.
+As of **2026-07-01** (2442 bars). Trend **Bearish**, momentum **Neutral**, technical score **21.1/100**.
 
 | Indicator | Value |
 |---|---|
-| Close | 12.52 |
-| SMA 20 / 50 / 200 | 12.78 / 13.19 / 16.28 |
-| EMA 20 / 50 | 12.65 / 12.99 |
-| RSI (14) | 47.02 |
-| MACD / signal | -0.07 / -0.07 |
-| ADX (14) | 13.72 |
-| DI+ / DI− | 19.37 / 19.05 |
+| Close | 12.37 |
+| SMA 20 / 50 / 200 | 12.69 / 13.05 / 16.24 |
+| EMA 20 / 50 | 12.54 / 12.90 |
+| RSI (14) | 46.08 |
+| MACD / signal | -0.13 / -0.09 |
+| ADX (14) | 14.45 |
+| DI+ / DI− | 15.55 / 23.19 |
 | ATR (14) | 0.58 |
-| 52-week high / low | 23.36 / 10.16 |
+| 52-week high / low | 24.50 / 10.15 |
 
-Signals: Trend: Bearish; EMA20 < EMA50; ADX 13.7 (Weak); DI + dominant; RSI 47.0 (Neutral); MACD below signal
+Signals: Trend: Bearish; EMA20 < EMA50; ADX 14.4 (Weak); DI - dominant; RSI 46.1 (Neutral); MACD below signal
 
 ## Notes
 

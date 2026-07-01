@@ -1,17 +1,17 @@
 # Globe Residency REIT (GRR) — Analysis Report
-*Generated 2026-06-28 16:26* · Sector: Real Estate Investment Trust  
+*Generated 2026-07-02 02:48* · Sector: Real Estate Investment Trust  
 *Decision-support only — not financial advice.*
 
 ## Verdict
 
 | | |
 |---|---|
-| **Overall score** | **55.3 / 100** |
+| **Overall score** | **53.6 / 100** |
 | **Rating** | **Hold** |
 | Risk | Medium |
 | Fundamental score | 45.6 (70% weight) |
-| Technical score | 77.8 (30% weight) |
-| Trend / Momentum | Bullish / Strong |
+| Technical score | 72.2 (30% weight) |
+| Trend / Momentum | Bullish / Overbought |
 
 ## Fundamental Analysis
 
@@ -59,21 +59,21 @@
 
 ## Technical Analysis
 
-As of **2026-06-24** (543 bars). Trend **Bullish**, momentum **Strong**, technical score **77.8/100**.
+As of **2026-07-01** (841 bars). Trend **Bullish**, momentum **Overbought**, technical score **72.2/100**.
 
 | Indicator | Value |
 |---|---|
-| Close | 19.95 |
-| SMA 20 / 50 / 200 | 19.70 / 19.58 / 19.82 |
-| EMA 20 / 50 | 19.68 / 19.64 |
-| RSI (14) | 58.34 |
-| MACD / signal | 0.07 / 0.05 |
-| ADX (14) | 15.04 |
-| DI+ / DI− | 22.51 / 16.90 |
-| ATR (14) | 0.42 |
-| 52-week high / low | 24.05 / 17.10 |
+| Close | 21.90 |
+| SMA 20 / 50 / 200 | 19.99 / 19.71 / 19.85 |
+| EMA 20 / 50 | 20.20 / 19.87 |
+| RSI (14) | 79.10 |
+| MACD / signal | 0.43 / 0.18 |
+| ADX (14) | 24.52 |
+| DI+ / DI− | 35.73 / 10.69 |
+| ATR (14) | 0.65 |
+| 52-week high / low | 24.95 / 17.50 |
 
-Signals: Trend: Bullish; EMA20 > EMA50; ADX 15.0 (Weak); DI + dominant; RSI 58.3 (Strong); MACD above signal
+Signals: Trend: Bullish; EMA20 > EMA50; ADX 24.5 (Developing); DI + dominant; RSI 79.1 (Overbought); MACD above signal
 
 ## Notes
 

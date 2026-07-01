@@ -1,5 +1,5 @@
 # Wasl Mobility Modaraba (WASL) — Analysis Report
-*Generated 2026-06-28 01:32* · Sector: Modarabas  
+*Generated 2026-07-02 02:50* · Sector: Modarabas  
 *Decision-support only — not financial advice.*
 
 ## Verdict
@@ -59,21 +59,21 @@
 
 ## Technical Analysis
 
-As of **2026-06-24** (866 bars). Trend **Sideways**, momentum **Neutral**, technical score **43.3/100**.
+As of **2026-07-01** (2401 bars). Trend **Sideways**, momentum **Neutral**, technical score **43.3/100**.
 
 | Indicator | Value |
 |---|---|
-| Close | 5.43 |
-| SMA 20 / 50 / 200 | 5.54 / 5.20 / 5.94 |
-| EMA 20 / 50 | 5.50 / 5.31 |
-| RSI (14) | 49.86 |
-| MACD / signal | 0.14 / 0.18 |
-| ADX (14) | 14.61 |
-| DI+ / DI− | 18.43 / 21.39 |
+| Close | 5.55 |
+| SMA 20 / 50 / 200 | 5.64 / 5.24 / 5.96 |
+| EMA 20 / 50 | 5.48 / 5.33 |
+| RSI (14) | 53.40 |
+| MACD / signal | 0.08 / 0.14 |
+| ADX (14) | 13.85 |
+| DI+ / DI− | 18.82 / 21.19 |
 | ATR (14) | 0.32 |
-| 52-week high / low | 9.20 / 3.60 |
+| 52-week high / low | 9.24 / 3.54 |
 
-Signals: Trend: Sideways; EMA20 > EMA50; ADX 14.6 (Weak); DI - dominant; RSI 49.9 (Neutral); MACD below signal
+Signals: Trend: Sideways; EMA20 > EMA50; ADX 13.8 (Weak); DI - dominant; RSI 53.4 (Neutral); MACD below signal
 
 ## Notes
 

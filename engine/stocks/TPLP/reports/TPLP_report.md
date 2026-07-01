@@ -1,16 +1,16 @@
 # TPL Properties Limited (TPLP) — Analysis Report
-*Generated 2026-06-28 16:27* · Sector: Property  
+*Generated 2026-07-02 02:50* · Sector: Property  
 *Decision-support only — not financial advice.*
 
 ## Verdict
 
 | | |
 |---|---|
-| **Overall score** | **37.3 / 100** |
+| **Overall score** | **35.7 / 100** |
 | **Rating** | **Reduce** |
 | Risk | Medium |
 | Fundamental score | 22.4 (70% weight) |
-| Technical score | 72.2 (30% weight) |
+| Technical score | 66.7 (30% weight) |
 | Trend / Momentum | Bullish / Strong |
 
 ## Fundamental Analysis
@@ -59,21 +59,21 @@
 
 ## Technical Analysis
 
-As of **2026-06-24** (1236 bars). Trend **Bullish**, momentum **Strong**, technical score **72.2/100**.
+As of **2026-07-01** (2399 bars). Trend **Bullish**, momentum **Strong**, technical score **66.7/100**.
 
 | Indicator | Value |
 |---|---|
-| Close | 10.57 |
-| SMA 20 / 50 / 200 | 10.07 / 8.92 / 10.08 |
-| EMA 20 / 50 | 10.21 / 9.35 |
-| RSI (14) | 58.00 |
-| MACD / signal | 0.65 / 0.70 |
-| ADX (14) | 27.91 |
-| DI+ / DI− | 23.71 / 19.80 |
-| ATR (14) | 0.65 |
-| 52-week high / low | 12.92 / 6.00 |
+| Close | 10.72 |
+| SMA 20 / 50 / 200 | 10.44 / 9.13 / 10.08 |
+| EMA 20 / 50 | 10.31 / 9.49 |
+| RSI (14) | 58.53 |
+| MACD / signal | 0.52 / 0.62 |
+| ADX (14) | 23.97 |
+| DI+ / DI− | 21.17 / 17.78 |
+| ATR (14) | 0.64 |
+| 52-week high / low | 13.55 / 6.00 |
 
-Signals: Trend: Bullish; EMA20 > EMA50; ADX 27.9 (Strong); DI + dominant; RSI 58.0 (Strong); MACD below signal
+Signals: Trend: Bullish; EMA20 > EMA50; ADX 24.0 (Developing); DI + dominant; RSI 58.5 (Strong); MACD below signal
 
 ## Notes
 

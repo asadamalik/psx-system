@@ -1,17 +1,17 @@
 # Systems Limited (SYS) — Analysis Report
-*Generated 2026-06-27 23:47* · Sector: Technology  
+*Generated 2026-07-02 02:49* · Sector: Technology  
 *Decision-support only — not financial advice.*
 
 ## Verdict
 
 | | |
 |---|---|
-| **Overall score** | **75.0 / 100** |
+| **Overall score** | **71.6 / 100** |
 | **Rating** | **Buy** |
 | Risk | Low |
 | Fundamental score | 83.8 (70% weight) |
-| Technical score | 54.4 (30% weight) |
-| Trend / Momentum | Bullish / Neutral |
+| Technical score | 43.3 (30% weight) |
+| Trend / Momentum | Sideways / Neutral |
 
 ## Fundamental Analysis
 
@@ -59,21 +59,21 @@
 
 ## Technical Analysis
 
-As of **2026-06-24** (267 bars). Trend **Bullish**, momentum **Neutral**, technical score **54.4/100**.
+As of **2026-07-01** (2468 bars). Trend **Sideways**, momentum **Neutral**, technical score **43.3/100**.
 
 | Indicator | Value |
 |---|---|
-| Close | 149.93 |
-| SMA 20 / 50 / 200 | 149.96 / 150.81 / 149.83 |
-| EMA 20 / 50 | 150.50 / 149.04 |
-| RSI (14) | 49.34 |
-| MACD / signal | 0.55 / 0.61 |
-| ADX (14) | 13.00 |
-| DI+ / DI− | 19.58 / 19.86 |
-| ATR (14) | 3.45 |
-| 52-week high / low | 173.50 / 104.81 |
+| Close | 149.57 |
+| SMA 20 / 50 / 200 | 149.72 / 150.62 / 150.00 |
+| EMA 20 / 50 | 149.92 / 148.95 |
+| RSI (14) | 49.43 |
+| MACD / signal | -0.02 / 0.34 |
+| ADX (14) | 14.67 |
+| DI+ / DI− | 15.10 / 23.41 |
+| ATR (14) | 3.54 |
+| 52-week high / low | 174.40 / 105.98 |
 
-Signals: Trend: Bullish; EMA20 > EMA50; ADX 13.0 (Weak); DI - dominant; RSI 49.3 (Neutral); MACD below signal
+Signals: Trend: Sideways; EMA20 > EMA50; ADX 14.7 (Weak); DI - dominant; RSI 49.4 (Neutral); MACD below signal
 
 ## Notes
 

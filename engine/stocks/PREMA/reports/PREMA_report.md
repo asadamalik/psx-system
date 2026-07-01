@@ -1,17 +1,17 @@
 # At-Tahur Limited (PREMA) — Analysis Report
-*Generated 2026-06-28 01:25* · Sector: Food & Personal Care Products  
+*Generated 2026-07-02 02:49* · Sector: Food & Personal Care Products  
 *Decision-support only — not financial advice.*
 
 ## Verdict
 
 | | |
 |---|---|
-| **Overall score** | **63.7 / 100** |
+| **Overall score** | **61.8 / 100** |
 | **Rating** | **Hold** |
 | Risk | Medium |
 | Fundamental score | 60.1 (70% weight) |
-| Technical score | 72.2 (30% weight) |
-| Trend / Momentum | Sideways / Strong |
+| Technical score | 65.6 (30% weight) |
+| Trend / Momentum | Sideways / Neutral |
 
 ## Fundamental Analysis
 
@@ -59,21 +59,21 @@
 
 ## Technical Analysis
 
-As of **2026-06-24** (1236 bars). Trend **Sideways**, momentum **Strong**, technical score **72.2/100**.
+As of **2026-07-01** (1955 bars). Trend **Sideways**, momentum **Neutral**, technical score **65.6/100**.
 
 | Indicator | Value |
 |---|---|
-| Close | 36.02 |
-| SMA 20 / 50 / 200 | 34.85 / 34.30 / 36.76 |
-| EMA 20 / 50 | 34.94 / 33.99 |
-| RSI (14) | 58.19 |
-| MACD / signal | 0.45 / 0.42 |
-| ADX (14) | 20.60 |
-| DI+ / DI− | 31.51 / 14.09 |
-| ATR (14) | 1.59 |
-| 52-week high / low | 54.99 / 23.50 |
+| Close | 35.59 |
+| SMA 20 / 50 / 200 | 34.94 / 34.80 / 36.66 |
+| EMA 20 / 50 | 35.11 / 34.18 |
+| RSI (14) | 54.82 |
+| MACD / signal | 0.44 / 0.43 |
+| ADX (14) | 23.71 |
+| DI+ / DI− | 28.18 / 12.66 |
+| ATR (14) | 1.42 |
+| 52-week high / low | 56.38 / 23.00 |
 
-Signals: Trend: Sideways; EMA20 > EMA50; ADX 20.6 (Developing); DI + dominant; RSI 58.2 (Strong); MACD above signal
+Signals: Trend: Sideways; EMA20 > EMA50; ADX 23.7 (Developing); DI + dominant; RSI 54.8 (Neutral); MACD above signal
 
 ## Notes
 

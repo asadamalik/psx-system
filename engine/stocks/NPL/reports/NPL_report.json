@@ -1,6 +1,6 @@
 {
   "symbol": "NPL",
-  "generated": "2026-06-28 12:03",
+  "generated": "2026-07-02 02:49",
   "scores": {
     "fundamental_score": 47.5,
     "technical_score": 71.1,
@@ -75,64 +75,64 @@
     "notes": [
       "Trend: Bullish",
       "EMA20 > EMA50",
-      "ADX 9.8 (Weak); DI - dominant",
-      "RSI 52.6 (Neutral)",
+      "ADX 9.6 (Weak); DI - dominant",
+      "RSI 50.5 (Neutral)",
       "MACD above signal"
     ]
   },
   "technical_snapshot": {
-    "as_of": "2026-06-24",
-    "bars": 1156,
-    "close": 74.14,
-    "sma_20": 72.193,
-    "sma_50": 74.15520000000001,
-    "sma_200": 62.24645,
-    "ema_20": 73.31990458924038,
-    "ema_50": 72.95407239547382,
-    "ema_100": 71.14362540533138,
-    "ema_200": 64.31665021655935,
-    "obv": 329691837.0,
+    "as_of": "2026-07-01",
+    "bars": 2463,
+    "close": 73.31,
+    "sma_20": 72.5505,
+    "sma_50": 74.0706,
+    "sma_200": 62.7143,
+    "ema_20": 73.27462040491682,
+    "ema_50": 72.97430530534908,
+    "ema_100": 71.25954363309485,
+    "ema_200": 64.57768920449178,
+    "obv": 329733883.0,
     "weekly_trend": "Up",
-    "monthly_trend": "Down",
+    "monthly_trend": "Up",
     "support_resistance": {
-      "price": 74.14,
-      "nearest_resistance": 81.11,
+      "price": 73.31,
+      "nearest_resistance": 79.55,
       "nearest_support": 70.61,
       "resistance_levels": [
-        81.11,
-        86.12,
-        96.6
+        79.55,
+        82.1,
+        86.12
       ],
       "support_levels": [
         70.61,
-        67.93,
-        62.4
+        67.43,
+        64.99
       ]
     },
-    "rsi_14": 52.613293842637056,
-    "macd": 0.8174668295474845,
-    "macd_signal": 0.3969905396783567,
-    "macd_hist": 0.42047628986912783,
-    "adx_14": 9.75694330466837,
-    "plus_di": 22.95489225079779,
-    "minus_di": 24.447678570586024,
-    "atr_14": 3.2032731083757597,
-    "bb_upper": 78.35881576111379,
-    "bb_lower": 66.0271842388862,
-    "week52_high": 98.91,
-    "week52_low": 33.76,
+    "rsi_14": 50.541836966957185,
+    "macd": 0.5060132150040744,
+    "macd_signal": 0.47963350060916005,
+    "macd_hist": 0.026379714394914322,
+    "adx_14": 9.579237063346817,
+    "plus_di": 20.763556667304478,
+    "minus_di": 24.825026682488133,
+    "atr_14": 2.875583265693131,
+    "bb_upper": 78.56846801254403,
+    "bb_lower": 66.53253198745597,
+    "week52_high": 100.45,
+    "week52_low": 33.3,
     "rsi_divergence": {
       "type": null
     },
     "patterns": [
       {
-        "name": "Double Bottom",
+        "name": "Bull Flag",
         "type": "bullish",
-        "confidence": 0.99,
-        "status": "confirmed",
-        "neckline": 72.29,
-        "target": 77.12,
-        "note": "Two near-equal troughs; breaks up above the peak (neckline)."
+        "confidence": 0.55,
+        "status": "forming",
+        "neckline": 78.66,
+        "target": 83.84,
+        "note": "Strong pole then tight consolidation; bullish continuation bias."
       }
     ]
   },

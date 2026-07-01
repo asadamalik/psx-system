@@ -1,16 +1,16 @@
 # AKD Securities Limited (AKDSL) — Analysis Report
-*Generated 2026-06-28 11:49*  
+*Generated 2026-07-02 02:47*  
 *Decision-support only — not financial advice.*
 
 ## Verdict
 
 | | |
 |---|---|
-| **Overall score** | **91.9 / 100** |
+| **Overall score** | **86.9 / 100** |
 | **Rating** | **Strong Buy** |
 | Risk | Low |
 | Fundamental score | 93.2 (70% weight) |
-| Technical score | 88.9 (30% weight) |
+| Technical score | 72.2 (30% weight) |
 | Trend / Momentum | Bullish / Strong |
 
 ## Fundamental Analysis
@@ -59,21 +59,21 @@
 
 ## Technical Analysis
 
-As of **2026-06-24** (541 bars). Trend **Bullish**, momentum **Strong**, technical score **88.9/100**.
+As of **2026-06-30** (2074 bars). Trend **Bullish**, momentum **Strong**, technical score **72.2/100**.
 
 | Indicator | Value |
 |---|---|
-| Close | 40.34 |
-| SMA 20 / 50 / 200 | 38.60 / 36.03 / 36.92 |
-| EMA 20 / 50 | 39.32 / 37.15 |
-| RSI (14) | 56.39 |
-| MACD / signal | 1.99 / 1.92 |
-| ADX (14) | 27.11 |
-| DI+ / DI− | 29.21 / 21.52 |
-| ATR (14) | 2.43 |
-| 52-week high / low | 55.90 / 24.55 |
+| Close | 40.58 |
+| SMA 20 / 50 / 200 | 39.35 / 36.28 / 36.98 |
+| EMA 20 / 50 | 39.44 / 37.37 |
+| RSI (14) | 56.48 |
+| MACD / signal | 1.63 / 1.83 |
+| ADX (14) | 25.36 |
+| DI+ / DI− | 25.85 / 19.92 |
+| ATR (14) | 2.37 |
+| 52-week high / low | 58.38 / 24.70 |
 
-Signals: Trend: Bullish; EMA20 > EMA50; ADX 27.1 (Strong); DI + dominant; RSI 56.4 (Strong); MACD above signal
+Signals: Trend: Bullish; EMA20 > EMA50; ADX 25.4 (Strong); DI + dominant; RSI 56.5 (Strong); MACD below signal
 
 ## Notes
 

@@ -24,6 +24,32 @@ One self-contained venv at the repo root: `./.venv/bin/python` (was two separate
 
 ---
 
+## 2026-07-02 — FULL OHLCV history from stockanalysis API (real H/L, deep) + chart range selector
+**What:** switched price history from "DPS EOD base + ~50 stockanalysis H/L bars + synthesized H/L for
+the rest" to the **complete stockanalysis daily series** — real Open/High/Low/Close/Volume for every
+bar, split-adjusted, thousands of bars (e.g. LUCK 291 → 2,464). Feeds candlestick, technical
+indicators (SMA200 etc.), 52-week range, and relative strength.
+
+- **Source:** `https://stockanalysis.com/api/symbol/a/PSX-<SYM>/history?range=10Y` — plain HTTP (no
+  Playwright), returns `{"data":[{"t":"YYYY-MM-DD","o","h","l","c","a","v","ch"}, … newest-first]}`.
+  Works even for stocks with NO stockanalysis financials page (TBL, small caps) and for ETFs.
+  (`type=chart` is close-only — don't use it; omit `type` for OHLCV.)
+- **Tool:** `engine/refresh_history.py <SYM...> [--csv-only]` overwrites `technical/historical.csv`
+  (newest-first ISO dates) then re-runs run.py + export. `--csv-only` is used inside `batch_onboard.py`
+  (right after assemble) so new onboards also get full history; falls back to the DPS-synth history if
+  stockanalysis has none (e.g. ITANZ, 1 bar).
+- **Daily job** now refreshes history for every engine stock and always rebuilds, so charts + scores
+  stay deep and current.
+- **Dashboard:** `ohlc_store.attach_external_charts` now REPLACES a shallow chart with the deeper
+  engine-export OHLC (so top-30 symbols show full history, not just the 180-day DPS window). The
+  trading-plan chart got a **range selector (3M / 1Y / 5Y / Max)** — candles for short ranges, a close
+  line + volume area for long ranges (2,000+ candles are unreadable). Default 3M.
+- **Also:** onboarded the 5 remaining non-engine symbols (MZNPETF/JSMFETF ETFs, SRR REIT, SPAC1) as
+  **technical-only** records from price history, so they use the new (MLCF-style) detail page too.
+  SLM stays on the old page — only ~10 bars, too few for a technical score (converts once it has ≥30).
+
+---
+
 ## 2026-07-01 — Market-watch symbol parse fused the "NC" status tag into the ticker
 **Bug:** `psx_auto.fetch_marketwatch()` read the symbol via `tds[0].get_text(strip=True)`, but the
 DPS symbol cell is `<a class="tbl__symbol"><strong>SYM</strong></a>` **plus** an optional status tag

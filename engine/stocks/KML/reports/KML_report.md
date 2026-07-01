@@ -1,17 +1,17 @@
 # Kohinoor Mills Limited (KML) — Analysis Report
-*Generated 2026-06-28 11:58* · Sector: Textile Composite  
+*Generated 2026-07-02 02:48* · Sector: Textile Composite  
 *Decision-support only — not financial advice.*
 
 ## Verdict
 
 | | |
 |---|---|
-| **Overall score** | **54.7 / 100** |
+| **Overall score** | **51.3 / 100** |
 | **Rating** | **Hold** |
 | Risk | High |
 | Fundamental score | 40.0 (70% weight) |
-| Technical score | 88.9 (30% weight) |
-| Trend / Momentum | Bullish / Strong |
+| Technical score | 77.8 (30% weight) |
+| Trend / Momentum | Bullish / Overbought |
 
 ## Fundamental Analysis
 
@@ -59,21 +59,21 @@
 
 ## Technical Analysis
 
-As of **2026-06-24** (180 bars). Trend **Bullish**, momentum **Strong**, technical score **88.9/100**.
+As of **2026-07-01** (1979 bars). Trend **Bullish**, momentum **Overbought**, technical score **77.8/100**.
 
 | Indicator | Value |
 |---|---|
-| Close | 10.68 |
-| SMA 20 / 50 / 200 | 8.96 / 8.76 / — |
-| EMA 20 / 50 | 9.25 / 9.03 |
-| RSI (14) | 69.67 |
-| MACD / signal | 0.46 / 0.24 |
-| ADX (14) | 32.79 |
-| DI+ / DI− | 41.21 / 9.38 |
-| ATR (14) | 0.57 |
-| 52-week high / low | 18.19 / 7.69 |
+| Close | 11.59 |
+| SMA 20 / 50 / 200 | 9.40 / 8.92 / 11.36 |
+| EMA 20 / 50 | 9.76 / 9.28 |
+| RSI (14) | 75.31 |
+| MACD / signal | 0.68 / 0.42 |
+| ADX (14) | 40.52 |
+| DI+ / DI− | 44.55 / 6.90 |
+| ATR (14) | 0.62 |
+| 52-week high / low | 18.19 / 4.42 |
 
-Signals: Trend: Bullish; EMA20 > EMA50; ADX 32.8 (Strong); DI + dominant; RSI 69.7 (Strong); MACD above signal
+Signals: Trend: Bullish; EMA20 > EMA50; ADX 40.5 (Strong); DI + dominant; RSI 75.3 (Overbought); MACD above signal
 
 ## Notes
 

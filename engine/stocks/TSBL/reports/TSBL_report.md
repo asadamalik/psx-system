@@ -1,17 +1,17 @@
 # Trust Securities & Brokerage Limited (TSBL) — Analysis Report
-*Generated 2026-06-28 12:15*  
+*Generated 2026-07-02 02:50*  
 *Decision-support only — not financial advice.*
 
 ## Verdict
 
 | | |
 |---|---|
-| **Overall score** | **27.2 / 100** |
+| **Overall score** | **24.2 / 100** |
 | **Rating** | **Sell** |
 | Risk | Medium |
 | Fundamental score | 27.4 (70% weight) |
-| Technical score | 26.7 (30% weight) |
-| Trend / Momentum | Bearish / Neutral |
+| Technical score | 16.7 (30% weight) |
+| Trend / Momentum | Bearish / Weak |
 
 ## Fundamental Analysis
 
@@ -59,21 +59,21 @@
 
 ## Technical Analysis
 
-As of **2026-06-24** (121 bars). Trend **Bearish**, momentum **Neutral**, technical score **26.7/100**.
+As of **2026-07-01** (1611 bars). Trend **Bearish**, momentum **Weak**, technical score **16.7/100**.
 
 | Indicator | Value |
 |---|---|
-| Close | 1.80 |
-| SMA 20 / 50 / 200 | 1.80 / 1.87 / — |
-| EMA 20 / 50 | 1.80 / 1.86 |
-| RSI (14) | 48.43 |
+| Close | 1.75 |
+| SMA 20 / 50 / 200 | 1.79 / 1.86 / 2.51 |
+| EMA 20 / 50 | 1.79 / 1.85 |
+| RSI (14) | 42.77 |
 | MACD / signal | -0.02 / -0.02 |
-| ADX (14) | 11.10 |
-| DI+ / DI− | 19.27 / 12.87 |
+| ADX (14) | 12.85 |
+| DI+ / DI− | 16.10 / 11.50 |
 | ATR (14) | 0.10 |
-| 52-week high / low | 4.20 / 1.31 |
+| 52-week high / low | 6.70 / 1.09 |
 
-Signals: Trend: Bearish; EMA20 < EMA50; ADX 11.1 (Weak); DI + dominant; RSI 48.4 (Neutral); MACD below signal
+Signals: Trend: Bearish; EMA20 < EMA50; ADX 12.8 (Weak); DI + dominant; RSI 42.8 (Weak); MACD below signal
 
 ## Notes
 

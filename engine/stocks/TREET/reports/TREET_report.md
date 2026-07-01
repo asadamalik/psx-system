@@ -1,17 +1,17 @@
 # Treet Corporation Limited (TREET) — Analysis Report
-*Generated 2026-06-28 01:14* · Sector: Food & Personal Care Products  
+*Generated 2026-07-02 02:50* · Sector: Food & Personal Care Products  
 *Decision-support only — not financial advice.*
 
 ## Verdict
 
 | | |
 |---|---|
-| **Overall score** | **46.8 / 100** |
+| **Overall score** | **42.1 / 100** |
 | **Rating** | **Reduce** |
 | Risk | Medium |
 | Fundamental score | 38.7 (70% weight) |
-| Technical score | 65.6 (30% weight) |
-| Trend / Momentum | Sideways / Neutral |
+| Technical score | 50.0 (30% weight) |
+| Trend / Momentum | Sideways / Strong |
 
 ## Fundamental Analysis
 
@@ -59,21 +59,21 @@
 
 ## Technical Analysis
 
-As of **2026-06-24** (1237 bars). Trend **Sideways**, momentum **Neutral**, technical score **65.6/100**.
+As of **2026-07-01** (2470 bars). Trend **Sideways**, momentum **Strong**, technical score **50.0/100**.
 
 | Indicator | Value |
 |---|---|
-| Close | 25.30 |
-| SMA 20 / 50 / 200 | 25.04 / 24.88 / 28.11 |
-| EMA 20 / 50 | 25.21 / 24.96 |
-| RSI (14) | 52.30 |
-| MACD / signal | 0.34 / 0.31 |
-| ADX (14) | 20.72 |
-| DI+ / DI− | 27.30 / 20.26 |
+| Close | 26.00 |
+| SMA 20 / 50 / 200 | 25.22 / 24.96 / 28.12 |
+| EMA 20 / 50 | 25.25 / 25.00 |
+| RSI (14) | 58.14 |
+| MACD / signal | 0.27 / 0.29 |
+| ADX (14) | 19.78 |
+| DI+ / DI− | 29.21 / 17.56 |
 | ATR (14) | 0.86 |
-| 52-week high / low | 36.25 / 19.55 |
+| 52-week high / low | 37.00 / 19.55 |
 
-Signals: Trend: Sideways; EMA20 > EMA50; ADX 20.7 (Developing); DI + dominant; RSI 52.3 (Neutral); MACD above signal
+Signals: Trend: Sideways; EMA20 > EMA50; ADX 19.8 (Weak); DI + dominant; RSI 58.1 (Strong); MACD below signal
 
 ## Notes
 

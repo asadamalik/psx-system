@@ -1,17 +1,17 @@
 # Sui Northern Gas Pipelines Limited (SNGP) — Analysis Report
-*Generated 2026-06-28 01:12* · Sector: OIL & GAS Marketing Companies  
+*Generated 2026-07-02 02:49* · Sector: OIL & GAS Marketing Companies  
 *Decision-support only — not financial advice.*
 
 ## Verdict
 
 | | |
 |---|---|
-| **Overall score** | **53.8 / 100** |
+| **Overall score** | **57.1 / 100** |
 | **Rating** | **Hold** |
 | Risk | Medium |
 | Fundamental score | 43.5 (70% weight) |
-| Technical score | 77.8 (30% weight) |
-| Trend / Momentum | Bullish / Overbought |
+| Technical score | 88.9 (30% weight) |
+| Trend / Momentum | Bullish / Strong |
 
 ## Fundamental Analysis
 
@@ -59,21 +59,21 @@
 
 ## Technical Analysis
 
-As of **2026-06-24** (1237 bars). Trend **Bullish**, momentum **Overbought**, technical score **77.8/100**.
+As of **2026-07-01** (2468 bars). Trend **Bullish**, momentum **Strong**, technical score **88.9/100**.
 
 | Indicator | Value |
 |---|---|
-| Close | 123.17 |
-| SMA 20 / 50 / 200 | 106.52 / 102.86 / 112.51 |
-| EMA 20 / 50 | 109.72 / 104.36 |
-| RSI (14) | 74.97 |
-| MACD / signal | 6.04 / 3.60 |
-| ADX (14) | 31.95 |
-| DI+ / DI− | 47.48 / 12.73 |
-| ATR (14) | 4.12 |
-| 52-week high / low | 140.50 / 86.30 |
+| Close | 119.63 |
+| SMA 20 / 50 / 200 | 109.37 / 103.98 / 112.30 |
+| EMA 20 / 50 | 112.32 / 106.10 |
+| RSI (14) | 65.11 |
+| MACD / signal | 5.91 / 4.76 |
+| ADX (14) | 32.92 |
+| DI+ / DI− | 37.78 / 16.61 |
+| ATR (14) | 4.22 |
+| 52-week high / low | 142.60 / 83.20 |
 
-Signals: Trend: Bullish; EMA20 > EMA50; ADX 31.9 (Strong); DI + dominant; RSI 75.0 (Overbought); MACD above signal
+Signals: Trend: Bullish; EMA20 > EMA50; ADX 32.9 (Strong); DI + dominant; RSI 65.1 (Strong); MACD above signal
 
 ## Notes
 

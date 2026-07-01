@@ -1,10 +1,10 @@
 {
   "symbol": "TPL",
-  "generated": "2026-06-28 10:11",
+  "generated": "2026-07-02 02:49",
   "scores": {
     "fundamental_score": 22.9,
-    "technical_score": 94.4,
-    "overall_score": 44.3,
+    "technical_score": 83.3,
+    "overall_score": 41.0,
     "rating": "Reduce",
     "risk": "High",
     "risk_score": 15.0,
@@ -64,45 +64,37 @@
     }
   },
   "technical": {
-    "technical_score": 94.4,
+    "technical_score": 83.3,
     "trend": "Strong Bullish",
     "momentum": "Strong",
     "adx_strength": "Strong",
     "rsi_divergence": {
-      "type": "bearish",
-      "label": "Bearish RSI divergence",
-      "note": "Price made a higher high (10.84\u219211.23) while RSI made a lower high (71.9\u219267.3) \u2014 upward momentum is fading; watch for a pullback.",
-      "price_from": 10.84,
-      "price_to": 11.23,
-      "rsi_from": 71.9,
-      "rsi_to": 67.3,
-      "bars_ago": 25
+      "type": null
     },
     "notes": [
       "Trend: Strong Bullish",
       "EMA20 > EMA50",
-      "ADX 64.2 (Strong); DI + dominant",
-      "RSI 68.4 (Strong)",
-      "MACD above signal",
-      "\u26a0 Bearish RSI divergence (25 bars ago): Price made a higher high (10.84\u219211.23) while RSI made a lower high (71.9\u219267.3) \u2014 upward momentum is fading; watch for a pullback."
+      "ADX 58.4 (Strong); DI + dominant",
+      "RSI 65.5 (Strong)",
+      "MACD below signal"
     ]
   },
   "technical_snapshot": {
-    "as_of": "2026-06-24",
-    "bars": 1237,
-    "close": 16.42,
-    "sma_20": 14.123500000000002,
-    "sma_50": 11.6306,
-    "sma_200": 9.2698,
-    "ema_20": 14.556060517854146,
-    "ema_50": 12.301434297469159,
-    "ema_100": 10.749602694192873,
-    "ema_200": 9.403760871352691,
-    "obv": 1205481317.0,
+    "as_of": "2026-07-01",
+    "bars": 2468,
+    "close": 16.48,
+    "sma_20": 14.838999999999999,
+    "sma_50": 12.161800000000001,
+    "sma_200": 9.35835,
+    "ema_20": 14.93511510369278,
+    "ema_50": 12.719721071371652,
+    "ema_100": 11.055176986353434,
+    "ema_200": 9.598697697560015,
+    "obv": 1900401755.0,
     "weekly_trend": "Up",
     "monthly_trend": "Up",
     "support_resistance": {
-      "price": 16.42,
+      "price": 16.48,
       "nearest_resistance": 18.0,
       "nearest_support": 10.51,
       "resistance_levels": [
@@ -110,33 +102,36 @@
       ],
       "support_levels": [
         10.51,
-        9.17,
+        9.0,
         6.7
       ]
     },
-    "rsi_14": 68.42365370128172,
-    "macd": 1.5675343256351262,
-    "macd_signal": 1.447989810599094,
-    "macd_hist": 0.11954451503603214,
-    "adx_14": 64.23658069432135,
-    "plus_di": 28.108890195756217,
-    "minus_di": 7.989965272562182,
-    "atr_14": 1.1157038320608983,
-    "bb_upper": 18.467678978817492,
-    "bb_lower": 9.779321021182511,
+    "rsi_14": 65.47255577138837,
+    "macd": 1.3474454058026524,
+    "macd_signal": 1.417534236713321,
+    "macd_hist": -0.07008883091066864,
+    "adx_14": 58.402241359285334,
+    "plus_di": 24.322695819236277,
+    "minus_di": 11.212481131538754,
+    "atr_14": 1.1047687792331458,
+    "bb_upper": 18.56929703911088,
+    "bb_lower": 11.10870296088912,
     "week52_high": 18.0,
-    "week52_low": 5.35,
+    "week52_low": 5.01,
     "rsi_divergence": {
-      "type": "bearish",
-      "label": "Bearish RSI divergence",
-      "note": "Price made a higher high (10.84\u219211.23) while RSI made a lower high (71.9\u219267.3) \u2014 upward momentum is fading; watch for a pullback.",
-      "price_from": 10.84,
-      "price_to": 11.23,
-      "rsi_from": 71.9,
-      "rsi_to": 67.3,
-      "bars_ago": 25
+      "type": null
     },
-    "patterns": []
+    "patterns": [
+      {
+        "name": "Bull Flag",
+        "type": "bullish",
+        "confidence": 0.7,
+        "status": "forming",
+        "neckline": 17.47,
+        "target": 22.66,
+        "note": "Strong pole then tight consolidation; bullish continuation bias."
+      }
+    ]
   },
   "growth": {
     "revenue_growth_5y": 0.048403672307069545,

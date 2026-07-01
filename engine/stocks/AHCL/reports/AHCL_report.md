@@ -1,5 +1,5 @@
 # Arif Habib Corporation Limited (AHCL) — Analysis Report
-*Generated 2026-06-28 11:49* · Sector: Fertilizer  
+*Generated 2026-07-02 02:47* · Sector: Fertilizer  
 *Decision-support only — not financial advice.*
 
 ## Verdict
@@ -59,21 +59,21 @@
 
 ## Technical Analysis
 
-As of **2026-06-24** (308 bars). Trend **Bullish**, momentum **Strong**, technical score **77.8/100**.
+As of **2026-07-01** (2342 bars). Trend **Bullish**, momentum **Strong**, technical score **77.8/100**.
 
 | Indicator | Value |
 |---|---|
-| Close | 15.99 |
-| SMA 20 / 50 / 200 | 15.08 / 14.71 / 15.43 |
-| EMA 20 / 50 | 15.28 / 14.88 |
-| RSI (14) | 65.60 |
-| MACD / signal | 0.43 / 0.33 |
-| ADX (14) | 18.06 |
-| DI+ / DI− | 28.56 / 17.89 |
-| ATR (14) | 0.52 |
-| 52-week high / low | 18.98 / 10.45 |
+| Close | 16.27 |
+| SMA 20 / 50 / 200 | 15.33 / 14.83 / 15.47 |
+| EMA 20 / 50 | 15.47 / 15.01 |
+| RSI (14) | 66.45 |
+| MACD / signal | 0.43 / 0.37 |
+| ADX (14) | 19.18 |
+| DI+ / DI− | 27.80 / 15.18 |
+| ATR (14) | 0.51 |
+| 52-week high / low | 19.33 / 10.55 |
 
-Signals: Trend: Bullish; EMA20 > EMA50; ADX 18.1 (Weak); DI + dominant; RSI 65.6 (Strong); MACD above signal
+Signals: Trend: Bullish; EMA20 > EMA50; ADX 19.2 (Weak); DI + dominant; RSI 66.5 (Strong); MACD above signal
 
 ## Notes
 

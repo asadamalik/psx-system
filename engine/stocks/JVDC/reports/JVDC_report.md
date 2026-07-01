@@ -1,17 +1,17 @@
 # Javedan Corporation Limited (JVDC) — Analysis Report
-*Generated 2026-06-28 01:24* · Sector: Property  
+*Generated 2026-07-02 02:48* · Sector: Property  
 *Decision-support only — not financial advice.*
 
 ## Verdict
 
 | | |
 |---|---|
-| **Overall score** | **77.8 / 100** |
+| **Overall score** | **79.8 / 100** |
 | **Rating** | **Buy** |
 | Risk | Medium |
 | Fundamental score | 80.7 (70% weight) |
-| Technical score | 71.1 (30% weight) |
-| Trend / Momentum | Strong Bullish / Neutral |
+| Technical score | 77.8 (30% weight) |
+| Trend / Momentum | Strong Bullish / Strong |
 
 ## Fundamental Analysis
 
@@ -59,21 +59,21 @@
 
 ## Technical Analysis
 
-As of **2026-06-24** (565 bars). Trend **Strong Bullish**, momentum **Neutral**, technical score **71.1/100**.
+As of **2026-06-30** (2260 bars). Trend **Strong Bullish**, momentum **Strong**, technical score **77.8/100**.
 
 | Indicator | Value |
 |---|---|
-| Close | 144.51 |
-| SMA 20 / 50 / 200 | 142.75 / 135.79 / 109.11 |
-| EMA 20 / 50 | 142.82 / 135.73 |
-| RSI (14) | 54.65 |
-| MACD / signal | 3.56 / 4.35 |
-| ADX (14) | 21.20 |
-| DI+ / DI− | 24.01 / 18.68 |
-| ATR (14) | 6.25 |
-| 52-week high / low | 160.16 / 61.11 |
+| Close | 147.20 |
+| SMA 20 / 50 / 200 | 143.90 / 136.80 / 109.69 |
+| EMA 20 / 50 | 143.42 / 136.53 |
+| RSI (14) | 57.81 |
+| MACD / signal | 3.25 / 3.96 |
+| ADX (14) | 20.17 |
+| DI+ / DI− | 24.64 / 16.69 |
+| ATR (14) | 6.07 |
+| 52-week high / low | 163.00 / 62.00 |
 
-Signals: Trend: Strong Bullish; EMA20 > EMA50; ADX 21.2 (Developing); DI + dominant; RSI 54.7 (Neutral); MACD below signal
+Signals: Trend: Strong Bullish; EMA20 > EMA50; ADX 20.2 (Developing); DI + dominant; RSI 57.8 (Strong); MACD below signal
 
 ## Notes
 

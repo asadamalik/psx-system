@@ -1,17 +1,17 @@
 # Pakistan Refinery Limited (PRL) — Analysis Report
-*Generated 2026-06-28 01:10* · Sector: Refinery  
+*Generated 2026-07-02 02:49* · Sector: Refinery  
 *Decision-support only — not financial advice.*
 
 ## Verdict
 
 | | |
 |---|---|
-| **Overall score** | **48.7 / 100** |
-| **Rating** | **Reduce** |
+| **Overall score** | **54.0 / 100** |
+| **Rating** | **Hold** |
 | Risk | Medium |
 | Fundamental score | 39.1 (70% weight) |
-| Technical score | 71.1 (30% weight) |
-| Trend / Momentum | Bullish / Neutral |
+| Technical score | 88.9 (30% weight) |
+| Trend / Momentum | Strong Bullish / Strong |
 
 ## Fundamental Analysis
 
@@ -59,21 +59,21 @@
 
 ## Technical Analysis
 
-As of **2026-06-24** (1237 bars). Trend **Bullish**, momentum **Neutral**, technical score **71.1/100**.
+As of **2026-07-01** (2469 bars). Trend **Strong Bullish**, momentum **Strong**, technical score **88.9/100**.
 
 | Indicator | Value |
 |---|---|
-| Close | 35.29 |
-| SMA 20 / 50 / 200 | 35.21 / 35.64 / 35.01 |
-| EMA 20 / 50 | 35.45 / 35.01 |
-| RSI (14) | 49.43 |
-| MACD / signal | 0.21 / 0.17 |
-| ADX (14) | 16.43 |
-| DI+ / DI− | 23.87 / 18.33 |
-| ATR (14) | 0.95 |
-| 52-week high / low | 40.11 / 23.50 |
+| Close | 36.24 |
+| SMA 20 / 50 / 200 | 35.33 / 35.71 / 35.06 |
+| EMA 20 / 50 | 35.51 / 35.08 |
+| RSI (14) | 56.77 |
+| MACD / signal | 0.19 / 0.17 |
+| ADX (14) | 15.87 |
+| DI+ / DI− | 25.23 / 16.97 |
+| ATR (14) | 0.94 |
+| 52-week high / low | 40.93 / 23.20 |
 
-Signals: Trend: Bullish; EMA20 > EMA50; ADX 16.4 (Weak); DI + dominant; RSI 49.4 (Neutral); MACD above signal
+Signals: Trend: Strong Bullish; EMA20 > EMA50; ADX 15.9 (Weak); DI + dominant; RSI 56.8 (Strong); MACD above signal
 
 ## Notes
 

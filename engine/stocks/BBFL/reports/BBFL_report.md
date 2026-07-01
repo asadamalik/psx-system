@@ -1,17 +1,17 @@
 # Big Bird Foods Limited (BBFL) — Analysis Report
-*Generated 2026-06-28 17:25* · Sector: Food & Personal Care Products  
+*Generated 2026-07-02 02:47* · Sector: Food & Personal Care Products  
 *Decision-support only — not financial advice.*
 
 ## Verdict
 
 | | |
 |---|---|
-| **Overall score** | **73.4 / 100** |
+| **Overall score** | **78.8 / 100** |
 | **Rating** | **Buy** |
 | Risk | Low |
 | Fundamental score | 88.7 (70% weight) |
-| Technical score | 37.8 (30% weight) |
-| Trend / Momentum | Sideways / Neutral |
+| Technical score | 55.6 (30% weight) |
+| Trend / Momentum | Sideways / Strong |
 
 ## Fundamental Analysis
 
@@ -59,21 +59,21 @@
 
 ## Technical Analysis
 
-As of **2026-06-24** (472 bars). Trend **Sideways**, momentum **Neutral**, technical score **37.8/100**.
+As of **2026-07-01** (474 bars). Trend **Sideways**, momentum **Strong**, technical score **55.6/100**.
 
 | Indicator | Value |
 |---|---|
-| Close | 45.38 |
-| SMA 20 / 50 / 200 | 45.63 / 44.09 / 46.87 |
-| EMA 20 / 50 | 45.51 / 44.29 |
-| RSI (14) | 51.47 |
-| MACD / signal | 0.59 / 0.80 |
-| ADX (14) | 15.51 |
-| DI+ / DI− | 31.47 / 30.65 |
-| ATR (14) | 0.79 |
-| 52-week high / low | 56.25 / 34.08 |
+| Close | 46.16 |
+| SMA 20 / 50 / 200 | 45.83 / 44.49 / 46.84 |
+| EMA 20 / 50 | 45.58 / 44.46 |
+| RSI (14) | 56.15 |
+| MACD / signal | 0.47 / 0.64 |
+| ADX (14) | 25.57 |
+| DI+ / DI− | 23.14 / 12.65 |
+| ATR (14) | 1.40 |
+| 52-week high / low | 57.35 / 34.00 |
 
-Signals: Trend: Sideways; EMA20 > EMA50; ADX 15.5 (Weak); DI + dominant; RSI 51.5 (Neutral); MACD below signal; ⚠ Bearish RSI divergence (5 bars ago): Price made a higher high (46.03→47.32) while RSI made a lower high (65.1→65.0) — upward momentum is fading; watch for a pullback.
+Signals: Trend: Sideways; EMA20 > EMA50; ADX 25.6 (Strong); DI + dominant; RSI 56.2 (Strong); MACD below signal; ⚠ Bearish RSI divergence (8 bars ago): Price made a higher high (46.03→47.32) while RSI made a lower high (65.1→65.0) — upward momentum is fading; watch for a pullback.
 
 ## Notes
 

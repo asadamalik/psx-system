@@ -1,17 +1,17 @@
 # S.G. Power Limited (SGPL) — Analysis Report
-*Generated 2026-06-28 01:23* · Sector: Power Generation & Distribution  
+*Generated 2026-07-02 02:49* · Sector: Power Generation & Distribution  
 *Decision-support only — not financial advice.*
 
 ## Verdict
 
 | | |
 |---|---|
-| **Overall score** | **40.5 / 100** |
+| **Overall score** | **37.2 / 100** |
 | **Rating** | **Reduce** |
 | Risk | High |
 | Fundamental score | 15.0 (70% weight) |
-| Technical score | 100.0 (30% weight) |
-| Trend / Momentum | Strong Bullish / Strong |
+| Technical score | 88.9 (30% weight) |
+| Trend / Momentum | Strong Bullish / Overbought |
 
 ## Fundamental Analysis
 
@@ -59,21 +59,21 @@
 
 ## Technical Analysis
 
-As of **2026-06-24** (335 bars). Trend **Strong Bullish**, momentum **Strong**, technical score **100.0/100**.
+As of **2026-07-01** (1119 bars). Trend **Strong Bullish**, momentum **Overbought**, technical score **88.9/100**.
 
 | Indicator | Value |
 |---|---|
-| Close | 66.23 |
-| SMA 20 / 50 / 200 | 52.15 / 50.58 / 27.46 |
-| EMA 20 / 50 | 55.15 / 48.62 |
-| RSI (14) | 62.69 |
-| MACD / signal | 3.59 / 2.14 |
-| ADX (14) | 32.40 |
-| DI+ / DI− | 38.94 / 16.91 |
-| ATR (14) | 6.09 |
-| 52-week high / low | 87.10 / 7.31 |
+| Close | 88.15 |
+| SMA 20 / 50 / 200 | 57.63 / 53.63 / 28.49 |
+| EMA 20 / 50 | 61.83 / 52.24 |
+| RSI (14) | 74.77 |
+| MACD / signal | 7.42 / 4.10 |
+| ADX (14) | 36.81 |
+| DI+ / DI− | 49.92 / 12.24 |
+| ATR (14) | 6.73 |
+| 52-week high / low | 88.15 / 7.20 |
 
-Signals: Trend: Strong Bullish; EMA20 > EMA50; ADX 32.4 (Strong); DI + dominant; RSI 62.7 (Strong); MACD above signal
+Signals: Trend: Strong Bullish; EMA20 > EMA50; ADX 36.8 (Strong); DI + dominant; RSI 74.8 (Overbought); MACD above signal
 
 ## Notes
 

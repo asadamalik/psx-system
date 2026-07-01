@@ -1,16 +1,16 @@
 # Maple Leaf Cement Factory Ltd (MLCF) — Analysis Report
-*Generated 2026-06-27 23:47* · Sector: Construction Materials  
+*Generated 2026-07-02 02:49* · Sector: Construction Materials  
 *Decision-support only — not financial advice.*
 
 ## Verdict
 
 | | |
 |---|---|
-| **Overall score** | **77.0 / 100** |
+| **Overall score** | **78.7 / 100** |
 | **Rating** | **Buy** |
 | Risk | Medium |
 | Fundamental score | 79.1 (70% weight) |
-| Technical score | 72.2 (30% weight) |
+| Technical score | 77.8 (30% weight) |
 | Trend / Momentum | Bullish / Overbought |
 
 ## Fundamental Analysis
@@ -59,21 +59,21 @@
 
 ## Technical Analysis
 
-As of **2026-06-24** (165 bars). Trend **Bullish**, momentum **Overbought**, technical score **72.2/100**.
+As of **2026-07-01** (2470 bars). Trend **Bullish**, momentum **Overbought**, technical score **77.8/100**.
 
 | Indicator | Value |
 |---|---|
-| Close | 107.15 |
-| SMA 20 / 50 / 200 | 93.08 / 89.14 / — |
-| EMA 20 / 50 | 94.93 / 91.05 |
-| RSI (14) | 74.56 |
-| MACD / signal | 4.75 / 3.16 |
-| ADX (14) | 23.41 |
-| DI+ / DI− | 40.59 / 15.02 |
-| ATR (14) | 3.79 |
+| Close | 107.43 |
+| SMA 20 / 50 / 200 | 95.67 / 90.10 / 99.78 |
+| EMA 20 / 50 | 98.06 / 92.85 |
+| RSI (14) | 73.85 |
+| MACD / signal | 5.44 / 4.20 |
+| ADX (14) | 28.23 |
+| DI+ / DI− | 37.71 / 13.80 |
+| ATR (14) | 3.46 |
 | 52-week high / low | 132.99 / 71.00 |
 
-Signals: Trend: Bullish; EMA20 > EMA50; ADX 23.4 (Developing); DI + dominant; RSI 74.6 (Overbought); MACD above signal
+Signals: Trend: Bullish; EMA20 > EMA50; ADX 28.2 (Strong); DI + dominant; RSI 73.8 (Overbought); MACD above signal
 
 ## Notes
 

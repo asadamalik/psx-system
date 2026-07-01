@@ -1,17 +1,17 @@
 # Bank Alfalah Limited (BAFL) — Analysis Report
-*Generated 2026-06-28 11:50* · Sector: Commercial Banks  
+*Generated 2026-07-02 02:47* · Sector: Commercial Banks  
 *Decision-support only — not financial advice.*
 
 ## Verdict
 
 | | |
 |---|---|
-| **Overall score** | **55.0 / 100** |
+| **Overall score** | **63.1 / 100** |
 | **Rating** | **Hold** |
 | Risk | Medium |
 | Fundamental score | 61.5 (70% weight) |
-| Technical score | 40.0 (30% weight) |
-| Trend / Momentum | Unknown / Neutral |
+| Technical score | 66.7 (30% weight) |
+| Trend / Momentum | Strong Bullish / Strong |
 
 ## Fundamental Analysis
 
@@ -59,21 +59,21 @@
 
 ## Technical Analysis
 
-As of **2026-06-24** (44 bars). Trend **Unknown**, momentum **Neutral**, technical score **40.0/100**.
+As of **2026-07-01** (2470 bars). Trend **Strong Bullish**, momentum **Strong**, technical score **66.7/100**.
 
 | Indicator | Value |
 |---|---|
-| Close | 58.79 |
-| SMA 20 / 50 / 200 | 59.29 / — / — |
-| EMA 20 / 50 | 59.50 / — |
-| RSI (14) | 47.31 |
-| MACD / signal | 0.12 / -0.01 |
-| ADX (14) | 28.52 |
-| DI+ / DI− | 14.12 / 22.61 |
-| ATR (14) | 1.67 |
-| 52-week high / low | 66.55 / 56.01 |
+| Close | 61.40 |
+| SMA 20 / 50 / 200 | 59.15 / 59.57 / 57.00 |
+| EMA 20 / 50 | 59.18 / 59.07 |
+| RSI (14) | 58.93 |
+| MACD / signal | 0.08 / 0.15 |
+| ADX (14) | 20.41 |
+| DI+ / DI− | 16.86 / 23.83 |
+| ATR (14) | 2.32 |
+| 52-week high / low | 68.50 / 39.02 |
 
-Signals: Trend: Unknown; ADX 28.5 (Strong); DI - dominant; RSI 47.3 (Neutral); MACD above signal
+Signals: Trend: Strong Bullish; EMA20 > EMA50; ADX 20.4 (Developing); DI - dominant; RSI 58.9 (Strong); MACD below signal
 
 ## Notes
 

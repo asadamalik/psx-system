@@ -1,17 +1,17 @@
 # TPL REIT Fund I (TPLRF1) — Analysis Report
-*Generated 2026-06-28 17:25* · Sector: Real Estate Investment Trust  
+*Generated 2026-07-02 02:50* · Sector: Real Estate Investment Trust  
 *Decision-support only — not financial advice.*
 
 ## Verdict
 
 | | |
 |---|---|
-| **Overall score** | **77.8 / 100** |
+| **Overall score** | **66.7 / 100** |
 | **Rating** | **Buy** |
-| Risk | Medium |
+| Risk | High |
 | Fundamental score | — (70% weight) |
-| Technical score | 77.8 (30% weight) |
-| Trend / Momentum | Sideways / Strong |
+| Technical score | 66.7 (30% weight) |
+| Trend / Momentum | Sideways / Overbought |
 
 ## Fundamental Analysis
 
@@ -59,21 +59,21 @@
 
 ## Technical Analysis
 
-As of **2026-06-24** (432 bars). Trend **Sideways**, momentum **Strong**, technical score **77.8/100**.
+As of **2026-07-01** (512 bars). Trend **Sideways**, momentum **Overbought**, technical score **66.7/100**.
 
 | Indicator | Value |
 |---|---|
-| Close | 9.36 |
-| SMA 20 / 50 / 200 | 8.95 / 8.36 / 10.69 |
-| EMA 20 / 50 | 9.14 / 8.76 |
-| RSI (14) | 59.64 |
-| MACD / signal | 0.43 / 0.39 |
-| ADX (14) | 39.96 |
-| DI+ / DI− | 44.40 / 23.25 |
-| ATR (14) | 0.25 |
-| 52-week high / low | 17.27 / 7.56 |
+| Close | 10.53 |
+| SMA 20 / 50 / 200 | 9.24 / 8.49 / 10.62 |
+| EMA 20 / 50 | 9.35 / 8.89 |
+| RSI (14) | 74.21 |
+| MACD / signal | 0.46 / 0.41 |
+| ADX (14) | 31.44 |
+| DI+ / DI− | 29.02 / 11.33 |
+| ATR (14) | 0.53 |
+| 52-week high / low | 18.39 / 7.50 |
 
-Signals: Trend: Sideways; EMA20 > EMA50; ADX 40.0 (Strong); DI + dominant; RSI 59.6 (Strong); MACD above signal
+Signals: Trend: Sideways; EMA20 > EMA50; ADX 31.4 (Strong); DI + dominant; RSI 74.2 (Overbought); MACD above signal
 
 ## Notes
 

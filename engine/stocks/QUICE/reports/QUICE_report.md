@@ -1,16 +1,16 @@
 # Quice Food Industries Limited (QUICE) — Analysis Report
-*Generated 2026-06-28 01:12* · Sector: Food & Personal Care Products  
+*Generated 2026-07-02 02:49* · Sector: Food & Personal Care Products  
 *Decision-support only — not financial advice.*
 
 ## Verdict
 
 | | |
 |---|---|
-| **Overall score** | **40.9 / 100** |
+| **Overall score** | **42.6 / 100** |
 | **Rating** | **Reduce** |
 | Risk | High |
 | Fundamental score | 32.7 (70% weight) |
-| Technical score | 60.0 (30% weight) |
+| Technical score | 65.6 (30% weight) |
 | Trend / Momentum | Strong Bullish / Neutral |
 
 ## Fundamental Analysis
@@ -59,21 +59,21 @@
 
 ## Technical Analysis
 
-As of **2026-06-24** (816 bars). Trend **Strong Bullish**, momentum **Neutral**, technical score **60.0/100**.
+As of **2026-07-01** (2462 bars). Trend **Strong Bullish**, momentum **Neutral**, technical score **65.6/100**.
 
 | Indicator | Value |
 |---|---|
-| Close | 34.72 |
-| SMA 20 / 50 / 200 | 35.16 / 29.45 / 21.52 |
-| EMA 20 / 50 | 34.60 / 31.07 |
-| RSI (14) | 53.05 |
-| MACD / signal | 1.90 / 2.49 |
-| ADX (14) | 24.10 |
-| DI+ / DI− | 18.50 / 19.16 |
-| ATR (14) | 2.49 |
-| 52-week high / low | 45.95 / 7.39 |
+| Close | 34.30 |
+| SMA 20 / 50 / 200 | 35.83 / 30.01 / 21.90 |
+| EMA 20 / 50 | 34.50 / 31.43 |
+| RSI (14) | 51.88 |
+| MACD / signal | 1.25 / 1.96 |
+| ADX (14) | 19.04 |
+| DI+ / DI− | 17.39 / 17.83 |
+| ATR (14) | 2.21 |
+| 52-week high / low | 46.06 / 7.42 |
 
-Signals: Trend: Strong Bullish; EMA20 > EMA50; ADX 24.1 (Developing); DI - dominant; RSI 53.1 (Neutral); MACD below signal
+Signals: Trend: Strong Bullish; EMA20 > EMA50; ADX 19.0 (Weak); DI - dominant; RSI 51.9 (Neutral); MACD below signal
 
 ## Notes
 

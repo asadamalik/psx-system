@@ -1,5 +1,5 @@
 # Kohinoor Industries Limited (KOIL) — Analysis Report
-*Generated 2026-06-28 16:26* · Sector: Textile Composite  
+*Generated 2026-07-02 02:48* · Sector: Textile Composite  
 *Decision-support only — not financial advice.*
 
 ## Verdict
@@ -59,21 +59,21 @@
 
 ## Technical Analysis
 
-As of **2026-06-24** (424 bars). Trend **Bullish**, momentum **Neutral**, technical score **65.6/100**.
+As of **2026-07-01** (2392 bars). Trend **Bullish**, momentum **Neutral**, technical score **65.6/100**.
 
 | Indicator | Value |
 |---|---|
-| Close | 48.04 |
-| SMA 20 / 50 / 200 | 47.27 / 53.47 / 47.62 |
-| EMA 20 / 50 | 48.20 / 51.32 |
-| RSI (14) | 47.55 |
-| MACD / signal | -0.77 / -1.42 |
-| ADX (14) | 18.71 |
-| DI+ / DI− | 20.29 / 35.54 |
-| ATR (14) | 2.70 |
-| 52-week high / low | 110.00 / 10.11 |
+| Close | 49.85 |
+| SMA 20 / 50 / 200 | 47.64 / 50.59 / 48.14 |
+| EMA 20 / 50 | 48.63 / 51.16 |
+| RSI (14) | 52.39 |
+| MACD / signal | -0.25 / -0.92 |
+| ADX (14) | 17.10 |
+| DI+ / DI− | 22.58 / 29.39 |
+| ATR (14) | 2.61 |
+| 52-week high / low | 110.00 / 9.96 |
 
-Signals: Trend: Bullish; EMA20 < EMA50; ADX 18.7 (Weak); DI - dominant; RSI 47.5 (Neutral); MACD above signal; ⚠ Bullish RSI divergence (12 bars ago): Price made a lower low (46.11→45.57) while RSI made a higher low (37.0→37.7) — selling momentum is easing; watch for a bounce.
+Signals: Trend: Bullish; EMA20 < EMA50; ADX 17.1 (Weak); DI - dominant; RSI 52.4 (Neutral); MACD above signal; ⚠ Bullish RSI divergence (15 bars ago): Price made a lower low (46.11→45.57) while RSI made a higher low (37.0→37.7) — selling momentum is easing; watch for a bounce.
 
 ## Notes
 

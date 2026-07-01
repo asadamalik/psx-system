@@ -1,17 +1,17 @@
 # Dewan Farooque Motors Limited (DFML) — Analysis Report
-*Generated 2026-06-28 11:52* · Sector: Automobile Assembler  
+*Generated 2026-07-02 02:48* · Sector: Automobile Assembler  
 *Decision-support only — not financial advice.*
 
 ## Verdict
 
 | | |
 |---|---|
-| **Overall score** | **44.6 / 100** |
+| **Overall score** | **41.3 / 100** |
 | **Rating** | **Reduce** |
 | Risk | Medium |
 | Fundamental score | 45.2 (70% weight) |
-| Technical score | 43.3 (30% weight) |
-| Trend / Momentum | Sideways / Neutral |
+| Technical score | 32.2 (30% weight) |
+| Trend / Momentum | Bearish / Neutral |
 
 ## Fundamental Analysis
 
@@ -59,21 +59,21 @@
 
 ## Technical Analysis
 
-As of **2026-06-24** (1237 bars). Trend **Sideways**, momentum **Neutral**, technical score **43.3/100**.
+As of **2026-06-30** (2470 bars). Trend **Bearish**, momentum **Neutral**, technical score **32.2/100**.
 
 | Indicator | Value |
 |---|---|
-| Close | 19.77 |
-| SMA 20 / 50 / 200 | 20.19 / 19.70 / 23.55 |
-| EMA 20 / 50 | 20.10 / 19.79 |
-| RSI (14) | 47.85 |
-| MACD / signal | -0.03 / 0.06 |
-| ADX (14) | 14.29 |
-| DI+ / DI− | 29.12 / 22.28 |
-| ATR (14) | 1.00 |
-| 52-week high / low | 38.00 / 13.82 |
+| Close | 19.67 |
+| SMA 20 / 50 / 200 | 20.02 / 19.79 / 23.40 |
+| EMA 20 / 50 | 20.00 / 19.77 |
+| RSI (14) | 47.47 |
+| MACD / signal | -0.09 / 0.01 |
+| ADX (14) | 13.65 |
+| DI+ / DI− | 26.05 / 22.20 |
+| ATR (14) | 0.97 |
+| 52-week high / low | 38.44 / 13.35 |
 
-Signals: Trend: Sideways; EMA20 > EMA50; ADX 14.3 (Weak); DI + dominant; RSI 47.8 (Neutral); MACD below signal
+Signals: Trend: Bearish; EMA20 > EMA50; ADX 13.6 (Weak); DI + dominant; RSI 47.5 (Neutral); MACD below signal
 
 ## Notes
 

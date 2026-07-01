@@ -1,5 +1,5 @@
 # D.G. Khan Cement Company Limited (DGKC) — Analysis Report
-*Generated 2026-06-28 01:10* · Sector: Cement  
+*Generated 2026-07-02 02:48* · Sector: Cement  
 *Decision-support only — not financial advice.*
 
 ## Verdict
@@ -59,21 +59,21 @@
 
 ## Technical Analysis
 
-As of **2026-06-24** (1237 bars). Trend **Bullish**, momentum **Strong**, technical score **88.9/100**.
+As of **2026-07-01** (2470 bars). Trend **Bullish**, momentum **Strong**, technical score **88.9/100**.
 
 | Indicator | Value |
 |---|---|
-| Close | 221.94 |
-| SMA 20 / 50 / 200 | 205.21 / 192.92 / 213.58 |
-| EMA 20 / 50 | 206.80 / 196.86 |
-| RSI (14) | 67.91 |
-| MACD / signal | 9.00 / 7.65 |
-| ADX (14) | 28.38 |
-| DI+ / DI− | 38.04 / 17.76 |
-| ATR (14) | 6.98 |
-| 52-week high / low | 271.39 / 149.18 |
+| Close | 227.14 |
+| SMA 20 / 50 / 200 | 209.34 / 195.17 / 213.34 |
+| EMA 20 / 50 | 211.19 / 199.88 |
+| RSI (14) | 69.94 |
+| MACD / signal | 9.32 / 8.37 |
+| ADX (14) | 30.18 |
+| DI+ / DI− | 38.63 / 14.91 |
+| ATR (14) | 6.69 |
+| 52-week high / low | 275.75 / 145.10 |
 
-Signals: Trend: Bullish; EMA20 > EMA50; ADX 28.4 (Strong); DI + dominant; RSI 67.9 (Strong); MACD above signal
+Signals: Trend: Bullish; EMA20 > EMA50; ADX 30.2 (Strong); DI + dominant; RSI 69.9 (Strong); MACD above signal
 
 ## Notes
 

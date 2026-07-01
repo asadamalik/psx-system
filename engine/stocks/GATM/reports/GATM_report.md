@@ -1,17 +1,17 @@
 # Gul Ahmed Textile Mills Limited (GATM) — Analysis Report
-*Generated 2026-06-28 01:23* · Sector: Textile Composite  
+*Generated 2026-07-02 02:48* · Sector: Textile Composite  
 *Decision-support only — not financial advice.*
 
 ## Verdict
 
 | | |
 |---|---|
-| **Overall score** | **57.3 / 100** |
+| **Overall score** | **60.6 / 100** |
 | **Rating** | **Hold** |
 | Risk | Medium |
 | Fundamental score | 48.5 (70% weight) |
-| Technical score | 77.8 (30% weight) |
-| Trend / Momentum | Bullish / Overbought |
+| Technical score | 88.9 (30% weight) |
+| Trend / Momentum | Bullish / Strong |
 
 ## Fundamental Analysis
 
@@ -59,21 +59,21 @@
 
 ## Technical Analysis
 
-As of **2026-06-24** (1237 bars). Trend **Bullish**, momentum **Overbought**, technical score **77.8/100**.
+As of **2026-07-01** (2469 bars). Trend **Bullish**, momentum **Strong**, technical score **88.9/100**.
 
 | Indicator | Value |
 |---|---|
-| Close | 30.85 |
-| SMA 20 / 50 / 200 | 25.59 / 24.27 / 27.62 |
-| EMA 20 / 50 | 26.48 / 24.66 |
-| RSI (14) | 73.45 |
-| MACD / signal | 1.87 / 1.27 |
-| ADX (14) | 41.28 |
-| DI+ / DI− | 40.83 / 5.35 |
-| ATR (14) | 1.53 |
-| 52-week high / low | 39.97 / 17.47 |
+| Close | 30.26 |
+| SMA 20 / 50 / 200 | 26.78 / 24.72 / 27.50 |
+| EMA 20 / 50 | 27.56 / 25.34 |
+| RSI (14) | 67.71 |
+| MACD / signal | 2.02 / 1.64 |
+| ADX (14) | 46.37 |
+| DI+ / DI− | 36.65 / 8.58 |
+| ATR (14) | 1.49 |
+| 52-week high / low | 40.70 / 16.50 |
 
-Signals: Trend: Bullish; EMA20 > EMA50; ADX 41.3 (Strong); DI + dominant; RSI 73.5 (Overbought); MACD above signal
+Signals: Trend: Bullish; EMA20 > EMA50; ADX 46.4 (Strong); DI + dominant; RSI 67.7 (Strong); MACD above signal
 
 ## Notes
 

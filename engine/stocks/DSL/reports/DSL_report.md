@@ -1,16 +1,16 @@
 # Dost Steels Limited (DSL) — Analysis Report
-*Generated 2026-06-28 16:35* · Sector: Non-compliant Engineering  
+*Generated 2026-07-02 02:48* · Sector: Non-compliant Engineering  
 *Decision-support only — not financial advice.*
 
 ## Verdict
 
 | | |
 |---|---|
-| **Overall score** | **54.3 / 100** |
-| **Rating** | **Hold** |
+| **Overall score** | **49.3 / 100** |
+| **Rating** | **Reduce** |
 | Risk | Low |
 | Fundamental score | 63.3 (70% weight) |
-| Technical score | 33.3 (30% weight) |
+| Technical score | 16.7 (30% weight) |
 | Trend / Momentum | Bearish / Weak |
 
 ## Fundamental Analysis
@@ -59,21 +59,21 @@
 
 ## Technical Analysis
 
-As of **2026-06-24** (1236 bars). Trend **Bearish**, momentum **Weak**, technical score **33.3/100**.
+As of **2026-07-01** (2469 bars). Trend **Bearish**, momentum **Weak**, technical score **16.7/100**.
 
 | Indicator | Value |
 |---|---|
-| Close | 5.33 |
-| SMA 20 / 50 / 200 | 5.43 / 5.78 / 7.33 |
-| EMA 20 / 50 | 5.48 / 5.69 |
-| RSI (14) | 41.46 |
-| MACD / signal | -0.07 / -0.08 |
-| ADX (14) | 17.17 |
-| DI+ / DI− | 14.82 / 19.66 |
+| Close | 5.32 |
+| SMA 20 / 50 / 200 | 5.45 / 5.76 / 7.26 |
+| EMA 20 / 50 | 5.44 / 5.65 |
+| RSI (14) | 41.09 |
+| MACD / signal | -0.08 / -0.08 |
+| ADX (14) | 15.83 |
+| DI+ / DI− | 18.82 / 16.22 |
 | ATR (14) | 0.23 |
-| 52-week high / low | 10.67 / 4.97 |
+| 52-week high / low | 10.80 / 4.97 |
 
-Signals: Trend: Bearish; EMA20 < EMA50; ADX 17.2 (Weak); DI - dominant; RSI 41.5 (Weak); MACD above signal
+Signals: Trend: Bearish; EMA20 < EMA50; ADX 15.8 (Weak); DI + dominant; RSI 41.1 (Weak); MACD below signal
 
 ## Notes
 

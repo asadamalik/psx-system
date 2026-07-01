@@ -1,17 +1,17 @@
 # Pakistan Reinsurance Company Limited (PAKRI) — Analysis Report
-*Generated 2026-06-28 16:27* · Sector: Insurance  
+*Generated 2026-07-02 02:49* · Sector: Insurance  
 *Decision-support only — not financial advice.*
 
 ## Verdict
 
 | | |
 |---|---|
-| **Overall score** | **61.7 / 100** |
+| **Overall score** | **63.7 / 100** |
 | **Rating** | **Hold** |
 | Risk | Low |
 | Fundamental score | 64.8 (70% weight) |
-| Technical score | 54.4 (30% weight) |
-| Trend / Momentum | Sideways / Neutral |
+| Technical score | 61.1 (30% weight) |
+| Trend / Momentum | Sideways / Strong |
 
 ## Fundamental Analysis
 
@@ -59,21 +59,21 @@
 
 ## Technical Analysis
 
-As of **2026-06-24** (1102 bars). Trend **Sideways**, momentum **Neutral**, technical score **54.4/100**.
+As of **2026-07-01** (2422 bars). Trend **Sideways**, momentum **Strong**, technical score **61.1/100**.
 
 | Indicator | Value |
 |---|---|
-| Close | 16.82 |
-| SMA 20 / 50 / 200 | 16.47 / 16.39 / 17.53 |
-| EMA 20 / 50 | 16.59 / 16.65 |
-| RSI (14) | 54.15 |
-| MACD / signal | 0.24 / 0.15 |
-| ADX (14) | 23.95 |
-| DI+ / DI− | 26.55 / 20.80 |
-| ATR (14) | 0.71 |
-| 52-week high / low | 25.29 / 13.07 |
+| Close | 17.26 |
+| SMA 20 / 50 / 200 | 16.54 / 16.37 / 17.57 |
+| EMA 20 / 50 | 16.66 / 16.68 |
+| RSI (14) | 58.87 |
+| MACD / signal | 0.22 / 0.18 |
+| ADX (14) | 22.41 |
+| DI+ / DI− | 27.65 / 17.46 |
+| ATR (14) | 0.69 |
+| 52-week high / low | 26.28 / 13.40 |
 
-Signals: Trend: Sideways; EMA20 < EMA50; ADX 24.0 (Developing); DI + dominant; RSI 54.1 (Neutral); MACD above signal
+Signals: Trend: Sideways; EMA20 < EMA50; ADX 22.4 (Developing); DI + dominant; RSI 58.9 (Strong); MACD above signal
 
 ## Notes
 

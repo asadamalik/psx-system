@@ -1,17 +1,17 @@
 # LSE Ventures Limited (LSEVL) — Analysis Report
-*Generated 2026-06-28 17:25*  
+*Generated 2026-07-02 02:48*  
 *Decision-support only — not financial advice.*
 
 ## Verdict
 
 | | |
 |---|---|
-| **Overall score** | **84.1 / 100** |
+| **Overall score** | **80.8 / 100** |
 | **Rating** | **Strong Buy** |
-| Risk | Low |
+| Risk | Medium |
 | Fundamental score | 77.3 (70% weight) |
-| Technical score | 100.0 (30% weight) |
-| Trend / Momentum | Strong Bullish / Strong |
+| Technical score | 88.9 (30% weight) |
+| Trend / Momentum | Strong Bullish / Overbought |
 
 ## Fundamental Analysis
 
@@ -59,21 +59,21 @@
 
 ## Technical Analysis
 
-As of **2026-06-24** (206 bars). Trend **Strong Bullish**, momentum **Strong**, technical score **100.0/100**.
+As of **2026-07-01** (726 bars). Trend **Strong Bullish**, momentum **Overbought**, technical score **88.9/100**.
 
 | Indicator | Value |
 |---|---|
-| Close | 10.55 |
-| SMA 20 / 50 / 200 | 9.90 / 9.26 / 7.94 |
-| EMA 20 / 50 | 10.00 / 9.37 |
-| RSI (14) | 65.64 |
-| MACD / signal | 0.41 / 0.38 |
-| ADX (14) | 36.49 |
-| DI+ / DI− | 37.08 / 16.06 |
-| ATR (14) | 0.28 |
-| 52-week high / low | 15.00 / 5.88 |
+| Close | 11.37 |
+| SMA 20 / 50 / 200 | 10.17 / 9.43 / 7.99 |
+| EMA 20 / 50 | 10.26 / 9.55 |
+| RSI (14) | 73.12 |
+| MACD / signal | 0.47 / 0.41 |
+| ADX (14) | 46.28 |
+| DI+ / DI− | 29.83 / 9.87 |
+| ATR (14) | 0.52 |
+| 52-week high / low | 11.70 / 5.28 |
 
-Signals: Trend: Strong Bullish; EMA20 > EMA50; ADX 36.5 (Strong); DI + dominant; RSI 65.6 (Strong); MACD above signal
+Signals: Trend: Strong Bullish; EMA20 > EMA50; ADX 46.3 (Strong); DI + dominant; RSI 73.1 (Overbought); MACD above signal
 
 ## Notes
 

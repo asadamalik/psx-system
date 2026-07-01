@@ -1,5 +1,5 @@
 # Ghani Global Holdings Limited (GGL) — Analysis Report
-*Generated 2026-06-28 01:27* · Sector: Chemical  
+*Generated 2026-07-02 02:48* · Sector: Chemical  
 *Decision-support only — not financial advice.*
 
 ## Verdict
@@ -59,21 +59,21 @@
 
 ## Technical Analysis
 
-As of **2026-06-24** (1237 bars). Trend **Bullish**, momentum **Overbought**, technical score **77.8/100**.
+As of **2026-07-01** (2470 bars). Trend **Bullish**, momentum **Overbought**, technical score **77.8/100**.
 
 | Indicator | Value |
 |---|---|
-| Close | 23.54 |
-| SMA 20 / 50 / 200 | 21.02 / 19.36 / 22.45 |
-| EMA 20 / 50 | 21.44 / 19.96 |
-| RSI (14) | 73.00 |
-| MACD / signal | 1.39 / 1.12 |
-| ADX (14) | 39.64 |
-| DI+ / DI− | 28.57 / 11.73 |
-| ATR (14) | 1.04 |
-| 52-week high / low | 29.75 / 14.49 |
+| Close | 24.11 |
+| SMA 20 / 50 / 200 | 21.82 / 19.72 / 22.40 |
+| EMA 20 / 50 | 22.03 / 20.38 |
+| RSI (14) | 73.97 |
+| MACD / signal | 1.36 / 1.24 |
+| ADX (14) | 41.28 |
+| DI+ / DI− | 30.95 / 9.60 |
+| ATR (14) | 1.02 |
+| 52-week high / low | 31.31 / 14.10 |
 
-Signals: Trend: Bullish; EMA20 > EMA50; ADX 39.6 (Strong); DI + dominant; RSI 73.0 (Overbought); MACD above signal
+Signals: Trend: Bullish; EMA20 > EMA50; ADX 41.3 (Strong); DI + dominant; RSI 74.0 (Overbought); MACD above signal
 
 ## Notes
 

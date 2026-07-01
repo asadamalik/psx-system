@@ -1,17 +1,17 @@
 # Avanceon Limited (AVN) — Analysis Report
-*Generated 2026-06-28 01:34* · Sector: Technology & Communication  
+*Generated 2026-07-02 02:47* · Sector: Technology & Communication  
 *Decision-support only — not financial advice.*
 
 ## Verdict
 
 | | |
 |---|---|
-| **Overall score** | **57.8 / 100** |
+| **Overall score** | **55.8 / 100** |
 | **Rating** | **Hold** |
 | Risk | Medium |
 | Fundamental score | 49.3 (70% weight) |
-| Technical score | 77.8 (30% weight) |
-| Trend / Momentum | Sideways / Strong |
+| Technical score | 71.1 (30% weight) |
+| Trend / Momentum | Sideways / Neutral |
 
 ## Fundamental Analysis
 
@@ -59,21 +59,21 @@
 
 ## Technical Analysis
 
-As of **2026-06-24** (1237 bars). Trend **Sideways**, momentum **Strong**, technical score **77.8/100**.
+As of **2026-06-30** (2470 bars). Trend **Sideways**, momentum **Neutral**, technical score **71.1/100**.
 
 | Indicator | Value |
 |---|---|
-| Close | 37.58 |
-| SMA 20 / 50 / 200 | 34.66 / 34.08 / 40.06 |
-| EMA 20 / 50 | 35.27 / 34.56 |
-| RSI (14) | 64.82 |
-| MACD / signal | 0.87 / 0.46 |
-| ADX (14) | 26.48 |
-| DI+ / DI− | 35.44 / 13.35 |
-| ATR (14) | 1.47 |
-| 52-week high / low | 54.00 / 27.50 |
+| Close | 36.04 |
+| SMA 20 / 50 / 200 | 34.85 / 34.23 / 39.94 |
+| EMA 20 / 50 | 35.37 / 34.65 |
+| RSI (14) | 54.89 |
+| MACD / signal | 0.74 / 0.57 |
+| ADX (14) | 26.99 |
+| DI+ / DI− | 29.59 / 16.14 |
+| ATR (14) | 1.51 |
+| 52-week high / low | 54.30 / 26.50 |
 
-Signals: Trend: Sideways; EMA20 > EMA50; ADX 26.5 (Strong); DI + dominant; RSI 64.8 (Strong); MACD above signal
+Signals: Trend: Sideways; EMA20 > EMA50; ADX 27.0 (Strong); DI + dominant; RSI 54.9 (Neutral); MACD above signal
 
 ## Notes
 

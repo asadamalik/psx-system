@@ -1,10 +1,10 @@
 {
   "symbol": "ENGROH",
-  "generated": "2026-06-28 01:13",
+  "generated": "2026-07-02 02:48",
   "scores": {
     "fundamental_score": 61.7,
-    "technical_score": 88.9,
-    "overall_score": 69.9,
+    "technical_score": 94.4,
+    "overall_score": 71.5,
     "rating": "Buy",
     "risk": "Medium",
     "risk_score": 63.3,
@@ -64,84 +64,64 @@
     }
   },
   "technical": {
-    "technical_score": 88.9,
+    "technical_score": 94.4,
     "trend": "Strong Bullish",
     "momentum": "Strong",
-    "adx_strength": "Weak",
+    "adx_strength": "Developing",
     "rsi_divergence": {
       "type": null
     },
     "notes": [
       "Trend: Strong Bullish",
       "EMA20 > EMA50",
-      "ADX 16.8 (Weak); DI + dominant",
-      "RSI 58.5 (Strong)",
+      "ADX 20.2 (Developing); DI + dominant",
+      "RSI 68.0 (Strong)",
       "MACD above signal"
     ]
   },
   "technical_snapshot": {
-    "as_of": "2026-06-24",
-    "bars": 1220,
-    "close": 281.07,
-    "sma_20": 270.543,
-    "sma_50": 273.3908,
-    "sma_200": 253.42699999999996,
-    "ema_20": 273.8090263766462,
-    "ema_50": 271.3834901303696,
-    "ema_100": 266.4189523923102,
-    "ema_200": 252.23974524369083,
-    "obv": 231496448.0,
+    "as_of": "2026-07-01",
+    "bars": 2451,
+    "close": 294.09,
+    "sma_20": 273.4085,
+    "sma_50": 274.03520000000003,
+    "sma_200": 254.08530000000002,
+    "ema_20": 277.6820110895713,
+    "ema_50": 273.32304759055285,
+    "ema_100": 267.70316865192433,
+    "ema_200": 253.30980967278273,
+    "obv": 268982647.0,
     "weekly_trend": "Up",
     "monthly_trend": "Up",
     "support_resistance": {
-      "price": 281.07,
-      "nearest_resistance": 291.39,
+      "price": 294.09,
+      "nearest_resistance": 302.5,
       "nearest_support": 269.0,
       "resistance_levels": [
-        291.39,
-        298.02
+        302.5
       ],
       "support_levels": [
         269.0,
-        256.02,
-        247.81
+        254.78,
+        242.0
       ]
     },
-    "rsi_14": 58.50455426483049,
-    "macd": 3.6704086869307275,
-    "macd_signal": 1.666927877568962,
-    "macd_hist": 2.0034808093617658,
-    "adx_14": 16.787197726669923,
-    "plus_di": 27.707907964589317,
-    "minus_di": 18.484385773468592,
-    "atr_14": 7.273444040542518,
-    "bb_upper": 290.69956627505195,
-    "bb_lower": 250.38643372494806,
-    "week52_high": 298.02,
-    "week52_low": 174.62,
+    "rsi_14": 67.95742578355518,
+    "macd": 5.315455043101565,
+    "macd_signal": 3.1332720304305015,
+    "macd_hist": 2.1821830126710635,
+    "adx_14": 20.15236080260483,
+    "plus_di": 35.19308065143191,
+    "minus_di": 15.065543351288277,
+    "atr_14": 7.149620460445635,
+    "bb_upper": 297.03320255898825,
+    "bb_lower": 249.78379744101179,
+    "week52_high": 302.5,
+    "week52_low": 182.0,
     "rsi_divergence": {
       "type": null
     },
-    "patterns": [
-      {
-        "name": "Double Bottom",
-        "type": "bullish",
-        "confidence": 0.55,
-        "status": "confirmed",
-        "neckline": 279.97,
-        "target": 309.68,
-        "note": "Two near-equal troughs; breaks up above the peak (neckline)."
-      },
-      {
-        "name": "Descending Triangle",
-        "type": "bearish",
-        "confidence": 0.55,
-        "status": "forming",
-        "neckline": 250.26,
-        "target": 209.3,
-        "note": "Flat support with falling highs; bearish breakdown bias."
-      }
-    ]
+    "patterns": []
   },
   "growth": {
     "revenue_growth_5y": 0.17700478102033967,

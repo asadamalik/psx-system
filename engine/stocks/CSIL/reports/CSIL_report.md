@@ -1,16 +1,16 @@
 # Crescent Star Insurance Limited (CSIL) — Analysis Report
-*Generated 2026-06-28 16:28* · Sector: Insurance  
+*Generated 2026-07-02 02:47* · Sector: Insurance  
 *Decision-support only — not financial advice.*
 
 ## Verdict
 
 | | |
 |---|---|
-| **Overall score** | **48.2 / 100** |
+| **Overall score** | **46.6 / 100** |
 | **Rating** | **Reduce** |
 | Risk | High |
 | Fundamental score | 49.9 (70% weight) |
-| Technical score | 44.4 (30% weight) |
+| Technical score | 38.9 (30% weight) |
 | Trend / Momentum | Sideways / Weak |
 
 ## Fundamental Analysis
@@ -59,21 +59,21 @@
 
 ## Technical Analysis
 
-As of **2026-06-24** (1232 bars). Trend **Sideways**, momentum **Weak**, technical score **44.4/100**.
+As of **2026-06-30** (2465 bars). Trend **Sideways**, momentum **Weak**, technical score **38.9/100**.
 
 | Indicator | Value |
 |---|---|
-| Close | 5.81 |
-| SMA 20 / 50 / 200 | 6.06 / 6.07 / 5.97 |
-| EMA 20 / 50 | 6.04 / 5.93 |
-| RSI (14) | 41.26 |
-| MACD / signal | -0.03 / 0.02 |
-| ADX (14) | 20.31 |
-| DI+ / DI− | 19.79 / 17.92 |
+| Close | 5.73 |
+| SMA 20 / 50 / 200 | 6.03 / 6.13 / 5.99 |
+| EMA 20 / 50 | 5.98 / 5.91 |
+| RSI (14) | 39.92 |
+| MACD / signal | -0.07 / -0.01 |
+| ADX (14) | 19.17 |
+| DI+ / DI− | 17.11 / 19.51 |
 | ATR (14) | 0.28 |
-| 52-week high / low | 13.51 / 3.20 |
+| 52-week high / low | 14.24 / 3.12 |
 
-Signals: Trend: Sideways; EMA20 > EMA50; ADX 20.3 (Developing); DI + dominant; RSI 41.3 (Weak); MACD below signal
+Signals: Trend: Sideways; EMA20 > EMA50; ADX 19.2 (Weak); DI - dominant; RSI 39.9 (Weak); MACD below signal
 
 ## Notes
 

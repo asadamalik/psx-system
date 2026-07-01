@@ -1,17 +1,17 @@
 # United Bank Limited (UBL) — Analysis Report
-*Generated 2026-06-29 23:07* · Sector: Commercial Banks  
+*Generated 2026-07-02 02:50* · Sector: Commercial Banks  
 *Decision-support only — not financial advice.*
 
 ## Verdict
 
 | | |
 |---|---|
-| **Overall score** | **79.7 / 100** |
+| **Overall score** | **78.0 / 100** |
 | **Rating** | **Buy** |
 | Risk | Medium |
 | Fundamental score | 75.8 (70% weight) |
-| Technical score | 88.9 (30% weight) |
-| Trend / Momentum | Strong Bullish / Strong |
+| Technical score | 83.3 (30% weight) |
+| Trend / Momentum | Strong Bullish / Overbought |
 
 ## Fundamental Analysis
 
@@ -59,21 +59,21 @@
 
 ## Technical Analysis
 
-As of **2026-06-29** (255 bars). Trend **Strong Bullish**, momentum **Strong**, technical score **88.9/100**.
+As of **2026-07-01** (2470 bars). Trend **Strong Bullish**, momentum **Overbought**, technical score **83.3/100**.
 
 | Indicator | Value |
 |---|---|
-| Close | 442.79 |
-| SMA 20 / 50 / 200 | 419.43 / 405.74 / 405.31 |
-| EMA 20 / 50 | 423.67 / 410.50 |
-| RSI (14) | 62.26 |
-| MACD / signal | 11.98 / 10.02 |
-| ADX (14) | 18.62 |
-| DI+ / DI− | 33.92 / 20.57 |
-| ATR (14) | 13.22 |
-| 52-week high / low | 505.00 / 270.50 |
+| Close | 479.73 |
+| SMA 20 / 50 / 200 | 425.13 / 410.32 / 406.18 |
+| EMA 20 / 50 | 431.08 / 414.62 |
+| RSI (14) | 73.08 |
+| MACD / signal | 15.14 / 11.42 |
+| ADX (14) | 21.11 |
+| DI+ / DI− | 43.66 / 16.01 |
+| ATR (14) | 14.66 |
+| 52-week high / low | 517.00 / 273.00 |
 
-Signals: Trend: Strong Bullish; EMA20 > EMA50; ADX 18.6 (Weak); DI + dominant; RSI 62.3 (Strong); MACD above signal
+Signals: Trend: Strong Bullish; EMA20 > EMA50; ADX 21.1 (Developing); DI + dominant; RSI 73.1 (Overbought); MACD above signal
 
 ## Notes
 

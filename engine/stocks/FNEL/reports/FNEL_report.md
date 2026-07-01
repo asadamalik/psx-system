@@ -1,16 +1,16 @@
 # First National Equities Limited (FNEL) — Analysis Report
-*Generated 2026-06-28 11:54*  
+*Generated 2026-07-02 02:48*  
 *Decision-support only — not financial advice.*
 
 ## Verdict
 
 | | |
 |---|---|
-| **Overall score** | **24.1 / 100** |
+| **Overall score** | **22.4 / 100** |
 | **Rating** | **Sell** |
 | Risk | Low |
 | Fundamental score | 24.9 (70% weight) |
-| Technical score | 22.2 (30% weight) |
+| Technical score | 16.7 (30% weight) |
 | Trend / Momentum | Bearish / Weak |
 
 ## Fundamental Analysis
@@ -59,21 +59,21 @@
 
 ## Technical Analysis
 
-As of **2026-06-24** (96 bars). Trend **Bearish**, momentum **Weak**, technical score **22.2/100**.
+As of **2026-07-01** (2469 bars). Trend **Bearish**, momentum **Weak**, technical score **16.7/100**.
 
 | Indicator | Value |
 |---|---|
-| Close | 1.25 |
-| SMA 20 / 50 / 200 | 1.31 / 1.37 / — |
-| EMA 20 / 50 | 1.31 / 1.34 |
-| RSI (14) | 37.15 |
-| MACD / signal | -0.02 / -0.01 |
-| ADX (14) | 16.45 |
-| DI+ / DI− | 15.12 / 14.37 |
+| Close | 1.26 |
+| SMA 20 / 50 / 200 | 1.30 / 1.36 / 1.50 |
+| EMA 20 / 50 | 1.30 / 1.33 |
+| RSI (14) | 40.33 |
+| MACD / signal | -0.03 / -0.02 |
+| ADX (14) | 14.49 |
+| DI+ / DI− | 14.30 / 12.48 |
 | ATR (14) | 0.07 |
-| 52-week high / low | 1.75 / 1.11 |
+| 52-week high / low | 2.52 / 0.36 |
 
-Signals: Trend: Bearish; EMA20 < EMA50; ADX 16.5 (Weak); DI + dominant; RSI 37.2 (Weak); MACD below signal
+Signals: Trend: Bearish; EMA20 < EMA50; ADX 14.5 (Weak); DI + dominant; RSI 40.3 (Weak); MACD below signal
 
 ## Notes
 

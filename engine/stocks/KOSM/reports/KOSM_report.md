@@ -1,5 +1,5 @@
 # Kohinoor Spinning Mills Limited (KOSM) — Analysis Report
-*Generated 2026-06-28 11:58* · Sector: Textile Spinning  
+*Generated 2026-07-02 02:48* · Sector: Textile Spinning  
 *Decision-support only — not financial advice.*
 
 ## Verdict
@@ -59,21 +59,21 @@
 
 ## Technical Analysis
 
-As of **2026-06-24** (1237 bars). Trend **Bullish**, momentum **Strong**, technical score **88.9/100**.
+As of **2026-07-01** (2467 bars). Trend **Bullish**, momentum **Strong**, technical score **88.9/100**.
 
 | Indicator | Value |
 |---|---|
-| Close | 6.69 |
-| SMA 20 / 50 / 200 | 5.96 / 5.82 / 6.13 |
-| EMA 20 / 50 | 6.16 / 5.80 |
-| RSI (14) | 64.51 |
-| MACD / signal | 0.31 / 0.22 |
-| ADX (14) | 29.21 |
-| DI+ / DI− | 30.21 / 11.99 |
-| ATR (14) | 0.37 |
-| 52-week high / low | 8.18 / 3.40 |
+| Close | 6.63 |
+| SMA 20 / 50 / 200 | 6.12 / 5.89 / 6.13 |
+| EMA 20 / 50 | 6.28 / 5.89 |
+| RSI (14) | 60.55 |
+| MACD / signal | 0.30 / 0.26 |
+| ADX (14) | 30.65 |
+| DI+ / DI− | 24.66 / 11.31 |
+| ATR (14) | 0.38 |
+| 52-week high / low | 8.46 / 3.31 |
 
-Signals: Trend: Bullish; EMA20 > EMA50; ADX 29.2 (Strong); DI + dominant; RSI 64.5 (Strong); MACD above signal
+Signals: Trend: Bullish; EMA20 > EMA50; ADX 30.7 (Strong); DI + dominant; RSI 60.5 (Strong); MACD above signal
 
 ## Notes
 

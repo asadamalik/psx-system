@@ -1,17 +1,17 @@
 # TPL Life Insurance Limited (TPLL) — Analysis Report
-*Generated 2026-06-28 16:29* · Sector: Insurance  
+*Generated 2026-07-02 02:49* · Sector: Insurance  
 *Decision-support only — not financial advice.*
 
 ## Verdict
 
 | | |
 |---|---|
-| **Overall score** | **28.8 / 100** |
+| **Overall score** | **30.4 / 100** |
 | **Rating** | **Sell** |
 | Risk | Medium |
 | Fundamental score | 12.5 (70% weight) |
-| Technical score | 66.7 (30% weight) |
-| Trend / Momentum | Bullish / Overbought |
+| Technical score | 72.2 (30% weight) |
+| Trend / Momentum | Sideways / Strong |
 
 ## Fundamental Analysis
 
@@ -59,21 +59,21 @@
 
 ## Technical Analysis
 
-As of **2026-06-24** (310 bars). Trend **Bullish**, momentum **Overbought**, technical score **66.7/100**.
+As of **2026-06-30** (288 bars). Trend **Sideways**, momentum **Strong**, technical score **72.2/100**.
 
 | Indicator | Value |
 |---|---|
-| Close | 27.29 |
-| SMA 20 / 50 / 200 | 20.69 / 20.51 / 26.02 |
-| EMA 20 / 50 | 21.47 / 20.78 |
-| RSI (14) | 74.33 |
-| MACD / signal | 0.97 / 0.31 |
-| ADX (14) | 19.90 |
-| DI+ / DI− | 33.73 / 9.21 |
-| ATR (14) | 1.91 |
-| 52-week high / low | 63.00 / 15.75 |
+| Close | 23.98 |
+| SMA 20 / 50 / 200 | 21.24 / 20.76 / 25.86 |
+| EMA 20 / 50 | 22.04 / 21.08 |
+| RSI (14) | 58.48 |
+| MACD / signal | 1.17 / 0.61 |
+| ADX (14) | 21.18 |
+| DI+ / DI− | 27.30 / 19.15 |
+| ATR (14) | 2.03 |
+| 52-week high / low | 68.00 / 15.06 |
 
-Signals: Trend: Bullish; EMA20 > EMA50; ADX 19.9 (Weak); DI + dominant; RSI 74.3 (Overbought); MACD above signal
+Signals: Trend: Sideways; EMA20 > EMA50; ADX 21.2 (Developing); DI + dominant; RSI 58.5 (Strong); MACD above signal
 
 ## Notes
 

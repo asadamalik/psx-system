@@ -1,5 +1,5 @@
 # D.S. Industries Limited (DSIL) — Analysis Report
-*Generated 2026-06-28 11:53* · Sector: Textile Spinning  
+*Generated 2026-07-02 02:48* · Sector: Textile Spinning  
 *Decision-support only — not financial advice.*
 
 ## Verdict
@@ -59,21 +59,21 @@
 
 ## Technical Analysis
 
-As of **2026-06-24** (779 bars). Trend **Sideways**, momentum **Neutral**, technical score **54.4/100**.
+As of **2026-07-01** (2463 bars). Trend **Sideways**, momentum **Neutral**, technical score **54.4/100**.
 
 | Indicator | Value |
 |---|---|
-| Close | 10.01 |
-| SMA 20 / 50 / 200 | 10.62 / 9.37 / 10.42 |
-| EMA 20 / 50 | 10.40 / 9.68 |
-| RSI (14) | 47.72 |
-| MACD / signal | 0.26 / 0.48 |
-| ADX (14) | 38.99 |
-| DI+ / DI− | 22.21 / 16.14 |
-| ATR (14) | 0.78 |
-| 52-week high / low | 17.79 / 5.39 |
+| Close | 10.20 |
+| SMA 20 / 50 / 200 | 10.67 / 9.54 / 10.47 |
+| EMA 20 / 50 | 10.27 / 9.70 |
+| RSI (14) | 50.56 |
+| MACD / signal | 0.10 / 0.31 |
+| ADX (14) | 33.47 |
+| DI+ / DI− | 19.14 / 15.72 |
+| ATR (14) | 0.81 |
+| 52-week high / low | 17.90 / 5.57 |
 
-Signals: Trend: Sideways; EMA20 > EMA50; ADX 39.0 (Strong); DI + dominant; RSI 47.7 (Neutral); MACD below signal
+Signals: Trend: Sideways; EMA20 > EMA50; ADX 33.5 (Strong); DI + dominant; RSI 50.6 (Neutral); MACD below signal
 
 ## Notes
 

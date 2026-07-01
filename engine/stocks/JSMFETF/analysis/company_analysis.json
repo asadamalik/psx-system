@@ -1,0 +1,63 @@
+{
+  "symbol": "JSMFETF",
+  "growth": {
+    "revenue_growth_5y": null,
+    "net_income_growth_5y": null,
+    "equity_growth_5y": null,
+    "debt_change_5y": null
+  },
+  "latest": {
+    "revenue": null,
+    "net_income": null,
+    "equity": null,
+    "total_assets": null,
+    "total_debt": null,
+    "operating_cash_flow": null,
+    "capex": null
+  },
+  "metrics": {
+    "revenue_growth_5y": null,
+    "net_income_growth_5y": null,
+    "eps_growth": null,
+    "sales_growth": null,
+    "roe": null,
+    "roa": null,
+    "gross_margin": null,
+    "operating_margin": null,
+    "net_margin": null,
+    "debt_to_equity": null,
+    "current_ratio": null,
+    "interest_coverage": null,
+    "fcf_margin": null,
+    "pe_ratio": null,
+    "price_to_book": null,
+    "peg": null
+  },
+  "extended": {
+    "effective_tax_rate": 0.29,
+    "roic": null,
+    "quick_ratio": null,
+    "ps_ratio": null,
+    "ev_ebitda": null,
+    "peg": null,
+    "revenue_cagr_3y": null,
+    "net_income_cagr_3y": null,
+    "eps_cagr_3y": null,
+    "revenue_qoq": null,
+    "revenue_yoy": null,
+    "eps_qoq": null,
+    "eps_yoy": null,
+    "ocf_cagr_5y": null,
+    "fcf_cagr_5y": null,
+    "cash_conversion": null,
+    "ttm_revenue": null,
+    "ttm_net_income": null,
+    "dividend_last_year": null,
+    "dividend_latest_annual": null
+  },
+  "derived": {
+    "free_cash_flow": null,
+    "market_cap": null,
+    "current_price": 10.92
+  }
+}

@@ -1,5 +1,5 @@
 # Frieslandcampina Engro Pakistan Limited (FCEPL) — Analysis Report
-*Generated 2026-06-28 01:24* · Sector: Food & Personal Care Products  
+*Generated 2026-07-02 02:48* · Sector: Food & Personal Care Products  
 *Decision-support only — not financial advice.*
 
 ## Verdict
@@ -59,21 +59,21 @@
 
 ## Technical Analysis
 
-As of **2026-06-24** (1237 bars). Trend **Strong Bullish**, momentum **Strong**, technical score **83.3/100**.
+As of **2026-06-30** (2467 bars). Trend **Strong Bullish**, momentum **Strong**, technical score **83.3/100**.
 
 | Indicator | Value |
 |---|---|
-| Close | 112.77 |
-| SMA 20 / 50 / 200 | 109.87 / 100.47 / 88.21 |
-| EMA 20 / 50 | 108.80 / 101.71 |
-| RSI (14) | 59.94 |
-| MACD / signal | 2.71 / 3.11 |
-| ADX (14) | 41.35 |
-| DI+ / DI− | 29.54 / 11.50 |
-| ATR (14) | 4.52 |
-| 52-week high / low | 118.01 / 65.45 |
+| Close | 113.99 |
+| SMA 20 / 50 / 200 | 110.08 / 101.83 / 88.46 |
+| EMA 20 / 50 | 109.59 / 102.59 |
+| RSI (14) | 61.38 |
+| MACD / signal | 2.76 / 2.97 |
+| ADX (14) | 42.48 |
+| DI+ / DI− | 29.22 / 10.55 |
+| ATR (14) | 4.22 |
+| 52-week high / low | 118.01 / 63.86 |
 
-Signals: Trend: Strong Bullish; EMA20 > EMA50; ADX 41.3 (Strong); DI + dominant; RSI 59.9 (Strong); MACD below signal
+Signals: Trend: Strong Bullish; EMA20 > EMA50; ADX 42.5 (Strong); DI + dominant; RSI 61.4 (Strong); MACD below signal
 
 ## Notes
 

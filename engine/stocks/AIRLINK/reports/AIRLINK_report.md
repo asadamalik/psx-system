@@ -1,16 +1,16 @@
 # Air Link Communication Limited (AIRLINK) — Analysis Report
-*Generated 2026-06-28 01:31* · Sector: Technology & Communication  
+*Generated 2026-07-02 02:47* · Sector: Technology & Communication  
 *Decision-support only — not financial advice.*
 
 ## Verdict
 
 | | |
 |---|---|
-| **Overall score** | **58.0 / 100** |
+| **Overall score** | **56.3 / 100** |
 | **Rating** | **Hold** |
 | Risk | Medium |
 | Fundamental score | 59.5 (70% weight) |
-| Technical score | 54.4 (30% weight) |
+| Technical score | 48.9 (30% weight) |
 | Trend / Momentum | Sideways / Neutral |
 
 ## Fundamental Analysis
@@ -59,21 +59,21 @@
 
 ## Technical Analysis
 
-As of **2026-06-24** (1179 bars). Trend **Sideways**, momentum **Neutral**, technical score **54.4/100**.
+As of **2026-06-30** (1178 bars). Trend **Sideways**, momentum **Neutral**, technical score **48.9/100**.
 
 | Indicator | Value |
 |---|---|
-| Close | 156.38 |
-| SMA 20 / 50 / 200 | 156.80 / 148.13 / 161.60 |
-| EMA 20 / 50 | 156.56 / 151.85 |
-| RSI (14) | 52.54 |
-| MACD / signal | 3.75 / 4.17 |
-| ADX (14) | 26.64 |
-| DI+ / DI− | 26.42 / 18.49 |
-| ATR (14) | 5.72 |
-| 52-week high / low | 192.50 / 122.97 |
+| Close | 156.94 |
+| SMA 20 / 50 / 200 | 157.25 / 148.83 / 161.58 |
+| EMA 20 / 50 | 156.46 / 152.17 |
+| RSI (14) | 53.29 |
+| MACD / signal | 2.84 / 3.74 |
+| ADX (14) | 23.50 |
+| DI+ / DI− | 23.97 / 19.42 |
+| ATR (14) | 5.42 |
+| 52-week high / low | 199.00 / 118.00 |
 
-Signals: Trend: Sideways; EMA20 > EMA50; ADX 26.6 (Strong); DI + dominant; RSI 52.5 (Neutral); MACD below signal
+Signals: Trend: Sideways; EMA20 > EMA50; ADX 23.5 (Developing); DI + dominant; RSI 53.3 (Neutral); MACD below signal
 
 ## Notes
 

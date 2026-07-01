@@ -1,5 +1,5 @@
 # Lucky Cement Limited (LUCK) — Analysis Report
-*Generated 2026-06-28 09:59* · Sector: Cement  
+*Generated 2026-07-02 02:48* · Sector: Cement  
 *Decision-support only — not financial advice.*
 
 ## Verdict
@@ -59,21 +59,21 @@
 
 ## Technical Analysis
 
-As of **2026-06-24** (290 bars). Trend **Bullish**, momentum **Strong**, technical score **88.9/100**.
+As of **2026-07-01** (2464 bars). Trend **Bullish**, momentum **Strong**, technical score **88.9/100**.
 
 | Indicator | Value |
 |---|---|
-| Close | 467.75 |
-| SMA 20 / 50 / 200 | 447.88 / 435.04 / 446.43 |
-| EMA 20 / 50 | 449.96 / 436.39 |
-| RSI (14) | 62.64 |
-| MACD / signal | 10.77 / 9.39 |
-| ADX (14) | 25.67 |
-| DI+ / DI− | 32.35 / 18.76 |
-| ATR (14) | 12.50 |
-| 52-week high / low | 514.49 / 341.28 |
+| Close | 472.38 |
+| SMA 20 / 50 / 200 | 451.70 / 437.51 / 446.24 |
+| EMA 20 / 50 | 454.71 / 439.97 |
+| RSI (14) | 63.23 |
+| MACD / signal | 10.82 / 9.99 |
+| ADX (14) | 25.59 |
+| DI+ / DI− | 31.89 / 16.18 |
+| ATR (14) | 11.62 |
+| 52-week high / low | 529.50 / 339.00 |
 
-Signals: Trend: Bullish; EMA20 > EMA50; ADX 25.7 (Strong); DI + dominant; RSI 62.6 (Strong); MACD above signal
+Signals: Trend: Bullish; EMA20 > EMA50; ADX 25.6 (Strong); DI + dominant; RSI 63.2 (Strong); MACD above signal
 
 ## Notes
 

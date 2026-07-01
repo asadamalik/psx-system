@@ -1,0 +1,149 @@
+{
+  "symbol": "SLM",
+  "generated": "2026-07-02 02:49",
+  "scores": {
+    "fundamental_score": null,
+    "technical_score": 0.0,
+    "overall_score": 0.0,
+    "rating": "Sell",
+    "risk": "Unknown",
+    "risk_score": null,
+    "weights": {
+      "fundamental": 0.7,
+      "technical": 0.3
+    },
+    "fundamental_detail": {
+      "fundamental_score": null,
+      "pillars": {
+        "growth": null,
+        "profitability": null,
+        "financial_strength": null,
+        "valuation": null
+      },
+      "coverage": {
+        "growth": {
+          "used": [],
+          "missing": [
+            "revenue_growth_5y",
+            "net_income_growth_5y",
+            "eps_growth",
+            "sales_growth"
+          ]
+        },
+        "profitability": {
+          "used": [],
+          "missing": [
+            "roe",
+            "roa",
+            "gross_margin",
+            "operating_margin",
+            "net_margin"
+          ]
+        },
+        "financial_strength": {
+          "used": [],
+          "missing": [
+            "debt_to_equity",
+            "current_ratio",
+            "interest_coverage",
+            "fcf_margin"
+          ]
+        },
+        "valuation": {
+          "used": [],
+          "missing": [
+            "pe_ratio",
+            "price_to_book",
+            "peg"
+          ]
+        }
+      },
+      "weight_covered": 0.0
+    }
+  },
+  "technical": {
+    "technical_score": 0.0,
+    "trend": "Unknown",
+    "momentum": "Neutral",
+    "adx_strength": "Unknown",
+    "rsi_divergence": {
+      "type": null,
+      "reason": "not enough bars"
+    },
+    "notes": [
+      "Trend: Unknown"
+    ]
+  },
+  "technical_snapshot": {
+    "as_of": "2026-07-01",
+    "bars": 10,
+    "close": 25.28,
+    "sma_20": null,
+    "sma_50": null,
+    "sma_200": null,
+    "ema_20": null,
+    "ema_50": null,
+    "ema_100": null,
+    "ema_200": null,
+    "obv": 182188470.0,
+    "weekly_trend": "n/a",
+    "monthly_trend": "n/a",
+    "support_resistance": {
+      "price": 25.28,
+      "nearest_resistance": null,
+      "nearest_support": null,
+      "resistance_levels": [],
+      "support_levels": []
+    },
+    "rsi_14": null,
+    "macd": null,
+    "macd_signal": null,
+    "macd_hist": null,
+    "adx_14": null,
+    "plus_di": null,
+    "minus_di": null,
+    "atr_14": null,
+    "bb_upper": null,
+    "bb_lower": null,
+    "week52_high": 26.25,
+    "week52_low": 24.15,
+    "rsi_divergence": {
+      "type": null,
+      "reason": "not enough bars"
+    },
+    "patterns": []
+  },
+  "growth": {
+    "revenue_growth_5y": null,
+    "net_income_growth_5y": null,
+    "equity_growth_5y": null,
+    "debt_change_5y": null
+  },
+  "metrics": {
+    "revenue_growth_5y": null,
+    "net_income_growth_5y": null,
+    "eps_growth": null,
+    "sales_growth": null,
+    "roe": null,
+    "roa": null,
+    "gross_margin": null,
+    "operating_margin": null,
+    "net_margin": null,
+    "debt_to_equity": null,
+    "current_ratio": null,
+    "interest_coverage": null,
+    "fcf_margin": null,
+    "pe_ratio": null,
+    "price_to_book": null,
+    "peg": null
+  },
+  "latest": {
+    "revenue": null,
+    "net_income": null,
+    "equity": null,
+    "total_assets": null,
+    "total_debt": null,
+    "operating_cash_flow": null,
+    "capex": null
+  }
+}

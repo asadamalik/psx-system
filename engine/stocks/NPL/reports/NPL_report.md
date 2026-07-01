@@ -1,5 +1,5 @@
 # Nishat Power Limited (NPL) — Analysis Report
-*Generated 2026-06-28 12:03* · Sector: Power Generation & Distribution  
+*Generated 2026-07-02 02:49* · Sector: Power Generation & Distribution  
 *Decision-support only — not financial advice.*
 
 ## Verdict
@@ -59,21 +59,21 @@
 
 ## Technical Analysis
 
-As of **2026-06-24** (1156 bars). Trend **Bullish**, momentum **Neutral**, technical score **71.1/100**.
+As of **2026-07-01** (2463 bars). Trend **Bullish**, momentum **Neutral**, technical score **71.1/100**.
 
 | Indicator | Value |
 |---|---|
-| Close | 74.14 |
-| SMA 20 / 50 / 200 | 72.19 / 74.16 / 62.25 |
-| EMA 20 / 50 | 73.32 / 72.95 |
-| RSI (14) | 52.61 |
-| MACD / signal | 0.82 / 0.40 |
-| ADX (14) | 9.76 |
-| DI+ / DI− | 22.95 / 24.45 |
-| ATR (14) | 3.20 |
-| 52-week high / low | 98.91 / 33.76 |
+| Close | 73.31 |
+| SMA 20 / 50 / 200 | 72.55 / 74.07 / 62.71 |
+| EMA 20 / 50 | 73.27 / 72.97 |
+| RSI (14) | 50.54 |
+| MACD / signal | 0.51 / 0.48 |
+| ADX (14) | 9.58 |
+| DI+ / DI− | 20.76 / 24.83 |
+| ATR (14) | 2.88 |
+| 52-week high / low | 100.45 / 33.30 |
 
-Signals: Trend: Bullish; EMA20 > EMA50; ADX 9.8 (Weak); DI - dominant; RSI 52.6 (Neutral); MACD above signal
+Signals: Trend: Bullish; EMA20 > EMA50; ADX 9.6 (Weak); DI - dominant; RSI 50.5 (Neutral); MACD above signal
 
 ## Notes
 

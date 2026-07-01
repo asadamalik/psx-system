@@ -1,17 +1,17 @@
 # Samba Bank Limited (SBL) — Analysis Report
-*Generated 2026-06-28 12:07* · Sector: Commercial Banks  
+*Generated 2026-07-02 02:49* · Sector: Commercial Banks  
 *Decision-support only — not financial advice.*
 
 ## Verdict
 
 | | |
 |---|---|
-| **Overall score** | **45.6 / 100** |
-| **Rating** | **Reduce** |
+| **Overall score** | **50.9 / 100** |
+| **Rating** | **Hold** |
 | Risk | High |
 | Fundamental score | 51.3 (70% weight) |
-| Technical score | 32.2 (30% weight) |
-| Trend / Momentum | Bearish / Neutral |
+| Technical score | 50.0 (30% weight) |
+| Trend / Momentum | Sideways / Strong |
 
 ## Fundamental Analysis
 
@@ -59,21 +59,21 @@
 
 ## Technical Analysis
 
-As of **2026-06-24** (334 bars). Trend **Bearish**, momentum **Neutral**, technical score **32.2/100**.
+As of **2026-07-01** (2170 bars). Trend **Sideways**, momentum **Strong**, technical score **50.0/100**.
 
 | Indicator | Value |
 |---|---|
-| Close | 9.77 |
+| Close | 9.99 |
 | SMA 20 / 50 / 200 | 9.74 / 9.87 / 11.80 |
-| EMA 20 / 50 | 9.75 / 10.05 |
-| RSI (14) | 49.29 |
-| MACD / signal | -0.07 / -0.08 |
-| ADX (14) | 20.66 |
-| DI+ / DI− | 9.05 / 26.71 |
-| ATR (14) | 0.40 |
-| 52-week high / low | 16.20 / 8.81 |
+| EMA 20 / 50 | 9.77 / 10.02 |
+| RSI (14) | 55.54 |
+| MACD / signal | -0.04 / -0.07 |
+| ADX (14) | 21.38 |
+| DI+ / DI− | 14.65 / 20.96 |
+| ATR (14) | 0.41 |
+| 52-week high / low | 16.78 / 8.10 |
 
-Signals: Trend: Bearish; EMA20 < EMA50; ADX 20.7 (Developing); DI - dominant; RSI 49.3 (Neutral); MACD above signal
+Signals: Trend: Sideways; EMA20 < EMA50; ADX 21.4 (Developing); DI - dominant; RSI 55.5 (Strong); MACD above signal
 
 ## Notes
 

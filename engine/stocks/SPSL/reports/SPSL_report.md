@@ -1,17 +1,17 @@
 # Sitara Petroleum Service Limited (SPSL) — Analysis Report
-*Generated 2026-06-28 01:08* · Sector: OIL & GAS Marketing Companies  
+*Generated 2026-07-02 02:49* · Sector: OIL & GAS Marketing Companies  
 *Decision-support only — not financial advice.*
 
 ## Verdict
 
 | | |
 |---|---|
-| **Overall score** | **64.5 / 100** |
+| **Overall score** | **57.3 / 100** |
 | **Rating** | **Hold** |
 | Risk | Medium |
 | Fundamental score | 66.4 (70% weight) |
-| Technical score | 60.0 (30% weight) |
-| Trend / Momentum | Unknown / Strong |
+| Technical score | 36.0 (30% weight) |
+| Trend / Momentum | Unknown / Oversold |
 
 ## Fundamental Analysis
 
@@ -59,21 +59,21 @@
 
 ## Technical Analysis
 
-As of **2026-06-24** (22 bars). Trend **Unknown**, momentum **Strong**, technical score **60.0/100**.
+As of **2026-07-01** (24 bars). Trend **Unknown**, momentum **Oversold**, technical score **36.0/100**.
 
 | Indicator | Value |
 |---|---|
-| Close | 20.41 |
-| SMA 20 / 50 / 200 | 20.73 / — / — |
-| EMA 20 / 50 | 20.92 / — |
-| RSI (14) | 55.09 |
+| Close | 19.20 |
+| SMA 20 / 50 / 200 | 20.61 / — / — |
+| EMA 20 / 50 | 20.56 / — |
+| RSI (14) | 28.46 |
 | MACD / signal | — / — |
 | ADX (14) | — |
-| DI+ / DI− | 28.35 / 24.80 |
-| ATR (14) | 0.69 |
-| 52-week high / low | 23.45 / 19.06 |
+| DI+ / DI− | 12.75 / 23.20 |
+| ATR (14) | 1.14 |
+| 52-week high / low | 23.45 / 18.37 |
 
-Signals: Trend: Unknown; RSI 55.1 (Strong)
+Signals: Trend: Unknown; RSI 28.5 (Oversold)
 
 ## Notes
 

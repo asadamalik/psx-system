@@ -1,5 +1,5 @@
 # Oil & Gas Development Company Limited (OGDC) — Analysis Report
-*Generated 2026-06-28 01:12* · Sector: OIL & GAS Exploration Companies  
+*Generated 2026-07-02 02:49* · Sector: OIL & GAS Exploration Companies  
 *Decision-support only — not financial advice.*
 
 ## Verdict
@@ -59,21 +59,21 @@
 
 ## Technical Analysis
 
-As of **2026-06-24** (1237 bars). Trend **Strong Bullish**, momentum **Strong**, technical score **88.9/100**.
+As of **2026-07-01** (2471 bars). Trend **Strong Bullish**, momentum **Strong**, technical score **88.9/100**.
 
 | Indicator | Value |
 |---|---|
-| Close | 339.96 |
-| SMA 20 / 50 / 200 | 326.09 / 321.11 / 289.08 |
-| EMA 20 / 50 | 327.72 / 318.72 |
-| RSI (14) | 64.54 |
-| MACD / signal | 5.13 / 3.69 |
-| ADX (14) | 13.14 |
-| DI+ / DI− | 30.67 / 19.53 |
-| ATR (14) | 6.67 |
-| 52-week high / low | 340.75 / 217.29 |
+| Close | 334.91 |
+| SMA 20 / 50 / 200 | 327.31 / 323.35 / 290.00 |
+| EMA 20 / 50 | 329.61 / 320.56 |
+| RSI (14) | 58.57 |
+| MACD / signal | 4.83 / 4.30 |
+| ADX (14) | 12.61 |
+| DI+ / DI− | 24.59 / 19.73 |
+| ATR (14) | 6.64 |
+| 52-week high / low | 340.75 / 218.99 |
 
-Signals: Trend: Strong Bullish; EMA20 > EMA50; ADX 13.1 (Weak); DI + dominant; RSI 64.5 (Strong); MACD above signal
+Signals: Trend: Strong Bullish; EMA20 > EMA50; ADX 12.6 (Weak); DI + dominant; RSI 58.6 (Strong); MACD above signal
 
 ## Notes
 

@@ -1,13 +1,13 @@
 {
   "symbol": "UNITY",
-  "generated": "2026-06-28 01:04",
+  "generated": "2026-07-02 02:50",
   "scores": {
     "fundamental_score": 37.7,
     "technical_score": 16.7,
     "overall_score": 31.4,
     "rating": "Sell",
     "risk": "Medium",
-    "risk_score": 53.3,
+    "risk_score": 43.3,
     "weights": {
       "fundamental": 0.7,
       "technical": 0.3
@@ -74,50 +74,50 @@
     "notes": [
       "Trend: Bearish",
       "EMA20 < EMA50",
-      "ADX 10.5 (Weak); DI - dominant",
-      "RSI 40.0 (Weak)",
+      "ADX 14.1 (Weak); DI - dominant",
+      "RSI 39.4 (Weak)",
       "MACD below signal"
     ]
   },
   "technical_snapshot": {
-    "as_of": "2026-06-24",
-    "bars": 1237,
-    "close": 11.12,
-    "sma_20": 11.556000000000001,
-    "sma_50": 11.6424,
-    "sma_200": 17.78355,
-    "ema_20": 11.495902917875462,
-    "ema_50": 11.696805781240906,
-    "ema_100": 13.148853343562033,
-    "ema_200": 16.513214313098846,
-    "obv": 1244545791.0,
+    "as_of": "2026-07-01",
+    "bars": 2443,
+    "close": 10.91,
+    "sma_20": 11.373000000000001,
+    "sma_50": 11.789399999999999,
+    "sma_200": 17.52535,
+    "ema_20": 11.316700567566748,
+    "ema_50": 11.59548460440441,
+    "ema_100": 13.012153074237863,
+    "ema_200": 16.344443438852515,
+    "obv": 3905121500.0,
     "weekly_trend": "Down",
-    "monthly_trend": "Down",
+    "monthly_trend": "Up",
     "support_resistance": {
-      "price": 11.12,
+      "price": 10.91,
       "nearest_resistance": 12.49,
-      "nearest_support": 7.84,
+      "nearest_support": 7.55,
       "resistance_levels": [
         12.49,
         13.29,
         13.79
       ],
       "support_levels": [
-        7.84
+        7.55
       ]
     },
-    "rsi_14": 40.000322273280666,
-    "macd": -0.14060639411751552,
-    "macd_signal": -0.07200707512473013,
-    "macd_hist": -0.06859931899278539,
-    "adx_14": 10.542595397114278,
-    "plus_di": 18.06307259112935,
-    "minus_di": 23.697274129030344,
-    "atr_14": 0.3693459000509172,
-    "bb_upper": 12.092186534705322,
-    "bb_lower": 11.01981346529468,
-    "week52_high": 31.65,
-    "week52_low": 7.8,
+    "rsi_14": 39.3534484517699,
+    "macd": -0.2185223340746152,
+    "macd_signal": -0.1383747086291842,
+    "macd_hist": -0.080147625445431,
+    "adx_14": 14.137596649771428,
+    "plus_di": 18.082943485305883,
+    "minus_di": 26.959937122236113,
+    "atr_14": 0.3836375085175461,
+    "bb_upper": 11.984329698335847,
+    "bb_lower": 10.761670301664156,
+    "week52_high": 31.74,
+    "week52_low": 7.51,
     "rsi_divergence": {
       "type": null
     },

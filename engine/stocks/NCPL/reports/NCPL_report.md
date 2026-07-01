@@ -1,16 +1,16 @@
 # Nishat Chunian Power Limited (NCPL) — Analysis Report
-*Generated 2026-06-28 12:02* · Sector: Power Generation & Distribution  
+*Generated 2026-07-02 02:49* · Sector: Power Generation & Distribution  
 *Decision-support only — not financial advice.*
 
 ## Verdict
 
 | | |
 |---|---|
-| **Overall score** | **49.5 / 100** |
+| **Overall score** | **44.5 / 100** |
 | **Rating** | **Reduce** |
 | Risk | Low |
 | Fundamental score | 45.0 (70% weight) |
-| Technical score | 60.0 (30% weight) |
+| Technical score | 43.3 (30% weight) |
 | Trend / Momentum | Bullish / Neutral |
 
 ## Fundamental Analysis
@@ -59,21 +59,21 @@
 
 ## Technical Analysis
 
-As of **2026-06-24** (1236 bars). Trend **Bullish**, momentum **Neutral**, technical score **60.0/100**.
+As of **2026-07-01** (2467 bars). Trend **Bullish**, momentum **Neutral**, technical score **43.3/100**.
 
 | Indicator | Value |
 |---|---|
-| Close | 64.12 |
-| SMA 20 / 50 / 200 | 64.78 / 66.97 / 52.21 |
-| EMA 20 / 50 | 65.12 / 65.48 |
-| RSI (14) | 45.76 |
-| MACD / signal | -0.22 / -0.28 |
-| ADX (14) | 11.58 |
-| DI+ / DI− | 25.00 / 22.59 |
-| ATR (14) | 2.05 |
-| 52-week high / low | 87.35 / 22.64 |
+| Close | 64.37 |
+| SMA 20 / 50 / 200 | 64.58 / 66.78 / 52.74 |
+| EMA 20 / 50 | 64.86 / 65.32 |
+| RSI (14) | 47.36 |
+| MACD / signal | -0.34 / -0.31 |
+| ADX (14) | 9.22 |
+| DI+ / DI− | 23.25 / 22.00 |
+| ATR (14) | 1.93 |
+| 52-week high / low | 89.48 / 22.49 |
 
-Signals: Trend: Bullish; EMA20 < EMA50; ADX 11.6 (Weak); DI + dominant; RSI 45.8 (Neutral); MACD above signal
+Signals: Trend: Bullish; EMA20 < EMA50; ADX 9.2 (Weak); DI + dominant; RSI 47.4 (Neutral); MACD below signal
 
 ## Notes
 

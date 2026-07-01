@@ -1,0 +1,39 @@
+{
+  "as_of": "2026-07-01",
+  "bars": 10,
+  "close": 25.28,
+  "sma_20": null,
+  "sma_50": null,
+  "sma_200": null,
+  "ema_20": null,
+  "ema_50": null,
+  "ema_100": null,
+  "ema_200": null,
+  "obv": 182188470.0,
+  "weekly_trend": "n/a",
+  "monthly_trend": "n/a",
+  "support_resistance": {
+    "price": 25.28,
+    "nearest_resistance": null,
+    "nearest_support": null,
+    "resistance_levels": [],
+    "support_levels": []
+  },
+  "rsi_14": null,
+  "macd": null,
+  "macd_signal": null,
+  "macd_hist": null,
+  "adx_14": null,
+  "plus_di": null,
+  "minus_di": null,
+  "atr_14": null,
+  "bb_upper": null,
+  "bb_lower": null,
+  "week52_high": 26.25,
+  "week52_low": 24.15,
+  "rsi_divergence": {
+    "type": null,
+    "reason": "not enough bars"
+  },
+  "patterns": []
+}

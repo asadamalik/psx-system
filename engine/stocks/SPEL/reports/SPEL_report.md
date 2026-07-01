@@ -1,17 +1,17 @@
 # SPEL Limited (SPEL) — Analysis Report
-*Generated 2026-06-28 01:29*  
+*Generated 2026-07-02 02:49*  
 *Decision-support only — not financial advice.*
 
 ## Verdict
 
 | | |
 |---|---|
-| **Overall score** | **87.2 / 100** |
+| **Overall score** | **90.5 / 100** |
 | **Rating** | **Strong Buy** |
 | Risk | Low |
 | Fundamental score | 91.2 (70% weight) |
-| Technical score | 77.8 (30% weight) |
-| Trend / Momentum | Sideways / Strong |
+| Technical score | 88.9 (30% weight) |
+| Trend / Momentum | Bullish / Strong |
 
 ## Fundamental Analysis
 
@@ -59,21 +59,21 @@
 
 ## Technical Analysis
 
-As of **2026-06-24** (613 bars). Trend **Sideways**, momentum **Strong**, technical score **77.8/100**.
+As of **2026-07-01** (2455 bars). Trend **Bullish**, momentum **Strong**, technical score **88.9/100**.
 
 | Indicator | Value |
 |---|---|
-| Close | 51.58 |
-| SMA 20 / 50 / 200 | 47.93 / 44.81 / 52.23 |
-| EMA 20 / 50 | 48.76 / 45.96 |
-| RSI (14) | 63.28 |
-| MACD / signal | 2.52 / 2.22 |
-| ADX (14) | 34.36 |
-| DI+ / DI− | 32.10 / 14.05 |
-| ATR (14) | 2.56 |
-| 52-week high / low | 78.22 / 33.06 |
+| Close | 53.16 |
+| SMA 20 / 50 / 200 | 49.03 / 45.36 / 51.97 |
+| EMA 20 / 50 | 49.61 / 46.64 |
+| RSI (14) | 66.39 |
+| MACD / signal | 2.34 / 2.28 |
+| ADX (14) | 36.29 |
+| DI+ / DI− | 30.22 / 11.84 |
+| ATR (14) | 2.42 |
+| 52-week high / low | 83.50 / 32.91 |
 
-Signals: Trend: Sideways; EMA20 > EMA50; ADX 34.4 (Strong); DI + dominant; RSI 63.3 (Strong); MACD above signal
+Signals: Trend: Bullish; EMA20 > EMA50; ADX 36.3 (Strong); DI + dominant; RSI 66.4 (Strong); MACD above signal
 
 ## Notes
 

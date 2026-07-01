@@ -1,0 +1,446 @@
+{
+  "symbol": "SPAC1",
+  "name": "SPAC1",
+  "sector": null,
+  "currency": "PKR",
+  "as_of": "2026-07-01",
+  "generated_ts": 1782942581,
+  "source": "stock-agent-claude (Investing.com + PSX DPS)",
+  "limited_data": true,
+  "ohlc": [
+    {
+      "date": "2026-05-12",
+      "open": 16.5,
+      "high": 16.5,
+      "low": 16.5,
+      "close": 16.5,
+      "volume": 796858
+    },
+    {
+      "date": "2026-05-13",
+      "open": 17.0,
+      "high": 18.15,
+      "low": 17.0,
+      "close": 18.15,
+      "volume": 1376483
+    },
+    {
+      "date": "2026-05-14",
+      "open": 19.6,
+      "high": 19.97,
+      "low": 19.5,
+      "close": 19.97,
+      "volume": 609787
+    },
+    {
+      "date": "2026-05-15",
+      "open": 20.8,
+      "high": 21.97,
+      "low": 18.0,
+      "close": 21.23,
+      "volume": 3930031
+    },
+    {
+      "date": "2026-05-18",
+      "open": 21.19,
+      "high": 21.19,
+      "low": 19.11,
+      "close": 19.11,
+      "volume": 593952
+    },
+    {
+      "date": "2026-05-19",
+      "open": 17.75,
+      "high": 18.5,
+      "low": 17.2,
+      "close": 17.2,
+      "volume": 959957
+    },
+    {
+      "date": "2026-05-20",
+      "open": 16.05,
+      "high": 17.0,
+      "low": 15.48,
+      "close": 15.49,
+      "volume": 3854685
+    },
+    {
+      "date": "2026-05-21",
+      "open": 15.4,
+      "high": 15.79,
+      "low": 14.71,
+      "close": 14.76,
+      "volume": 700311
+    },
+    {
+      "date": "2026-05-22",
+      "open": 14.8,
+      "high": 15.1,
+      "low": 13.71,
+      "close": 13.86,
+      "volume": 572239
+    },
+    {
+      "date": "2026-05-25",
+      "open": 14.05,
+      "high": 14.39,
+      "low": 13.57,
+      "close": 13.89,
+      "volume": 350097
+    },
+    {
+      "date": "2026-05-29",
+      "open": 13.74,
+      "high": 13.99,
+      "low": 13.67,
+      "close": 13.71,
+      "volume": 126380
+    },
+    {
+      "date": "2026-06-01",
+      "open": 13.71,
+      "high": 15.08,
+      "low": 13.65,
+      "close": 15.08,
+      "volume": 1825470
+    },
+    {
+      "date": "2026-06-02",
+      "open": 15.51,
+      "high": 15.99,
+      "low": 15.1,
+      "close": 15.5,
+      "volume": 2053648
+    },
+    {
+      "date": "2026-06-03",
+      "open": 15.7,
+      "high": 15.7,
+      "low": 14.9,
+      "close": 15.31,
+      "volume": 436333
+    },
+    {
+      "date": "2026-06-04",
+      "open": 15.22,
+      "high": 16.6,
+      "low": 15.2,
+      "close": 16.26,
+      "volume": 1043657
+    },
+    {
+      "date": "2026-06-05",
+      "open": 16.59,
+      "high": 16.98,
+      "low": 16.07,
+      "close": 16.29,
+      "volume": 751008
+    },
+    {
+      "date": "2026-06-08",
+      "open": 16.27,
+      "high": 16.45,
+      "low": 15.92,
+      "close": 16.25,
+      "volume": 216792
+    },
+    {
+      "date": "2026-06-09",
+      "open": 16.48,
+      "high": 16.5,
+      "low": 15.51,
+      "close": 16.0,
+      "volume": 90294
+    },
+    {
+      "date": "2026-06-10",
+      "open": 15.99,
+      "high": 17.6,
+      "low": 15.11,
+      "close": 17.6,
+      "volume": 4738260
+    },
+    {
+      "date": "2026-06-11",
+      "open": 17.7,
+      "high": 18.13,
+      "low": 15.86,
+      "close": 16.03,
+      "volume": 3582775
+    },
+    {
+      "date": "2026-06-12",
+      "open": 16.44,
+      "high": 16.9,
+      "low": 16.2,
+      "close": 16.5,
+      "volume": 863000
+    },
+    {
+      "date": "2026-06-15",
+      "open": 16.6,
+      "high": 17.3,
+      "low": 16.0,
+      "close": 16.3,
+      "volume": 485342
+    },
+    {
+      "date": "2026-06-16",
+      "open": 16.8,
+      "high": 17.93,
+      "low": 16.2,
+      "close": 17.93,
+      "volume": 3689691
+    },
+    {
+      "date": "2026-06-17",
+      "open": 18.24,
+      "high": 19.19,
+      "low": 17.11,
+      "close": 17.63,
+      "volume": 1048473
+    },
+    {
+      "date": "2026-06-18",
+      "open": 17.99,
+      "high": 18.0,
+      "low": 16.99,
+      "close": 17.41,
+      "volume": 93039
+    },
+    {
+      "date": "2026-06-19",
+      "open": 17.6,
+      "high": 17.6,
+      "low": 16.9,
+      "close": 17.46,
+      "volume": 396762
+    },
+    {
+      "date": "2026-06-22",
+      "open": 17.98,
+      "high": 18.39,
+      "low": 17.3,
+      "close": 17.81,
+      "volume": 89177
+    },
+    {
+      "date": "2026-06-23",
+      "open": 17.81,
+      "high": 18.0,
+      "low": 17.38,
+      "close": 17.5,
+      "volume": 112813
+    },
+    {
+      "date": "2026-06-24",
+      "open": 17.5,
+      "high": 17.89,
+      "low": 17.05,
+      "close": 17.62,
+      "volume": 75066
+    },
+    {
+      "date": "2026-06-29",
+      "open": 17.9,
+      "high": 17.9,
+      "low": 17.06,
+      "close": 17.47,
+      "volume": 61082
+    },
+    {
+      "date": "2026-06-30",
+      "open": 17.5,
+      "high": 17.8,
+      "low": 17.22,
+      "close": 17.32,
+      "volume": 29743
+    },
+    {
+      "date": "2026-07-01",
+      "open": 17.74,
+      "high": 17.74,
+      "low": 17.0,
+      "close": 17.0,
+      "volume": 101164
+    }
+  ],
+  "pe": null,
+  "pb": null,
+  "peg": null,
+  "ps": null,
+  "ev_ebitda": null,
+  "debt_to_equity": null,
+  "current_ratio": null,
+  "quick_ratio": null,
+  "roe_pct": null,
+  "roa_pct": null,
+  "roic_pct": null,
+  "gross_margin_pct": null,
+  "operating_margin_pct": null,
+  "net_margin_pct": null,
+  "market_cap": null,
+  "shares_outstanding": null,
+  "free_float_pct": null,
+  "high52": 21.97,
+  "low52": 13.57,
+  "eps_history": {},
+  "revenue_mn": {},
+  "gross_profit_mn": {},
+  "operating_income_mn": {},
+  "net_income_mn": {},
+  "interest_expense_mn": {},
+  "current_assets_mn": {},
+  "cash_mn": {},
+  "inventory_mn": {},
+  "total_assets_mn": {},
+  "current_liabilities_mn": {},
+  "total_liabilities_mn": {},
+  "debt_mn": {},
+  "equity_mn": {},
+  "op_cashflow_mn": {},
+  "cf_investing_mn": {},
+  "cf_financing_mn": {},
+  "capex_mn": {},
+  "free_cashflow_mn": {},
+  "quarterly": {
+    "revenue_mn": {},
+    "gross_profit_mn": {},
+    "operating_income_mn": {},
+    "net_income_mn": {},
+    "eps_history": {},
+    "interest_expense_mn": {},
+    "current_assets_mn": {},
+    "cash_mn": {},
+    "inventory_mn": {},
+    "total_assets_mn": {},
+    "current_liabilities_mn": {},
+    "total_liabilities_mn": {},
+    "debt_mn": {},
+    "equity_mn": {},
+    "op_cashflow_mn": {},
+    "cf_investing_mn": {},
+    "cf_financing_mn": {},
+    "capex_mn": {}
+  },
+  "revenue_qoq_pct": null,
+  "revenue_yoy_pct": null,
+  "eps_qoq_pct": null,
+  "eps_yoy_pct": null,
+  "ttm_revenue_mn": null,
+  "ttm_net_income_mn": null,
+  "revenue_cagr_5y_pct": null,
+  "revenue_cagr_3y_pct": null,
+  "eps_cagr_3y_pct": null,
+  "industry_pe": null,
+  "dividend_yield_pct": null,
+  "dividend_per_share_ttm": null,
+  "dividend_history": [],
+  "earnings": {},
+  "insider_tx": [],
+  "insider_sentiment": null,
+  "insider_as_of": null,
+  "scores": {
+    "fundamental_score": null,
+    "technical_score": 77.8,
+    "overall_score": 77.8,
+    "rating": "Buy",
+    "risk": "High",
+    "pillars": {
+      "growth": null,
+      "profitability": null,
+      "financial_strength": null,
+      "valuation": null
+    },
+    "weights": {
+      "fundamental": 0.7,
+      "technical": 0.3
+    }
+  },
+  "technical_snapshot": {
+    "as_of": "2026-07-01",
+    "bars": 32,
+    "close": 17.0,
+    "sma_20": 16.8595,
+    "sma_50": null,
+    "sma_200": null,
+    "ema_20": 17.007656369394823,
+    "ema_50": null,
+    "ema_100": null,
+    "ema_200": null,
+    "obv": 8726763.0,
+    "weekly_trend": "n/a",
+    "monthly_trend": "n/a",
+    "support_resistance": {
+      "price": 17.0,
+      "nearest_resistance": 19.19,
+      "nearest_support": 15.11,
+      "resistance_levels": [
+        19.19
+      ],
+      "support_levels": [
+        15.11,
+        13.57
+      ]
+    },
+    "rsi_14": 63.860550610631215,
+    "macd": 0.2848956237713658,
+    "macd_signal": null,
+    "macd_hist": null,
+    "adx_14": 31.012610776658562,
+    "plus_di": 27.344476770074383,
+    "minus_di": 12.300246268401773,
+    "atr_14": 1.0149738297076658,
+    "bb_upper": 18.448316855399014,
+    "bb_lower": 15.270683144600989,
+    "week52_high": 21.97,
+    "week52_low": 13.57,
+    "rsi_divergence": {
+      "type": null
+    },
+    "patterns": [
+      {
+        "name": "Bull Flag",
+        "type": "bullish",
+        "confidence": 0.57,
+        "status": "forming",
+        "neckline": 17.93,
+        "target": 19.62,
+        "note": "Strong pole then tight consolidation; bullish continuation bias."
+      }
+    ]
+  },
+  "technical_read": {
+    "technical_score": 77.8,
+    "trend": "Unknown",
+    "momentum": "Strong",
+    "adx_strength": "Strong",
+    "rsi_divergence": {
+      "type": null
+    },
+    "notes": [
+      "Trend: Unknown",
+      "ADX 31.0 (Strong); DI + dominant",
+      "RSI 63.9 (Strong)"
+    ]
+  },
+  "earnings_basis_divergence": null,
+  "relative_strength": {
+    "as_of": "2026-06-08",
+    "common_days": 17,
+    "windows": {
+      "1w": {
+        "stock_return": 0.0776,
+        "index_return": -0.009,
+        "outperformance": 0.0866
+      },
+      "2w": {
+        "stock_return": 0.0491,
+        "index_return": 0.0257,
+        "outperformance": 0.0233
+      }
+    },
+    "avg_outperformance": 0.055,
+    "rating": "Market Leader"
+  }
+}

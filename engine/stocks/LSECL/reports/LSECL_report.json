@@ -1,13 +1,13 @@
 {
   "symbol": "LSECL",
-  "generated": "2026-06-28 17:25",
+  "generated": "2026-07-02 02:48",
   "scores": {
     "fundamental_score": 100.0,
-    "technical_score": 54.4,
-    "overall_score": 86.3,
+    "technical_score": 71.1,
+    "overall_score": 91.3,
     "rating": "Strong Buy",
-    "risk": "Low",
-    "risk_score": 80.0,
+    "risk": "Medium",
+    "risk_score": 65.0,
     "weights": {
       "fundamental": 0.7,
       "technical": 0.3
@@ -64,66 +64,85 @@
     }
   },
   "technical": {
-    "technical_score": 54.4,
-    "trend": "Bullish",
+    "technical_score": 71.1,
+    "trend": "Strong Bullish",
     "momentum": "Neutral",
-    "adx_strength": "Weak",
+    "adx_strength": "Developing",
     "rsi_divergence": {
       "type": null
     },
     "notes": [
-      "Trend: Bullish",
+      "Trend: Strong Bullish",
       "EMA20 > EMA50",
-      "ADX 15.8 (Weak); DI + dominant",
-      "RSI 49.9 (Neutral)",
+      "ADX 24.5 (Developing); DI + dominant",
+      "RSI 52.3 (Neutral)",
       "MACD below signal"
     ]
   },
   "technical_snapshot": {
-    "as_of": "2026-06-24",
-    "bars": 130,
-    "close": 5.51,
-    "sma_20": 5.5075,
-    "sma_50": 5.4938,
-    "sma_200": null,
-    "ema_20": 5.518624834416545,
-    "ema_50": 5.4972752824331925,
-    "ema_100": 5.441890694072192,
-    "ema_200": null,
-    "obv": 206675426.0,
+    "as_of": "2026-07-01",
+    "bars": 519,
+    "close": 5.57,
+    "sma_20": 5.5145,
+    "sma_50": 5.5062,
+    "sma_200": 5.017175,
+    "ema_20": 5.524645766532717,
+    "ema_50": 5.499651931276043,
+    "ema_100": 5.393837510187298,
+    "ema_200": 4.979405794098342,
+    "obv": 280199416.0,
     "weekly_trend": "Up",
     "monthly_trend": "Up",
     "support_resistance": {
-      "price": 5.51,
-      "nearest_resistance": 5.68,
-      "nearest_support": 5.37,
+      "price": 5.57,
+      "nearest_resistance": 5.77,
+      "nearest_support": 5.52,
       "resistance_levels": [
-        5.68,
-        5.87,
-        6.18
+        5.77,
+        5.95,
+        6.12
       ],
       "support_levels": [
-        5.37,
-        5.22,
-        5.05
+        5.52,
+        5.3,
+        5.19
       ]
     },
-    "rsi_14": 49.90570870890284,
-    "macd": 0.01221266784920072,
-    "macd_signal": 0.02004867002753511,
-    "macd_hist": -0.00783600217833439,
-    "adx_14": 15.793418121980343,
-    "plus_di": 39.90892176557613,
-    "minus_di": 24.897977626654917,
-    "atr_14": 0.11384927828834454,
-    "bb_upper": 5.6996327665964275,
-    "bb_lower": 5.315367233403573,
-    "week52_high": 6.35,
-    "week52_low": 4.38,
+    "rsi_14": 52.32786707004953,
+    "macd": 0.014409570114955805,
+    "macd_signal": 0.015317112563259641,
+    "macd_hist": -0.0009075424483038358,
+    "adx_14": 24.5146854059399,
+    "plus_di": 24.637053824887605,
+    "minus_di": 11.466396841943359,
+    "atr_14": 0.2640775602071153,
+    "bb_upper": 5.716438109330186,
+    "bb_lower": 5.312561890669814,
+    "week52_high": 6.72,
+    "week52_low": 2.755,
     "rsi_divergence": {
       "type": null
     },
-    "patterns": []
+    "patterns": [
+      {
+        "name": "Head & Shoulders",
+        "type": "bearish",
+        "confidence": 0.6,
+        "status": "forming",
+        "neckline": 5.23,
+        "target": 4.31,
+        "note": "Three peaks, middle highest; breaks down below the neckline."
+      },
+      {
+        "name": "Double Top",
+        "type": "bearish",
+        "confidence": 0.52,
+        "status": "forming",
+        "neckline": 5.3,
+        "target": 4.45,
+        "note": "Two near-equal peaks; breaks down below the trough (neckline)."
+      }
+    ]
   },
   "growth": {
     "revenue_growth_5y": null,

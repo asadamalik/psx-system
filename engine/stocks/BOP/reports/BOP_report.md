@@ -1,5 +1,5 @@
 # The Bank of Punjab (BOP) — Analysis Report
-*Generated 2026-06-27 23:47* · Sector: Financials  
+*Generated 2026-07-02 02:47* · Sector: Financials  
 *Decision-support only — not financial advice.*
 
 ## Verdict
@@ -59,21 +59,21 @@
 
 ## Technical Analysis
 
-As of **2026-06-24** (1237 bars). Trend **Strong Bullish**, momentum **Strong**, technical score **88.9/100**.
+As of **2026-07-01** (2470 bars). Trend **Strong Bullish**, momentum **Strong**, technical score **88.9/100**.
 
 | Indicator | Value |
 |---|---|
-| Close | 35.38 |
-| SMA 20 / 50 / 200 | 34.65 / 34.53 / 33.60 |
-| EMA 20 / 50 | 34.84 / 34.02 |
-| RSI (14) | 56.37 |
+| Close | 36.31 |
+| SMA 20 / 50 / 200 | 34.82 / 34.84 / 33.84 |
+| EMA 20 / 50 | 35.02 / 34.18 |
+| RSI (14) | 62.14 |
 | MACD / signal | 0.46 / 0.42 |
-| ADX (14) | 10.14 |
-| DI+ / DI− | 25.91 / 23.76 |
-| ATR (14) | 0.96 |
-| 52-week high / low | 43.25 / 10.18 |
+| ADX (14) | 9.82 |
+| DI+ / DI− | 30.05 / 19.80 |
+| ATR (14) | 0.95 |
+| 52-week high / low | 44.17 / 10.19 |
 
-Signals: Trend: Strong Bullish; EMA20 > EMA50; ADX 10.1 (Weak); DI + dominant; RSI 56.4 (Strong); MACD above signal
+Signals: Trend: Strong Bullish; EMA20 > EMA50; ADX 9.8 (Weak); DI + dominant; RSI 62.1 (Strong); MACD above signal
 
 ## Notes
 

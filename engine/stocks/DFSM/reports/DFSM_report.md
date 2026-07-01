@@ -1,5 +1,5 @@
 # Dewan Farooque Spinning Mills Limited (DFSM) — Analysis Report
-*Generated 2026-06-28 01:11* · Sector: Textile Spinning  
+*Generated 2026-07-02 02:48* · Sector: Textile Spinning  
 *Decision-support only — not financial advice.*
 
 ## Verdict
@@ -59,21 +59,21 @@
 
 ## Technical Analysis
 
-As of **2026-06-24** (1054 bars). Trend **Strong Bullish**, momentum **Overbought**, technical score **83.3/100**.
+As of **2026-07-01** (2462 bars). Trend **Strong Bullish**, momentum **Overbought**, technical score **83.3/100**.
 
 | Indicator | Value |
 |---|---|
-| Close | 21.49 |
-| SMA 20 / 50 / 200 | 17.37 / 15.41 / 8.02 |
-| EMA 20 / 50 | 17.49 / 15.16 |
-| RSI (14) | 72.42 |
-| MACD / signal | 0.92 / 0.74 |
-| ADX (14) | 28.65 |
-| DI+ / DI− | 39.79 / 13.82 |
-| ATR (14) | 1.45 |
-| 52-week high / low | 21.66 / 3.80 |
+| Close | 24.69 |
+| SMA 20 / 50 / 200 | 18.59 / 16.51 / 8.30 |
+| EMA 20 / 50 | 19.39 / 16.25 |
+| RSI (14) | 73.63 |
+| MACD / signal | 2.02 / 1.23 |
+| ADX (14) | 35.18 |
+| DI+ / DI− | 48.50 / 8.43 |
+| ATR (14) | 1.91 |
+| 52-week high / low | 28.60 / 3.75 |
 
-Signals: Trend: Strong Bullish; EMA20 > EMA50; ADX 28.6 (Strong); DI + dominant; RSI 72.4 (Overbought); MACD above signal; ⚠ Bearish RSI divergence (11 bars ago): Price made a higher high (18.71→18.72) while RSI made a lower high (72.1→65.1) — upward momentum is fading; watch for a pullback.
+Signals: Trend: Strong Bullish; EMA20 > EMA50; ADX 35.2 (Strong); DI + dominant; RSI 73.6 (Overbought); MACD above signal; ⚠ Bearish RSI divergence (14 bars ago): Price made a higher high (18.71→18.72) while RSI made a lower high (72.0→65.1) — upward momentum is fading; watch for a pullback.
 
 ## Notes
 

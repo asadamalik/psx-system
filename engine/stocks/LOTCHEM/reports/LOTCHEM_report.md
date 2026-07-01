@@ -1,5 +1,5 @@
 # Lotte Chemical Pakistan Limited (LOTCHEM) — Analysis Report
-*Generated 2026-06-28 01:18* · Sector: Chemical  
+*Generated 2026-07-02 02:48* · Sector: Chemical  
 *Decision-support only — not financial advice.*
 
 ## Verdict
@@ -59,21 +59,21 @@
 
 ## Technical Analysis
 
-As of **2026-06-24** (1237 bars). Trend **Strong Bullish**, momentum **Neutral**, technical score **71.1/100**.
+As of **2026-07-01** (2469 bars). Trend **Strong Bullish**, momentum **Neutral**, technical score **71.1/100**.
 
 | Indicator | Value |
 |---|---|
-| Close | 28.07 |
-| SMA 20 / 50 / 200 | 28.47 / 27.58 / 26.72 |
-| EMA 20 / 50 | 28.24 / 27.42 |
-| RSI (14) | 50.30 |
-| MACD / signal | 0.31 / 0.44 |
-| ADX (14) | 31.80 |
-| DI+ / DI− | 24.74 / 13.91 |
-| ATR (14) | 1.00 |
-| 52-week high / low | 33.94 / 18.67 |
+| Close | 28.19 |
+| SMA 20 / 50 / 200 | 28.39 / 27.78 / 26.79 |
+| EMA 20 / 50 | 28.16 / 27.48 |
+| RSI (14) | 51.78 |
+| MACD / signal | 0.17 / 0.32 |
+| ADX (14) | 30.80 |
+| DI+ / DI− | 24.55 / 14.80 |
+| ATR (14) | 0.96 |
+| 52-week high / low | 34.30 / 18.41 |
 
-Signals: Trend: Strong Bullish; EMA20 > EMA50; ADX 31.8 (Strong); DI + dominant; RSI 50.3 (Neutral); MACD below signal; ⚠ Bearish RSI divergence (11 bars ago): Price made a higher high (29.00→29.19) while RSI made a lower high (65.4→62.7) — upward momentum is fading; watch for a pullback.
+Signals: Trend: Strong Bullish; EMA20 > EMA50; ADX 30.8 (Strong); DI + dominant; RSI 51.8 (Neutral); MACD below signal; ⚠ Bearish RSI divergence (14 bars ago): Price made a higher high (29.00→29.19) while RSI made a lower high (65.4→62.7) — upward momentum is fading; watch for a pullback.
 
 ## Notes
 

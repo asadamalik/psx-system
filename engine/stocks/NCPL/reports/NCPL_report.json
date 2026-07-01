@@ -1,10 +1,10 @@
 {
   "symbol": "NCPL",
-  "generated": "2026-06-28 12:02",
+  "generated": "2026-07-02 02:49",
   "scores": {
     "fundamental_score": 45.0,
-    "technical_score": 60.0,
-    "overall_score": 49.5,
+    "technical_score": 43.3,
+    "overall_score": 44.5,
     "rating": "Reduce",
     "risk": "Low",
     "risk_score": 73.3,
@@ -65,7 +65,7 @@
     }
   },
   "technical": {
-    "technical_score": 60.0,
+    "technical_score": 43.3,
     "trend": "Bullish",
     "momentum": "Neutral",
     "adx_strength": "Weak",
@@ -75,52 +75,52 @@
     "notes": [
       "Trend: Bullish",
       "EMA20 < EMA50",
-      "ADX 11.6 (Weak); DI + dominant",
-      "RSI 45.8 (Neutral)",
-      "MACD above signal"
+      "ADX 9.2 (Weak); DI + dominant",
+      "RSI 47.4 (Neutral)",
+      "MACD below signal"
     ]
   },
   "technical_snapshot": {
-    "as_of": "2026-06-24",
-    "bars": 1236,
-    "close": 64.12,
-    "sma_20": 64.78450000000001,
-    "sma_50": 66.9684,
-    "sma_200": 52.2051,
-    "ema_20": 65.11690901881597,
-    "ema_50": 65.47521897743867,
-    "ema_100": 63.1399245324829,
-    "ema_200": 55.34834887670272,
-    "obv": 566841189.0,
+    "as_of": "2026-07-01",
+    "bars": 2467,
+    "close": 64.37,
+    "sma_20": 64.5835,
+    "sma_50": 66.7794,
+    "sma_200": 52.740649999999995,
+    "ema_20": 64.85700358953338,
+    "ema_50": 65.32012200098465,
+    "ema_100": 63.19623755582935,
+    "ema_200": 55.6074103148867,
+    "obv": 575952688.0,
     "weekly_trend": "Down",
     "monthly_trend": "Down",
     "support_resistance": {
-      "price": 64.12,
-      "nearest_resistance": 64.65,
-      "nearest_support": 62.7,
+      "price": 64.37,
+      "nearest_resistance": 65.1,
+      "nearest_support": 62.67,
       "resistance_levels": [
-        64.65,
+        65.1,
         67.94,
         71.74
       ],
       "support_levels": [
-        62.7,
-        58.45,
-        56.0
+        62.67,
+        58.74,
+        55.0
       ]
     },
-    "rsi_14": 45.75693427458153,
-    "macd": -0.21922883793205017,
-    "macd_signal": -0.2809354251999239,
-    "macd_hist": 0.06170658726787376,
-    "adx_14": 11.580493253343779,
-    "plus_di": 24.99734460841051,
-    "minus_di": 22.58673253703501,
-    "atr_14": 2.053213957352813,
-    "bb_upper": 67.4412308858846,
-    "bb_lower": 62.127769114115424,
-    "week52_high": 87.35,
-    "week52_low": 22.64,
+    "rsi_14": 47.359522664267914,
+    "macd": -0.3356624400108075,
+    "macd_signal": -0.30719487162417275,
+    "macd_hist": -0.028467568386634723,
+    "adx_14": 9.22169145598346,
+    "plus_di": 23.251434587945745,
+    "minus_di": 22.00284071462286,
+    "atr_14": 1.9268972671162876,
+    "bb_upper": 67.13141110519983,
+    "bb_lower": 62.03558889480018,
+    "week52_high": 89.48,
+    "week52_low": 22.49,
     "rsi_divergence": {
       "type": null
     },

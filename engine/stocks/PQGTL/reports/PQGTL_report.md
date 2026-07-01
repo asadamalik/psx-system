@@ -1,16 +1,16 @@
 # Pak Qatar General Takaful Limited (PQGTL) — Analysis Report
-*Generated 2026-06-28 11:53* · Sector: Insurance  
+*Generated 2026-07-02 02:49* · Sector: Insurance  
 *Decision-support only — not financial advice.*
 
 ## Verdict
 
 | | |
 |---|---|
-| **Overall score** | **84.7 / 100** |
+| **Overall score** | **86.3 / 100** |
 | **Rating** | **Strong Buy** |
 | Risk | Low |
 | Fundamental score | 92.4 (70% weight) |
-| Technical score | 66.7 (30% weight) |
+| Technical score | 72.2 (30% weight) |
 | Trend / Momentum | Bullish / Strong |
 
 ## Fundamental Analysis
@@ -59,21 +59,21 @@
 
 ## Technical Analysis
 
-As of **2026-06-24** (91 bars). Trend **Bullish**, momentum **Strong**, technical score **66.7/100**.
+As of **2026-07-01** (93 bars). Trend **Bullish**, momentum **Strong**, technical score **72.2/100**.
 
 | Indicator | Value |
 |---|---|
-| Close | 15.49 |
-| SMA 20 / 50 / 200 | 15.26 / 14.13 / — |
-| EMA 20 / 50 | 15.04 / 14.30 |
-| RSI (14) | 56.21 |
-| MACD / signal | 0.42 / 0.54 |
-| ADX (14) | 23.84 |
-| DI+ / DI− | 29.18 / 15.94 |
-| ATR (14) | 0.99 |
-| 52-week high / low | 19.80 / 10.85 |
+| Close | 15.94 |
+| SMA 20 / 50 / 200 | 15.60 / 14.23 / — |
+| EMA 20 / 50 | 15.19 / 14.47 |
+| RSI (14) | 59.25 |
+| MACD / signal | 0.40 / 0.47 |
+| ADX (14) | 25.11 |
+| DI+ / DI− | 30.67 / 14.91 |
+| ATR (14) | 0.94 |
+| 52-week high / low | 19.80 / 10.25 |
 
-Signals: Trend: Bullish; EMA20 > EMA50; ADX 23.8 (Developing); DI + dominant; RSI 56.2 (Strong); MACD below signal
+Signals: Trend: Bullish; EMA20 > EMA50; ADX 25.1 (Strong); DI + dominant; RSI 59.3 (Strong); MACD below signal
 
 ## Notes
 

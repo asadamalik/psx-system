@@ -1,17 +1,17 @@
 # Dewan Cement Limited (DCL) — Analysis Report
-*Generated 2026-06-28 01:10* · Sector: Cement  
+*Generated 2026-07-02 02:48* · Sector: Cement  
 *Decision-support only — not financial advice.*
 
 ## Verdict
 
 | | |
 |---|---|
-| **Overall score** | **51.6 / 100** |
-| **Rating** | **Hold** |
+| **Overall score** | **49.6 / 100** |
+| **Rating** | **Reduce** |
 | Risk | Medium |
 | Fundamental score | 47.5 (70% weight) |
-| Technical score | 61.1 (30% weight) |
-| Trend / Momentum | Sideways / Strong |
+| Technical score | 54.4 (30% weight) |
+| Trend / Momentum | Sideways / Neutral |
 
 ## Fundamental Analysis
 
@@ -59,21 +59,21 @@
 
 ## Technical Analysis
 
-As of **2026-06-24** (1237 bars). Trend **Sideways**, momentum **Strong**, technical score **61.1/100**.
+As of **2026-06-30** (2470 bars). Trend **Sideways**, momentum **Neutral**, technical score **54.4/100**.
 
 | Indicator | Value |
 |---|---|
-| Close | 11.55 |
-| SMA 20 / 50 / 200 | 11.58 / 10.27 / 11.66 |
-| EMA 20 / 50 | 11.37 / 10.61 |
-| RSI (14) | 56.66 |
-| MACD / signal | 0.42 / 0.53 |
-| ADX (14) | 30.10 |
-| DI+ / DI− | 28.58 / 18.30 |
-| ATR (14) | 0.50 |
-| 52-week high / low | 15.70 / 6.74 |
+| Close | 11.44 |
+| SMA 20 / 50 / 200 | 11.69 / 10.39 / 11.63 |
+| EMA 20 / 50 | 11.37 / 10.67 |
+| RSI (14) | 54.55 |
+| MACD / signal | 0.34 / 0.46 |
+| ADX (14) | 27.13 |
+| DI+ / DI− | 25.59 / 18.83 |
+| ATR (14) | 0.49 |
+| 52-week high / low | 16.31 / 6.61 |
 
-Signals: Trend: Sideways; EMA20 > EMA50; ADX 30.1 (Strong); DI + dominant; RSI 56.7 (Strong); MACD below signal
+Signals: Trend: Sideways; EMA20 > EMA50; ADX 27.1 (Strong); DI + dominant; RSI 54.6 (Neutral); MACD below signal
 
 ## Notes
 

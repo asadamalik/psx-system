@@ -1,5 +1,5 @@
 # PIA Holding Company Limited (PIAHCLA) — Analysis Report
-*Generated 2026-06-28 12:06*  
+*Generated 2026-07-02 02:49*  
 *Decision-support only — not financial advice.*
 
 ## Verdict
@@ -59,21 +59,21 @@
 
 ## Technical Analysis
 
-As of **2026-06-24** (1237 bars). Trend **Bullish**, momentum **Overbought**, technical score **77.8/100**.
+As of **2026-07-01** (2468 bars). Trend **Bullish**, momentum **Overbought**, technical score **77.8/100**.
 
 | Indicator | Value |
 |---|---|
-| Close | 29.41 |
-| SMA 20 / 50 / 200 | 26.62 / 24.35 / 26.25 |
-| EMA 20 / 50 | 26.62 / 25.20 |
-| RSI (14) | 70.23 |
-| MACD / signal | 0.92 / 0.84 |
-| ADX (14) | 40.55 |
-| DI+ / DI− | 40.21 / 14.07 |
-| ATR (14) | 1.11 |
-| 52-week high / low | 47.63 / 17.43 |
+| Close | 31.76 |
+| SMA 20 / 50 / 200 | 27.27 / 24.97 / 26.41 |
+| EMA 20 / 50 | 27.68 / 25.81 |
+| RSI (14) | 73.82 |
+| MACD / signal | 1.43 / 1.03 |
+| ADX (14) | 43.40 |
+| DI+ / DI− | 46.01 / 9.50 |
+| ATR (14) | 1.33 |
+| 52-week high / low | 49.65 / 16.30 |
 
-Signals: Trend: Bullish; EMA20 > EMA50; ADX 40.5 (Strong); DI + dominant; RSI 70.2 (Overbought); MACD above signal
+Signals: Trend: Bullish; EMA20 > EMA50; ADX 43.4 (Strong); DI + dominant; RSI 73.8 (Overbought); MACD above signal
 
 ## Notes
 

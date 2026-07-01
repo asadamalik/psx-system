@@ -1,5 +1,5 @@
 # Pace (Pakistan) Limited (PACE) — Analysis Report
-*Generated 2026-06-28 12:05* · Sector: Property  
+*Generated 2026-07-02 02:49* · Sector: Property  
 *Decision-support only — not financial advice.*
 
 ## Verdict
@@ -59,21 +59,21 @@
 
 ## Technical Analysis
 
-As of **2026-06-24** (1237 bars). Trend **Bearish**, momentum **Neutral**, technical score **21.1/100**.
+As of **2026-07-01** (2468 bars). Trend **Bearish**, momentum **Neutral**, technical score **21.1/100**.
 
 | Indicator | Value |
 |---|---|
-| Close | 11.30 |
-| SMA 20 / 50 / 200 | 11.30 / 11.38 / 15.25 |
-| EMA 20 / 50 | 11.35 / 11.38 |
-| RSI (14) | 49.74 |
-| MACD / signal | 0.09 / 0.11 |
-| ADX (14) | 15.82 |
-| DI+ / DI− | 17.37 / 14.81 |
-| ATR (14) | 0.53 |
-| 52-week high / low | 29.69 / 5.56 |
+| Close | 11.10 |
+| SMA 20 / 50 / 200 | 11.37 / 11.41 / 15.32 |
+| EMA 20 / 50 | 11.28 / 11.34 |
+| RSI (14) | 46.85 |
+| MACD / signal | 0.01 / 0.07 |
+| ADX (14) | 13.56 |
+| DI+ / DI− | 15.56 / 16.67 |
+| ATR (14) | 0.50 |
+| 52-week high / low | 31.00 / 5.56 |
 
-Signals: Trend: Bearish; EMA20 < EMA50; ADX 15.8 (Weak); DI + dominant; RSI 49.7 (Neutral); MACD below signal
+Signals: Trend: Bearish; EMA20 < EMA50; ADX 13.6 (Weak); DI - dominant; RSI 46.9 (Neutral); MACD below signal
 
 ## Notes
 

@@ -1,16 +1,16 @@
 # TPL Corp Limited (TPL) — Analysis Report
-*Generated 2026-06-28 10:11* · Sector: Technology & Communication  
+*Generated 2026-07-02 02:49* · Sector: Technology & Communication  
 *Decision-support only — not financial advice.*
 
 ## Verdict
 
 | | |
 |---|---|
-| **Overall score** | **44.3 / 100** |
+| **Overall score** | **41.0 / 100** |
 | **Rating** | **Reduce** |
 | Risk | High |
 | Fundamental score | 22.9 (70% weight) |
-| Technical score | 94.4 (30% weight) |
+| Technical score | 83.3 (30% weight) |
 | Trend / Momentum | Strong Bullish / Strong |
 
 ## Fundamental Analysis
@@ -59,21 +59,21 @@
 
 ## Technical Analysis
 
-As of **2026-06-24** (1237 bars). Trend **Strong Bullish**, momentum **Strong**, technical score **94.4/100**.
+As of **2026-07-01** (2468 bars). Trend **Strong Bullish**, momentum **Strong**, technical score **83.3/100**.
 
 | Indicator | Value |
 |---|---|
-| Close | 16.42 |
-| SMA 20 / 50 / 200 | 14.12 / 11.63 / 9.27 |
-| EMA 20 / 50 | 14.56 / 12.30 |
-| RSI (14) | 68.42 |
-| MACD / signal | 1.57 / 1.45 |
-| ADX (14) | 64.24 |
-| DI+ / DI− | 28.11 / 7.99 |
-| ATR (14) | 1.12 |
-| 52-week high / low | 18.00 / 5.35 |
+| Close | 16.48 |
+| SMA 20 / 50 / 200 | 14.84 / 12.16 / 9.36 |
+| EMA 20 / 50 | 14.94 / 12.72 |
+| RSI (14) | 65.47 |
+| MACD / signal | 1.35 / 1.42 |
+| ADX (14) | 58.40 |
+| DI+ / DI− | 24.32 / 11.21 |
+| ATR (14) | 1.10 |
+| 52-week high / low | 18.00 / 5.01 |
 
-Signals: Trend: Strong Bullish; EMA20 > EMA50; ADX 64.2 (Strong); DI + dominant; RSI 68.4 (Strong); MACD above signal; ⚠ Bearish RSI divergence (25 bars ago): Price made a higher high (10.84→11.23) while RSI made a lower high (71.9→67.3) — upward momentum is fading; watch for a pullback.
+Signals: Trend: Strong Bullish; EMA20 > EMA50; ADX 58.4 (Strong); DI + dominant; RSI 65.5 (Strong); MACD below signal
 
 ## Notes
 

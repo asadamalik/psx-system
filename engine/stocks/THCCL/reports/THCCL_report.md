@@ -1,16 +1,16 @@
 # Thatta Cement Company Limited (THCCL) — Analysis Report
-*Generated 2026-06-28 01:18* · Sector: Cement  
+*Generated 2026-07-02 02:49* · Sector: Cement  
 *Decision-support only — not financial advice.*
 
 ## Verdict
 
 | | |
 |---|---|
-| **Overall score** | **80.4 / 100** |
-| **Rating** | **Strong Buy** |
+| **Overall score** | **78.8 / 100** |
+| **Rating** | **Buy** |
 | Risk | Low |
 | Fundamental score | 88.7 (70% weight) |
-| Technical score | 61.1 (30% weight) |
+| Technical score | 55.6 (30% weight) |
 | Trend / Momentum | Sideways / Strong |
 
 ## Fundamental Analysis
@@ -59,21 +59,21 @@
 
 ## Technical Analysis
 
-As of **2026-06-24** (239 bars). Trend **Sideways**, momentum **Strong**, technical score **61.1/100**.
+As of **2026-07-01** (2454 bars). Trend **Sideways**, momentum **Strong**, technical score **55.6/100**.
 
 | Indicator | Value |
 |---|---|
-| Close | 66.61 |
-| SMA 20 / 50 / 200 | 64.80 / 59.25 / 69.27 |
-| EMA 20 / 50 | 64.84 / 61.29 |
-| RSI (14) | 59.83 |
-| MACD / signal | 2.93 / 3.22 |
-| ADX (14) | 27.31 |
-| DI+ / DI− | 27.51 / 20.24 |
-| ATR (14) | 2.61 |
-| 52-week high / low | 102.10 / 39.97 |
+| Close | 68.47 |
+| SMA 20 / 50 / 200 | 66.54 / 59.75 / 69.55 |
+| EMA 20 / 50 | 65.27 / 61.87 |
+| RSI (14) | 62.77 |
+| MACD / signal | 2.34 / 2.82 |
+| ADX (14) | 23.44 |
+| DI+ / DI− | 28.42 / 20.40 |
+| ATR (14) | 2.65 |
+| 52-week high / low | 103.50 / 36.40 |
 
-Signals: Trend: Sideways; EMA20 > EMA50; ADX 27.3 (Strong); DI + dominant; RSI 59.8 (Strong); MACD below signal
+Signals: Trend: Sideways; EMA20 > EMA50; ADX 23.4 (Developing); DI + dominant; RSI 62.8 (Strong); MACD below signal
 
 ## Notes
 

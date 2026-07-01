@@ -1,10 +1,10 @@
 {
   "symbol": "JVDC",
-  "generated": "2026-06-28 01:24",
+  "generated": "2026-07-02 02:48",
   "scores": {
     "fundamental_score": 80.7,
-    "technical_score": 71.1,
-    "overall_score": 77.8,
+    "technical_score": 77.8,
+    "overall_score": 79.8,
     "rating": "Buy",
     "risk": "Medium",
     "risk_score": 63.3,
@@ -64,9 +64,9 @@
     }
   },
   "technical": {
-    "technical_score": 71.1,
+    "technical_score": 77.8,
     "trend": "Strong Bullish",
-    "momentum": "Neutral",
+    "momentum": "Strong",
     "adx_strength": "Developing",
     "rsi_divergence": {
       "type": null
@@ -74,50 +74,50 @@
     "notes": [
       "Trend: Strong Bullish",
       "EMA20 > EMA50",
-      "ADX 21.2 (Developing); DI + dominant",
-      "RSI 54.7 (Neutral)",
+      "ADX 20.2 (Developing); DI + dominant",
+      "RSI 57.8 (Strong)",
       "MACD below signal"
     ]
   },
   "technical_snapshot": {
-    "as_of": "2026-06-24",
-    "bars": 565,
-    "close": 144.51,
-    "sma_20": 142.74550000000002,
-    "sma_50": 135.7864,
-    "sma_200": 109.10660000000001,
-    "ema_20": 142.8244028213167,
-    "ema_50": 135.7317233334956,
-    "ema_100": 127.16772553183611,
-    "ema_200": 112.82582717994433,
-    "obv": 108971522.0,
+    "as_of": "2026-06-30",
+    "bars": 2260,
+    "close": 147.2,
+    "sma_20": 143.895,
+    "sma_50": 136.7962,
+    "sma_200": 109.68834999999999,
+    "ema_20": 143.41641579906417,
+    "ema_50": 136.52586475557544,
+    "ema_100": 127.90841198140468,
+    "ema_200": 113.50045401900572,
+    "obv": 128111144.0,
     "weekly_trend": "Up",
     "monthly_trend": "Up",
     "support_resistance": {
-      "price": 144.51,
-      "nearest_resistance": 159.63,
+      "price": 147.2,
+      "nearest_resistance": 162.0,
       "nearest_support": 130.0,
       "resistance_levels": [
-        159.63
+        162.0
       ],
       "support_levels": [
         130.0,
         126.01,
-        115.15
+        113.88
       ]
     },
-    "rsi_14": 54.65353087609347,
-    "macd": 3.560949701735069,
-    "macd_signal": 4.346038645036117,
-    "macd_hist": -0.785088943301048,
-    "adx_14": 21.196291160732127,
-    "plus_di": 24.011225393885653,
-    "minus_di": 18.680625254838986,
-    "atr_14": 6.247867639516634,
-    "bb_upper": 156.55861329860195,
-    "bb_lower": 128.9323867013981,
-    "week52_high": 160.16,
-    "week52_low": 61.11,
+    "rsi_14": 57.81408983402291,
+    "macd": 3.2512965245863086,
+    "macd_signal": 3.9602246556085388,
+    "macd_hist": -0.7089281310222302,
+    "adx_14": 20.165611522754478,
+    "plus_di": 24.63532870344854,
+    "minus_di": 16.69474850147938,
+    "atr_14": 6.068113972155771,
+    "bb_upper": 156.6757816662277,
+    "bb_lower": 131.11421833377233,
+    "week52_high": 163.0,
+    "week52_low": 62.0,
     "rsi_divergence": {
       "type": null
     },
@@ -128,7 +128,7 @@
         "confidence": 0.56,
         "status": "forming",
         "neckline": 153.16,
-        "target": 165.73,
+        "target": 168.42,
         "note": "Strong pole then tight consolidation; bullish continuation bias."
       }
     ]

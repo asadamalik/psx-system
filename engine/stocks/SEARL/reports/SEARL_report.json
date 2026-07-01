@@ -1,6 +1,6 @@
 {
   "symbol": "SEARL",
-  "generated": "2026-06-28 01:23",
+  "generated": "2026-07-02 02:49",
   "scores": {
     "fundamental_score": 36.4,
     "technical_score": 66.7,
@@ -74,64 +74,64 @@
     "notes": [
       "Trend: Sideways",
       "EMA20 > EMA50",
-      "ADX 13.8 (Weak); DI + dominant",
-      "RSI 59.1 (Strong)",
+      "ADX 15.7 (Weak); DI + dominant",
+      "RSI 56.0 (Strong)",
       "MACD above signal"
     ]
   },
   "technical_snapshot": {
-    "as_of": "2026-06-24",
-    "bars": 1237,
-    "close": 95.49,
-    "sma_20": 92.2085,
-    "sma_50": 91.3758,
-    "sma_200": 104.0107,
-    "ema_20": 92.7179038440597,
-    "ema_50": 92.08028050720664,
-    "ema_100": 94.98078216766199,
-    "ema_200": 97.86479637400801,
-    "obv": 1033681599.0,
+    "as_of": "2026-07-01",
+    "bars": 2469,
+    "close": 94.58,
+    "sma_20": 92.91900000000001,
+    "sma_50": 91.48,
+    "sma_200": 102.14707,
+    "ema_20": 93.15610605302587,
+    "ema_50": 92.33147470883401,
+    "ema_100": 94.57194168544565,
+    "ema_200": 95.66331063770842,
+    "obv": 1458326428.0,
     "weekly_trend": "Up",
     "monthly_trend": "Up",
     "support_resistance": {
-      "price": 95.49,
+      "price": 94.58,
       "nearest_resistance": 95.91,
-      "nearest_support": 82.95,
+      "nearest_support": 93.0,
       "resistance_levels": [
         95.91,
         99.05,
-        128.09
+        127.5
       ],
       "support_levels": [
-        82.95,
-        79.59,
-        76.37
+        93.0,
+        83.31,
+        80.8
       ]
     },
-    "rsi_14": 59.106149546760335,
-    "macd": 1.4087778802779383,
-    "macd_signal": 1.1346006202366954,
-    "macd_hist": 0.2741772600412429,
-    "adx_14": 13.753406235356248,
-    "plus_di": 27.896175271824635,
-    "minus_di": 18.701087054156343,
-    "atr_14": 2.7219794730979427,
-    "bb_upper": 97.48181878421882,
-    "bb_lower": 86.93518121578118,
-    "week52_high": 135.99,
-    "week52_low": 76.37,
+    "rsi_14": 56.04015088327823,
+    "macd": 1.263587034631385,
+    "macd_signal": 1.2128217419494005,
+    "macd_hist": 0.0507652926819846,
+    "adx_14": 15.718929444512892,
+    "plus_di": 25.75472057661759,
+    "minus_di": 15.710745855265941,
+    "atr_14": 2.5845023424402864,
+    "bb_upper": 97.86681527545548,
+    "bb_lower": 87.97118472454454,
+    "week52_high": 137.44,
+    "week52_low": 75.226,
     "rsi_divergence": {
       "type": null
     },
     "patterns": [
       {
-        "name": "Double Top",
-        "type": "bearish",
-        "confidence": 0.16,
+        "name": "Ascending Triangle",
+        "type": "bullish",
+        "confidence": 0.55,
         "status": "forming",
-        "neckline": 83.63,
-        "target": 68.46,
-        "note": "Two near-equal peaks; breaks down below the trough (neckline)."
+        "neckline": 98.8,
+        "target": 113.97,
+        "note": "Flat resistance with rising lows; bullish breakout bias."
       }
     ]
   },

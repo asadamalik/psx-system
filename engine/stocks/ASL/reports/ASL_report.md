@@ -1,5 +1,5 @@
 # Aisha Steel Mills Limited (ASL) — Analysis Report
-*Generated 2026-06-28 01:22* · Sector: Engineering  
+*Generated 2026-07-02 02:47* · Sector: Engineering  
 *Decision-support only — not financial advice.*
 
 ## Verdict
@@ -59,21 +59,21 @@
 
 ## Technical Analysis
 
-As of **2026-06-24** (1237 bars). Trend **Bullish**, momentum **Strong**, technical score **72.2/100**.
+As of **2026-06-30** (2470 bars). Trend **Bullish**, momentum **Strong**, technical score **72.2/100**.
 
 | Indicator | Value |
 |---|---|
-| Close | 13.17 |
-| SMA 20 / 50 / 200 | 12.83 / 12.24 / 12.64 |
-| EMA 20 / 50 | 12.88 / 12.31 |
-| RSI (14) | 57.47 |
-| MACD / signal | 0.36 / 0.36 |
-| ADX (14) | 33.94 |
-| DI+ / DI− | 22.14 / 11.38 |
-| ATR (14) | 0.52 |
-| 52-week high / low | 15.75 / 9.00 |
+| Close | 13.14 |
+| SMA 20 / 50 / 200 | 12.91 / 12.31 / 12.62 |
+| EMA 20 / 50 | 12.92 / 12.37 |
+| RSI (14) | 56.52 |
+| MACD / signal | 0.31 / 0.35 |
+| ADX (14) | 29.37 |
+| DI+ / DI− | 18.25 / 16.62 |
+| ATR (14) | 0.54 |
+| 52-week high / low | 15.94 / 8.51 |
 
-Signals: Trend: Bullish; EMA20 > EMA50; ADX 33.9 (Strong); DI + dominant; RSI 57.5 (Strong); MACD below signal
+Signals: Trend: Bullish; EMA20 > EMA50; ADX 29.4 (Strong); DI + dominant; RSI 56.5 (Strong); MACD below signal
 
 ## Notes
 

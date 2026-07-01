@@ -278,7 +278,12 @@ footer.disclaimer{color:var(--text-4); font-size:11.5px; text-align:center; padd
 .mo-save{margin-top:8px; font-family:var(--mono); font-size:11px; color:var(--accent); background:var(--accent-dim); border:1px solid #4a3a1f; border-radius:var(--radius-sm); padding:5px 12px; cursor:pointer}
 .mo-save:hover{background:rgba(232,162,61,.22)}
 .plan-chart-wrap{background:var(--e1); border:1px solid var(--border); border-radius:var(--radius-md); padding:var(--sp-4) var(--sp-4) 10px; margin:var(--sp-4) 0}
-.plan-chart-h{font-size:10px; text-transform:uppercase; letter-spacing:.12em; color:var(--text-3); margin-bottom:10px; font-weight:600}
+.plan-chart-h{font-size:10px; text-transform:uppercase; letter-spacing:.12em; color:var(--text-3); margin-bottom:10px; font-weight:600; display:flex; align-items:center; gap:10px}
+.plan-range{display:inline-flex; margin-left:auto; gap:0}
+.plan-range button{font-family:var(--mono); font-size:10px; font-weight:600; letter-spacing:.02em; color:var(--text-3); background:var(--e2); border:1px solid var(--border); border-right:none; padding:3px 9px; cursor:pointer}
+.plan-range button:first-child{border-radius:var(--radius-sm) 0 0 var(--radius-sm)}
+.plan-range button:last-child{border-radius:0 var(--radius-sm) var(--radius-sm) 0; border-right:1px solid var(--border)}
+.plan-range button.active{color:var(--accent); border-color:var(--accent-dim); background:rgba(232,162,61,.1)}
 #planChart{width:100%; height:260px; display:block}
 .plan-chart-legend{display:flex; gap:14px; flex-wrap:wrap; margin-top:8px; font-family:var(--mono); font-size:11px; color:var(--text-3)}
 .plan-chart-legend .lg{display:inline-flex; align-items:center; gap:5px}
@@ -405,7 +410,7 @@ footer.disclaimer{color:var(--text-4); font-size:11.5px; text-align:center; padd
     </div>
     <div id="dtThesis"></div>
     <div class="plan-chart-wrap" id="planChartWrap" hidden>
-      <h3 class="plan-chart-h">Trading plan on chart</h3>
+      <h3 class="plan-chart-h">Trading plan on chart<span class="plan-range" id="planRange"><button data-win="90" class="active">3M</button><button data-win="250">1Y</button><button data-win="1250">5Y</button><button data-win="max">Max</button></span></h3>
       <canvas id="planChart"></canvas>
       <div class="plan-chart-legend" id="planChartLegend"></div>
     </div>
@@ -1102,6 +1107,16 @@ function finView(btn,mode){
   if(q) q.style.display=mode?'':'none';
 }
 
+// chart range window (bars): 90=3M, 250=1Y, 1250=5Y, 'max'=full stockanalysis history.
+let _planWin=90;
+(function(){ const pr=document.getElementById('planRange'); if(!pr) return;
+  pr.addEventListener('click',e=>{ const b=e.target.closest('button'); if(!b) return;
+    Array.from(pr.querySelectorAll('button')).forEach(x=>x.classList.remove('active'));
+    b.classList.add('active');
+    _planWin = b.dataset.win==='max' ? 'max' : +b.dataset.win;
+    if(window._planLast) drawPlanChart(window._planLast.ch, window._planLast.A, window._planLast.col);
+  });
+})();
 function drawPlanChart(ch, A, col){
   const wrap=document.getElementById('planChartWrap'), cv=document.getElementById('planChart');
   wrap.hidden=false;
@@ -1110,7 +1125,9 @@ function drawPlanChart(ch, A, col){
   cv.width=cssW*dpr; cv.height=cssH*dpr; cv.style.width=cssW+'px'; cv.style.height=cssH+'px';
   const g=cv.getContext('2d'); g.setTransform(dpr,0,0,dpr,0,0); g.clearRect(0,0,cssW,cssH);
 
-  const N=Math.min(ch.c.length,90);                 // last ~90 sessions for context
+  window._planLast={ch,A,col};                       // remember for range-button redraws
+  const N=(_planWin==='max')?ch.c.length:Math.min(ch.c.length,_planWin);
+  const asLine=N>260;                                // too many bars for candles -> close line
   const o=ch.o.slice(-N), c=ch.c.slice(-N), vol=(ch.v||[]).slice(-N);
   // real intraday high/low when we have it (engine OHLC / persisted store), else
   // bound the candle by open/close \u2014 disclosed in the legend so it's never implied.
@@ -1150,23 +1167,31 @@ function drawPlanChart(ch, A, col){
   hline(pl.t1, col.up, 'T1', false);
   hline(pl.stop, col.down, 'Stop', false);
 
-  // candlesticks
-  for(let i=0;i<N;i++){
-    const up=c[i]>=o[i], cc=up?col.up:col.down, x=xc(i);
-    g.strokeStyle=cc; g.fillStyle=cc; g.lineWidth=1;
-    // wick
-    g.beginPath(); g.moveTo(x, y(H[i])); g.lineTo(x, y(L[i])); g.stroke();
-    // body
-    const yo=y(o[i]), yck=y(c[i]); const top=Math.min(yo,yck), h=Math.max(1, Math.abs(yo-yck));
-    g.fillRect(x-bodyW/2, top, bodyW, h);
+  // price: candlesticks for short ranges; a close line when there are too many bars to draw
+  if(asLine){
+    g.strokeStyle=col.sig; g.lineWidth=1.4; g.beginPath();
+    for(let i=0;i<N;i++){ const xx=xc(i), yy=y(c[i]); i?g.lineTo(xx,yy):g.moveTo(xx,yy); }
+    g.stroke();
+    g.lineTo(xc(N-1),priceBot); g.lineTo(xc(0),priceBot); g.closePath();
+    g.fillStyle=col.sig+'14'; g.fill();
+  } else {
+    for(let i=0;i<N;i++){
+      const up=c[i]>=o[i], cc=up?col.up:col.down, x=xc(i);
+      g.strokeStyle=cc; g.fillStyle=cc; g.lineWidth=1;
+      // wick
+      g.beginPath(); g.moveTo(x, y(H[i])); g.lineTo(x, y(L[i])); g.stroke();
+      // body
+      const yo=y(o[i]), yck=y(c[i]); const top=Math.min(yo,yck), h=Math.max(1, Math.abs(yo-yck));
+      g.fillRect(x-bodyW/2, top, bodyW, h);
+    }
   }
 
-  // volume sub-panel
-  const vmax=Math.max(1, ...vol);
+  // volume sub-panel (contiguous thin bars read as an area when the range is long)
+  const vmax=Math.max(1, ...vol), vw=asLine?Math.max(0.6,slot):bodyW;
   for(let i=0;i<N;i++){
     const up=c[i]>=o[i]; const vh=(vol[i]||0)/vmax*(volBot-volTop);
     g.save(); g.globalAlpha=0.55; g.fillStyle=up?col.up:col.down;
-    g.fillRect(xc(i)-bodyW/2, volBot-vh, bodyW, vh); g.restore();
+    g.fillRect(xc(i)-vw/2, volBot-vh, vw, vh); g.restore();
   }
   g.fillStyle=col.dim; g.font='600 9px "IBM Plex Mono",monospace'; g.textBaseline='top';
   g.fillText('VOL', pad.l, volTop-2);

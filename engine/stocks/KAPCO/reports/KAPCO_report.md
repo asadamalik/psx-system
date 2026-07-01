@@ -1,16 +1,16 @@
 # Kot Addu Power Company Limited (KAPCO) — Analysis Report
-*Generated 2026-06-28 11:48* · Sector: Power Generation & Distribution  
+*Generated 2026-07-02 02:48* · Sector: Power Generation & Distribution  
 *Decision-support only — not financial advice.*
 
 ## Verdict
 
 | | |
 |---|---|
-| **Overall score** | **50.5 / 100** |
+| **Overall score** | **53.9 / 100** |
 | **Rating** | **Hold** |
 | Risk | Low |
 | Fundamental score | 43.6 (70% weight) |
-| Technical score | 66.7 (30% weight) |
+| Technical score | 77.8 (30% weight) |
 | Trend / Momentum | Sideways / Strong |
 
 ## Fundamental Analysis
@@ -59,21 +59,21 @@
 
 ## Technical Analysis
 
-As of **2026-06-24** (1237 bars). Trend **Sideways**, momentum **Strong**, technical score **66.7/100**.
+As of **2026-07-01** (2470 bars). Trend **Sideways**, momentum **Strong**, technical score **77.8/100**.
 
 | Indicator | Value |
 |---|---|
-| Close | 28.28 |
-| SMA 20 / 50 / 200 | 27.84 / 27.73 / 31.30 |
-| EMA 20 / 50 | 27.89 / 27.94 |
-| RSI (14) | 60.27 |
-| MACD / signal | 0.21 / 0.14 |
-| ADX (14) | 28.26 |
-| DI+ / DI− | 24.04 / 9.22 |
-| ATR (14) | 0.52 |
-| 52-week high / low | 40.09 / 25.05 |
+| Close | 28.36 |
+| SMA 20 / 50 / 200 | 27.95 / 27.72 / 31.17 |
+| EMA 20 / 50 | 27.98 / 27.97 |
+| RSI (14) | 59.98 |
+| MACD / signal | 0.21 / 0.17 |
+| ADX (14) | 29.18 |
+| DI+ / DI− | 21.80 / 9.48 |
+| ATR (14) | 0.51 |
+| 52-week high / low | 41.04 / 24.01 |
 
-Signals: Trend: Sideways; EMA20 < EMA50; ADX 28.3 (Strong); DI + dominant; RSI 60.3 (Strong); MACD above signal
+Signals: Trend: Sideways; EMA20 > EMA50; ADX 29.2 (Strong); DI + dominant; RSI 60.0 (Strong); MACD above signal
 
 ## Notes
 

@@ -1,17 +1,17 @@
 # Media Times Limited (MDTL) — Analysis Report
-*Generated 2026-06-28 12:01* · Sector: Technology & Communication  
+*Generated 2026-07-02 02:49* · Sector: Technology & Communication  
 *Decision-support only — not financial advice.*
 
 ## Verdict
 
 | | |
 |---|---|
-| **Overall score** | **62.9 / 100** |
+| **Overall score** | **54.6 / 100** |
 | **Rating** | **Hold** |
 | Risk | Low |
 | Fundamental score | 49.9 (70% weight) |
-| Technical score | 93.3 (30% weight) |
-| Trend / Momentum | Strong Bullish / Neutral |
+| Technical score | 65.6 (30% weight) |
+| Trend / Momentum | Bullish / Neutral |
 
 ## Fundamental Analysis
 
@@ -59,21 +59,21 @@
 
 ## Technical Analysis
 
-As of **2026-06-24** (1236 bars). Trend **Strong Bullish**, momentum **Neutral**, technical score **93.3/100**.
+As of **2026-07-01** (2468 bars). Trend **Bullish**, momentum **Neutral**, technical score **65.6/100**.
 
 | Indicator | Value |
 |---|---|
-| Close | 6.06 |
-| SMA 20 / 50 / 200 | 5.95 / 5.84 / 5.45 |
-| EMA 20 / 50 | 5.99 / 5.85 |
-| RSI (14) | 53.69 |
-| MACD / signal | 0.10 / 0.10 |
-| ADX (14) | 38.97 |
-| DI+ / DI− | 28.00 / 11.36 |
-| ATR (14) | 0.32 |
-| 52-week high / low | 9.00 / 2.56 |
+| Close | 5.87 |
+| SMA 20 / 50 / 200 | 5.97 / 5.87 / 5.49 |
+| EMA 20 / 50 | 5.96 / 5.86 |
+| RSI (14) | 47.86 |
+| MACD / signal | 0.05 / 0.08 |
+| ADX (14) | 38.50 |
+| DI+ / DI− | 25.92 / 11.59 |
+| ATR (14) | 0.30 |
+| 52-week high / low | 9.30 / 2.55 |
 
-Signals: Trend: Strong Bullish; EMA20 > EMA50; ADX 39.0 (Strong); DI + dominant; RSI 53.7 (Neutral); MACD above signal
+Signals: Trend: Bullish; EMA20 > EMA50; ADX 38.5 (Strong); DI + dominant; RSI 47.9 (Neutral); MACD below signal
 
 ## Notes
 

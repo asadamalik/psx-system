@@ -1,5 +1,5 @@
 # Ittefaq Iron Industries Limited (ITTEFAQ) — Analysis Report
-*Generated 2026-06-28 01:27* · Sector: Engineering  
+*Generated 2026-07-02 02:48* · Sector: Engineering  
 *Decision-support only — not financial advice.*
 
 ## Verdict
@@ -59,21 +59,21 @@
 
 ## Technical Analysis
 
-As of **2026-06-24** (1235 bars). Trend **Sideways**, momentum **Neutral**, technical score **54.4/100**.
+As of **2026-07-01** (2221 bars). Trend **Sideways**, momentum **Neutral**, technical score **54.4/100**.
 
 | Indicator | Value |
 |---|---|
-| Close | 8.65 |
-| SMA 20 / 50 / 200 | 8.57 / 8.25 / 8.95 |
-| EMA 20 / 50 | 8.61 / 8.35 |
-| RSI (14) | 53.57 |
-| MACD / signal | 0.20 / 0.20 |
-| ADX (14) | 49.12 |
-| DI+ / DI− | 25.40 / 13.52 |
-| ATR (14) | 0.43 |
-| 52-week high / low | 12.40 / 6.05 |
+| Close | 8.67 |
+| SMA 20 / 50 / 200 | 8.63 / 8.30 / 8.93 |
+| EMA 20 / 50 | 8.61 / 8.38 |
+| RSI (14) | 53.90 |
+| MACD / signal | 0.14 / 0.18 |
+| ADX (14) | 45.69 |
+| DI+ / DI− | 21.46 / 12.95 |
+| ATR (14) | 0.41 |
+| 52-week high / low | 12.64 / 5.75 |
 
-Signals: Trend: Sideways; EMA20 > EMA50; ADX 49.1 (Strong); DI + dominant; RSI 53.6 (Neutral); MACD below signal
+Signals: Trend: Sideways; EMA20 > EMA50; ADX 45.7 (Strong); DI + dominant; RSI 53.9 (Neutral); MACD below signal
 
 ## Notes
 

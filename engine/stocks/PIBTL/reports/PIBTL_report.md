@@ -1,16 +1,16 @@
 # Pakistan International Bulk Terminal Ltd (PIBTL) — Analysis Report
-*Generated 2026-06-27 23:47* · Sector: Industrials  
+*Generated 2026-07-02 02:49* · Sector: Industrials  
 *Decision-support only — not financial advice.*
 
 ## Verdict
 
 | | |
 |---|---|
-| **Overall score** | **52.1 / 100** |
+| **Overall score** | **53.7 / 100** |
 | **Rating** | **Hold** |
 | Risk | Medium |
 | Fundamental score | 36.3 (70% weight) |
-| Technical score | 88.9 (30% weight) |
+| Technical score | 94.4 (30% weight) |
 | Trend / Momentum | Strong Bullish / Strong |
 
 ## Fundamental Analysis
@@ -59,21 +59,21 @@
 
 ## Technical Analysis
 
-As of **2026-06-24** (1237 bars). Trend **Strong Bullish**, momentum **Strong**, technical score **88.9/100**.
+As of **2026-07-01** (2470 bars). Trend **Strong Bullish**, momentum **Strong**, technical score **94.4/100**.
 
 | Indicator | Value |
 |---|---|
-| Close | 18.64 |
-| SMA 20 / 50 / 200 | 17.49 / 16.81 / 16.49 |
-| EMA 20 / 50 | 17.56 / 16.98 |
-| RSI (14) | 65.59 |
-| MACD / signal | 0.46 / 0.42 |
-| ADX (14) | 17.50 |
-| DI+ / DI− | 31.41 / 15.24 |
-| ATR (14) | 0.69 |
-| 52-week high / low | 22.59 / 8.27 |
+| Close | 18.85 |
+| SMA 20 / 50 / 200 | 17.77 / 16.96 / 16.58 |
+| EMA 20 / 50 | 17.87 / 17.18 |
+| RSI (14) | 63.49 |
+| MACD / signal | 0.54 / 0.46 |
+| ADX (14) | 21.46 |
+| DI+ / DI− | 28.97 / 11.93 |
+| ATR (14) | 0.71 |
+| 52-week high / low | 22.97 / 8.50 |
 
-Signals: Trend: Strong Bullish; EMA20 > EMA50; ADX 17.5 (Weak); DI + dominant; RSI 65.6 (Strong); MACD above signal
+Signals: Trend: Strong Bullish; EMA20 > EMA50; ADX 21.5 (Developing); DI + dominant; RSI 63.5 (Strong); MACD above signal
 
 ## Notes
 

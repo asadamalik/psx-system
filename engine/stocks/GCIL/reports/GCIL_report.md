@@ -1,17 +1,17 @@
 # Ghani Chemical Industries Limited (GCIL) — Analysis Report
-*Generated 2026-06-28 17:25* · Sector: Chemical  
+*Generated 2026-07-02 02:48* · Sector: Chemical  
 *Decision-support only — not financial advice.*
 
 ## Verdict
 
 | | |
 |---|---|
-| **Overall score** | **91.7 / 100** |
+| **Overall score** | **96.7 / 100** |
 | **Rating** | **Strong Buy** |
-| Risk | Low |
+| Risk | Medium |
 | Fundamental score | 100.0 (70% weight) |
-| Technical score | 72.2 (30% weight) |
-| Trend / Momentum | Bullish / Overbought |
+| Technical score | 88.9 (30% weight) |
+| Trend / Momentum | Bullish / Strong |
 
 ## Fundamental Analysis
 
@@ -59,21 +59,21 @@
 
 ## Technical Analysis
 
-As of **2026-06-24** (895 bars). Trend **Bullish**, momentum **Overbought**, technical score **72.2/100**.
+As of **2026-07-01** (897 bars). Trend **Bullish**, momentum **Strong**, technical score **88.9/100**.
 
 | Indicator | Value |
 |---|---|
-| Close | 34.79 |
-| SMA 20 / 50 / 200 | 30.65 / 29.68 / 31.56 |
-| EMA 20 / 50 | 31.17 / 30.04 |
-| RSI (14) | 72.83 |
-| MACD / signal | 1.35 / 0.83 |
-| ADX (14) | 23.53 |
-| DI+ / DI− | 52.81 / 15.81 |
-| ATR (14) | 0.83 |
-| 52-week high / low | 39.50 / 19.80 |
+| Close | 35.44 |
+| SMA 20 / 50 / 200 | 31.73 / 30.09 / 31.62 |
+| EMA 20 / 50 | 32.37 / 30.69 |
+| RSI (14) | 69.83 |
+| MACD / signal | 1.75 / 1.25 |
+| ADX (14) | 34.88 |
+| DI+ / DI− | 36.22 / 7.28 |
+| ATR (14) | 1.67 |
+| 52-week high / low | 39.87 / 23.81 |
 
-Signals: Trend: Bullish; EMA20 > EMA50; ADX 23.5 (Developing); DI + dominant; RSI 72.8 (Overbought); MACD above signal
+Signals: Trend: Bullish; EMA20 > EMA50; ADX 34.9 (Strong); DI + dominant; RSI 69.8 (Strong); MACD above signal
 
 ## Notes
 

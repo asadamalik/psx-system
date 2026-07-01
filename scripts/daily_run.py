@@ -51,8 +51,17 @@ def main(scrape: bool = True) -> None:
     if todo:
         subprocess.run([PY, str(ROOT / "engine" / "batch_onboard.py"), *todo],
                        cwd=str(ROOT / "engine"))
-        # 4. rebuild so the freshly onboarded stocks appear in the dashboard
-        dev_rebuild.rebuild(fresh=False)
+
+    # 4. refresh FULL stockanalysis OHLCV history for every engine stock so charts + scores
+    #    stay deep and current (real H/L, thousands of bars). Best-effort per stock.
+    eng_syms = sorted(p.name for p in STOCKS.iterdir()
+                      if p.is_dir() and not p.name.startswith("_"))
+    if eng_syms:
+        subprocess.run([PY, str(ROOT / "engine" / "refresh_history.py"), *eng_syms],
+                       cwd=str(ROOT / "engine"))
+
+    # 5. always rebuild so fresh history + any new stocks show, then publish index.html
+    dev_rebuild.rebuild(fresh=False)
 
     # publish: Pages serves index.html; the build writes psx_dashboard.html
     out = Path(psx_auto.OUT)

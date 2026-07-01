@@ -1,0 +1,63 @@
+{
+  "as_of": "2026-07-01",
+  "bars": 100,
+  "close": 16.2,
+  "sma_20": 16.13,
+  "sma_50": 16.3646,
+  "sma_200": null,
+  "ema_20": 16.175457819251942,
+  "ema_50": 16.257726743617027,
+  "ema_100": 16.356601501628173,
+  "ema_200": null,
+  "obv": -45370.0,
+  "weekly_trend": "Down",
+  "monthly_trend": "Down",
+  "support_resistance": {
+    "price": 16.2,
+    "nearest_resistance": 16.67,
+    "nearest_support": 15.88,
+    "resistance_levels": [
+      16.67,
+      17.35
+    ],
+    "support_levels": [
+      15.88,
+      15.29
+    ]
+  },
+  "rsi_14": 50.05322532177289,
+  "macd": -0.030866267360224242,
+  "macd_signal": -0.054954536828366096,
+  "macd_hist": 0.024088269468141854,
+  "adx_14": 24.976823480601265,
+  "plus_di": 19.396210587855514,
+  "minus_di": 8.37817302265037,
+  "atr_14": 0.279582909067926,
+  "bb_upper": 16.22859006035094,
+  "bb_lower": 16.03140993964906,
+  "week52_high": 18.0,
+  "week52_low": 15.26,
+  "rsi_divergence": {
+    "type": null
+  },
+  "patterns": [
+    {
+      "name": "Falling Wedge",
+      "type": "bullish",
+      "confidence": 0.5,
+      "status": "forming",
+      "neckline": 16.47,
+      "target": 16.8,
+      "note": "Lower highs and lows converging after a decline; bullish reversal bias."
+    },
+    {
+      "name": "Double Top",
+      "type": "bearish",
+      "confidence": 0.35,
+      "status": "forming",
+      "neckline": 15.8,
+      "target": 14.8,
+      "note": "Two near-equal peaks; breaks down below the trough (neckline)."
+    }
+  ]
+}

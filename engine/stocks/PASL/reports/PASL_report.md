@@ -1,5 +1,5 @@
 # Pervez Ahmed Consultancy Services Ltd. (PASL) — Analysis Report
-*Generated 2026-06-28 16:38*  
+*Generated 2026-07-02 02:49*  
 *Decision-support only — not financial advice.*
 
 ## Verdict
@@ -59,21 +59,21 @@
 
 ## Technical Analysis
 
-As of **2026-06-24** (259 bars). Trend **Sideways**, momentum **Neutral**, technical score **54.4/100**.
+As of **2026-07-01** (2468 bars). Trend **Sideways**, momentum **Neutral**, technical score **54.4/100**.
 
 | Indicator | Value |
 |---|---|
-| Close | 2.72 |
-| SMA 20 / 50 / 200 | 2.76 / 2.63 / 2.96 |
-| EMA 20 / 50 | 2.74 / 2.66 |
-| RSI (14) | 50.23 |
-| MACD / signal | 0.04 / 0.05 |
-| ADX (14) | 29.76 |
-| DI+ / DI− | 23.70 / 14.54 |
+| Close | 2.70 |
+| SMA 20 / 50 / 200 | 2.75 / 2.65 / 2.96 |
+| EMA 20 / 50 | 2.72 / 2.66 |
+| RSI (14) | 49.47 |
+| MACD / signal | 0.01 / 0.04 |
+| ADX (14) | 27.09 |
+| DI+ / DI− | 21.35 / 16.30 |
 | ATR (14) | 0.17 |
-| 52-week high / low | 4.24 / 1.91 |
+| 52-week high / low | 4.24 / 1.76 |
 
-Signals: Trend: Sideways; EMA20 > EMA50; ADX 29.8 (Strong); DI + dominant; RSI 50.2 (Neutral); MACD below signal
+Signals: Trend: Sideways; EMA20 > EMA50; ADX 27.1 (Strong); DI + dominant; RSI 49.5 (Neutral); MACD below signal
 
 ## Notes
 

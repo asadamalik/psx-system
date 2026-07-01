@@ -1,5 +1,5 @@
 # Merit Packaging Limited (MERIT) — Analysis Report
-*Generated 2026-06-28 01:29*  
+*Generated 2026-07-02 02:49*  
 *Decision-support only — not financial advice.*
 
 ## Verdict
@@ -59,21 +59,21 @@
 
 ## Technical Analysis
 
-As of **2026-06-24** (588 bars). Trend **Sideways**, momentum **Neutral**, technical score **54.4/100**.
+As of **2026-07-01** (2440 bars). Trend **Sideways**, momentum **Neutral**, technical score **54.4/100**.
 
 | Indicator | Value |
 |---|---|
-| Close | 10.18 |
-| SMA 20 / 50 / 200 | 10.07 / 9.73 / 11.47 |
-| EMA 20 / 50 | 10.15 / 9.89 |
-| RSI (14) | 52.78 |
-| MACD / signal | 0.19 / 0.21 |
-| ADX (14) | 33.96 |
-| DI+ / DI− | 21.13 / 10.80 |
-| ATR (14) | 0.51 |
-| 52-week high / low | 14.49 / 7.11 |
+| Close | 10.17 |
+| SMA 20 / 50 / 200 | 10.17 / 9.85 / 11.42 |
+| EMA 20 / 50 | 10.14 / 9.92 |
+| RSI (14) | 52.60 |
+| MACD / signal | 0.13 / 0.18 |
+| ADX (14) | 33.12 |
+| DI+ / DI− | 20.90 / 10.49 |
+| ATR (14) | 0.47 |
+| 52-week high / low | 14.69 / 7.10 |
 
-Signals: Trend: Sideways; EMA20 > EMA50; ADX 34.0 (Strong); DI + dominant; RSI 52.8 (Neutral); MACD below signal
+Signals: Trend: Sideways; EMA20 > EMA50; ADX 33.1 (Strong); DI + dominant; RSI 52.6 (Neutral); MACD below signal
 
 ## Notes
 

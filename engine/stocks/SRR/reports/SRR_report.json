@@ -1,0 +1,176 @@
+{
+  "symbol": "SRR",
+  "generated": "2026-07-02 02:49",
+  "scores": {
+    "fundamental_score": null,
+    "technical_score": 48.9,
+    "overall_score": 48.9,
+    "rating": "Reduce",
+    "risk": "Low",
+    "risk_score": 100.0,
+    "weights": {
+      "fundamental": 0.7,
+      "technical": 0.3
+    },
+    "fundamental_detail": {
+      "fundamental_score": null,
+      "pillars": {
+        "growth": null,
+        "profitability": null,
+        "financial_strength": null,
+        "valuation": null
+      },
+      "coverage": {
+        "growth": {
+          "used": [],
+          "missing": [
+            "revenue_growth_5y",
+            "net_income_growth_5y",
+            "eps_growth",
+            "sales_growth"
+          ]
+        },
+        "profitability": {
+          "used": [],
+          "missing": [
+            "roe",
+            "roa",
+            "gross_margin",
+            "operating_margin",
+            "net_margin"
+          ]
+        },
+        "financial_strength": {
+          "used": [],
+          "missing": [
+            "debt_to_equity",
+            "current_ratio",
+            "interest_coverage",
+            "fcf_margin"
+          ]
+        },
+        "valuation": {
+          "used": [],
+          "missing": [
+            "pe_ratio",
+            "price_to_book",
+            "peg"
+          ]
+        }
+      },
+      "weight_covered": 0.0
+    }
+  },
+  "technical": {
+    "technical_score": 48.9,
+    "trend": "Bearish",
+    "momentum": "Neutral",
+    "adx_strength": "Developing",
+    "rsi_divergence": {
+      "type": null
+    },
+    "notes": [
+      "Trend: Bearish",
+      "EMA20 < EMA50",
+      "ADX 25.0 (Developing); DI + dominant",
+      "RSI 50.1 (Neutral)",
+      "MACD above signal"
+    ]
+  },
+  "technical_snapshot": {
+    "as_of": "2026-07-01",
+    "bars": 100,
+    "close": 16.2,
+    "sma_20": 16.13,
+    "sma_50": 16.3646,
+    "sma_200": null,
+    "ema_20": 16.175457819251942,
+    "ema_50": 16.257726743617027,
+    "ema_100": 16.356601501628173,
+    "ema_200": null,
+    "obv": -45370.0,
+    "weekly_trend": "Down",
+    "monthly_trend": "Down",
+    "support_resistance": {
+      "price": 16.2,
+      "nearest_resistance": 16.67,
+      "nearest_support": 15.88,
+      "resistance_levels": [
+        16.67,
+        17.35
+      ],
+      "support_levels": [
+        15.88,
+        15.29
+      ]
+    },
+    "rsi_14": 50.05322532177289,
+    "macd": -0.030866267360224242,
+    "macd_signal": -0.054954536828366096,
+    "macd_hist": 0.024088269468141854,
+    "adx_14": 24.976823480601265,
+    "plus_di": 19.396210587855514,
+    "minus_di": 8.37817302265037,
+    "atr_14": 0.279582909067926,
+    "bb_upper": 16.22859006035094,
+    "bb_lower": 16.03140993964906,
+    "week52_high": 18.0,
+    "week52_low": 15.26,
+    "rsi_divergence": {
+      "type": null
+    },
+    "patterns": [
+      {
+        "name": "Falling Wedge",
+        "type": "bullish",
+        "confidence": 0.5,
+        "status": "forming",
+        "neckline": 16.47,
+        "target": 16.8,
+        "note": "Lower highs and lows converging after a decline; bullish reversal bias."
+      },
+      {
+        "name": "Double Top",
+        "type": "bearish",
+        "confidence": 0.35,
+        "status": "forming",
+        "neckline": 15.8,
+        "target": 14.8,
+        "note": "Two near-equal peaks; breaks down below the trough (neckline)."
+      }
+    ]
+  },
+  "growth": {
+    "revenue_growth_5y": null,
+    "net_income_growth_5y": null,
+    "equity_growth_5y": null,
+    "debt_change_5y": null
+  },
+  "metrics": {
+    "revenue_growth_5y": null,
+    "net_income_growth_5y": null,
+    "eps_growth": null,
+    "sales_growth": null,
+    "roe": null,
+    "roa": null,
+    "gross_margin": null,
+    "operating_margin": null,
+    "net_margin": null,
+    "debt_to_equity": null,
+    "current_ratio": null,
+    "interest_coverage": null,
+    "fcf_margin": null,
+    "pe_ratio": null,
+    "price_to_book": null,
+    "peg": null
+  },
+  "latest": {
+    "revenue": null,
+    "net_income": null,
+    "equity": null,
+    "total_assets": null,
+    "total_debt": null,
+    "operating_cash_flow": null,
+    "capex": null
+  }
+}

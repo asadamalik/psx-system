@@ -1,5 +1,5 @@
 # MACPAC Films Limited (MACFL) — Analysis Report
-*Generated 2026-06-28 01:24*  
+*Generated 2026-07-02 02:49*  
 *Decision-support only — not financial advice.*
 
 ## Verdict
@@ -59,21 +59,21 @@
 
 ## Technical Analysis
 
-As of **2026-06-24** (753 bars). Trend **Strong Bullish**, momentum **Strong**, technical score **83.3/100**.
+As of **2026-07-01** (2405 bars). Trend **Strong Bullish**, momentum **Strong**, technical score **83.3/100**.
 
 | Indicator | Value |
 |---|---|
-| Close | 70.08 |
-| SMA 20 / 50 / 200 | 64.33 / 48.38 / 32.58 |
-| EMA 20 / 50 | 64.76 / 52.79 |
-| RSI (14) | 67.05 |
-| MACD / signal | 6.44 / 6.68 |
-| ADX (14) | 55.20 |
-| DI+ / DI− | 37.69 / 12.89 |
-| ATR (14) | 3.93 |
-| 52-week high / low | 80.00 / 19.60 |
+| Close | 67.50 |
+| SMA 20 / 50 / 200 | 65.64 / 51.11 / 33.13 |
+| EMA 20 / 50 | 65.51 / 54.47 |
+| RSI (14) | 60.28 |
+| MACD / signal | 4.96 / 6.04 |
+| ADX (14) | 51.69 |
+| DI+ / DI− | 32.31 / 16.98 |
+| ATR (14) | 3.72 |
+| 52-week high / low | 80.00 / 19.52 |
 
-Signals: Trend: Strong Bullish; EMA20 > EMA50; ADX 55.2 (Strong); DI + dominant; RSI 67.1 (Strong); MACD below signal
+Signals: Trend: Strong Bullish; EMA20 > EMA50; ADX 51.7 (Strong); DI + dominant; RSI 60.3 (Strong); MACD below signal
 
 ## Notes
 
