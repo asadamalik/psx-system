@@ -29,7 +29,7 @@
     "current_ratio": null,
     "interest_coverage": null,
     "fcf_margin": null,
-    "pe_ratio": 40.52,
+    "pe_ratio": 39.81,
     "price_to_book": null,
     "peg": null
   },
@@ -37,7 +37,7 @@
     "effective_tax_rate": 0.29,
     "roic": null,
     "quick_ratio": null,
-    "ps_ratio": 1.8382225693364995,
+    "ps_ratio": 1.8062962646223484,
     "ev_ebitda": null,
     "peg": null,
     "revenue_cagr_3y": 0.012649138552317085,
@@ -57,7 +57,7 @@
   },
   "derived": {
     "free_cash_flow": null,
-    "market_cap": 11843.6,
-    "current_price": 10.94
+    "market_cap": 11637.9,
+    "current_price": 10.72
   }
 }

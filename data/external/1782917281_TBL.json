@@ -3,8 +3,8 @@
   "name": "Treet Battery Limited.",
   "sector": "Automobile Parts & Accessories",
   "currency": "PKR",
-  "as_of": "2026-06-24",
-  "generated_ts": 1782651143,
+  "as_of": "2026-07-01",
+  "generated_ts": 1782917281,
   "source": "stock-agent-claude (Investing.com + PSX DPS)",
   "limited_data": true,
   "ohlc": [
@@ -4999,12 +4999,36 @@
       "low": 10.61,
       "close": 10.94,
       "volume": 8919360
+    },
+    {
+      "date": "2026-06-29",
+      "open": 10.79,
+      "high": 10.79,
+      "low": 10.67,
+      "close": 10.67,
+      "volume": 2559261
+    },
+    {
+      "date": "2026-06-30",
+      "open": 10.7,
+      "high": 10.73,
+      "low": 10.7,
+      "close": 10.73,
+      "volume": 2421691
+    },
+    {
+      "date": "2026-07-01",
+      "open": 10.68,
+      "high": 10.72,
+      "low": 10.68,
+      "close": 10.72,
+      "volume": 3916445
     }
   ],
-  "pe": 40.52,
+  "pe": 39.81,
   "pb": null,
   "peg": null,
-  "ps": 1.8382225693364995,
+  "ps": 1.8062962646223484,
   "ev_ebitda": null,
   "debt_to_equity": null,
   "current_ratio": null,
@@ -5015,7 +5039,7 @@
   "gross_margin_pct": null,
   "operating_margin_pct": null,
   "net_margin_pct": 0.46,
-  "market_cap": 11843.6,
+  "market_cap": 11637.9,
   "shares_outstanding": 1082.59,
   "free_float_pct": 20.0,
   "high52": 14.95,
@@ -5092,7 +5116,7 @@
   "revenue_cagr_5y_pct": 1.26,
   "revenue_cagr_3y_pct": 1.26,
   "eps_cagr_3y_pct": 111.63,
-  "industry_pe": 20.05,
+  "industry_pe": 20.47,
   "dividend_yield_pct": null,
   "dividend_per_share_ttm": null,
   "dividend_history": [],
@@ -5492,11 +5516,11 @@
     }
   ],
   "insider_sentiment": "Heavy insider selling",
-  "insider_as_of": "2026-06-28",
+  "insider_as_of": "2026-07-01",
   "scores": {
     "fundamental_score": 35.3,
-    "technical_score": 50.0,
-    "overall_score": 39.7,
+    "technical_score": 43.3,
+    "overall_score": 37.7,
     "rating": "Reduce",
     "risk": "High",
     "pillars": {
@@ -5511,21 +5535,21 @@
     }
   },
   "technical_snapshot": {
-    "as_of": "2026-06-24",
-    "bars": 624,
-    "close": 10.94,
-    "sma_20": 10.595,
-    "sma_50": 10.0062,
-    "sma_200": 11.439250000000001,
-    "ema_20": 10.567578078499507,
-    "ema_50": 10.263110243663972,
-    "ema_100": 10.448747690944034,
-    "ema_200": 11.213839809605137,
-    "obv": 138977705.0,
+    "as_of": "2026-07-01",
+    "bars": 627,
+    "close": 10.72,
+    "sma_20": 10.7175,
+    "sma_50": 10.0672,
+    "sma_200": 11.404100000000001,
+    "ema_20": 10.604074942277089,
+    "ema_50": 10.313348388303314,
+    "ema_100": 10.463787529833809,
+    "ema_200": 11.198855369169651,
+    "obv": 134923690.0,
     "weekly_trend": "Up",
     "monthly_trend": "Up",
     "support_resistance": {
-      "price": 10.94,
+      "price": 10.72,
       "nearest_resistance": 11.16,
       "nearest_support": 9.41,
       "resistance_levels": [
@@ -5539,16 +5563,16 @@
         8.05
       ]
     },
-    "rsi_14": 59.84107224594662,
-    "macd": 0.25099186655679695,
-    "macd_signal": 0.26348629244179417,
-    "macd_hist": -0.012494425884997218,
-    "adx_14": 20.600007780615552,
-    "plus_di": 33.167029676679036,
-    "minus_di": 22.318222293056245,
-    "atr_14": 0.25914026007624635,
-    "bb_upper": 11.274190694866844,
-    "bb_lower": 9.915809305133157,
+    "rsi_14": 54.8108258173331,
+    "macd": 0.1981838060521639,
+    "macd_signal": 0.23795722091346166,
+    "macd_hist": -0.03977341486129776,
+    "adx_14": 20.286543492250583,
+    "plus_di": 29.70518026641368,
+    "minus_di": 20.60539181701064,
+    "atr_14": 0.2316622271820384,
+    "bb_upper": 11.04837006512184,
+    "bb_lower": 10.386629934878158,
     "week52_high": 14.95,
     "week52_low": 8.05,
     "rsi_divergence": {
@@ -5559,24 +5583,14 @@
       "price_to": 11.09,
       "rsi_from": 66.6,
       "rsi_to": 65.0,
-      "bars_ago": 6
+      "bars_ago": 9
     },
-    "patterns": [
-      {
-        "name": "Bull Flag",
-        "type": "bullish",
-        "confidence": 0.53,
-        "status": "forming",
-        "neckline": 11.09,
-        "target": 12.21,
-        "note": "Strong pole then tight consolidation; bullish continuation bias."
-      }
-    ]
+    "patterns": []
   },
   "technical_read": {
-    "technical_score": 50.0,
+    "technical_score": 43.3,
     "trend": "Sideways",
-    "momentum": "Strong",
+    "momentum": "Neutral",
     "adx_strength": "Developing",
     "rsi_divergence": {
       "type": "bearish",
@@ -5586,15 +5600,15 @@
       "price_to": 11.09,
       "rsi_from": 66.6,
       "rsi_to": 65.0,
-      "bars_ago": 6
+      "bars_ago": 9
     },
     "notes": [
       "Trend: Sideways",
       "EMA20 > EMA50",
-      "ADX 20.6 (Developing); DI + dominant",
-      "RSI 59.8 (Strong)",
+      "ADX 20.3 (Developing); DI + dominant",
+      "RSI 54.8 (Neutral)",
       "MACD below signal",
-      "\u26a0 Bearish RSI divergence (6 bars ago): Price made a higher high (10.82\u219211.09) while RSI made a lower high (66.6\u219265.0) \u2014 upward momentum is fading; watch for a pullback."
+      "\u26a0 Bearish RSI divergence (9 bars ago): Price made a higher high (10.82\u219211.09) while RSI made a lower high (66.6\u219265.0) \u2014 upward momentum is fading; watch for a pullback."
     ]
   },
   "earnings_basis_divergence": {
@@ -5614,7 +5628,7 @@
     "flagged": false,
     "threshold": 0.15,
     "interpretation": null,
-    "dps_pe_ttm": 40.52,
+    "dps_pe_ttm": 39.81,
     "free_float_pct": 0.2,
     "years": [
       2024,

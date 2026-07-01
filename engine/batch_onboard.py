@@ -34,22 +34,32 @@ def has_annual(sym):
             or len(inc.get("eps", {})) >= 2)
 
 def onboard(sym):
+    src = "sa"
     rc, _ = run(["fetch_sa.py", sym], 90)
     if rc != 0 or not has_annual(sym):
-        return "NO_DATA"
+        # Fallback for illiquid small caps with NO stockanalysis financials page:
+        # synthesize an income-only blob from DPS (data/companies.json). See DECISIONS.md
+        # "Data-source priority + FALLBACK ORDER".
+        rc2, _ = run(["make_dps_blob.py", sym], 30)
+        if rc2 != 0 or not has_annual(sym):
+            return "NO_DATA"
+        src = "dps"
     rc, out = run(["assemble_sa.py", sym], 60)
     if rc != 0:
         return "ASSEMBLE_FAIL: " + out.strip().splitlines()[-1][:80]
-    run(["fetch_insider.py", sym], 60)              # best-effort
+    run(["fetch_insider.py", sym], 60)              # best-effort (sarmaaya)
+    if src == "dps":
+        run(["fetch_industry_pe.py", sym], 90)      # best-effort (Investing -ratios, still public)
     rc, out = run(["run.py", sym], 120)
     if rc != 0:
         return "RUN_FAIL: " + out.strip().splitlines()[-1][:80]
-    rc, _ = run(["export_external.py", sym, "--out", DASH_EXT], 60)
+    run(["export_external.py", sym, "--out", DASH_EXT], 60)
+    tag = "OK[dps] " if src == "dps" else "OK "
     # pull the score line for the log
     for ln in out.splitlines():
         if "scores" in ln:
-            return "OK " + ln.split(":", 1)[1].strip()[:70]
-    return "OK"
+            return tag + ln.split(":", 1)[1].strip()[:70]
+    return tag.strip()
 
 def main():
     syms = sys.argv[1:]

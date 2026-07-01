@@ -1514,6 +1514,35 @@ function insiderRefresh(sym, btn){
     });
 }
 
+// "↻ Refresh data" — fetch/refresh a stock's fundamentals + technicals (mirrors insiderRefresh):
+//   • LOCAL sidecar (dev_server.py): POST /api/refresh-stock runs the full onboard
+//     (stockanalysis, or DPS fallback, + insider + industry P/E + score + export), re-bakes
+//     the page, and we reload back onto this same stock so its cards fill in.
+//   • LIVE Pages (no sidecar): scraping needs a headless browser, which a static page can't
+//     do — so we explain how to run the local server and copy a ready-to-run onboard command.
+function refreshStock(sym, btn){
+  sym=(sym||'').toUpperCase(); if(!sym) return;
+  const label=(btn&&btn.textContent)||'↻ Refresh data';
+  const reset=()=>{ if(btn){ btn.disabled=false; btn.textContent=label; } };
+  if(btn){ btn.disabled=true; btn.textContent='Fetching data…'; }
+  fetch('/api/refresh-stock?sym='+encodeURIComponent(sym), {method:'POST'})
+    .then(r=>{ if(!r.ok) throw new Error('no-sidecar'); return r.json(); })
+    .then(j=>{ if(j && j.ok===false) throw new Error(j.status||'fetch-failed');
+      // backend onboarded/refreshed + re-baked the page; reload and land back on this stock.
+      try{ sessionStorage.setItem('psx_reopen_detail', sym); }catch(e){}
+      location.reload(); })
+    .catch(()=>{ // no local sidecar (live site) OR the fetch failed
+      reset();
+      const cmd='./.venv/bin/python engine/batch_onboard.py '+sym;
+      let copied=false; try{ navigator.clipboard.writeText(cmd); copied=true; }catch(e){}
+      alert('Fetching '+sym+'’s fundamentals + technicals needs the local data server '
+        +'— it scrapes with a headless browser, which the static site can’t do.\n\n'
+        +'Run:  ./.venv/bin/python dashboard/dev_server.py\nOpen: http://127.0.0.1:8079/\n'
+        +'then click “Refresh data” again.'
+        +(copied?'\n\n(A ready-to-run onboard command was copied to your clipboard.)':''));
+    });
+}
+
 function openDetail(sym){
   const cs=getComputedStyle(document.documentElement), C=k=>cs.getPropertyValue(k).trim();
   const col={up:C('--up'),down:C('--down'),sig:C('--accent'),line:C('--border'),text:C('--text-1'),dim:C('--text-3'),d2:C('--text-4')};
@@ -1535,6 +1564,7 @@ function openDetail(sym){
   const sector=(co&&co.sector)||(ext&&ext.sector)||(DATA.sectors&&DATA.sectors[sym])||'';
   document.getElementById('dtLinks').innerHTML=
     '<button class="wl-add-from-detail" id="wlAddFromDetail" data-sym="'+sym+'">'+(wlLoad()[sym]?'\u2605 Edit watch':'\u2606 Add to Watchlist')+'</button>'+
+    '<button class="wl-add-from-detail" id="refreshDataFromDetail" data-sym="'+sym+'" title="Fetch / refresh fundamentals + technicals (runs the local data server)">'+(ext?'\u21bb Refresh data':'\u21bb Fetch data')+'</button>'+
     '<button class="wl-add-from-detail" id="dmAddFromDetail" data-sym="'+sym+'">+ Demo trade</button>'+
     '<a href="https://dps.psx.com.pk/company/'+sym+'" target="_blank" rel="noopener">PSX profile \u2197</a>'+
     '<a href="https://sarmaaya.pk/stocks/'+sym+'" target="_blank" rel="noopener">Sarmaaya \u2197</a>';
@@ -1891,6 +1921,8 @@ document.getElementById('dtBack').addEventListener('click', ()=>{
 document.getElementById('dtLinks').addEventListener('click', e=>{
   const wlBtn=e.target.closest('#wlAddFromDetail');
   if(wlBtn){ wlOpenModal(wlBtn.dataset.sym, wlLoad()[wlBtn.dataset.sym]); return; }
+  const rfBtn=e.target.closest('#refreshDataFromDetail');
+  if(rfBtn){ refreshStock(rfBtn.dataset.sym, rfBtn); return; }
   const dmBtn=e.target.closest('#dmAddFromDetail');
   if(dmBtn){
     const plan = (window._lastDetailPlan && window._lastDetailPlan.symbol===dmBtn.dataset.sym) ? window._lastDetailPlan : {symbol:dmBtn.dataset.sym};

@@ -39,13 +39,13 @@
   "balance_sheet_quarterly": {},
   "cashflow_quarterly": {},
   "ratios": {
-    "pe_ratio": 40.52,
+    "pe_ratio": 39.81,
     "price_to_book": null,
     "roe": null,
     "roa": null,
     "gross_margin": null,
-    "industry_pe": 20.05,
-    "industry_pb": 11.1
+    "industry_pe": 20.47,
+    "industry_pb": 11
   },
   "earnings": {
     "source": "stockanalysis.com (statistics + quarterly)",
@@ -92,9 +92,9 @@
     "company_name": "Treet Battery Limited.",
     "sector": "Automobile Parts & Accessories",
     "industry": "Automobile Parts & Accessories",
-    "market_cap": 11843.6,
+    "market_cap": 11637.9,
     "shares_outstanding": 1082.59,
-    "current_price": 10.94,
+    "current_price": 10.72,
     "currency": "PKR"
   },
   "profile": {},
@@ -102,7 +102,7 @@
   "announcements": {},
   "insider": {
     "source": "sarmaaya.pk (insider transactions, #insider-transactions table)",
-    "as_of": "2026-06-28",
+    "as_of": "2026-07-01",
     "transactions": [
       {
         "date": "2026-05-14",

@@ -1,17 +1,17 @@
 # Treet Battery Limited. (TBL) — Analysis Report
-*Generated 2026-06-28 17:25* · Sector: Automobile Parts & Accessories  
+*Generated 2026-07-01 19:48* · Sector: Automobile Parts & Accessories  
 *Decision-support only — not financial advice.*
 
 ## Verdict
 
 | | |
 |---|---|
-| **Overall score** | **39.7 / 100** |
+| **Overall score** | **37.7 / 100** |
 | **Rating** | **Reduce** |
 | Risk | High |
 | Fundamental score | 35.3 (70% weight) |
-| Technical score | 50.0 (30% weight) |
-| Trend / Momentum | Sideways / Strong |
+| Technical score | 43.3 (30% weight) |
+| Trend / Momentum | Sideways / Neutral |
 
 ## Fundamental Analysis
 
@@ -40,7 +40,7 @@
 | Current ratio | —× |
 | Interest coverage | —× |
 | FCF margin | — |
-| P/E | 40.52× |
+| P/E | 39.81× |
 | Price / Book | —× |
 | PEG | — |
 
@@ -59,21 +59,21 @@
 
 ## Technical Analysis
 
-As of **2026-06-24** (624 bars). Trend **Sideways**, momentum **Strong**, technical score **50.0/100**.
+As of **2026-07-01** (627 bars). Trend **Sideways**, momentum **Neutral**, technical score **43.3/100**.
 
 | Indicator | Value |
 |---|---|
-| Close | 10.94 |
-| SMA 20 / 50 / 200 | 10.60 / 10.01 / 11.44 |
-| EMA 20 / 50 | 10.57 / 10.26 |
-| RSI (14) | 59.84 |
-| MACD / signal | 0.25 / 0.26 |
-| ADX (14) | 20.60 |
-| DI+ / DI− | 33.17 / 22.32 |
-| ATR (14) | 0.26 |
+| Close | 10.72 |
+| SMA 20 / 50 / 200 | 10.72 / 10.07 / 11.40 |
+| EMA 20 / 50 | 10.60 / 10.31 |
+| RSI (14) | 54.81 |
+| MACD / signal | 0.20 / 0.24 |
+| ADX (14) | 20.29 |
+| DI+ / DI− | 29.71 / 20.61 |
+| ATR (14) | 0.23 |
 | 52-week high / low | 14.95 / 8.05 |
 
-Signals: Trend: Sideways; EMA20 > EMA50; ADX 20.6 (Developing); DI + dominant; RSI 59.8 (Strong); MACD below signal; ⚠ Bearish RSI divergence (6 bars ago): Price made a higher high (10.82→11.09) while RSI made a lower high (66.6→65.0) — upward momentum is fading; watch for a pullback.
+Signals: Trend: Sideways; EMA20 > EMA50; ADX 20.3 (Developing); DI + dominant; RSI 54.8 (Neutral); MACD below signal; ⚠ Bearish RSI divergence (9 bars ago): Price made a higher high (10.82→11.09) while RSI made a lower high (66.6→65.0) — upward momentum is fading; watch for a pullback.
 
 ## Notes
 

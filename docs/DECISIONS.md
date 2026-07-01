@@ -24,6 +24,31 @@ One self-contained venv at the repo root: `./.venv/bin/python` (was two separate
 
 ---
 
+## 2026-06-29 — "Refresh data" button (on-demand onboard) + dev_server monorepo fix
+**What:** the stock detail page has a **"↻ Refresh data" / "↻ Fetch data"** button (top-right, next
+to *Add to Watchlist*) that fetches/refreshes a stock's **fundamentals + technicals** on demand —
+the analogue of the insider "↻ Refresh insider" button, for the whole engine record.
+- **Frontend `refreshStock(sym,btn)`** (mirrors `insiderRefresh`): POSTs `/api/refresh-stock?sym=`.
+  On the LOCAL sidecar it reloads back onto the stock; on LIVE Pages (no backend) it explains that
+  scraping needs the local server and copies a ready-to-run `batch_onboard.py <SYM>` command.
+- **Backend `dev_server.py` `/api/refresh-stock`** runs `engine/batch_onboard.py <SYM>` → `dev_rebuild.py`.
+- **`batch_onboard.py` now has the DPS fallback built in:** if stockanalysis has no page
+  (`fetch_sa` → no annual), it runs `make_dps_blob.py` (DPS income-only) + `fetch_industry_pe.py`,
+  so ANY onboardable stock works from one entry point (result tagged `OK[dps]`). This also means the
+  nightly `daily_run` auto-onboard of new Top-30 entrants now covers illiquid small caps.
+- **Fixed stale paths in `dev_server.py`:** it still pointed at the OLD two-repo layout
+  (`~/projects/stock-agent-claude/...`, per-repo `.venv`, `psx_data/external`) — never updated at
+  migration, so even insider refresh was broken locally. Now monorepo-relative: `../engine`,
+  root `.venv` (fallback `sys.executable`), `../data/external`.
+
+**Why a local sidecar and not in-page:** the deployed dashboard is static GitHub Pages with no backend,
+and scraping stockanalysis/Investing/sarmaaya needs a headless browser (CORS + Cloudflare + Playwright)
+— impossible from a static page. So the real fetch only happens via `dev_server.py`; the button
+degrades gracefully otherwise. Run: `./.venv/bin/python dashboard/dev_server.py`, open
+`http://127.0.0.1:8079/`.
+
+---
+
 ## 2026-06-28 — Data-source priority + FALLBACK ORDER (read before fetching any new stock)
 **Decision (canonical fetch order).** When onboarding/refreshing a stock, check sources in this order
 and stop at the first that has the data; everything else is a documented **fallback**:
