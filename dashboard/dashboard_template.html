@@ -1514,6 +1514,9 @@ function insiderRefresh(sym, btn){
     });
 }
 
+// GitHub Actions "onboard-stock" workflow — the cloud path for the Refresh-data button on
+// the static site (no local server needed). Update if the repo is renamed/forked.
+const PSX_ONBOARD_WORKFLOW='https://github.com/asadamalik/psx-system/actions/workflows/onboard.yml';
 // "↻ Refresh data" — fetch/refresh a stock's fundamentals + technicals (mirrors insiderRefresh):
 //   • LOCAL sidecar (dev_server.py): POST /api/refresh-stock runs the full onboard
 //     (stockanalysis, or DPS fallback, + insider + industry P/E + score + export), re-bakes
@@ -1531,15 +1534,16 @@ function refreshStock(sym, btn){
       // backend onboarded/refreshed + re-baked the page; reload and land back on this stock.
       try{ sessionStorage.setItem('psx_reopen_detail', sym); }catch(e){}
       location.reload(); })
-    .catch(()=>{ // no local sidecar (live site) OR the fetch failed
+    .catch(()=>{ // no local sidecar (live site) -> run it on GitHub Actions (cloud onboard)
       reset();
-      const cmd='./.venv/bin/python engine/batch_onboard.py '+sym;
-      let copied=false; try{ navigator.clipboard.writeText(cmd); copied=true; }catch(e){}
-      alert('Fetching '+sym+'’s fundamentals + technicals needs the local data server '
-        +'— it scrapes with a headless browser, which the static site can’t do.\n\n'
-        +'Run:  ./.venv/bin/python dashboard/dev_server.py\nOpen: http://127.0.0.1:8079/\n'
-        +'then click “Refresh data” again.'
-        +(copied?'\n\n(A ready-to-run onboard command was copied to your clipboard.)':''));
+      let copied=false; try{ navigator.clipboard.writeText(sym).catch(()=>{}); copied=true; }catch(e){}
+      window.open(PSX_ONBOARD_WORKFLOW, '_blank', 'noopener');
+      alert('Fetching '+sym+' in the cloud on GitHub Actions (no local machine needed).\n\n'
+        +'On the page that just opened: click “Run workflow”, '+(copied?'paste':'enter')+' '
+        +sym+' as the ticker, and run it. GitHub scrapes + rebuilds + redeploys in ~3 min — '
+        +'then refresh this dashboard.'
+        +(copied?'\n\n('+sym+' was copied to your clipboard.)':'')
+        +'\n\nTip: running dashboard/dev_server.py locally makes this button instant instead.');
     });
 }
 

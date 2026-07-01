@@ -1,0 +1,71 @@
+name: onboard-stock
+
+# Manually onboard / refresh one or more stocks on GitHub (no local machine needed).
+# Run from the Actions tab → "onboard-stock" → Run workflow → enter ticker(s).
+# GitHub does the headless scrape (stockanalysis, or DPS fallback + insider + industry P/E),
+# scores, rebuilds the dashboard, commits the data, and redeploys Pages.
+on:
+  workflow_dispatch:
+    inputs:
+      symbols:
+        description: "PSX ticker(s) to onboard/refresh — space- or comma-separated (e.g. PAKQATAR  or  NBP,BAFL)"
+        required: true
+        type: string
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+# Share the daily job's concurrency group so a manual onboard and the nightly cron
+# never run at once (they'd clobber each other's commit / Pages deploy).
+concurrency:
+  group: daily-run
+  cancel-in-progress: false
+
+jobs:
+  onboard:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+          python -m playwright install --with-deps chromium
+
+      - name: Onboard / refresh the requested symbol(s)
+        env:
+          TZ: Asia/Karachi
+        run: |
+          # normalize: commas -> spaces, uppercase
+          SYMS=$(echo "${{ inputs.symbols }}" | tr ',' ' ' | tr '[:lower:]' '[:upper:]')
+          echo "Onboarding: $SYMS"
+          python engine/batch_onboard.py $SYMS
+          python dashboard/dev_rebuild.py --fresh
+          cp dashboard/psx_dashboard.html dashboard/index.html
+
+      - name: Commit updated data + dashboard
+        run: |
+          git config user.name  "psx-bot"
+          git config user.email "psx-bot@users.noreply.github.com"
+          SYMS=$(echo "${{ inputs.symbols }}" | tr ',' ' ')
+          git add data/ engine/stocks/ dashboard/index.html dashboard/psx_dashboard.html || true
+          git commit -m "onboard $SYMS (manual)" || echo "no changes"
+          git push || echo "nothing to push"
+
+      # Publish the refreshed dashboard to GitHub Pages
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dashboard
+      - id: deploy
+        uses: actions/deploy-pages@v4
+
+# Note: batch_onboard is resilient — a symbol with no data anywhere is logged and skipped,
+# never fails the job. Uses system Python on the runner (no .venv), same as daily.yml.
