@@ -1,15 +1,15 @@
 {
-  "generated_ts": 1782917281,
+  "generated_ts": 1782756470,
   "count": 1,
   "symbols": [
     {
-      "symbol": "TBL",
-      "file": "1782917281_TBL.json",
-      "as_of": "2026-07-01",
-      "overall_score": 37.7,
-      "rating": "Reduce",
-      "risk": "High",
-      "ohlc_bars": 627
+      "symbol": "UBL",
+      "file": "1782756470_UBL.json",
+      "as_of": "2026-06-29",
+      "overall_score": 79.7,
+      "rating": "Buy",
+      "risk": "Medium",
+      "ohlc_bars": 255
     }
   ]
 }

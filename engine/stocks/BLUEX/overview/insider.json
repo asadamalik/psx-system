@@ -1,0 +1,33 @@
+{
+  "source": "sarmaaya.pk (insider transactions, #insider-transactions table)",
+  "as_of": "2026-06-29",
+  "transactions": [
+    {
+      "date": "2026-03-05",
+      "person": "Danish Elahi",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 510450,
+      "price": 5.81,
+      "value": 2965714
+    },
+    {
+      "date": "2026-03-03",
+      "person": "Danish Elahi",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 100000,
+      "price": 5.89,
+      "value": 589000
+    },
+    {
+      "date": "2026-02-27",
+      "person": "Safina Danish Elahi",
+      "role": "Non-Executive Director",
+      "action": "Buy",
+      "shares": 600000,
+      "price": 6.93,
+      "value": 4158000
+    }
+  ]
+}
