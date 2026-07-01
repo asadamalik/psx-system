@@ -29,8 +29,8 @@
     "current_ratio": null,
     "interest_coverage": 12.29264099037139,
     "fcf_margin": null,
-    "pe_ratio": 10.72,
-    "price_to_book": 1.12,
+    "pe_ratio": 10.6,
+    "price_to_book": 1.11,
     "peg": null
   },
   "extended": {
@@ -57,7 +57,7 @@
   },
   "derived": {
     "free_cash_flow": 544.5999999999999,
-    "market_cap": 5036.5,
-    "current_price": 21.83
+    "market_cap": 5440.2,
+    "current_price": 23.58
   }
 }

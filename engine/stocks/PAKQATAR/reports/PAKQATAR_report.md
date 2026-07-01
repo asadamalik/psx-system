@@ -1,17 +1,17 @@
 # Pak Qatar Family Takaful Limited (PAKQATAR) — Analysis Report
-*Generated 2026-06-28 11:53* · Sector: Insurance  
+*Generated 2026-07-01 20:42* · Sector: Insurance  
 *Decision-support only — not financial advice.*
 
 ## Verdict
 
 | | |
 |---|---|
-| **Overall score** | **64.9 / 100** |
-| **Rating** | **Hold** |
+| **Overall score** | **66.9 / 100** |
+| **Rating** | **Buy** |
 | Risk | Low |
 | Fundamental score | 64.6 (70% weight) |
-| Technical score | 65.6 (30% weight) |
-| Trend / Momentum | Bullish / Neutral |
+| Technical score | 72.2 (30% weight) |
+| Trend / Momentum | Bullish / Strong |
 
 ## Fundamental Analysis
 
@@ -40,8 +40,8 @@
 | Current ratio | —× |
 | Interest coverage | 12.29× |
 | FCF margin | — |
-| P/E | 10.72× |
-| Price / Book | 1.12× |
+| P/E | 10.60× |
+| Price / Book | 1.11× |
 | PEG | — |
 
 ### Latest Reported
@@ -59,21 +59,21 @@
 
 ## Technical Analysis
 
-As of **2026-06-24** (119 bars). Trend **Bullish**, momentum **Neutral**, technical score **65.6/100**.
+As of **2026-07-01** (122 bars). Trend **Bullish**, momentum **Strong**, technical score **72.2/100**.
 
 | Indicator | Value |
 |---|---|
-| Close | 21.83 |
-| SMA 20 / 50 / 200 | 22.60 / 19.81 / — |
-| EMA 20 / 50 | 21.88 / 20.56 |
-| RSI (14) | 51.84 |
-| MACD / signal | 0.66 / 1.04 |
-| ADX (14) | 25.30 |
-| DI+ / DI− | 30.64 / 18.86 |
-| ATR (14) | 1.42 |
+| Close | 23.58 |
+| SMA 20 / 50 / 200 | 23.24 / 20.04 / — |
+| EMA 20 / 50 | 21.99 / 20.75 |
+| RSI (14) | 60.01 |
+| MACD / signal | 0.56 / 0.79 |
+| ADX (14) | 25.21 |
+| DI+ / DI− | 35.02 / 17.31 |
+| ATR (14) | 1.36 |
 | 52-week high / low | 29.40 / 15.78 |
 
-Signals: Trend: Bullish; EMA20 > EMA50; ADX 25.3 (Strong); DI + dominant; RSI 51.8 (Neutral); MACD below signal
+Signals: Trend: Bullish; EMA20 > EMA50; ADX 25.2 (Strong); DI + dominant; RSI 60.0 (Strong); MACD below signal
 
 ## Notes
 

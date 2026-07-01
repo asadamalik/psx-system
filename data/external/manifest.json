@@ -1,15 +1,15 @@
 {
-  "generated_ts": 1782756470,
+  "generated_ts": 1782920558,
   "count": 1,
   "symbols": [
     {
-      "symbol": "UBL",
-      "file": "1782756470_UBL.json",
-      "as_of": "2026-06-29",
-      "overall_score": 79.7,
+      "symbol": "PAKQATAR",
+      "file": "1782920558_PAKQATAR.json",
+      "as_of": "2026-07-01",
+      "overall_score": 66.9,
       "rating": "Buy",
-      "risk": "Medium",
-      "ohlc_bars": 255
+      "risk": "Low",
+      "ohlc_bars": 122
     }
   ]
 }

@@ -180,8 +180,8 @@
     }
   },
   "ratios": {
-    "pe_ratio": 10.72,
-    "price_to_book": 1.12,
+    "pe_ratio": 10.6,
+    "price_to_book": 1.11,
     "roe": 0.0658,
     "roa": 0.0041,
     "gross_margin": null,
@@ -235,7 +235,7 @@
   "dividends": {
     "source": "stockanalysis.com (statistics + dividend page)",
     "as_of": "2026-06-28",
-    "yield": 0.0458,
+    "yield": 0.0464,
     "per_share_ttm": 1,
     "payout_ratio": 0.3075,
     "history": [
@@ -251,15 +251,29 @@
     "company_name": "Pak Qatar Family Takaful Limited",
     "sector": "Insurance",
     "industry": "Insurance",
-    "market_cap": 5036.5,
+    "market_cap": 5440.2,
     "shares_outstanding": 230.71,
-    "current_price": 21.83,
+    "current_price": 23.58,
     "currency": "PKR"
   },
   "profile": {},
   "ownership": {},
   "announcements": {},
-  "insider": {},
+  "insider": {
+    "source": "sarmaaya.pk (insider transactions, #insider-transactions table)",
+    "as_of": "2026-07-01",
+    "transactions": [
+      {
+        "date": "2026-03-10",
+        "person": "Zahid Hussain Awan",
+        "role": "Non-Executive Director",
+        "action": "Sell",
+        "shares": 234734,
+        "price": 22.0,
+        "value": 5164148
+      }
+    ]
+  },
   "shareholding": {},
   "fipi": {},
   "monthly_sales": {}
