@@ -24,6 +24,20 @@ One self-contained venv at the repo root: `./.venv/bin/python` (was two separate
 
 ---
 
+## 2026-07-01 — Market-watch symbol parse fused the "NC" status tag into the ticker
+**Bug:** `psx_auto.fetch_marketwatch()` read the symbol via `tds[0].get_text(strip=True)`, but the
+DPS symbol cell is `<a class="tbl__symbol"><strong>SYM</strong></a>` **plus** an optional status tag
+`<div class="tag tag--def">NC</div>` (PSX defaulter / non-compliant marker). `get_text()` over the
+whole cell fused them → **"ASC"→"ASCNC", "HASCOL"→"HASCOLNC"** (both are defaulter-segment names).
+These phantom tickers polluted `snapshots.json`, `ohlc.json`, `sectors.json`, `shariah.json` and
+showed as chart-only "stocks" (and could be onboarded by mistake — the earlier note calling HASCOLNC a
+"dead duplicate" was this bug, not a real ticker).
+**Fix:** read the ticker from the `<a>` link (falls back to the td's `data-order`, then full text) —
+robust against ANY status tag (NC, XD, etc.). Cleaned existing data: renamed ASCNC→ASC / HASCOLNC→HASCOL
+across snapshots/sectors/shariah and **merged** their OHLC bars into the real symbol by date.
+
+---
+
 ## 2026-06-29 — "Refresh data" button (on-demand onboard) + dev_server monorepo fix
 **What:** the stock detail page has a **"↻ Refresh data" / "↻ Fetch data"** button (top-right, next
 to *Add to Watchlist*) that fetches/refreshes a stock's **fundamentals + technicals** on demand —

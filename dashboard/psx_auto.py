@@ -60,7 +60,14 @@ def fetch_marketwatch():
         tds = tr.find_all("td")
         if len(tds) < 11:
             continue
-        sym = tds[0].get_text(strip=True)
+        # The symbol cell is <a class="tbl__symbol"><strong>SYM</strong></a> optionally
+        # followed by a status tag like <div class="tag tag--def">NC</div> (PSX defaulter /
+        # non-compliant marker). get_text() over the whole cell would fuse the tag into the
+        # ticker (e.g. "ASC" + "NC" -> "ASCNC"), so read the ticker from the link / data-order.
+        _a = tds[0].find("a")
+        sym = ((_a.get_text(strip=True) if _a else "")
+               or (tds[0].get("data-order") or "").strip()
+               or tds[0].get_text(strip=True))
         if not sym or sym == "ALLSHR":
             continue
         c = num(tds[7].get_text(strip=True))
